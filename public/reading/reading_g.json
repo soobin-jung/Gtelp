@@ -1,0 +1,47 @@
+[
+  {
+    "seq": 1,
+    "word": "genuine",
+    "meaning": "진짜의",
+    "synonym": [
+      "real",
+      "authentic"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "government",
+    "meaning": "정부",
+    "synonym": [
+      "administration",
+      "authority"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "graduate",
+    "meaning": "졸업하다",
+    "synonym": [
+      "complete",
+      "finish"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "greatly",
+    "meaning": "크게",
+    "synonym": [
+      "highly",
+      "immensely"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "guilty",
+    "meaning": "유죄의",
+    "synonym": [
+      "culpable",
+      "responsible"
+    ]
+  }
+]

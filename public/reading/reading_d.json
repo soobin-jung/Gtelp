@@ -1,0 +1,290 @@
+[
+  {
+    "seq": 1,
+    "word": "decide",
+    "meaning": "결정하다",
+    "synonym": [
+      "determine",
+      "resolve"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "dedication",
+    "meaning": "헌신",
+    "synonym": [
+      "commitment",
+      "devotion"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "defect",
+    "meaning": "결함",
+    "synonym": [
+      "flaw",
+      "fault"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "degree",
+    "meaning": "정도, 학위",
+    "synonym": [
+      "level",
+      "diploma"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "deliver",
+    "meaning": "배달하다",
+    "synonym": [
+      "transport",
+      "bring"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "demise",
+    "meaning": "사망, 종말",
+    "synonym": [
+      "death",
+      "end"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "demonstrate",
+    "meaning": "증명하다, 시위하다",
+    "synonym": [
+      "show",
+      "prove"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "department",
+    "meaning": "부서",
+    "synonym": [
+      "division",
+      "section"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "derive",
+    "meaning": "끌어내다",
+    "synonym": [
+      "obtain",
+      "extract"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "describe",
+    "meaning": "설명하다",
+    "synonym": [
+      "explain",
+      "detail"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "deter",
+    "meaning": "단념시키다",
+    "synonym": [
+      "discourage",
+      "prevent"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "determined",
+    "meaning": "단호한",
+    "synonym": [
+      "resolute",
+      "decided"
+    ]
+  },
+  {
+    "seq": 13,
+    "word": "develop",
+    "meaning": "개발하다",
+    "synonym": [
+      "grow",
+      "advance"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "dictate",
+    "meaning": "받아쓰게 하다, 지시하다",
+    "synonym": [
+      "command",
+      "order"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "difference",
+    "meaning": "차이",
+    "synonym": [
+      "distinction",
+      "disparity"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "diminish",
+    "meaning": "감소하다",
+    "synonym": [
+      "reduce",
+      "decrease"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "disappearance",
+    "meaning": "사라짐",
+    "synonym": [
+      "vanishing",
+      "fading"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "disaster",
+    "meaning": "재난",
+    "synonym": [
+      "catastrophe",
+      "tragedy"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "discrepancy",
+    "meaning": "불일치",
+    "synonym": [
+      "difference",
+      "inconsistency"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "display",
+    "meaning": "전시하다",
+    "synonym": [
+      "show",
+      "exhibit"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "disregard",
+    "meaning": "무시하다",
+    "synonym": [
+      "ignore",
+      "neglect"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "disruptive",
+    "meaning": "지장을 주는",
+    "synonym": [
+      "disturbing",
+      "troublesome"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "dissolve",
+    "meaning": "녹이다, 해산하다",
+    "synonym": [
+      "melt",
+      "disband"
+    ]
+  },
+  {
+    "seq": 24,
+    "word": "distinct",
+    "meaning": "뚜렷한",
+    "synonym": [
+      "clear",
+      "obvious"
+    ]
+  },
+  {
+    "seq": 25,
+    "word": "distribute",
+    "meaning": "분배하다",
+    "synonym": [
+      "allocate",
+      "hand out"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "diverse",
+    "meaning": "다양한",
+    "synonym": [
+      "various",
+      "different"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "divide",
+    "meaning": "나누다",
+    "synonym": [
+      "separate",
+      "split"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "division",
+    "meaning": "분할, 부서",
+    "synonym": [
+      "separation",
+      "department"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "dominate",
+    "meaning": "지배하다",
+    "synonym": [
+      "control",
+      "rule"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "doubt",
+    "meaning": "의심하다",
+    "synonym": [
+      "question",
+      "suspect"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "drain",
+    "meaning": "물기를 빼다",
+    "synonym": [
+      "empty",
+      "exhaust"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "due",
+    "meaning": "~할 예정인, 기한이 된",
+    "synonym": [
+      "expected",
+      "scheduled"
+    ]
+  }
+]

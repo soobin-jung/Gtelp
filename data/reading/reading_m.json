@@ -1,0 +1,200 @@
+[
+  {
+    "seq": 1,
+    "word": "maintain",
+    "meaning": "유지하다",
+    "synonym": [
+      "keep",
+      "preserve"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "major",
+    "meaning": "주요한",
+    "synonym": [
+      "main",
+      "chief"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "mammal",
+    "meaning": "포유류",
+    "synonym": [
+      "animal",
+      "creature"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "management",
+    "meaning": "관리",
+    "synonym": [
+      "administration",
+      "control"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "mansion",
+    "meaning": "저택",
+    "synonym": [
+      "estate",
+      "villa"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "manufacture",
+    "meaning": "제조하다",
+    "synonym": [
+      "produce",
+      "make"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "manuscript",
+    "meaning": "원고",
+    "synonym": [
+      "document",
+      "text"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "mark",
+    "meaning": "표시하다",
+    "synonym": [
+      "sign",
+      "symbol"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "mass",
+    "meaning": "질량, 대중",
+    "synonym": [
+      "bulk",
+      "crowd"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "means",
+    "meaning": "수단",
+    "synonym": [
+      "method",
+      "way"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "mention",
+    "meaning": "언급하다",
+    "synonym": [
+      "state",
+      "remark"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "merge",
+    "meaning": "합병하다",
+    "synonym": [
+      "combine",
+      "unite"
+    ]
+  },
+  {
+    "seq": 13,
+    "word": "method",
+    "meaning": "방법",
+    "synonym": [
+      "process",
+      "technique"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "military",
+    "meaning": "군대의",
+    "synonym": [
+      "armed",
+      "martial"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "millionaire",
+    "meaning": "백만장자",
+    "synonym": [
+      "rich person",
+      "wealthy"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "modify",
+    "meaning": "수정하다",
+    "synonym": [
+      "change",
+      "alter"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "molecule",
+    "meaning": "분자",
+    "synonym": [
+      "particle",
+      "atom"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "morality",
+    "meaning": "도덕성",
+    "synonym": [
+      "ethics",
+      "virtue"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "movement",
+    "meaning": "움직임",
+    "synonym": [
+      "motion",
+      "activity"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "multiple",
+    "meaning": "다수의",
+    "synonym": [
+      "many",
+      "various"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "muscle",
+    "meaning": "근육",
+    "synonym": [
+      "strength",
+      "power"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "mythology",
+    "meaning": "신화",
+    "synonym": [
+      "legend",
+      "lore"
+    ]
+  }
+]

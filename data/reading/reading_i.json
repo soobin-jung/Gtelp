@@ -1,0 +1,281 @@
+[
+  {
+    "seq": 1,
+    "word": "immigrant",
+    "meaning": "이민자",
+    "synonym": [
+      "settler",
+      "newcomer"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "implement",
+    "meaning": "실행하다",
+    "synonym": [
+      "execute",
+      "apply"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "impress",
+    "meaning": "깊은 인상을 주다",
+    "synonym": [
+      "affect",
+      "influence"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "inability",
+    "meaning": "무능력",
+    "synonym": [
+      "incapacity",
+      "failure"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "inclined",
+    "meaning": "~하는 경향이 있는",
+    "synonym": [
+      "prone",
+      "tending"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "independent",
+    "meaning": "독립적인",
+    "synonym": [
+      "free",
+      "autonomous"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "indicate",
+    "meaning": "나타내다",
+    "synonym": [
+      "show",
+      "point out"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "individual",
+    "meaning": "개인",
+    "synonym": [
+      "person",
+      "single"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "industry",
+    "meaning": "산업",
+    "synonym": [
+      "business",
+      "trade"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "inflate",
+    "meaning": "부풀리다",
+    "synonym": [
+      "expand",
+      "blow up"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "influence",
+    "meaning": "영향",
+    "synonym": [
+      "impact",
+      "effect"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "inform",
+    "meaning": "알리다",
+    "synonym": [
+      "notify",
+      "tell"
+    ]
+  },
+  {
+    "seq": 13,
+    "word": "infrared",
+    "meaning": "적외선의",
+    "synonym": [
+      "light",
+      "spectrum"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "inhale",
+    "meaning": "숨을 들이쉬다",
+    "synonym": [
+      "breathe in",
+      "gasp"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "inhibit",
+    "meaning": "억제하다",
+    "synonym": [
+      "prevent",
+      "restrict"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "initially",
+    "meaning": "처음에",
+    "synonym": [
+      "originally",
+      "first"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "inquiry",
+    "meaning": "질문, 조사",
+    "synonym": [
+      "question",
+      "investigation"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "inspire",
+    "meaning": "영감을 주다",
+    "synonym": [
+      "encourage",
+      "motivate"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "instant",
+    "meaning": "즉각적인",
+    "synonym": [
+      "immediate",
+      "prompt"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "instruct",
+    "meaning": "지시하다",
+    "synonym": [
+      "teach",
+      "direct"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "intelligent",
+    "meaning": "지능적인",
+    "synonym": [
+      "smart",
+      "clever"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "intense",
+    "meaning": "강렬한",
+    "synonym": [
+      "extreme",
+      "severe"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "intent",
+    "meaning": "의도",
+    "synonym": [
+      "purpose",
+      "aim"
+    ]
+  },
+  {
+    "seq": 24,
+    "word": "invent",
+    "meaning": "발명하다",
+    "synonym": [
+      "create",
+      "discover"
+    ]
+  },
+  {
+    "seq": 25,
+    "word": "invest",
+    "meaning": "투자하다",
+    "synonym": [
+      "fund",
+      "spend"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "investigation",
+    "meaning": "조사",
+    "synonym": [
+      "examination",
+      "study"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "invite",
+    "meaning": "초대하다",
+    "synonym": [
+      "ask",
+      "request"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "invoice",
+    "meaning": "청구서",
+    "synonym": [
+      "bill",
+      "statement"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "involve",
+    "meaning": "포함하다",
+    "synonym": [
+      "include",
+      "entail"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "isolation",
+    "meaning": "고립",
+    "synonym": [
+      "separation",
+      "seclusion"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "issue",
+    "meaning": "문제, 발행하다",
+    "synonym": [
+      "problem",
+      "publish"
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "seq": 1,
+    "word": "qualify",
+    "meaning": "자격을 얻다",
+    "synonym": [
+      "certify",
+      "entitle"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "query",
+    "meaning": "질문",
+    "synonym": [
+      "question",
+      "inquiry"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "quality",
+    "meaning": "질, 품질",
+    "synonym": [
+      "standard",
+      "condition"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "quarrel",
+    "meaning": "다투다",
+    "synonym": [
+      "argue",
+      "fight"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "quarter",
+    "meaning": "4분의 1",
+    "synonym": [
+      "fourth",
+      "part"
+    ]
+  }
+]

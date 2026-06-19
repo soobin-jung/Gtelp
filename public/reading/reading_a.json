@@ -1,0 +1,461 @@
+[
+  {
+    "seq": 1,
+    "word": "abdomen",
+    "meaning": "복부",
+    "synonym": [
+      "belly",
+      "stomach"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "abundant",
+    "meaning": "풍부한",
+    "synonym": [
+      "plentiful",
+      "copious"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "access",
+    "meaning": "접근",
+    "synonym": [
+      "approach",
+      "entry"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "accomplish",
+    "meaning": "성취하다",
+    "synonym": [
+      "achieve",
+      "fulfill"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "account",
+    "meaning": "계좌, 설명",
+    "synonym": [
+      "record",
+      "description"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "accounting",
+    "meaning": "회계",
+    "synonym": [
+      "bookkeeping",
+      "finance"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "achievement",
+    "meaning": "성취",
+    "synonym": [
+      "accomplishment",
+      "success"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "acquire",
+    "meaning": "얻다",
+    "synonym": [
+      "obtain",
+      "gain"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "actual",
+    "meaning": "실제의",
+    "synonym": [
+      "real",
+      "true"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "address",
+    "meaning": "주소, 연설하다",
+    "synonym": [
+      "location",
+      "speech"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "admire",
+    "meaning": "존경하다",
+    "synonym": [
+      "respect",
+      "appreciate"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "adoptive",
+    "meaning": "입양의",
+    "synonym": [
+      "foster",
+      "adopted"
+    ]
+  },
+  {
+    "seq": 13,
+    "word": "advanced",
+    "meaning": "고급의, 진보한",
+    "synonym": [
+      "progressive",
+      "higher"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "advertising",
+    "meaning": "광고",
+    "synonym": [
+      "marketing",
+      "promotion"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "aesthetically",
+    "meaning": "미적으로",
+    "synonym": [
+      "artistically",
+      "beautifully"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "affair",
+    "meaning": "일, 사건",
+    "synonym": [
+      "matter",
+      "event"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "affordable",
+    "meaning": "감당할 수 있는",
+    "synonym": [
+      "reasonable",
+      "inexpensive"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "agree",
+    "meaning": "동의하다",
+    "synonym": [
+      "consent",
+      "concur"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "agriculture",
+    "meaning": "농업",
+    "synonym": [
+      "farming",
+      "cultivation"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "air",
+    "meaning": "공기",
+    "synonym": [
+      "atmosphere",
+      "breeze"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "airtight",
+    "meaning": "밀폐된",
+    "synonym": [
+      "sealed",
+      "impermeable"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "allot",
+    "meaning": "할당하다",
+    "synonym": [
+      "allocate",
+      "assign"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "allow",
+    "meaning": "허락하다",
+    "synonym": [
+      "permit",
+      "grant"
+    ]
+  },
+  {
+    "seq": 24,
+    "word": "alter",
+    "meaning": "변경하다",
+    "synonym": [
+      "change",
+      "modify"
+    ]
+  },
+  {
+    "seq": 25,
+    "word": "amenity",
+    "meaning": "편의 시설",
+    "synonym": [
+      "facility",
+      "convenience"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "ancestor",
+    "meaning": "조상",
+    "synonym": [
+      "forefather",
+      "predecessor"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "anesthesia",
+    "meaning": "마취",
+    "synonym": [
+      "numbness",
+      "painkiller"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "annual",
+    "meaning": "연간의",
+    "synonym": [
+      "yearly",
+      "anniversary"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "apparent",
+    "meaning": "명백한",
+    "synonym": [
+      "obvious",
+      "clear"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "applicant",
+    "meaning": "지원자",
+    "synonym": [
+      "candidate",
+      "aspirant"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "apprentice",
+    "meaning": "견습생",
+    "synonym": [
+      "trainee",
+      "novice"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "archeological",
+    "meaning": "고고학적인",
+    "synonym": [
+      "historical",
+      "ancient"
+    ]
+  },
+  {
+    "seq": 33,
+    "word": "arrange",
+    "meaning": "배열하다, 주선하다",
+    "synonym": [
+      "organize",
+      "plan"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "arrogant",
+    "meaning": "거만한",
+    "synonym": [
+      "haughty",
+      "proud"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "artificial",
+    "meaning": "인공의",
+    "synonym": [
+      "synthetic",
+      "man-made"
+    ]
+  },
+  {
+    "seq": 36,
+    "word": "assemble",
+    "meaning": "조립하다, 모이다",
+    "synonym": [
+      "gather",
+      "put together"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "assess",
+    "meaning": "평가하다",
+    "synonym": [
+      "evaluate",
+      "judge"
+    ]
+  },
+  {
+    "seq": 38,
+    "word": "assistant",
+    "meaning": "조수",
+    "synonym": [
+      "helper",
+      "aide"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "associate",
+    "meaning": "연관시키다",
+    "synonym": [
+      "connect",
+      "link"
+    ]
+  },
+  {
+    "seq": 40,
+    "word": "assume",
+    "meaning": "가정하다, 떠맡다",
+    "synonym": [
+      "presume",
+      "undertake"
+    ]
+  },
+  {
+    "seq": 41,
+    "word": "astronomer",
+    "meaning": "천문학자",
+    "synonym": [
+      "stargazer",
+      "scientist"
+    ]
+  },
+  {
+    "seq": 42,
+    "word": "attack",
+    "meaning": "공격하다",
+    "synonym": [
+      "assault",
+      "strike"
+    ]
+  },
+  {
+    "seq": 43,
+    "word": "attempt",
+    "meaning": "시도하다",
+    "synonym": [
+      "try",
+      "endeavor"
+    ]
+  },
+  {
+    "seq": 44,
+    "word": "attention",
+    "meaning": "주의",
+    "synonym": [
+      "focus",
+      "concentration"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "attitude",
+    "meaning": "태도",
+    "synonym": [
+      "mindset",
+      "posture"
+    ]
+  },
+  {
+    "seq": 46,
+    "word": "attract",
+    "meaning": "끌다",
+    "synonym": [
+      "draw",
+      "appeal"
+    ]
+  },
+  {
+    "seq": 47,
+    "word": "attraction",
+    "meaning": "매력, 명소",
+    "synonym": [
+      "appeal",
+      "draw"
+    ]
+  },
+  {
+    "seq": 48,
+    "word": "audience",
+    "meaning": "청중",
+    "synonym": [
+      "spectators",
+      "listeners"
+    ]
+  },
+  {
+    "seq": 49,
+    "word": "audit",
+    "meaning": "회계 감사",
+    "synonym": [
+      "inspection",
+      "review"
+    ]
+  },
+  {
+    "seq": 50,
+    "word": "authority",
+    "meaning": "권위",
+    "synonym": [
+      "power",
+      "control"
+    ]
+  },
+  {
+    "seq": 51,
+    "word": "award",
+    "meaning": "상, 수여하다",
+    "synonym": [
+      "prize",
+      "grant"
+    ]
+  }
+]

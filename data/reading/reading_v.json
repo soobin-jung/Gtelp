@@ -1,0 +1,20 @@
+[
+  {
+    "seq": 1,
+    "word": "valid",
+    "meaning": "유효한",
+    "synonym": [
+      "legitimate",
+      "authentic"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "venue",
+    "meaning": "장소",
+    "synonym": [
+      "location",
+      "place"
+    ]
+  }
+]

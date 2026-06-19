@@ -1,0 +1,74 @@
+[
+  {
+    "seq": 1,
+    "word": "tempt",
+    "meaning": "유혹하다",
+    "synonym": [
+      "entice",
+      "attract"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "threat",
+    "meaning": "위협",
+    "synonym": [
+      "danger",
+      "risk"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "traditional",
+    "meaning": "전통적인",
+    "synonym": [
+      "customary",
+      "classic"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "trait",
+    "meaning": "특징",
+    "synonym": [
+      "characteristic",
+      "feature"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "transform",
+    "meaning": "변형시키다",
+    "synonym": [
+      "change",
+      "alter"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "transition",
+    "meaning": "전환",
+    "synonym": [
+      "change",
+      "shift"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "trip",
+    "meaning": "여행",
+    "synonym": [
+      "journey",
+      "tour"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "tuition",
+    "meaning": "수업료",
+    "synonym": [
+      "fee",
+      "cost"
+    ]
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "seq": 1,
+    "word": "nature",
+    "meaning": "자연, 본성",
+    "synonym": [
+      "environment",
+      "character"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "nerve",
+    "meaning": "신경",
+    "synonym": [
+      "fiber",
+      "courage"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "nitrogen",
+    "meaning": "질소",
+    "synonym": [
+      "gas",
+      "element"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "nomination",
+    "meaning": "지명",
+    "synonym": [
+      "appointment",
+      "selection"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "notice",
+    "meaning": "알아차리다",
+    "synonym": [
+      "observe",
+      "perceive"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "numerous",
+    "meaning": "수많은",
+    "synonym": [
+      "many",
+      "abundant"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "nurse",
+    "meaning": "간호사, 돌보다",
+    "synonym": [
+      "caregiver",
+      "tend"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "nutrition",
+    "meaning": "영양",
+    "synonym": [
+      "nourishment",
+      "diet"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "negotiate",
+    "meaning": "협상하다",
+    "synonym": [
+      "bargain",
+      "discuss"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "neighborhood",
+    "meaning": "이웃, 동네",
+    "synonym": [
+      "community",
+      "vicinity"
+    ]
+  }
+]
