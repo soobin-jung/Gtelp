@@ -65,6 +65,8 @@ button {
     linear-gradient(180deg, #f8fafe 0%, #f3f6fb 100%);
   color: var(--sidebar-text);
   border-right: 1px solid #dde5f0;
+  display: flex;
+  flex-direction: column;
 }
 
 .sidebar-glow {
@@ -117,7 +119,7 @@ button {
 .menu-stack {
   display: grid;
   gap: 12px;
-  max-height: calc(100vh - 180px);
+  flex: 1;
   overflow-y: auto;
   padding-right: 4px;
 }
@@ -218,6 +220,32 @@ button {
   border: 1px solid #dee7f3;
   border-radius: 14px;
   background: #ffffff;
+  flex-shrink: 0;
+}
+
+.sidebar-suggest-btn {
+  flex-shrink: 0;
+  margin-top: 10px;
+  width: 100%;
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #c9d8ff;
+  border-radius: 12px;
+  background: #eaf1ff;
+  color: #2a5bd7;
+  font-size: 13px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background 0.2s ease, border-color 0.2s ease;
+  position: relative;
+  z-index: 1;
+}
+
+.sidebar-suggest-btn:hover {
+  background: #ddeaff;
+  border-color: #a8c0f8;
 }
 
 .sidebar-footer strong {

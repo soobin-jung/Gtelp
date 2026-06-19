@@ -271,7 +271,7 @@ function App() {
   const [currentPage, setCurrentPage] = useState("grammar-subjunctive");
   const [activeMenuLabel, setActiveMenuLabel] = useState("가정법");
   const [openMenus, setOpenMenus] = useState(() =>
-    Object.fromEntries(menuConfig.map((menu) => [menu.title, true]))
+    Object.fromEntries(menuConfig.map((menu) => [menu.title, menu.title === "문법"]))
   );
   const [grammarUI, setGrammarUI] = useState(grammarDefaultState);
   const [selectedLetter, setSelectedLetter] = useState("A");
@@ -395,7 +395,12 @@ function App() {
   }, [currentPage, isLoading, visibleCount, words.length]);
 
   function toggleMenu(title) {
-    setOpenMenus((prev) => ({ ...prev, [title]: !prev[title] }));
+    setOpenMenus((prev) => {
+      const isOpen = prev[title];
+      return Object.fromEntries(
+        menuConfig.map((menu) => [menu.title, menu.title === title ? !isOpen : false])
+      );
+    });
   }
 
   function navigateTo(item) {
@@ -427,13 +432,13 @@ function App() {
 
     if (!trimmedMessage) {
       setInquiryStatus("error");
-      setInquiryError("문의 내용을 입력해 주세요.");
+      setInquiryError("건의 내용을 입력해 주세요.");
       return;
     }
 
     if (!ADMIN_CONTACT_ENDPOINT) {
       setInquiryStatus("error");
-      setInquiryError("관리자 문의 수신 경로가 아직 설정되지 않았습니다.");
+      setInquiryError("관리자 건의 수신 경로가 아직 설정되지 않았습니다.");
       return;
     }
 
@@ -466,7 +471,7 @@ function App() {
       }, 900);
     } catch {
       setInquiryStatus("error");
-      setInquiryError("문의 전송에 실패했습니다. 수신 경로를 다시 확인해 주세요.");
+      setInquiryError("건의 전송에 실패했습니다. 수신 경로를 다시 확인해 주세요.");
     }
   }
 
@@ -515,27 +520,11 @@ function App() {
         <div className="sidebar-footer">
           <strong>G-TELP Workspace</strong>
           <span>Grammar, reading, and quiz flows in one place.</span>
-          <div className="sidebar-contact">
-            <p className="sidebar-contact-text">문제있거나 오류 있으면 연락 주세요.</p>
-            {false ? (
-              <a
-                className="sidebar-contact-link"
-                href={TELEGRAM_ADMIN_URL}
-                target="_blank"
-                rel="noreferrer"
-              >
-                관리자한테 텔레그램 보내기
-              </a>
-            ) : (
-              <button type="button" className="sidebar-contact-link pending" disabled>
-                관리자한테 텔레그램 보내기
-              </button>
-            )}
-            <button type="button" className="sidebar-contact-link inquiry-trigger" onClick={openInquiryModal}>
-              관리자한테 문의하기
-            </button>
-          </div>
         </div>
+
+        <button type="button" className="sidebar-suggest-btn" onClick={openInquiryModal}>
+          관리자한테 건의하기
+        </button>
       </aside>
 
       <main className="main">
@@ -654,12 +643,12 @@ function App() {
             className="inquiry-modal"
             role="dialog"
             aria-modal="true"
-            aria-label="관리자 문의하기"
+            aria-label="관리자 건의하기"
             onClick={(event) => event.stopPropagation()}
           >
             <div className="inquiry-modal-head">
               <div>
-                <strong>관리자한테 문의하기</strong>
+                <strong>관리자한테 건의하기</strong>
                 <p>{activeMenuLabel} 화면 관련 내용을 바로 전송할 수 있습니다.</p>
               </div>
               <button type="button" className="inquiry-close-btn" onClick={closeInquiryModal}>
@@ -673,7 +662,7 @@ function App() {
 
             <textarea
               className="inquiry-textarea"
-              placeholder="오류 내용이나 문의할 내용을 입력해 주세요."
+              placeholder="오류 내용이나 건의할 내용을 입력해 주세요."
               value={inquiryMessage}
               onChange={(event) => {
                 setInquiryMessage(event.target.value);
@@ -686,7 +675,7 @@ function App() {
 
             {inquiryError ? <p className="inquiry-feedback error">{inquiryError}</p> : null}
             {inquiryStatus === "success" ? (
-              <p className="inquiry-feedback success">문의가 전송되었습니다.</p>
+              <p className="inquiry-feedback success">건의가 전송되었습니다.</p>
             ) : null}
 
             <div className="inquiry-actions">
