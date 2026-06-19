@@ -16,7 +16,7 @@ const readingFiles = import.meta.glob("../data/reading/reading_*.json");
 
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const BATCH_SIZE = 20;
-const ADMIN_CONTACT_ENDPOINT = "";
+const ADMIN_CONTACT_ENDPOINT = "/api/contact";
 const TELEGRAM_ADMIN_URL = "";
 
 const grammarConfigs = {
