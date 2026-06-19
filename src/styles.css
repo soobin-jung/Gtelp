@@ -1218,6 +1218,15 @@ button {
   font-size: 14px;
 }
 
+.quiz-text-ko {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  font-weight: 400;
+  color: var(--text-soft);
+  line-height: 1.5;
+}
+
 .quiz-keywords {
   border: 1px solid #e4edf8;
   border-radius: 14px;

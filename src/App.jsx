@@ -1404,11 +1404,23 @@ function ReadingPartPage({ config }) {
                     const isAnswered = selectedAnswer !== null;
                     const isCorrect = isAnswered && selectedAnswer === question.answer;
 
+                    const answerKoMap = [
+                      question.answer1_ko,
+                      question.answer2_ko,
+                      question.answer3_ko,
+                      question.answer4_ko
+                    ];
+
                     return (
                       <article key={question.q_id} className="quiz-question-card">
                         <div className="quiz-panel-head">
                           <div className="quiz-counter">{question.q_id}</div>
-                          <p className="quiz-question">{question.quiz}</p>
+                          <p className="quiz-question">
+                            {question.quiz}
+                            {isAnswered && question.quiz_ko ? (
+                              <span className="quiz-text-ko">({question.quiz_ko})</span>
+                            ) : null}
+                          </p>
                         </div>
 
                         <div className="quiz-answer-list">
@@ -1438,7 +1450,12 @@ function ReadingPartPage({ config }) {
                                 disabled={Boolean(isAnswered)}
                               >
                                 <span className="quiz-answer-index">{answerNumber}</span>
-                                <span>{answerText}</span>
+                                <span>
+                                  {answerText}
+                                  {isAnswered && answerKoMap[index] ? (
+                                    <span className="quiz-text-ko">({answerKoMap[index]})</span>
+                                  ) : null}
+                                </span>
                               </button>
                             );
                           })}
