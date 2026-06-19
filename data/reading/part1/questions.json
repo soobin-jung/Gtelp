@@ -30,21 +30,21 @@
         "q_id": 3,
         "type": "detail",
         "quiz": "What is true about Vance's book published in 1935?",
-        "answer1": "It was ignored",
-        "answer2": "It described new species",
-        "answer3": "It was fiction",
-        "answer4": "It focused on conservation",
+        "answer1": "It was ignored by the public",
+        "answer2": "It described newly discovered species",
+        "answer3": "It was a work of fiction",
+        "answer4": "It focused solely on conservation",
         "answer": 2,
-        "commentary": "두 번째 단락에 발견한 50종 이상의 생물 관찰 기록이 담겨 있음."
+        "commentary": "두 번째 단락에 발견한 50종 이상의 생물 관찰 기록이 담겨 있으며 큰 성공을 거뒀다고 언급됨."
       },
       {
         "q_id": 4,
         "type": "detail",
-        "quiz": "Why did she have difficulty getting funding in the 1940s?",
-        "answer1": "The invention was dangerous",
-        "answer2": "She lost money",
-        "answer3": "Economic downturn and skepticism",
-        "answer4": "She retired",
+        "quiz": "Why did Vance have difficulty getting funding in the 1940s?",
+        "answer1": "The Aquasphere invention was too dangerous",
+        "answer2": "She had lost all her savings",
+        "answer3": "Economic downturn and skepticism from colleagues",
+        "answer4": "She had already retired from research",
         "answer": 3,
         "commentary": "세 번째 단락에 경기 침체와 동료들의 회의론이 원인이라고 언급됨."
       },
@@ -52,9 +52,9 @@
         "q_id": 5,
         "type": "detail",
         "quiz": "What did Vance do in 1950?",
-        "answer1": "Discovered new species",
-        "answer2": "Founded an institute",
-        "answer3": "Retired",
+        "answer1": "Discovered a new species",
+        "answer2": "Founded a marine research institute",
+        "answer3": "Retired from scientific work",
         "answer4": "Passed away",
         "answer": 2,
         "commentary": "마지막 단락에 1950년 해양 연구소를 설립했다고 나옴."
@@ -68,61 +68,271 @@
         "answer3": "complicated",
         "answer4": "traditional",
         "answer": 1,
-        "commentary": "'획기적인'이라는 뜻으로 'innovative'와 동의어임."
+        "commentary": "'획기적인'이라는 뜻으로 'innovative(혁신적인)'와 동의어임."
       },
       {
         "q_id": 7,
         "type": "vocabulary",
-        "quiz": "The word 'established' in paragraph 4 is closest in meaning to:",
-        "answer1": "purchased",
-        "answer2": "founded",
-        "answer3": "protected",
-        "answer4": "relocated",
+        "quiz": "The word 'undeterred' in paragraph 4 is closest in meaning to:",
+        "answer1": "discouraged",
+        "answer2": "unshaken",
+        "answer3": "confused",
+        "answer4": "exhausted",
         "answer": 2,
-        "commentary": "'설립하다'라는 뜻으로 'founded'와 동의어임."
+        "commentary": "'단념하지 않고, 굴하지 않고'라는 뜻으로 'unshaken(흔들리지 않는)'이 동의어임."
       }
     ]
-  }
-  , {
+  },
+  {
     "passage_id": 2,
     "part": 1,
     "passage_text": "Julian Sterling, born in 1888 in a small village in France, was a revolutionary painter who paved the way for modern Impressionism. Growing up in a modest household, Sterling was initially discouraged by his father from pursuing art, with the family insisting he study medicine instead. Nevertheless, Sterling spent his nights sketching the local landscape, driven by an undeniable creative urge that would eventually define his career.\n\nIn 1912, Sterling achieved his major breakthrough when he began experimenting with light and shadow in his outdoor paintings. He developed a technique that focused on capturing the fleeting quality of light, which he termed 'Luminous Impression.' His first major exhibition in 1915 attracted thousands of visitors and brought him immediate fame, though traditional critics remained skeptical of his unconventional methods.\n\nHowever, Sterling faced immense personal and professional hardship during the First World War. His studio was destroyed by an air raid in 1917, and he lost a vast collection of his early sketches. During this difficult time, his mental health suffered, and many doubted he would ever produce a masterpiece again.\n\nSterling eventually returned to his art with renewed vigor, producing his most iconic works in the 1920s. He later dedicated his remaining years to teaching young artists at the Paris Academy of Fine Arts before passing away in 1955. His legacy remains a cornerstone of 20th-century art.",
     "questions": [
-      {"q_id": 8, "type": "detail", "quiz": "What career path did Julian Sterling's father originally want him to follow?", "answer1": "Medicine", "answer2": "Painting", "answer3": "Farming", "answer4": "Politics", "answer": 1, "commentary": "첫 번째 단락에서 가족들이 의학(medicine)을 공부하기를 고집했다고 언급되었습니다."},
-      {"q_id": 9, "type": "detail", "quiz": "What is the 'Luminous Impression' technique known for?", "answer1": "Capturing the fleeting quality of light", "answer2": "Using dark, heavy brushstrokes", "answer3": "Creating geometric shapes", "answer4": "Focusing only on portraits", "answer": 1, "commentary": "두 번째 단락에서 빛의 일시적인 특성을 포착(capturing the fleeting quality of light)하는 기법이라고 설명됩니다."},
-      {"q_id": 10, "type": "detail", "quiz": "How did traditional critics react to Sterling's early exhibition?", "answer1": "They remained skeptical.", "answer2": "They praised his methods.", "answer3": "They ignored the exhibition.", "answer4": "They bought his paintings.", "answer": 1, "commentary": "두 번째 단락에서 전통적인 비평가들이 그의 파격적인 방법에 회의적(skeptical)이었다고 나옵니다."},
-      {"q_id": 11, "type": "detail", "quiz": "What major obstacle occurred in 1917?", "answer1": "His studio was destroyed by an air raid.", "answer2": "He was drafted into the army.", "answer3": "He went blind.", "answer4": "He lost his financial support.", "answer": 1, "commentary": "세 번째 단락에서 1917년 공습으로 스튜디오가 파괴되었다고 나옵니다."},
-      {"q_id": 12, "type": "detail", "quiz": "What did Sterling do in his later years?", "answer1": "He taught at the Paris Academy of Fine Arts.", "answer2": "He retired to a farm.", "answer3": "He became a politician.", "answer4": "He wrote a detailed biography.", "answer": 1, "commentary": "마지막 단락에서 파리 예술 아카데미에서 젊은 예술가들을 가르쳤다고 나옵니다."},
-      {"q_id": 13, "type": "vocabulary", "quiz": "The word 'modest' in paragraph 1 is closest in meaning to:", "answer1": "humble", "answer2": "wealthy", "answer3": "small", "answer4": "distant", "answer": 1, "commentary": "'겸손한, 보통의, 소박한'이라는 뜻으로 'humble'이 가장 적절합니다."},
-      {"q_id": 14, "type": "vocabulary", "quiz": "The word 'vigor' in paragraph 4 is closest in meaning to:", "answer1": "energy", "answer2": "sadness", "answer3": "fear", "answer4": "doubt", "answer": 1, "commentary": "'활력, 정력'이라는 뜻으로 'energy'가 가장 적절합니다."}
+      {
+        "q_id": 8,
+        "type": "detail",
+        "quiz": "What career path did Julian Sterling's father originally want him to follow?",
+        "answer1": "Medicine",
+        "answer2": "Painting",
+        "answer3": "Farming",
+        "answer4": "Politics",
+        "answer": 1,
+        "commentary": "첫 번째 단락에서 가족들이 의학(medicine)을 공부하기를 고집했다고 언급됨."
+      },
+      {
+        "q_id": 9,
+        "type": "detail",
+        "quiz": "What is the 'Luminous Impression' technique known for?",
+        "answer1": "Using dark, heavy brushstrokes",
+        "answer2": "Creating geometric shapes on canvas",
+        "answer3": "Capturing the fleeting quality of light",
+        "answer4": "Focusing exclusively on portrait painting",
+        "answer": 3,
+        "commentary": "두 번째 단락에서 빛의 일시적인 특성을 포착하는 기법이라고 설명됨."
+      },
+      {
+        "q_id": 10,
+        "type": "detail",
+        "quiz": "How did traditional critics react to Sterling's 1915 exhibition?",
+        "answer1": "They praised his unconventional methods.",
+        "answer2": "They remained skeptical of his approach.",
+        "answer3": "They ignored the exhibition entirely.",
+        "answer4": "They purchased his paintings.",
+        "answer": 2,
+        "commentary": "두 번째 단락에서 전통적인 비평가들이 그의 파격적인 방법에 회의적(skeptical)이었다고 나옴."
+      },
+      {
+        "q_id": 11,
+        "type": "detail",
+        "quiz": "What major setback did Sterling experience in 1917?",
+        "answer1": "His studio was destroyed by an air raid.",
+        "answer2": "He was drafted into the military.",
+        "answer3": "He permanently lost his eyesight.",
+        "answer4": "His financial support was cut off.",
+        "answer": 1,
+        "commentary": "세 번째 단락에서 1917년 공습으로 스튜디오가 파괴되었다고 나옴."
+      },
+      {
+        "q_id": 12,
+        "type": "detail",
+        "quiz": "What did Sterling do in his later years?",
+        "answer1": "He retired to a farm in the countryside.",
+        "answer2": "He became a politician.",
+        "answer3": "He wrote a detailed autobiography.",
+        "answer4": "He taught at the Paris Academy of Fine Arts.",
+        "answer": 4,
+        "commentary": "마지막 단락에서 파리 예술 아카데미에서 젊은 예술가들을 가르쳤다고 나옴."
+      },
+      {
+        "q_id": 13,
+        "type": "vocabulary",
+        "quiz": "The word 'modest' in paragraph 1 is closest in meaning to:",
+        "answer1": "wealthy",
+        "answer2": "distant",
+        "answer3": "humble",
+        "answer4": "crowded",
+        "answer": 3,
+        "commentary": "'검소한, 소박한'이라는 뜻으로 'humble(소박한, 변변치 않은)'이 동의어임."
+      },
+      {
+        "q_id": 14,
+        "type": "vocabulary",
+        "quiz": "The word 'vigor' in paragraph 4 is closest in meaning to:",
+        "answer1": "sorrow",
+        "answer2": "energy",
+        "answer3": "caution",
+        "answer4": "patience",
+        "answer": 2,
+        "commentary": "'활력, 정력'이라는 뜻으로 'energy(에너지, 활기)'가 동의어임."
+      }
     ]
   },
   {
     "passage_id": 3,
     "part": 1,
-    "passage_text": "Marcus Montague, born in 1895 in Italy, emerged as one of the most influential political reformers of his time. Born into a family of laborers, Montague witnessed the systemic inequality in his community, which inspired him to enter the world of law. He aimed to challenge the corrupt political machinery that burdened the working class with unfair taxes.\n\nMontague's greatest political victory came in 1928 with the passage of the Labor Protection Act. This legislation set unprecedented standards for workplace safety and minimum wages, directly benefiting millions of workers across the nation. His ability to negotiate with rival parties was key to passing such a controversial bill, earning him a reputation as a master diplomat.\n\nHowever, Montague’s rise to power sparked fierce opposition from the political elite. In 1934, he faced a massive smear campaign orchestrated by his opponents, who accused him of corruption to undermine his popularity. The scandal forced him to resign from his position, leaving his reform movement in a state of chaos.\n\nDespite the setback, Montague continued to write and speak out against inequality until his death in 1970. His life is still studied by historians as a symbol of integrity and commitment to social justice.",
+    "passage_text": "Marcus Montague, born in 1895 in Italy, emerged as one of the most influential political reformers of his time. Born into a family of laborers, Montague witnessed the systemic inequality in his community, which inspired him to enter the world of law. He aimed to challenge the corrupt political machinery that burdened the working class with unfair taxes.\n\nMontague's greatest political victory came in 1928 with the passage of the Labor Protection Act. This legislation set unprecedented standards for workplace safety and minimum wages, directly benefiting millions of workers across the nation. His ability to negotiate with rival parties was key to passing such a controversial bill, earning him a reputation as a master diplomat.\n\nHowever, Montague's rise to power sparked fierce opposition from the political elite. In 1934, he faced a massive smear campaign orchestrated by his opponents, who accused him of corruption to undermine his popularity. The scandal forced him to resign from his position, leaving his reform movement in a state of chaos.\n\nDespite the setback, Montague continued to write and speak out against inequality until his death in 1970. His life is still studied by historians as a symbol of integrity and commitment to social justice.",
     "questions": [
-      {"q_id": 15, "type": "detail", "quiz": "What motivated Montague to study law?", "answer1": "Systemic inequality in his community", "answer2": "His family's wealth", "answer3": "A desire to become a politician", "answer4": "An invitation from the government", "answer": 1, "commentary": "첫 번째 단락에서 노동자 계층의 구조적 불평등을 목격하고 법조계로 진출하게 되었다고 나옵니다."},
-      {"q_id": 16, "type": "detail", "quiz": "What was the result of the Labor Protection Act?", "answer1": "Improved workplace safety and higher wages", "answer2": "Increased taxes for workers", "answer3": "A reduction in political power", "answer4": "The resignation of rival parties", "answer": 1, "commentary": "두 번째 단락에 직장 안전과 최저임금의 기준을 세워 노동자들에게 혜택을 주었다고 나옵니다."},
-      {"q_id": 17, "type": "detail", "quiz": "How did Montague manage to pass the controversial bill?", "answer1": "By negotiating with his rivals", "answer2": "By ignoring his opponents", "answer3": "By using his family wealth", "answer4": "By threatening the political elite", "answer": 1, "commentary": "두 번째 단락에서 경쟁 정당과의 협상 능력이 법안 통과의 핵심이었다고 나옵니다."},
-      {"q_id": 18, "type": "detail", "quiz": "Why did Montague resign in 1934?", "answer1": "Because of a corruption scandal smear campaign", "answer2": "Due to poor health", "answer3": "He was offered a new position", "answer4": "He wanted to retire early", "answer": 1, "commentary": "세 번째 단락에서 적들에 의해 기획된 비리 스캔들 때문에 사임했다고 나옵니다."},
-      {"q_id": 19, "type": "detail", "quiz": "What is the modern view of Marcus Montague?", "answer1": "A symbol of integrity and social justice", "answer2": "A failed political leader", "answer3": "A forgotten historian", "answer4": "A corrupt politician", "answer": 1, "commentary": "마지막 단락에서 그를 사회 정의에 대한 헌신과 청렴함의 상징으로 여긴다고 나옵니다."},
-      {"q_id": 20, "type": "vocabulary", "quiz": "The word 'burdened' in paragraph 1 is closest in meaning to:", "answer1": "weighed down", "answer2": "helped", "answer3": "ignored", "answer4": "rewarded", "answer": 1, "commentary": "'무거운 짐을 지우다'는 뜻으로 'weighed down'이 적절합니다."},
-      {"q_id": 21, "type": "vocabulary", "quiz": "The word 'undermine' in paragraph 3 is closest in meaning to:", "answer1": "weaken", "answer2": "strengthen", "answer3": "improve", "answer4": "increase", "answer": 1, "commentary": "'약화시키다'는 뜻으로 'weaken'이 동의어입니다."}
+      {
+        "q_id": 15,
+        "type": "detail",
+        "quiz": "What motivated Montague to enter the field of law?",
+        "answer1": "Witnessing systemic inequality in his community",
+        "answer2": "His family's wealth and political connections",
+        "answer3": "A personal desire to become a politician",
+        "answer4": "An invitation from the government",
+        "answer": 1,
+        "commentary": "첫 번째 단락에서 노동자 계층의 구조적 불평등을 목격하고 법조계로 진출하게 되었다고 나옴."
+      },
+      {
+        "q_id": 16,
+        "type": "detail",
+        "quiz": "What was the outcome of the Labor Protection Act?",
+        "answer1": "Taxes were increased for working-class citizens",
+        "answer2": "Workplace safety and minimum wages were improved",
+        "answer3": "Rival political parties lost most of their power",
+        "answer4": "The government reduced its role in labor disputes",
+        "answer": 2,
+        "commentary": "두 번째 단락에 직장 안전과 최저임금의 기준을 세워 노동자들에게 혜택을 주었다고 나옴."
+      },
+      {
+        "q_id": 17,
+        "type": "detail",
+        "quiz": "How did Montague manage to pass the controversial bill?",
+        "answer1": "By ignoring criticism from his opponents",
+        "answer2": "By using his family's financial resources",
+        "answer3": "By successfully negotiating with rival parties",
+        "answer4": "By threatening members of the political elite",
+        "answer": 3,
+        "commentary": "두 번째 단락에서 경쟁 정당과의 협상 능력이 법안 통과의 핵심이었다고 나옴."
+      },
+      {
+        "q_id": 18,
+        "type": "detail",
+        "quiz": "Why was Montague forced to resign in 1934?",
+        "answer1": "He was targeted by a smear campaign accusing him of corruption.",
+        "answer2": "He resigned due to serious health problems.",
+        "answer3": "He was offered a more prominent government position.",
+        "answer4": "He chose to retire from public life voluntarily.",
+        "answer": 1,
+        "commentary": "세 번째 단락에서 적들에 의해 기획된 비리 스캔들 때문에 사임했다고 나옴."
+      },
+      {
+        "q_id": 19,
+        "type": "detail",
+        "quiz": "How is Marcus Montague regarded today?",
+        "answer1": "As a politician who failed to achieve meaningful reform",
+        "answer2": "As a historian who documented social injustice",
+        "answer3": "As a corrupt official who betrayed the working class",
+        "answer4": "As a symbol of integrity and commitment to social justice",
+        "answer": 4,
+        "commentary": "마지막 단락에서 역사가들이 그를 사회 정의에 대한 헌신과 청렴함의 상징으로 연구한다고 나옴."
+      },
+      {
+        "q_id": 20,
+        "type": "vocabulary",
+        "quiz": "The word 'burdened' in paragraph 1 is closest in meaning to:",
+        "answer1": "assisted",
+        "answer2": "ignored",
+        "answer3": "rewarded",
+        "answer4": "weighed down",
+        "answer": 4,
+        "commentary": "'짐을 지우다, 괴롭히다'라는 뜻으로 'weighed down(압박을 가하다)'이 동의어임."
+      },
+      {
+        "q_id": 21,
+        "type": "vocabulary",
+        "quiz": "The word 'orchestrated' in paragraph 3 is closest in meaning to:",
+        "answer1": "rejected",
+        "answer2": "planned and coordinated",
+        "answer3": "accidentally caused",
+        "answer4": "publicly announced",
+        "answer": 2,
+        "commentary": "'치밀하게 조직하다, 기획하다'라는 뜻으로 'planned and coordinated(계획하고 조율한)'이 동의어임."
+      }
     ]
   },
   {
     "passage_id": 4,
     "part": 1,
-    "passage_text": "Sylvia Hawthorne, an ecologist born in 1900 in Canada, spent her life defending the vast forests of the North. As a child, Hawthorne lived in a cabin where she developed a deep bond with the wilderness. While her family wanted her to focus on nursing, she chose to study forest ecology, believing that the future of the planet depended on the health of its natural resources.\n\nHer defining moment arrived in 1938, when she spearheaded the campaign to save the Great Northern Forest from industrial logging. She organized thousands of citizens to lobby the government, eventually succeeding in designating the area as a protected national reserve. Her success made her a hero to nature lovers everywhere.\n\nHowever, Hawthorne’s life was met with significant backlash from powerful industrial corporations. In 1945, these companies launched a massive media campaign to discredit her, claiming her conservation efforts would ruin the local economy. For several years, she was barred from speaking at major universities.\n\nDespite these trials, Hawthorne continued her work quietly. She established a forest research center in 1952, which focuses on sustainable land management. She remained a dedicated activist until she passed away in 1975, and her efforts are still a benchmark for modern conservationists.",
+    "passage_text": "Sylvia Hawthorne, an ecologist born in 1900 in Canada, spent her life defending the vast forests of the North. As a child, Hawthorne lived in a cabin where she developed a deep bond with the wilderness. While her family wanted her to focus on nursing, she chose to study forest ecology, believing that the future of the planet depended on the health of its natural resources.\n\nHer defining moment arrived in 1938, when she spearheaded the campaign to save the Great Northern Forest from industrial logging. She organized thousands of citizens to lobby the government, eventually succeeding in designating the area as a protected national reserve. Her success made her a hero to nature lovers everywhere.\n\nHowever, Hawthorne's life was met with significant backlash from powerful industrial corporations. In 1945, these companies launched a massive media campaign to discredit her, claiming her conservation efforts would ruin the local economy. For several years, she was barred from speaking at major universities.\n\nDespite these trials, Hawthorne continued her work quietly. She established a forest research center in 1952, which focuses on sustainable land management. She remained a dedicated activist until she passed away in 1975, and her efforts are still a benchmark for modern conservationists.",
     "questions": [
-      {"q_id": 22, "type": "detail", "quiz": "What was Hawthorne's family's original wish for her?", "answer1": "To focus on nursing", "answer2": "To become a forest ecologist", "answer3": "To move to the city", "answer4": "To become a politician", "answer": 1, "commentary": "첫 번째 단락에서 가족들이 그녀가 간호학에 집중하기를 바랐다고 나옵니다."},
-      {"q_id": 23, "type": "detail", "quiz": "What was the result of Hawthorne's 1938 campaign?", "answer1": "The forest became a protected national reserve.", "answer2": "She was fired from her university.", "answer3": "The forest was cleared for logging.", "answer4": "She was given a government job.", "answer": 1, "commentary": "두 번째 단락에서 그 지역이 보호된 국립 공원으로 지정되었다고 나옵니다."},
-      {"q_id": 24, "type": "detail", "quiz": "How did corporations react to Hawthorne’s conservation efforts?", "answer1": "They tried to discredit her.", "answer2": "They donated money to her.", "answer3": "They asked for her advice.", "answer4": "They offered her a job.", "answer": 1, "commentary": "세 번째 단락에서 기업들이 그녀를 깎아내리기 위한 미디어 캠페인을 펼쳤다고 나옵니다."},
-      {"q_id": 25, "type": "detail", "quiz": "What happened to Hawthorne during the late 1940s?", "answer1": "She was not allowed to speak at universities.", "answer2": "She won a national award.", "answer3": "She became a professor.", "answer4": "She published a bestseller.", "answer": 1, "commentary": "세 번째 단락에 몇 년 동안 주요 대학에서 연설하는 것이 금지되었다고 나옵니다."},
-      {"q_id": 26, "type": "detail", "quiz": "What did the research center established in 1952 focus on?", "answer1": "Sustainable land management", "answer2": "Forest logging techniques", "answer3": "Nursing education", "answer4": "Media campaigns", "answer": 1, "commentary": "마지막 단락에서 해당 연구소가 지속 가능한 토지 관리에 중점을 둔다고 나옵니다."},
-      {"q_id": 27, "type": "vocabulary", "quiz": "The word 'spearheaded' in paragraph 2 is closest in meaning to:", "answer1": "led", "answer2": "prevented", "answer3": "ignored", "answer4": "studied", "answer": 1, "commentary": "'선봉에 서다, 주도하다'라는 뜻으로 'led'가 가장 적절합니다."},
-      {"q_id": 28, "type": "vocabulary", "quiz": "The word 'benchmark' in paragraph 4 is closest in meaning to:", "answer1": "standard", "answer2": "failure", "answer3": "mistake", "answer4": "distance", "answer": 1, "commentary": "'기준, 표준'이라는 뜻으로 'standard'가 동의어입니다."}
+      {
+        "q_id": 22,
+        "type": "detail",
+        "quiz": "What did Hawthorne's family originally want her to pursue?",
+        "answer1": "A career in nursing",
+        "answer2": "A career in forest ecology",
+        "answer3": "A move to an urban area",
+        "answer4": "A position in government",
+        "answer": 1,
+        "commentary": "첫 번째 단락에서 가족들이 그녀가 간호학에 집중하기를 바랐다고 나옴."
+      },
+      {
+        "q_id": 23,
+        "type": "detail",
+        "quiz": "What was the result of Hawthorne's 1938 campaign?",
+        "answer1": "She was dismissed from her university position.",
+        "answer2": "The forest was cleared to allow industrial logging.",
+        "answer3": "The area was designated as a protected national reserve.",
+        "answer4": "She was appointed to a government advisory role.",
+        "answer": 3,
+        "commentary": "두 번째 단락에서 그 지역이 보호된 국립 공원으로 지정되었다고 나옴."
+      },
+      {
+        "q_id": 24,
+        "type": "detail",
+        "quiz": "How did industrial corporations respond to Hawthorne's conservation work?",
+        "answer1": "They contributed funding to her research.",
+        "answer2": "They launched a media campaign to discredit her.",
+        "answer3": "They sought her advice on environmental policy.",
+        "answer4": "They offered her a high-paying position.",
+        "answer": 2,
+        "commentary": "세 번째 단락에서 기업들이 그녀를 깎아내리기 위한 미디어 캠페인을 펼쳤다고 나옴."
+      },
+      {
+        "q_id": 25,
+        "type": "detail",
+        "quiz": "What restriction did Hawthorne face in the years following 1945?",
+        "answer1": "She was barred from speaking at major universities.",
+        "answer2": "She was prohibited from publishing research.",
+        "answer3": "She was banned from entering national parks.",
+        "answer4": "She was denied funding for her research center.",
+        "answer": 1,
+        "commentary": "세 번째 단락에 몇 년 동안 주요 대학에서 연설하는 것이 금지되었다고 나옴."
+      },
+      {
+        "q_id": 26,
+        "type": "detail",
+        "quiz": "What was the focus of the research center Hawthorne established in 1952?",
+        "answer1": "Developing more efficient logging techniques",
+        "answer2": "Training nurses in rural communities",
+        "answer3": "Producing media content on environmental issues",
+        "answer4": "Sustainable land management",
+        "answer": 4,
+        "commentary": "마지막 단락에서 해당 연구소가 지속 가능한 토지 관리에 중점을 둔다고 나옴."
+      },
+      {
+        "q_id": 27,
+        "type": "vocabulary",
+        "quiz": "The word 'spearheaded' in paragraph 2 is closest in meaning to:",
+        "answer1": "opposed",
+        "answer2": "observed",
+        "answer3": "led",
+        "answer4": "funded",
+        "answer": 3,
+        "commentary": "'선봉에 서다, 주도하다'라는 뜻으로 'led(이끌었다)'가 동의어임."
+      },
+      {
+        "q_id": 28,
+        "type": "vocabulary",
+        "quiz": "The word 'backlash' in paragraph 3 is closest in meaning to:",
+        "answer1": "support",
+        "answer2": "strong negative reaction",
+        "answer3": "public celebration",
+        "answer4": "legal punishment",
+        "answer": 2,
+        "commentary": "'강한 반발, 역풍'이라는 뜻으로 'strong negative reaction(강한 부정적 반응)'이 동의어임."
+      }
     ]
   },
   {
@@ -130,13 +340,83 @@
     "part": 1,
     "passage_text": "Victor Caldwell, a visionary astronomer born in 1875 in Germany, changed how humanity perceives the night sky. From a young age, he spent nights observing constellations, yet his father, a wealthy merchant, insisted that he prepare for a career in law. Victor managed to study astronomy in secret, often staying awake until dawn to map the stars.\n\nCaldwell's breakthrough came in 1905, when he developed a new method for calculating comet trajectories. By using advanced mathematics, he could predict the exact return times of rare comets. His findings were initially met with indifference by the scientific community, but they were soon verified by world-renowned experts, catapulting him to international fame.\n\nTragedy struck in 1912, when a lab fire destroyed many of his primary research journals and charts. This event set his work back significantly, as it took years for him to reconstruct the lost data from memory. During this time, he struggled with severe depression and nearly abandoned his research altogether.\n\nHe emerged stronger in 1920, opening a public observatory to encourage common people to engage with science. He continued his contributions to astronomy until his peaceful passing in 1947. Today, his formulas remain essential for space missions.",
     "questions": [
-      {"q_id": 29, "type": "detail", "quiz": "What did Victor Caldwell's father want him to become?", "answer1": "A lawyer", "answer2": "An astronomer", "answer3": "A merchant", "answer4": "A pilot", "answer": 1, "commentary": "첫 번째 단락에서 부모님이 그에게 법조계로 진출할 준비를 하라고 고집했다고 나옵니다."},
-      {"q_id": 30, "type": "detail", "quiz": "What did Caldwell discover in 1905?", "answer1": "A method to calculate comet trajectories", "answer2": "A new planet in the solar system", "answer3": "A way to see through clouds", "answer4": "A faster method of building telescopes", "answer": 1, "commentary": "두 번째 단락에 혜성 궤도를 계산하는 새로운 방법을 개발했다고 나옵니다."},
-      {"q_id": 31, "type": "detail", "quiz": "How did the scientific community first react to Caldwell’s findings?", "answer1": "With indifference", "answer2": "With immediate praise", "answer3": "With fierce anger", "answer4": "With suspicion of fraud", "answer": 1, "commentary": "두 번째 단락에 초기에는 무관심(indifference)으로 반응했다고 나옵니다."},
-      {"q_id": 32, "type": "detail", "quiz": "What was the consequence of the 1912 lab fire?", "answer1": "He lost important research records.", "answer2": "He retired from his research.", "answer3": "He was injured in the fire.", "answer4": "The university closed his laboratory.", "answer": 1, "commentary": "세 번째 단락에 화재로 주요 연구 저널과 차트가 파괴되었다고 나옵니다."},
-      {"q_id": 33, "type": "detail", "quiz": "What did Caldwell establish in 1920?", "answer1": "A public observatory", "answer2": "A new university", "answer3": "A rocket company", "answer4": "A scholarship fund", "answer": 1, "commentary": "마지막 단락에서 일반인들이 과학을 접할 수 있도록 공공 천문대를 열었다고 나옵니다."},
-      {"q_id": 34, "type": "vocabulary", "quiz": "The word 'perceives' in paragraph 1 is closest in meaning to:", "answer1": "views", "answer2": "disregards", "answer3": "hides", "answer4": "fears", "answer": 1, "commentary": "'인식하다, 인식하다'는 뜻으로 'views'가 가장 적절합니다."},
-      {"q_id": 35, "type": "vocabulary", "quiz": "The word 'essential' in paragraph 4 is closest in meaning to:", "answer1": "necessary", "answer2": "optional", "answer3": "useless", "answer4": "difficult", "answer": 1, "commentary": "'필수적인'이라는 뜻으로 'necessary'와 동의어입니다."}
+      {
+        "q_id": 29,
+        "type": "detail",
+        "quiz": "What career did Victor Caldwell's father want him to pursue?",
+        "answer1": "Law",
+        "answer2": "Astronomy",
+        "answer3": "Merchant trade",
+        "answer4": "Military service",
+        "answer": 1,
+        "commentary": "첫 번째 단락에서 부유한 상인인 아버지가 그에게 법조계 진출을 준비하라고 고집했다고 나옴."
+      },
+      {
+        "q_id": 30,
+        "type": "detail",
+        "quiz": "What was Caldwell's major scientific achievement in 1905?",
+        "answer1": "He discovered a new planet in the solar system.",
+        "answer2": "He developed a method for calculating comet trajectories.",
+        "answer3": "He invented a telescope that could see through clouds.",
+        "answer4": "He built the world's largest public observatory.",
+        "answer": 2,
+        "commentary": "두 번째 단락에 혜성 궤도를 계산하는 새로운 방법을 개발했다고 나옴."
+      },
+      {
+        "q_id": 31,
+        "type": "detail",
+        "quiz": "How did the scientific community initially respond to Caldwell's findings?",
+        "answer1": "They immediately praised his discovery.",
+        "answer2": "They accused him of fabricating his results.",
+        "answer3": "They attempted to replicate his research.",
+        "answer4": "They responded with indifference.",
+        "answer": 4,
+        "commentary": "두 번째 단락에 초기에는 무관심(indifference)으로 반응했다고 나옴."
+      },
+      {
+        "q_id": 32,
+        "type": "detail",
+        "quiz": "What was the consequence of the 1912 lab fire for Caldwell?",
+        "answer1": "He lost critical research journals and charts.",
+        "answer2": "He permanently retired from scientific work.",
+        "answer3": "He suffered physical injuries in the fire.",
+        "answer4": "His university closed his laboratory.",
+        "answer": 1,
+        "commentary": "세 번째 단락에 화재로 주요 연구 저널과 차트가 파괴되었다고 나옴."
+      },
+      {
+        "q_id": 33,
+        "type": "detail",
+        "quiz": "What did Caldwell open in 1920?",
+        "answer1": "A new research university",
+        "answer2": "A private laboratory for advanced astronomy",
+        "answer3": "A public observatory for the general public",
+        "answer4": "A scholarship foundation for young scientists",
+        "answer": 3,
+        "commentary": "마지막 단락에서 일반인들이 과학을 접할 수 있도록 공공 천문대를 열었다고 나옴."
+      },
+      {
+        "q_id": 34,
+        "type": "vocabulary",
+        "quiz": "The word 'indifference' in paragraph 2 is closest in meaning to:",
+        "answer1": "excitement",
+        "answer2": "lack of interest",
+        "answer3": "strong opposition",
+        "answer4": "deep admiration",
+        "answer": 2,
+        "commentary": "'무관심'이라는 뜻으로 'lack of interest(관심 없음)'가 동의어임."
+      },
+      {
+        "q_id": 35,
+        "type": "vocabulary",
+        "quiz": "The word 'reconstruct' in paragraph 3 is closest in meaning to:",
+        "answer1": "abandon",
+        "answer2": "improve",
+        "answer3": "destroy",
+        "answer4": "rebuild",
+        "answer": 4,
+        "commentary": "'재구성하다, 다시 만들다'라는 뜻으로 'rebuild(재건하다)'가 동의어임."
+      }
     ]
   },
   {
@@ -144,13 +424,83 @@
     "part": 1,
     "passage_text": "Clara Bennett, an English writer born in 1890, was famous for novels that challenged the social norms of the early 20th century. Born into a wealthy family, Bennett was expected to lead a quiet life of leisure. Instead, she began writing anonymous stories, using a masculine pen name to ensure her work was judged on its own merit.\n\nHer debut novel, released in 1920, shocked the public with its raw portrayal of working-class struggles. Despite the controversy, the book was a best-seller, exposing the hardships of urban laborers to the wealthy middle class. Bennett's sharp critique of industrialization became a model for later social activists.\n\nBennett faced a significant crisis in the late 1920s when her identity was exposed against her will. Many family members cut ties with her, and she was blacklisted by several major publishers. This period of isolation led her to produce some of her most introspective and poetic works, which gained a cult following in later years.\n\nShe continued to be a voice for the voiceless until the end of her life in 1960. Today, she is honored as one of the most courageous figures in literature.",
     "questions": [
-      {"q_id": 36, "type": "detail", "quiz": "Why did Bennett use a masculine pen name?", "answer1": "So her work would be judged on its own merit", "answer2": "To keep her wealth secret", "answer3": "To avoid being arrested", "answer4": "Because she did not like her own name", "answer": 1, "commentary": "첫 번째 단락에서 남성 필명을 사용하여 작품 자체의 가치로 평가받고 싶어 했다고 나옵니다."},
-      {"q_id": 37, "type": "detail", "quiz": "What was the subject of Bennett's 1920 debut novel?", "answer1": "The struggles of working-class people", "answer2": "The life of wealthy families", "answer3": "Historical events in England", "answer4": "Science fiction", "answer": 1, "commentary": "두 번째 단락에 노동자 계층의 투쟁을 생생하게 묘사했다고 나옵니다."},
-      {"q_id": 38, "type": "detail", "quiz": "What happened to Bennett in the late 1920s?", "answer1": "Her real identity was revealed publicly.", "answer2": "She married a wealthy man.", "answer3": "She stopped writing entirely.", "answer4": "She was arrested for her writing.", "answer": 1, "commentary": "세 번째 단락에 그녀의 신원이 원치 않게 밝혀졌다고 나옵니다."},
-      {"q_id": 39, "type": "detail", "quiz": "How did Bennett's isolation in the late 1920s influence her work?", "answer1": "It led to more introspective and poetic writings.", "answer2": "She lost the ability to write stories.", "answer3": "It forced her to quit writing for money.", "answer4": "She started writing for children only.", "answer": 1, "commentary": "세 번째 단락에 그 시기의 고립이 더 내성적이고 시적인 작품을 쓰게 했다고 나옵니다."},
-      {"q_id": 40, "type": "detail", "quiz": "What is Clara Bennett remembered as today?", "answer1": "A courageous figure in literature", "answer2": "A failed social activist", "answer3": "A wealthy socialite", "answer4": "A controversial historical figure", "answer": 1, "commentary": "마지막 단락에서 문학계에서 가장 용기 있는 인물로 존경받는다고 나옵니다."},
-      {"q_id": 41, "type": "vocabulary", "quiz": "The word 'anonymous' in paragraph 1 is closest in meaning to:", "answer1": "nameless", "answer2": "famous", "answer3": "angry", "answer4": "hidden", "answer": 1, "commentary": "'익명의, 이름이 없는'이라는 뜻이므로 'nameless'가 가장 적절합니다."},
-      {"q_id": 42, "type": "vocabulary", "quiz": "The word 'introspective' in paragraph 3 is closest in meaning to:", "answer1": "self-examining", "answer2": "noisy", "answer3": "joyful", "answer4": "foreign", "answer": 1, "commentary": "'내성적인, 자기 성찰적인'이라는 뜻이므로 'self-examining'과 동의어입니다."}
+      {
+        "q_id": 36,
+        "type": "detail",
+        "quiz": "Why did Bennett choose to write under a masculine pen name?",
+        "answer1": "So her work would be judged on its own merit",
+        "answer2": "To keep her family's wealth from becoming public",
+        "answer3": "To avoid legal trouble for her controversial views",
+        "answer4": "Because she disliked her real name",
+        "answer": 1,
+        "commentary": "첫 번째 단락에서 남성 필명을 사용하여 작품 자체의 가치로 평가받고 싶어 했다고 나옴."
+      },
+      {
+        "q_id": 37,
+        "type": "detail",
+        "quiz": "What was the subject of Bennett's 1920 debut novel?",
+        "answer1": "The lifestyle of wealthy English families",
+        "answer2": "The hardships faced by working-class people",
+        "answer3": "Major historical events in early 20th-century England",
+        "answer4": "A science fiction story set in the future",
+        "answer": 2,
+        "commentary": "두 번째 단락에 노동자 계층의 투쟁을 생생하게 묘사했다고 나옴."
+      },
+      {
+        "q_id": 38,
+        "type": "detail",
+        "quiz": "What happened to Bennett in the late 1920s?",
+        "answer1": "She married into a prominent family.",
+        "answer2": "She voluntarily stopped writing.",
+        "answer3": "Her true identity was publicly revealed.",
+        "answer4": "She was arrested because of her writing.",
+        "answer": 3,
+        "commentary": "세 번째 단락에 그녀의 신원이 원치 않게 밝혀졌다고 나옴."
+      },
+      {
+        "q_id": 39,
+        "type": "detail",
+        "quiz": "How did Bennett's period of isolation in the late 1920s affect her writing?",
+        "answer1": "It inspired more introspective and poetic works.",
+        "answer2": "She permanently lost the ability to write creatively.",
+        "answer3": "It forced her to write only for financial reasons.",
+        "answer4": "She shifted to writing exclusively for children.",
+        "answer": 1,
+        "commentary": "세 번째 단락에 그 시기의 고립이 더 내성적이고 시적인 작품을 쓰게 했다고 나옴."
+      },
+      {
+        "q_id": 40,
+        "type": "detail",
+        "quiz": "How is Clara Bennett remembered today?",
+        "answer1": "As a social activist who failed to create change",
+        "answer2": "As a wealthy writer who lived a life of leisure",
+        "answer3": "As a controversial figure who damaged the literary world",
+        "answer4": "As one of the most courageous figures in literature",
+        "answer": 4,
+        "commentary": "마지막 단락에서 문학계에서 가장 용기 있는 인물로 존경받는다고 나옴."
+      },
+      {
+        "q_id": 41,
+        "type": "vocabulary",
+        "quiz": "The word 'anonymous' in paragraph 1 is closest in meaning to:",
+        "answer1": "famous",
+        "answer2": "angry",
+        "answer3": "hidden from view",
+        "answer4": "nameless",
+        "answer": 4,
+        "commentary": "'익명의, 이름이 알려지지 않은'이라는 뜻으로 'nameless(이름 없는)'가 동의어임."
+      },
+      {
+        "q_id": 42,
+        "type": "vocabulary",
+        "quiz": "The word 'blacklisted' in paragraph 3 is closest in meaning to:",
+        "answer1": "celebrated",
+        "answer2": "investigated",
+        "answer3": "banned",
+        "answer4": "promoted",
+        "answer": 3,
+        "commentary": "'블랙리스트에 올리다, 배척하다'라는 뜻으로 'banned(금지된, 배제된)'가 동의어임."
+      }
     ]
   }
 ]
