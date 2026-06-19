@@ -1395,7 +1395,8 @@ function ReadingPartPage({ config }) {
                 <p className="reading-passage-text">{passage.passage_text}</p>
               </article>
 
-              <section className="reading-questions-shell reading-scroll-panel">
+              <section className="reading-questions-shell">
+                <div className="reading-questions-scroll reading-scroll-panel">
                 <div className="reading-questions-grid">
                   {quizItems.map((question) => {
                     const answers = [question.answer1, question.answer2, question.answer3, question.answer4];
@@ -1454,6 +1455,7 @@ function ReadingPartPage({ config }) {
                       </article>
                     );
                   })}
+                </div>
                 </div>
 
                 <div className="quiz-panel-footer">

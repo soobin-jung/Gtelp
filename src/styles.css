@@ -1245,6 +1245,13 @@ button {
   display: flex;
   flex-direction: column;
   gap: 14px;
+  min-height: 0;
+}
+
+.reading-questions-scroll {
+  flex: 1;
+  min-height: 0;
+  overflow-y: auto;
 }
 
 .reading-questions-grid {
