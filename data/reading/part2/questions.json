@@ -1,0 +1,1612 @@
+[
+  {
+    "passage_id": 1,
+    "part": 2,
+    "passage_text": "The shift to remote work, which accelerated dramatically during the global pandemic, has fundamentally transformed how millions of professionals conduct their daily lives. A survey conducted by the Global Workforce Institute in 2023 revealed that approximately 42 percent of full-time employees in developed countries now work from home at least part of the week. This dramatic shift has prompted urban planners and economists to reassess their assumptions about city design, commuting patterns, and real estate demand.\n\nOne of the most significant consequences of widespread remote work has been the so-called 'urban exodus.' As employees gained the freedom to work from anywhere, many opted to leave expensive, densely populated metropolitan areas in favor of smaller cities or suburban communities. Real estate data from several major cities showed vacancy rates in downtown office buildings climbing to record highs, while housing demand surged in previously overlooked rural and semi-urban regions. Critics, however, argue that this trend has exacerbated economic inequality, as lower-income workers who cannot perform their jobs remotely are left behind in struggling city centers.\n\nDespite these challenges, some urban economists remain cautiously optimistic about the long-term impact of remote work on cities. They argue that reduced commuter traffic has led to measurable improvements in air quality and a decline in carbon emissions within city limits. Furthermore, the redistribution of population from crowded urban centers to smaller communities is seen by some as a positive step toward more balanced regional development. Local governments in smaller towns have also reported increased tax revenues as new residents bring economic activity to previously underdeveloped areas.\n\nHowever, the future of remote work remains uncertain. Several major corporations have recently reversed their work-from-home policies, requiring employees to return to the office at least three days per week. Proponents of this shift argue that in-person collaboration fosters creativity and strengthens workplace culture, while remote work advocates counter that forced returns undermine employee satisfaction and productivity. The ongoing debate reflects a broader tension in modern workplaces between organizational efficiency and individual autonomy.",
+    "questions": [
+      {
+        "q_id": 1,
+        "type": "detail",
+        "quiz": "What did the 2023 Global Workforce Institute survey reveal?",
+        "quiz_ko": "2023년 글로벌 인력 연구소 조사에서 밝혀진 것은?",
+        "answer1": "Most employees prefer to work in offices full-time.",
+        "answer1_ko": "대부분의 직원들은 사무실에서 전일 근무하기를 선호한다.",
+        "answer2": "About 42 percent of full-time employees work remotely at least part of the week.",
+        "answer2_ko": "전일제 직원의 약 42%가 주 중 최소 일부를 재택근무한다.",
+        "answer3": "Remote work has caused productivity to decline significantly.",
+        "answer3_ko": "재택근무로 인해 생산성이 크게 감소했다.",
+        "answer4": "Urban planners support a complete shift to remote work.",
+        "answer4_ko": "도시 계획가들은 완전한 재택근무 전환을 지지한다.",
+        "answer": 2,
+        "commentary": "1단락에 'approximately 42 percent of full-time employees in developed countries now work from home at least part of the week'라고 직접 언급되어 있습니다. approximately(약, 대략)는 수치를 나타낼 때 자주 쓰이는 부사로 꼭 기억해 두세요.",
+        "keywords": [
+          { "word": "approximately", "meaning": "약, 대략" },
+          { "word": "reassess", "meaning": "재평가하다" },
+          { "word": "commuting", "meaning": "통근" },
+          { "word": "real estate", "meaning": "부동산" }
+        ]
+      },
+      {
+        "q_id": 2,
+        "type": "detail",
+        "quiz": "What does the 'urban exodus' described in paragraph 2 refer to?",
+        "quiz_ko": "2단락에서 언급된 '도시 탈출'이 가리키는 것은?",
+        "answer1": "An increase in the number of people moving into city centers.",
+        "answer1_ko": "도심으로 이주하는 사람들의 증가.",
+        "answer2": "A sharp rise in office building construction in metropolitan areas.",
+        "answer2_ko": "대도시 지역의 사무용 건물 건설 급증.",
+        "answer3": "A government policy requiring workers to leave major cities.",
+        "answer3_ko": "노동자들이 주요 도시를 떠나도록 요구하는 정부 정책.",
+        "answer4": "Employees leaving expensive cities to live in smaller communities.",
+        "answer4_ko": "직원들이 비싼 도시를 떠나 소규모 지역 사회로 이주하는 현상.",
+        "answer": 4,
+        "commentary": "2단락에 'many opted to leave expensive, densely populated metropolitan areas in favor of smaller cities or suburban communities'라고 나옵니다. opted to(~을 선택했다)는 chose to와 동의어입니다. in favor of(~을 선호하여)도 지텔프에서 자주 나오는 표현입니다.",
+        "keywords": [
+          { "word": "exodus", "meaning": "대규모 이탈, 탈출" },
+          { "word": "metropolitan", "meaning": "대도시의" },
+          { "word": "vacancy rate", "meaning": "공실률" },
+          { "word": "surge", "meaning": "급증하다" }
+        ]
+      },
+      {
+        "q_id": 3,
+        "type": "detail",
+        "quiz": "According to paragraph 3, what environmental benefit has remote work produced?",
+        "quiz_ko": "3단락에 따르면, 재택근무가 가져온 환경적 이점은?",
+        "answer1": "Improved air quality and reduced carbon emissions in cities.",
+        "answer1_ko": "도시 내 대기질 개선과 탄소 배출 감소.",
+        "answer2": "A significant decrease in the amount of household waste produced.",
+        "answer2_ko": "가정에서 배출되는 쓰레기 양의 상당한 감소.",
+        "answer3": "An increase in green spaces within urban centers.",
+        "answer3_ko": "도심 내 녹지 공간 증가.",
+        "answer4": "A reduction in the use of single-use plastics in offices.",
+        "answer4_ko": "사무실에서의 일회용 플라스틱 사용 감소.",
+        "answer": 1,
+        "commentary": "3단락에 'reduced commuter traffic has led to measurable improvements in air quality and a decline in carbon emissions'라고 나옵니다. lead to(~으로 이어지다)는 결과를 나타내는 핵심 표현입니다. measurable(측정 가능한, 뚜렷한)도 함께 익혀 두세요.",
+        "keywords": [
+          { "word": "commuter traffic", "meaning": "통근 교통량" },
+          { "word": "measurable", "meaning": "측정 가능한, 뚜렷한" },
+          { "word": "carbon emissions", "meaning": "탄소 배출" },
+          { "word": "redistribution", "meaning": "재분배" }
+        ]
+      },
+      {
+        "q_id": 4,
+        "type": "detail",
+        "quiz": "According to paragraph 3, how have smaller towns benefited from the population shift?",
+        "quiz_ko": "3단락에 따르면, 소규모 도시들은 인구 이동으로 어떤 혜택을 받았나?",
+        "answer1": "They received funding from national governments to build new infrastructure.",
+        "answer1_ko": "새로운 인프라 건설을 위해 중앙 정부로부터 자금을 받았다.",
+        "answer2": "They were able to attract large corporations to open new offices.",
+        "answer2_ko": "대기업들이 새로운 사무소를 개설하도록 유치할 수 있었다.",
+        "answer3": "They reported increased tax revenues as new residents brought economic activity.",
+        "answer3_ko": "새 주민들이 경제 활동을 가져오면서 세수 증가를 보고했다.",
+        "answer4": "They developed new public transportation networks to handle population growth.",
+        "answer4_ko": "인구 증가를 처리하기 위해 새로운 대중교통망을 개발했다.",
+        "answer": 3,
+        "commentary": "3단락에 'Local governments in smaller towns have also reported increased tax revenues as new residents bring economic activity to previously underdeveloped areas'라고 나옵니다. as는 '~때문에, ~하면서'의 의미로 여기서는 이유를 나타냅니다.",
+        "keywords": [
+          { "word": "tax revenue", "meaning": "세수, 세금 수입" },
+          { "word": "underdeveloped", "meaning": "개발이 덜 된, 낙후된" },
+          { "word": "regional development", "meaning": "지역 개발" },
+          { "word": "optimistic", "meaning": "낙관적인" }
+        ]
+      },
+      {
+        "q_id": 5,
+        "type": "detail",
+        "quiz": "What argument do proponents of returning to the office make?",
+        "quiz_ko": "사무실 복귀 지지자들이 주장하는 것은?",
+        "answer1": "Remote work allows employees to maintain better work-life balance.",
+        "answer1_ko": "재택근무는 직원들이 더 나은 일-생활 균형을 유지하게 한다.",
+        "answer2": "In-person collaboration fosters creativity and strengthens workplace culture.",
+        "answer2_ko": "대면 협업이 창의성을 높이고 직장 문화를 강화한다.",
+        "answer3": "Office buildings generate more economic activity for city centers.",
+        "answer3_ko": "사무용 건물은 도심에 더 많은 경제 활동을 창출한다.",
+        "answer4": "Employees are more likely to receive promotions when working in the office.",
+        "answer4_ko": "직원들은 사무실에서 근무할 때 승진 가능성이 더 높다.",
+        "answer": 2,
+        "commentary": "4단락에 'Proponents of this shift argue that in-person collaboration fosters creativity and strengthens workplace culture'라고 나옵니다. proponents(지지자들)는 advocates / supporters와 동의어입니다. foster(촉진하다, 육성하다)는 지텔프에 자주 등장하는 동사입니다.",
+        "keywords": [
+          { "word": "proponent", "meaning": "지지자, 옹호자" },
+          { "word": "foster", "meaning": "촉진하다, 육성하다" },
+          { "word": "advocate", "meaning": "옹호자 / 옹호하다" },
+          { "word": "autonomy", "meaning": "자율성, 자치권" }
+        ]
+      },
+      {
+        "q_id": 6,
+        "type": "vocabulary",
+        "quiz": "The word 'exacerbated' in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'exacerbated'와 가장 가까운 의미의 단어는?",
+        "answer1": "relieved",
+        "answer1_ko": "완화된",
+        "answer2": "identified",
+        "answer2_ko": "확인된",
+        "answer3": "worsened",
+        "answer3_ko": "악화된",
+        "answer4": "predicted",
+        "answer4_ko": "예측된",
+        "answer": 3,
+        "commentary": "exacerbate는 '악화시키다, 더 심하게 만들다'라는 뜻으로, worsened(악화된)가 동의어입니다. 'this trend has exacerbated economic inequality'는 '이 추세가 경제적 불평등을 악화시켰다'는 의미입니다. 반의어는 alleviate / relieve(완화하다)입니다.",
+        "keywords": [
+          { "word": "exacerbate", "meaning": "악화시키다" },
+          { "word": "worsen", "meaning": "악화되다 (= exacerbate)" },
+          { "word": "alleviate", "meaning": "완화하다 (반의어)" },
+          { "word": "inequality", "meaning": "불평등" }
+        ]
+      },
+      {
+        "q_id": 7,
+        "type": "vocabulary",
+        "quiz": "The word 'autonomy' in paragraph 4 is closest in meaning to:",
+        "quiz_ko": "4단락의 'autonomy'와 가장 가까운 의미의 단어는?",
+        "answer1": "independence",
+        "answer1_ko": "독립성, 자율성",
+        "answer2": "efficiency",
+        "answer2_ko": "효율성",
+        "answer3": "creativity",
+        "answer3_ko": "창의성",
+        "answer4": "obligation",
+        "answer4_ko": "의무",
+        "answer": 1,
+        "commentary": "autonomy는 '자율성, 자치권'이라는 뜻으로, independence(독립성)가 동의어입니다. 'tension between organizational efficiency and individual autonomy'는 '조직 효율과 개인 자율 사이의 긴장'이라는 의미입니다. autonomous(자율적인)라는 형용사 형태도 함께 익혀 두세요.",
+        "keywords": [
+          { "word": "autonomy", "meaning": "자율성, 자치권" },
+          { "word": "autonomous", "meaning": "자율적인" },
+          { "word": "independence", "meaning": "독립성 (= autonomy)" },
+          { "word": "undermine", "meaning": "약화시키다, 훼손하다" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 2,
+    "part": 2,
+    "passage_text": "Over the past decade, researchers and mental health professionals have become increasingly concerned about the relationship between social media use and the psychological wellbeing of teenagers. A landmark study published in the Journal of Adolescent Health found that teenagers who spend more than three hours per day on social media platforms are significantly more likely to report symptoms of depression and anxiety than those who limit their usage. The study, which surveyed over 12,000 adolescents aged 13 to 18, concluded that the compulsive nature of social media engagement may be fundamentally altering how young people perceive themselves and others.\n\nOne key mechanism driving this association is the phenomenon of 'social comparison.' When teenagers are constantly exposed to carefully curated images of peers appearing to lead more exciting or fulfilling lives, feelings of inadequacy and low self-esteem often follow. Researchers note that unlike in-person social interactions, social media provides a one-sided view of reality that makes unfavorable comparisons almost inevitable. Girls, in particular, are reported to be more vulnerable to these effects, with studies showing higher rates of body image dissatisfaction among regular social media users.\n\nIn response, several countries have begun implementing digital literacy programs in schools aimed at helping students critically evaluate the content they consume online. Advocates of these programs argue that equipping young people with the skills to distinguish between curated online personas and real life is the most sustainable long-term solution. Some school districts have even introduced 'phone-free' policies during school hours, which early data suggests may improve student concentration and reduce anxiety levels.\n\nHowever, critics caution that overly restricting teenagers' access to social media may cut them off from legitimate communication networks and supportive online communities that many rely on for social connection, particularly those in rural or isolated areas. The debate ultimately reflects a broader challenge: how to harness the benefits of digital technology while protecting vulnerable populations from its potential harms.",
+    "questions": [
+      {
+        "q_id": 8,
+        "type": "detail",
+        "quiz": "What did the study published in the Journal of Adolescent Health find?",
+        "quiz_ko": "청소년 건강 저널에 발표된 연구에서 밝혀진 것은?",
+        "answer1": "Social media use has no measurable effect on teenage mental health.",
+        "answer1_ko": "소셜 미디어 사용은 청소년 정신 건강에 측정 가능한 영향을 미치지 않는다.",
+        "answer2": "Teenagers who use social media are more likely to excel academically.",
+        "answer2_ko": "소셜 미디어를 사용하는 청소년들은 학업적으로 뛰어날 가능성이 더 높다.",
+        "answer3": "Teens spending over 3 hours daily on social media show higher rates of depression and anxiety.",
+        "answer3_ko": "하루 3시간 이상 소셜 미디어를 사용하는 청소년은 우울증과 불안 비율이 더 높다.",
+        "answer4": "Most teenagers are able to use social media without any negative psychological effects.",
+        "answer4_ko": "대부분의 청소년은 부정적인 심리적 영향 없이 소셜 미디어를 사용할 수 있다.",
+        "answer": 3,
+        "commentary": "1단락에 'teenagers who spend more than three hours per day on social media platforms are significantly more likely to report symptoms of depression and anxiety'라고 나옵니다. significantly(상당히, 현저하게)는 정도를 강조하는 부사로 지텔프에 자주 등장합니다.",
+        "keywords": [
+          { "word": "landmark study", "meaning": "획기적인 연구, 중요한 연구" },
+          { "word": "adolescent", "meaning": "청소년" },
+          { "word": "compulsive", "meaning": "강박적인, 충동적인" },
+          { "word": "psychological wellbeing", "meaning": "심리적 안녕감" }
+        ]
+      },
+      {
+        "q_id": 9,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what is 'social comparison' and what does it lead to?",
+        "quiz_ko": "2단락에 따르면, '사회적 비교'란 무엇이며 어떤 결과를 초래하나?",
+        "answer1": "Comparing oneself to idealized online images, leading to feelings of inadequacy.",
+        "answer1_ko": "이상화된 온라인 이미지와 자신을 비교하여 부족감으로 이어지는 현상.",
+        "answer2": "Comparing academic performance with classmates, leading to increased motivation.",
+        "answer2_ko": "학업 성취도를 반 친구들과 비교하여 동기 부여가 증가하는 현상.",
+        "answer3": "Evaluating social platforms to choose the most suitable one for communication.",
+        "answer3_ko": "소통에 가장 적합한 플랫폼을 선택하기 위해 소셜 플랫폼을 평가하는 것.",
+        "answer4": "Tracking the number of followers to measure social popularity.",
+        "answer4_ko": "사회적 인기를 측정하기 위해 팔로워 수를 추적하는 것.",
+        "answer": 1,
+        "commentary": "2단락에 'constantly exposed to carefully curated images of peers appearing to lead more exciting or fulfilling lives, feelings of inadequacy and low self-esteem often follow'라고 나옵니다. curated(선별된, 정제된)는 소셜 미디어 맥락에서 자주 쓰이는 어휘입니다. inevitably(불가피하게)도 함께 익혀 두세요.",
+        "keywords": [
+          { "word": "curated", "meaning": "선별된, 정제된" },
+          { "word": "inadequacy", "meaning": "부족감, 열등감" },
+          { "word": "self-esteem", "meaning": "자존감" },
+          { "word": "inevitable", "meaning": "불가피한, 피할 수 없는" }
+        ]
+      },
+      {
+        "q_id": 10,
+        "type": "detail",
+        "quiz": "According to paragraph 2, which group is reported to be most vulnerable to social media's negative effects?",
+        "quiz_ko": "2단락에 따르면, 소셜 미디어의 부정적 영향에 가장 취약한 집단은?",
+        "answer1": "Boys aged 13 to 15",
+        "answer1_ko": "13~15세 남학생",
+        "answer2": "College-age students who use multiple platforms",
+        "answer2_ko": "여러 플랫폼을 사용하는 대학생 연령층",
+        "answer3": "Children under the age of 10",
+        "answer3_ko": "10세 미만의 어린이",
+        "answer4": "Girls, who show higher rates of body image dissatisfaction.",
+        "answer4_ko": "신체 이미지 불만족 비율이 더 높은 여학생.",
+        "answer": 4,
+        "commentary": "2단락에 'Girls, in particular, are reported to be more vulnerable to these effects, with studies showing higher rates of body image dissatisfaction among regular social media users'라고 나옵니다. in particular(특히)는 특정 집단이나 사례를 강조할 때 쓰입니다. vulnerable(취약한)은 지텔프에 자주 나오는 형용사입니다.",
+        "keywords": [
+          { "word": "vulnerable", "meaning": "취약한, 상처받기 쉬운" },
+          { "word": "body image", "meaning": "신체 이미지" },
+          { "word": "dissatisfaction", "meaning": "불만족" },
+          { "word": "in particular", "meaning": "특히, 특별히" }
+        ]
+      },
+      {
+        "q_id": 11,
+        "type": "detail",
+        "quiz": "What solution is proposed in paragraph 3 to address the negative effects of social media?",
+        "quiz_ko": "3단락에서 소셜 미디어의 부정적 영향을 해결하기 위해 제안된 방법은?",
+        "answer1": "Banning teenagers from using social media entirely.",
+        "answer1_ko": "청소년의 소셜 미디어 사용을 완전히 금지하는 것.",
+        "answer2": "Implementing digital literacy programs to help students critically evaluate online content.",
+        "answer2_ko": "학생들이 온라인 콘텐츠를 비판적으로 평가하도록 디지털 리터러시 프로그램 도입.",
+        "answer3": "Requiring social media companies to reduce the amount of advertising.",
+        "answer3_ko": "소셜 미디어 회사들이 광고량을 줄이도록 요구하는 것.",
+        "answer4": "Introducing mandatory counseling sessions for teenagers who use social media.",
+        "answer4_ko": "소셜 미디어를 사용하는 청소년을 위한 의무적인 상담 세션 도입.",
+        "answer": 2,
+        "commentary": "3단락에 'several countries have begun implementing digital literacy programs in schools aimed at helping students critically evaluate the content they consume online'라고 나옵니다. implement(시행하다, 도입하다)는 지텔프에서 solution / policy와 관련된 문제에서 자주 등장하는 동사입니다.",
+        "keywords": [
+          { "word": "digital literacy", "meaning": "디지털 리터러시, 디지털 이해력" },
+          { "word": "implement", "meaning": "시행하다, 도입하다" },
+          { "word": "critically evaluate", "meaning": "비판적으로 평가하다" },
+          { "word": "sustainable", "meaning": "지속 가능한" }
+        ]
+      },
+      {
+        "q_id": 12,
+        "type": "detail",
+        "quiz": "What concern do critics raise about restricting teenagers' social media access?",
+        "quiz_ko": "비평가들이 청소년의 소셜 미디어 접근을 제한하는 것에 대해 제기하는 우려는?",
+        "answer1": "Restrictions may increase the cost of developing better social platforms.",
+        "answer1_ko": "제한이 더 나은 소셜 플랫폼 개발 비용을 증가시킬 수 있다.",
+        "answer2": "Teenagers may turn to more harmful offline activities without social media.",
+        "answer2_ko": "청소년들이 소셜 미디어 없이 더 해로운 오프라인 활동으로 전환할 수 있다.",
+        "answer3": "Restricting access may cut teens off from legitimate communication and supportive communities.",
+        "answer3_ko": "접근 제한이 청소년들을 정당한 소통과 지지 커뮤니티로부터 단절시킬 수 있다.",
+        "answer4": "Government regulation of social media could violate freedom of speech laws.",
+        "answer4_ko": "소셜 미디어에 대한 정부 규제가 언론의 자유 법률을 침해할 수 있다.",
+        "answer": 3,
+        "commentary": "4단락에 'overly restricting teenagers' access to social media may cut them off from legitimate communication networks and supportive online communities'라고 나옵니다. cut off from(~로부터 단절시키다)은 isolate from과 같은 의미로, 지텔프 독해에서 자주 쓰이는 표현입니다.",
+        "keywords": [
+          { "word": "legitimate", "meaning": "정당한, 합법적인" },
+          { "word": "isolated", "meaning": "고립된, 외딴" },
+          { "word": "harness", "meaning": "활용하다, 이용하다" },
+          { "word": "vulnerable population", "meaning": "취약 계층" }
+        ]
+      },
+      {
+        "q_id": 13,
+        "type": "vocabulary",
+        "quiz": "The word 'compulsive' in paragraph 1 is closest in meaning to:",
+        "quiz_ko": "1단락의 'compulsive'와 가장 가까운 의미의 단어는?",
+        "answer1": "uncontrollable",
+        "answer1_ko": "통제할 수 없는",
+        "answer2": "creative",
+        "answer2_ko": "창의적인",
+        "answer3": "occasional",
+        "answer3_ko": "가끔의",
+        "answer4": "deliberate",
+        "answer4_ko": "의도적인, 신중한",
+        "answer": 1,
+        "commentary": "compulsive는 '강박적인, 충동을 억제하지 못하는'이라는 뜻으로, uncontrollable(통제할 수 없는)이 가장 가까운 의미입니다. 'the compulsive nature of social media engagement'는 '소셜 미디어 참여의 강박적인 특성'이라는 의미입니다. compulsion(강박, 충동)이라는 명사 형태도 기억해 두세요.",
+        "keywords": [
+          { "word": "compulsive", "meaning": "강박적인, 충동적인" },
+          { "word": "compulsion", "meaning": "강박, 충동" },
+          { "word": "uncontrollable", "meaning": "통제할 수 없는" },
+          { "word": "engagement", "meaning": "참여, 관여" }
+        ]
+      },
+      {
+        "q_id": 14,
+        "type": "vocabulary",
+        "quiz": "The word 'inadequacy' in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'inadequacy'와 가장 가까운 의미의 표현은?",
+        "answer1": "confidence",
+        "answer1_ko": "자신감",
+        "answer2": "curiosity",
+        "answer2_ko": "호기심",
+        "answer3": "creativity",
+        "answer3_ko": "창의성",
+        "answer4": "a sense of not being good enough",
+        "answer4_ko": "충분하지 않다는 느낌, 열등감",
+        "answer": 4,
+        "commentary": "inadequacy는 '부족함, 열등감'이라는 뜻으로, 'a sense of not being good enough'가 가장 잘 설명합니다. inadequate(부족한, 불충분한)라는 형용사 형태도 함께 익혀 두세요. 1번 confidence(자신감)는 반의어에 가깝습니다.",
+        "keywords": [
+          { "word": "inadequacy", "meaning": "부족함, 열등감" },
+          { "word": "inadequate", "meaning": "부족한, 불충분한" },
+          { "word": "fulfilling", "meaning": "보람 있는, 충족감을 주는" },
+          { "word": "dissatisfaction", "meaning": "불만족" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 3,
+    "part": 2,
+    "passage_text": "As global urbanization continues at an unprecedented pace, cities around the world are facing mounting pressure to secure reliable food supplies for their growing populations. Urban farming — the practice of cultivating, processing, and distributing food in or around urban areas — has emerged as a promising solution to this challenge. From rooftop gardens and community allotments to sophisticated vertical farms, the movement to bring food production closer to consumers is gaining significant momentum in cities across North America, Europe, and Asia.\n\nVertical farming, in particular, has attracted considerable attention from investors and urban planners. By stacking crops in climate-controlled indoor environments and using LED lighting and hydroponic systems, vertical farms can produce yields up to ten times greater per square meter than conventional outdoor fields. Moreover, these facilities use up to 95 percent less water than traditional agriculture, making them an attractive option in regions facing water scarcity. However, critics point out that the high initial setup costs and significant energy consumption required to power artificial lighting represent major barriers to widespread adoption.\n\nCommunity gardens and urban allotments, while less technologically intensive, offer their own set of advantages. Studies have shown that participation in community gardening programs improves residents' access to fresh fruits and vegetables, particularly in low-income neighborhoods that are often classified as 'food deserts.' Beyond nutritional benefits, these shared green spaces have been shown to strengthen social bonds among residents and reduce feelings of social isolation. Local governments in cities such as Detroit, Havana, and Singapore have actively promoted community gardening as both a food security strategy and a tool for community development.\n\nDespite its many potential benefits, urban farming alone cannot replace conventional agriculture as the primary source of the world's food supply. Land constraints, high production costs, and energy demands remain significant challenges that must be addressed if urban food systems are to scale up meaningfully. Nevertheless, most experts agree that urban farming represents a valuable supplement to existing food systems, particularly as cities seek more resilient and localized approaches to food security in the face of climate change and supply chain disruptions.",
+    "questions": [
+      {
+        "q_id": 15,
+        "type": "detail",
+        "quiz": "What is identified as the primary driver behind the growth of urban farming?",
+        "quiz_ko": "도시 농업 성장의 주요 동력으로 확인된 것은?",
+        "answer1": "The need to secure food supplies for growing urban populations.",
+        "answer1_ko": "증가하는 도시 인구를 위한 안정적인 식량 공급 확보의 필요성.",
+        "answer2": "Government subsidies encouraging farmers to move into city centers.",
+        "answer2_ko": "농부들이 도심으로 이주하도록 장려하는 정부 보조금.",
+        "answer3": "Rising consumer demand for organic and locally produced food.",
+        "answer3_ko": "유기농 및 지역 생산 식품에 대한 소비자 수요 증가.",
+        "answer4": "A global decline in the productivity of traditional agricultural land.",
+        "answer4_ko": "전통적인 농경지 생산성의 전 세계적 감소.",
+        "answer": 1,
+        "commentary": "1단락에 'cities around the world are facing mounting pressure to secure reliable food supplies for their growing populations'라고 나옵니다. mounting pressure(증가하는 압박)는 growing pressure와 같은 표현입니다. urbanization(도시화)은 환경·사회 관련 지문에서 자주 등장합니다.",
+        "keywords": [
+          { "word": "urbanization", "meaning": "도시화" },
+          { "word": "mounting", "meaning": "증가하는, 심화되는" },
+          { "word": "momentum", "meaning": "탄력, 기세" },
+          { "word": "allotment", "meaning": "분배지, 소규모 텃밭" }
+        ]
+      },
+      {
+        "q_id": 16,
+        "type": "detail",
+        "quiz": "What water-related advantage of vertical farming is mentioned in paragraph 2?",
+        "quiz_ko": "2단락에서 언급된 수직 농업의 물 관련 이점은?",
+        "answer1": "Vertical farms can collect rainwater to irrigate crops at no additional cost.",
+        "answer1_ko": "수직 농장은 추가 비용 없이 빗물을 모아 작물에 사용할 수 있다.",
+        "answer2": "Vertical farms produce crops that require 50 percent less water to grow.",
+        "answer2_ko": "수직 농장은 재배에 50% 적은 물이 필요한 작물을 생산한다.",
+        "answer3": "Vertical farms can purify and recycle wastewater for surrounding communities.",
+        "answer3_ko": "수직 농장은 주변 지역사회를 위해 폐수를 정화하고 재활용할 수 있다.",
+        "answer4": "Vertical farms use up to 95 percent less water than traditional agriculture.",
+        "answer4_ko": "수직 농장은 전통 농업보다 물을 최대 95% 적게 사용한다.",
+        "answer": 4,
+        "commentary": "2단락에 'these facilities use up to 95 percent less water than traditional agriculture'라고 명시되어 있습니다. up to(최대 ~까지)는 수치를 나타낼 때 자주 쓰이는 표현입니다. hydroponic(수경재배의)은 수직 농업 관련 지문에서 핵심 어휘입니다.",
+        "keywords": [
+          { "word": "hydroponic", "meaning": "수경재배의" },
+          { "word": "yield", "meaning": "수확량, 생산량" },
+          { "word": "water scarcity", "meaning": "물 부족" },
+          { "word": "LED lighting", "meaning": "LED 조명" }
+        ]
+      },
+      {
+        "q_id": 17,
+        "type": "detail",
+        "quiz": "What limitation of vertical farming is mentioned in paragraph 2?",
+        "quiz_ko": "2단락에서 언급된 수직 농업의 한계는?",
+        "answer1": "Vertical farms can only grow a limited variety of crops.",
+        "answer1_ko": "수직 농장은 제한된 종류의 작물만 재배할 수 있다.",
+        "answer2": "High setup costs and significant energy consumption are major barriers.",
+        "answer2_ko": "높은 초기 설치 비용과 상당한 에너지 소비가 주요 장벽이다.",
+        "answer3": "Vertical farms require large amounts of land that cities cannot provide.",
+        "answer3_ko": "수직 농장은 도시가 제공할 수 없는 넓은 토지를 필요로 한다.",
+        "answer4": "Crops grown in vertical farms are often lower in nutritional value.",
+        "answer4_ko": "수직 농장에서 재배된 작물은 종종 영양가가 낮다.",
+        "answer": 2,
+        "commentary": "2단락에 'the high initial setup costs and significant energy consumption required to power artificial lighting represent major barriers to widespread adoption'라고 나옵니다. represent(나타내다, ~이다)는 지텔프에서 자주 쓰이는 동사입니다. barrier(장벽)는 obstacle / challenge와 동의어입니다.",
+        "keywords": [
+          { "word": "barrier", "meaning": "장벽, 방해물" },
+          { "word": "adoption", "meaning": "채택, 도입" },
+          { "word": "artificial", "meaning": "인공적인" },
+          { "word": "setup cost", "meaning": "초기 설치 비용" }
+        ]
+      },
+      {
+        "q_id": 18,
+        "type": "detail",
+        "quiz": "According to paragraph 3, what is a 'food desert'?",
+        "quiz_ko": "3단락에 따르면, '식량 사막'이란 무엇인가?",
+        "answer1": "A region where extreme heat makes growing food impossible.",
+        "answer1_ko": "극심한 더위로 식량 재배가 불가능한 지역.",
+        "answer2": "A farming area that has been abandoned due to soil degradation.",
+        "answer2_ko": "토질 저하로 인해 방치된 농경지.",
+        "answer3": "A low-income neighborhood with limited access to fresh food.",
+        "answer3_ko": "신선한 식품에 대한 접근이 제한된 저소득 지역.",
+        "answer4": "An urban area that lacks the infrastructure for food distribution.",
+        "answer4_ko": "식품 유통 인프라가 부족한 도시 지역.",
+        "answer": 3,
+        "commentary": "3단락에 'low-income neighborhoods that are often classified as food deserts'라고 나옵니다. classified as(~로 분류된)는 described as / referred to as와 같은 의미입니다. 'food desert'가 무엇인지 맥락을 통해 파악하는 것이 핵심입니다.",
+        "keywords": [
+          { "word": "food desert", "meaning": "식량 사막(신선 식품 접근이 어려운 저소득 지역)" },
+          { "word": "classified", "meaning": "분류된" },
+          { "word": "allotment", "meaning": "분배된 텃밭" },
+          { "word": "social isolation", "meaning": "사회적 고립" }
+        ]
+      },
+      {
+        "q_id": 19,
+        "type": "detail",
+        "quiz": "What does paragraph 4 say about urban farming's ability to replace conventional agriculture?",
+        "quiz_ko": "4단락에서 도시 농업이 기존 농업을 대체하는 능력에 대해 말하는 것은?",
+        "answer1": "Urban farming cannot replace conventional agriculture as the primary food source.",
+        "answer1_ko": "도시 농업은 주요 식량 공급원으로서 기존 농업을 대체할 수 없다.",
+        "answer2": "Urban farming will completely replace conventional agriculture within 50 years.",
+        "answer2_ko": "도시 농업은 50년 이내에 기존 농업을 완전히 대체할 것이다.",
+        "answer3": "Urban farming is already producing more food than conventional agriculture in major cities.",
+        "answer3_ko": "도시 농업은 이미 주요 도시에서 기존 농업보다 더 많은 식량을 생산하고 있다.",
+        "answer4": "Experts disagree on whether urban farming can supplement conventional food systems.",
+        "answer4_ko": "전문가들은 도시 농업이 기존 식품 체계를 보완할 수 있는지에 대해 의견이 다르다.",
+        "answer": 1,
+        "commentary": "4단락에 'urban farming alone cannot replace conventional agriculture as the primary source of the world's food supply'라고 명확히 나옵니다. alone(단독으로, 그것만으로)은 제한을 나타내는 부사입니다. supplement(보완하다)는 replace(대체하다)와 반대 의미로 쓰였습니다.",
+        "keywords": [
+          { "word": "conventional", "meaning": "전통적인, 기존의" },
+          { "word": "supplement", "meaning": "보완하다, 보충하다" },
+          { "word": "resilient", "meaning": "회복력 있는, 탄력적인" },
+          { "word": "supply chain", "meaning": "공급망" }
+        ]
+      },
+      {
+        "q_id": 20,
+        "type": "vocabulary",
+        "quiz": "The word 'scarcity' in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'scarcity'와 가장 가까운 의미의 단어는?",
+        "answer1": "abundance",
+        "answer1_ko": "풍부함",
+        "answer2": "pollution",
+        "answer2_ko": "오염",
+        "answer3": "demand",
+        "answer3_ko": "수요",
+        "answer4": "shortage",
+        "answer4_ko": "부족, 결핍",
+        "answer": 4,
+        "commentary": "scarcity는 '부족, 결핍'이라는 뜻으로, shortage(부족)가 동의어입니다. 'water scarcity'는 '물 부족'을 의미합니다. 반의어는 abundance(풍부함)입니다. scarce(희귀한, 부족한)라는 형용사 형태도 함께 기억해 두세요.",
+        "keywords": [
+          { "word": "scarcity", "meaning": "부족, 결핍" },
+          { "word": "shortage", "meaning": "부족 (= scarcity)" },
+          { "word": "abundance", "meaning": "풍부함 (반의어)" },
+          { "word": "scarce", "meaning": "희귀한, 부족한" }
+        ]
+      },
+      {
+        "q_id": 21,
+        "type": "vocabulary",
+        "quiz": "The word 'intensive' in paragraph 3 is closest in meaning to:",
+        "quiz_ko": "3단락의 'intensive'와 가장 가까운 의미의 단어는?",
+        "answer1": "expensive",
+        "answer1_ko": "비싼",
+        "answer2": "demanding",
+        "answer2_ko": "많은 노력이 필요한, 집중적인",
+        "answer3": "innovative",
+        "answer3_ko": "혁신적인",
+        "answer4": "widespread",
+        "answer4_ko": "광범위한",
+        "answer": 2,
+        "commentary": "intensive는 '집중적인, 많은 자원이 필요한'이라는 뜻으로, demanding(많은 것을 요구하는)이 가장 가까운 의미입니다. 'less technologically intensive'는 '기술적으로 덜 집약적인'이라는 의미입니다. labor-intensive(노동집약적인), energy-intensive(에너지 집약적인)와 같은 복합어도 지텔프에 자주 나옵니다.",
+        "keywords": [
+          { "word": "intensive", "meaning": "집중적인, 집약적인" },
+          { "word": "labor-intensive", "meaning": "노동집약적인" },
+          { "word": "demanding", "meaning": "많은 노력이 필요한" },
+          { "word": "participation", "meaning": "참여" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 4,
+    "part": 2,
+    "passage_text": "Scientists and health researchers have long recognized the critical role that sleep plays in maintaining overall physical and mental health, yet millions of people worldwide continue to fall short of the recommended seven to nine hours of sleep per night. A comprehensive review of sleep research published in the journal Nature Reviews Neuroscience concluded that chronic sleep deprivation has far-reaching consequences for cognitive functioning, emotional regulation, and long-term health outcomes. The researchers emphasized that sleep is not a passive state of rest, but rather an active biological process essential for the maintenance of brain function.\n\nAmong the most well-documented effects of adequate sleep is its role in memory consolidation. During the rapid eye movement, or REM, phase of sleep, the brain systematically processes and stores the information accumulated throughout the day, transferring short-term memories into long-term storage. Disrupting this process through insufficient sleep has been shown to impair learning ability and reduce creative problem-solving capacity. A separate study conducted by Stanford University found that employees who slept fewer than six hours per night made 20 percent more errors in complex decision-making tasks than those who slept seven hours or more.\n\nRecent years have seen a growing interest in the use of melatonin supplements as a remedy for sleep difficulties. Melatonin, a hormone naturally produced by the brain in response to darkness, plays a key role in regulating the body's circadian rhythm. While low doses of melatonin supplements may help some individuals fall asleep more quickly, sleep scientists caution that supplements should not be viewed as a substitute for developing healthy sleep habits. Excessive use of melatonin has been associated with daytime drowsiness and may interfere with the body's natural hormone production over time.\n\nTo improve sleep quality, leading sleep researchers recommend maintaining a consistent sleep schedule, limiting exposure to blue light from screens in the hours before bedtime, and avoiding caffeine consumption after midday. They also note that short naps of twenty to thirty minutes can partially offset the effects of mild sleep deprivation without disrupting nighttime sleep. Ultimately, experts stress that addressing sleep deprivation at a societal level — through workplace policies, school start times, and public health campaigns — is essential for improving population health.",
+    "questions": [
+      {
+        "q_id": 22,
+        "type": "detail",
+        "quiz": "What did the review published in Nature Reviews Neuroscience conclude about sleep deprivation?",
+        "quiz_ko": "Nature Reviews Neuroscience에 발표된 리뷰는 수면 부족에 대해 무엇을 결론지었나?",
+        "answer1": "Sleep deprivation mainly affects physical health and has little impact on mental functioning.",
+        "answer1_ko": "수면 부족은 주로 신체 건강에 영향을 미치며 정신 기능에는 거의 영향이 없다.",
+        "answer2": "Most adults can function normally with less than six hours of sleep per night.",
+        "answer2_ko": "대부분의 성인들은 하루 6시간 미만의 수면으로도 정상적으로 기능할 수 있다.",
+        "answer3": "Sleep deprivation was found to have no significant impact on long-term health.",
+        "answer3_ko": "수면 부족은 장기적인 건강에 유의미한 영향을 미치지 않는 것으로 밝혀졌다.",
+        "answer4": "Chronic sleep deprivation has far-reaching consequences for cognitive and emotional functioning.",
+        "answer4_ko": "만성 수면 부족은 인지 및 감정 기능에 광범위한 결과를 초래한다.",
+        "answer": 4,
+        "commentary": "1단락에 'chronic sleep deprivation has far-reaching consequences for cognitive functioning, emotional regulation, and long-term health outcomes'라고 나옵니다. far-reaching(광범위한, 영향이 큰)은 지텔프 독해에서 자주 등장하는 형용사입니다. chronic(만성적인)도 반드시 알아두어야 합니다.",
+        "keywords": [
+          { "word": "chronic", "meaning": "만성적인, 오랜" },
+          { "word": "far-reaching", "meaning": "광범위한, 영향력이 큰" },
+          { "word": "cognitive", "meaning": "인지의, 인지 능력과 관련된" },
+          { "word": "deprivation", "meaning": "결핍, 박탈" }
+        ]
+      },
+      {
+        "q_id": 23,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what is the primary function of REM sleep?",
+        "quiz_ko": "2단락에 따르면, 렘수면의 주요 기능은?",
+        "answer1": "Restoring physical energy and repairing muscle tissue damaged during the day.",
+        "answer1_ko": "신체 에너지를 회복하고 낮 동안 손상된 근육 조직을 복구하는 것.",
+        "answer2": "Processing and storing information to consolidate memories.",
+        "answer2_ko": "정보를 처리하고 저장하여 기억을 강화하는 것.",
+        "answer3": "Regulating body temperature and controlling heart rate.",
+        "answer3_ko": "체온을 조절하고 심박수를 제어하는 것.",
+        "answer4": "Producing hormones that regulate appetite and metabolism.",
+        "answer4_ko": "식욕과 대사를 조절하는 호르몬을 생성하는 것.",
+        "answer": 2,
+        "commentary": "2단락에 'During the REM phase of sleep, the brain systematically processes and stores the information accumulated throughout the day, transferring short-term memories into long-term storage'라고 나옵니다. consolidation(강화, 통합)은 이 지문의 핵심 어휘로, '기억 강화'를 의미합니다.",
+        "keywords": [
+          { "word": "consolidation", "meaning": "강화, 통합" },
+          { "word": "REM sleep", "meaning": "렘수면(급속 안구 운동 수면)" },
+          { "word": "impair", "meaning": "손상시키다, 약화시키다" },
+          { "word": "accumulate", "meaning": "축적되다, 쌓이다" }
+        ]
+      },
+      {
+        "q_id": 24,
+        "type": "detail",
+        "quiz": "What did the Stanford University study find about sleep-deprived employees?",
+        "quiz_ko": "스탠퍼드 대학교 연구는 수면이 부족한 직원들에 대해 무엇을 발견했나?",
+        "answer1": "They were more likely to arrive late to work.",
+        "answer1_ko": "그들은 직장에 지각할 가능성이 더 높았다.",
+        "answer2": "They reported higher levels of job satisfaction despite their fatigue.",
+        "answer2_ko": "그들은 피로에도 불구하고 더 높은 직업 만족도를 보고했다.",
+        "answer3": "They made 20 percent more errors in complex decision-making tasks.",
+        "answer3_ko": "그들은 복잡한 의사 결정 작업에서 20% 더 많은 실수를 했다.",
+        "answer4": "They showed decreased creativity but improved attention to detail.",
+        "answer4_ko": "그들은 창의성은 감소했지만 세부 사항에 대한 주의력은 향상되었다.",
+        "answer": 3,
+        "commentary": "2단락에 'employees who slept fewer than six hours per night made 20 percent more errors in complex decision-making tasks'라고 나옵니다. 수치가 포함된 문장은 지텔프 세부 사항 문제에서 자주 출제 포인트가 됩니다. decision-making(의사 결정)도 중요한 복합명사입니다.",
+        "keywords": [
+          { "word": "error", "meaning": "실수, 오류" },
+          { "word": "decision-making", "meaning": "의사 결정" },
+          { "word": "capacity", "meaning": "능력, 역량" },
+          { "word": "insufficient", "meaning": "불충분한" }
+        ]
+      },
+      {
+        "q_id": 25,
+        "type": "detail",
+        "quiz": "What does paragraph 3 say about melatonin supplements?",
+        "quiz_ko": "3단락에서 멜라토닌 보충제에 대해 말하는 것은?",
+        "answer1": "They should not be considered a replacement for healthy sleep habits.",
+        "answer1_ko": "건강한 수면 습관의 대체품으로 간주해서는 안 된다.",
+        "answer2": "They are the most effective treatment for chronic insomnia.",
+        "answer2_ko": "만성 불면증에 가장 효과적인 치료법이다.",
+        "answer3": "They should be taken in high doses to be effective.",
+        "answer3_ko": "효과를 발휘하려면 고용량으로 복용해야 한다.",
+        "answer4": "They have no side effects when used as directed.",
+        "answer4_ko": "지시대로 사용하면 부작용이 없다.",
+        "answer": 1,
+        "commentary": "3단락에 'sleep scientists caution that supplements should not be viewed as a substitute for developing healthy sleep habits'라고 나옵니다. substitute for(~의 대체물)는 replacement for와 같은 의미입니다. caution(주의를 주다)은 warn과 동의어로 지텔프에 자주 출제됩니다.",
+        "keywords": [
+          { "word": "melatonin", "meaning": "멜라토닌(수면 호르몬)" },
+          { "word": "circadian rhythm", "meaning": "일주기 리듬, 생체 시계" },
+          { "word": "substitute", "meaning": "대체물, 대용품" },
+          { "word": "drowsiness", "meaning": "졸음, 나른함" }
+        ]
+      },
+      {
+        "q_id": 26,
+        "type": "detail",
+        "quiz": "What does paragraph 4 recommend as a way to partially offset mild sleep deprivation?",
+        "quiz_ko": "4단락에서 경미한 수면 부족을 부분적으로 보충하는 방법으로 권장하는 것은?",
+        "answer1": "Taking high doses of melatonin before bedtime.",
+        "answer1_ko": "취침 전 고용량 멜라토닌을 복용하는 것.",
+        "answer2": "Drinking caffeine in the morning to increase alertness.",
+        "answer2_ko": "아침에 카페인을 마셔 각성도를 높이는 것.",
+        "answer3": "Exercising vigorously for at least one hour each day.",
+        "answer3_ko": "매일 최소 1시간 활발하게 운동하는 것.",
+        "answer4": "Taking short naps of twenty to thirty minutes.",
+        "answer4_ko": "20~30분의 짧은 낮잠을 자는 것.",
+        "answer": 4,
+        "commentary": "4단락에 'short naps of twenty to thirty minutes can partially offset the effects of mild sleep deprivation without disrupting nighttime sleep'이라고 나옵니다. offset(상쇄하다, 보충하다)은 compensate for와 같은 의미입니다. partially(부분적으로)는 정도를 한정하는 중요한 부사입니다.",
+        "keywords": [
+          { "word": "offset", "meaning": "상쇄하다, 보충하다" },
+          { "word": "disrupting", "meaning": "방해하는, 지장을 주는" },
+          { "word": "blue light", "meaning": "청색광(화면에서 나오는 빛)" },
+          { "word": "consistent", "meaning": "일관된, 꾸준한" }
+        ]
+      },
+      {
+        "q_id": 27,
+        "type": "vocabulary",
+        "quiz": "The word 'consolidation' in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'consolidation'과 가장 가까운 의미의 단어는?",
+        "answer1": "deletion",
+        "answer1_ko": "삭제",
+        "answer2": "strengthening",
+        "answer2_ko": "강화, 굳히기",
+        "answer3": "transmission",
+        "answer3_ko": "전달, 전송",
+        "answer4": "stimulation",
+        "answer4_ko": "자극",
+        "answer": 2,
+        "commentary": "consolidation은 '통합, 강화'라는 뜻으로, strengthening(강화)이 가장 가까운 의미입니다. 'memory consolidation'은 '기억 강화'로, 뇌가 단기 기억을 장기 기억으로 굳히는 과정을 말합니다. consolidate(통합하다, 강화하다)라는 동사 형태도 함께 기억해 두세요.",
+        "keywords": [
+          { "word": "consolidation", "meaning": "통합, 강화" },
+          { "word": "consolidate", "meaning": "통합하다, 강화하다" },
+          { "word": "short-term memory", "meaning": "단기 기억" },
+          { "word": "long-term storage", "meaning": "장기 저장" }
+        ]
+      },
+      {
+        "q_id": 28,
+        "type": "vocabulary",
+        "quiz": "The word 'impair' in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'impair'와 가장 가까운 의미의 단어는?",
+        "answer1": "enhance",
+        "answer1_ko": "향상시키다",
+        "answer2": "measure",
+        "answer2_ko": "측정하다",
+        "answer3": "damage",
+        "answer3_ko": "손상시키다",
+        "answer4": "restore",
+        "answer4_ko": "회복시키다",
+        "answer": 3,
+        "commentary": "impair는 '손상시키다, 약화시키다'라는 뜻으로, damage(손상시키다)가 동의어입니다. 'impair learning ability'는 '학습 능력을 손상시키다'라는 의미입니다. impairment(손상, 장애)라는 명사 형태도 함께 알아두세요. 반의어는 enhance / improve(향상시키다)입니다.",
+        "keywords": [
+          { "word": "impair", "meaning": "손상시키다, 약화시키다" },
+          { "word": "impairment", "meaning": "손상, 장애" },
+          { "word": "enhance", "meaning": "향상시키다 (반의어)" },
+          { "word": "neuroscience", "meaning": "신경과학" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 5,
+    "part": 2,
+    "passage_text": "Microplastics — tiny fragments of plastic measuring less than five millimeters in diameter — have become one of the most pervasive forms of pollution on the planet. Originally derived from the gradual breakdown of larger plastic items such as bottles, bags, and packaging materials, these microscopic particles have now been detected in virtually every ecosystem on Earth, from the deepest ocean trenches to the peaks of remote mountain ranges. Researchers estimate that over eight million metric tons of plastic enter the world's oceans each year, where they slowly degrade into smaller and smaller fragments over decades.\n\nThe consequences for marine ecosystems are particularly alarming. Studies have shown that microplastics are readily ingested by a wide range of marine organisms, from microscopic zooplankton to large sea turtles and whales. Once consumed, these particles tend to accumulate in the fatty tissues of animals and can transfer up the food chain through a process known as biomagnification. This means that predators at the top of the marine food chain — including many species consumed by humans — may carry significantly higher concentrations of microplastics than the organisms they prey on.\n\nRecent scientific investigations have revealed that microplastics are no longer confined to the marine environment. Researchers have detected these particles in human blood samples, lung tissue, and even in placentas collected from pregnant women. While the full health implications of this internal exposure remain poorly understood, some laboratory studies have suggested that certain types of plastic particles and the chemical additives they carry may disrupt hormonal systems and trigger inflammatory responses in human tissue.\n\nIn response to growing concern, scientists and policymakers have called for a combination of measures to address the plastic pollution crisis. These include drastically reducing the production and use of single-use plastics, improving global waste management infrastructure, and investing in the development of biodegradable alternatives to conventional plastics. International agreements, such as the proposed global plastics treaty being negotiated under the United Nations Environment Programme, are seen as critical tools for coordinating a worldwide response to this escalating problem.",
+    "questions": [
+      {
+        "q_id": 29,
+        "type": "detail",
+        "quiz": "According to paragraph 1, where have microplastics been detected?",
+        "quiz_ko": "1단락에 따르면, 미세 플라스틱이 발견된 곳은?",
+        "answer1": "Only in densely populated urban river systems.",
+        "answer1_ko": "인구 밀집 도시 하천 시스템에서만.",
+        "answer2": "In virtually every ecosystem, from ocean trenches to mountain peaks.",
+        "answer2_ko": "해저 해구에서 산꼭대기까지 사실상 모든 생태계에서.",
+        "answer3": "Primarily in coastal waters near industrialized nations.",
+        "answer3_ko": "주로 산업화된 국가 인근의 연안 수역에서.",
+        "answer4": "Mostly in landfills and waste treatment facilities.",
+        "answer4_ko": "주로 매립지와 폐기물 처리 시설에서.",
+        "answer": 2,
+        "commentary": "1단락에 'these microscopic particles have now been detected in virtually every ecosystem on Earth, from the deepest ocean trenches to the peaks of remote mountain ranges'라고 나옵니다. virtually(사실상, 거의)는 almost와 동의어로 지텔프에 자주 등장합니다.",
+        "keywords": [
+          { "word": "microplastic", "meaning": "미세 플라스틱" },
+          { "word": "virtually", "meaning": "사실상, 거의" },
+          { "word": "degrade", "meaning": "분해되다, 저하되다" },
+          { "word": "pervasive", "meaning": "만연한, 퍼져있는" }
+        ]
+      },
+      {
+        "q_id": 30,
+        "type": "detail",
+        "quiz": "What is 'biomagnification' as described in paragraph 2?",
+        "quiz_ko": "2단락에서 설명된 '생물 농축'이란?",
+        "answer1": "The process by which microplastics break down into smaller particles in water.",
+        "answer1_ko": "미세 플라스틱이 물 속에서 더 작은 입자로 분해되는 과정.",
+        "answer2": "A method used to measure the concentration of plastics in marine tissue.",
+        "answer2_ko": "해양 조직 내 플라스틱 농도를 측정하는 데 사용되는 방법.",
+        "answer3": "The process through which pollutants increase in concentration as they move up the food chain.",
+        "answer3_ko": "오염 물질이 먹이 사슬을 따라 올라가면서 농도가 증가하는 과정.",
+        "answer4": "The natural filtering mechanism that marine ecosystems use to remove plastics.",
+        "answer4_ko": "해양 생태계가 플라스틱을 제거하는 데 사용하는 자연 여과 메커니즘.",
+        "answer": 3,
+        "commentary": "2단락에 'predators at the top of the marine food chain may carry significantly higher concentrations of microplastics than the organisms they prey on'이라는 설명이 biomagnification에 대한 것입니다. 먹이 사슬 상위로 갈수록 농도가 높아진다는 개념을 파악하는 것이 핵심입니다.",
+        "keywords": [
+          { "word": "biomagnification", "meaning": "생물 농축(먹이 사슬에서 오염물질 농도 증가)" },
+          { "word": "ingest", "meaning": "섭취하다" },
+          { "word": "accumulate", "meaning": "축적되다" },
+          { "word": "predator", "meaning": "포식자" }
+        ]
+      },
+      {
+        "q_id": 31,
+        "type": "detail",
+        "quiz": "According to paragraph 3, where have microplastics been detected in the human body?",
+        "quiz_ko": "3단락에 따르면, 미세 플라스틱이 인체 내 발견된 곳은?",
+        "answer1": "In blood, lung tissue, and placentas.",
+        "answer1_ko": "혈액, 폐 조직, 태반에서.",
+        "answer2": "Only in the digestive system and intestinal walls.",
+        "answer2_ko": "소화 시스템과 장벽에서만.",
+        "answer3": "Primarily in the kidneys and liver of elderly patients.",
+        "answer3_ko": "주로 노인 환자의 신장과 간에서.",
+        "answer4": "In hair follicles and skin cells exposed to sunlight.",
+        "answer4_ko": "햇빛에 노출된 모낭과 피부 세포에서.",
+        "answer": 1,
+        "commentary": "3단락에 'Researchers have detected these particles in human blood samples, lung tissue, and even in placentas collected from pregnant women'이라고 나옵니다. even(심지어)은 놀라운 사실을 강조할 때 쓰이며, 이 경우 placenta(태반)에서까지 발견됐다는 점이 핵심입니다.",
+        "keywords": [
+          { "word": "placenta", "meaning": "태반" },
+          { "word": "inflammatory", "meaning": "염증을 유발하는" },
+          { "word": "hormonal", "meaning": "호르몬의" },
+          { "word": "additive", "meaning": "첨가물" }
+        ]
+      },
+      {
+        "q_id": 32,
+        "type": "detail",
+        "quiz": "What health risks do some laboratory studies suggest about microplastics?",
+        "quiz_ko": "일부 실험실 연구들이 미세 플라스틱에 대해 제안하는 건강 위험은?",
+        "answer1": "Microplastics may directly cause respiratory diseases in children.",
+        "answer1_ko": "미세 플라스틱은 어린이에게 직접 호흡기 질환을 일으킬 수 있다.",
+        "answer2": "They may increase the risk of developing certain types of cancer.",
+        "answer2_ko": "특정 유형의 암 발병 위험을 높일 수 있다.",
+        "answer3": "Microplastics could damage eyesight when airborne particles are inhaled.",
+        "answer3_ko": "공기 중 입자가 흡입될 때 시력을 손상시킬 수 있다.",
+        "answer4": "They may disrupt hormonal systems and trigger inflammatory responses.",
+        "answer4_ko": "호르몬 시스템을 교란하고 염증 반응을 유발할 수 있다.",
+        "answer": 4,
+        "commentary": "3단락에 'certain types of plastic particles and the chemical additives they carry may disrupt hormonal systems and trigger inflammatory responses in human tissue'라고 나옵니다. disrupt(교란하다, 방해하다)와 trigger(유발하다, 촉발하다)는 지텔프 독해에서 자주 나오는 동사입니다.",
+        "keywords": [
+          { "word": "disrupt", "meaning": "교란하다, 방해하다" },
+          { "word": "trigger", "meaning": "유발하다, 촉발하다" },
+          { "word": "exposure", "meaning": "노출" },
+          { "word": "implication", "meaning": "영향, 함의" }
+        ]
+      },
+      {
+        "q_id": 33,
+        "type": "detail",
+        "quiz": "What international effort is mentioned in paragraph 4 to address plastic pollution?",
+        "quiz_ko": "4단락에서 플라스틱 오염을 해결하기 위해 언급된 국제적 노력은?",
+        "answer1": "A worldwide ban on the manufacture of all plastic products.",
+        "answer1_ko": "모든 플라스틱 제품 제조에 대한 전 세계적 금지.",
+        "answer2": "Mandatory ocean cleanup programs funded by major plastic producers.",
+        "answer2_ko": "주요 플라스틱 생산업체들이 자금을 지원하는 의무적인 해양 정화 프로그램.",
+        "answer3": "A global plastics treaty being negotiated through the United Nations.",
+        "answer3_ko": "유엔을 통해 협상 중인 글로벌 플라스틱 조약.",
+        "answer4": "A new international fund to develop biodegradable plastic alternatives.",
+        "answer4_ko": "생분해 가능한 플라스틱 대안 개발을 위한 새로운 국제 기금.",
+        "answer": 3,
+        "commentary": "4단락에 'the proposed global plastics treaty being negotiated under the United Nations Environment Programme'라고 나옵니다. treaty(조약)은 agreement / accord와 동의어입니다. negotiate(협상하다)도 지텔프에 자주 나오는 어휘입니다.",
+        "keywords": [
+          { "word": "treaty", "meaning": "조약, 협약" },
+          { "word": "biodegradable", "meaning": "생분해 가능한" },
+          { "word": "single-use", "meaning": "일회용의" },
+          { "word": "escalating", "meaning": "점점 심화되는, 확대되는" }
+        ]
+      },
+      {
+        "q_id": 34,
+        "type": "vocabulary",
+        "quiz": "The word 'pervasive' in paragraph 1 is closest in meaning to:",
+        "quiz_ko": "1단락의 'pervasive'와 가장 가까운 의미의 단어는?",
+        "answer1": "widespread",
+        "answer1_ko": "광범위한, 만연한",
+        "answer2": "invisible",
+        "answer2_ko": "눈에 보이지 않는",
+        "answer3": "toxic",
+        "answer3_ko": "독성이 있는",
+        "answer4": "fragile",
+        "answer4_ko": "깨지기 쉬운, 취약한",
+        "answer": 1,
+        "commentary": "pervasive는 '만연한, 어디에나 퍼져있는'이라는 뜻으로, widespread(광범위한)이 동의어입니다. 'one of the most pervasive forms of pollution'은 '가장 광범위하게 퍼진 오염 형태 중 하나'라는 의미입니다. pervade(퍼지다, 만연하다)라는 동사 형태도 기억해 두세요.",
+        "keywords": [
+          { "word": "pervasive", "meaning": "만연한, 어디에나 있는" },
+          { "word": "pervade", "meaning": "퍼지다, 만연하다" },
+          { "word": "widespread", "meaning": "광범위한 (= pervasive)" },
+          { "word": "ecosystem", "meaning": "생태계" }
+        ]
+      },
+      {
+        "q_id": 35,
+        "type": "vocabulary",
+        "quiz": "The word 'confined' in paragraph 3 is closest in meaning to:",
+        "quiz_ko": "3단락의 'confined'와 가장 가까운 의미의 표현은?",
+        "answer1": "discovered",
+        "answer1_ko": "발견된",
+        "answer2": "removed",
+        "answer2_ko": "제거된",
+        "answer3": "spread",
+        "answer3_ko": "퍼진",
+        "answer4": "limited or restricted to",
+        "answer4_ko": "~에만 국한된, 제한된",
+        "answer": 4,
+        "commentary": "confined는 '한정된, ~에만 국한된'이라는 뜻으로, 'limited or restricted to'가 가장 잘 설명합니다. 'no longer confined to the marine environment'는 '더 이상 해양 환경에만 국한되지 않는다'는 의미입니다. confine(한정하다, 가두다)이라는 동사 형태도 함께 익혀 두세요.",
+        "keywords": [
+          { "word": "confined", "meaning": "한정된, 국한된" },
+          { "word": "confine", "meaning": "한정하다, 가두다" },
+          { "word": "investigation", "meaning": "조사, 연구" },
+          { "word": "internal", "meaning": "내부의" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 6,
+    "part": 2,
+    "passage_text": "Artificial intelligence is rapidly transforming the field of modern medicine, offering tools that can analyze complex medical data far faster than human physicians. Machine learning algorithms are now capable of identifying patterns in radiological scans, pathology slides, and patient records with a level of accuracy that rivals, and in some cases exceeds, that of experienced specialists. Hospitals and research institutions around the world have begun integrating AI-powered diagnostic tools into their daily workflows, signaling what many consider to be a fundamental shift in how healthcare is delivered.\n\nOne of the most promising applications of AI in medicine is in radiology, where algorithms trained on millions of images can detect tumors, fractures, and early signs of disease with remarkable precision. In the field of drug discovery, AI systems can analyze vast databases of molecular compounds to identify potential therapeutic candidates in a fraction of the time required by conventional research methods. Personalized medicine represents another frontier, with AI platforms designed to augment the physician's decision-making by incorporating a patient's genetic profile, lifestyle data, and medical history to tailor treatment plans uniquely suited to the individual.\n\nDespite these advances, significant challenges remain. Critics have raised concerns about the transparency of AI decision-making processes, often described as 'black box' systems that produce results without providing clear explanations. Studies have also documented cases in which AI diagnostic systems performed poorly for certain demographic groups, reflecting biases present in the training data. The risk of over-reliance on AI recommendations, potentially replacing rather than supporting clinical judgment, has prompted calls for careful validation before widespread deployment in sensitive medical settings.\n\nRegulatory agencies around the world are now placing AI-based medical devices under increasing scrutiny as they work to establish frameworks governing the development and deployment of such technology. In the United States, the Food and Drug Administration has approved dozens of AI-based medical devices but acknowledged that existing regulations were not designed with AI's unique characteristics in mind. Many healthcare experts argue that the path forward involves neither uncritical adoption nor wholesale rejection of AI, but rather a thoughtful integration that keeps human expertise at the center of patient care.",
+    "questions": [
+      {
+        "q_id": 36,
+        "type": "detail",
+        "quiz": "What does paragraph 1 state about the accuracy of machine learning algorithms in medicine?",
+        "quiz_ko": "1단락에서 의학 분야 머신 러닝 알고리즘의 정확도에 대해 언급한 내용은?",
+        "answer1": "They are less reliable than conventional medical tests.",
+        "answer1_ko": "기존 의료 검사보다 신뢰성이 낮다.",
+        "answer2": "They consistently outperform all human specialists in every medical field.",
+        "answer2_ko": "모든 의료 분야에서 인간 전문가를 지속적으로 능가한다.",
+        "answer3": "Their accuracy can rival or even exceed that of experienced specialists.",
+        "answer3_ko": "그 정확도가 숙련된 전문가에 필적하거나 그를 능가하기도 한다.",
+        "answer4": "They are primarily effective only when applied to administrative hospital records.",
+        "answer4_ko": "주로 병원 행정 기록에만 적용될 때 효과적이다.",
+        "answer": 3,
+        "commentary": "1단락에 'Machine learning algorithms are now capable of identifying patterns...with a level of accuracy that rivals, and in some cases exceeds, that of experienced specialists'라고 나옵니다. rival(~에 필적하다)은 match / equal과 동의어입니다.",
+        "keywords": [
+          { "word": "rival", "meaning": "~에 필적하다" },
+          { "word": "algorithm", "meaning": "알고리즘" },
+          { "word": "radiological", "meaning": "방사선의" },
+          { "word": "integrate", "meaning": "통합하다" }
+        ]
+      },
+      {
+        "q_id": 37,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what advantage does AI offer in drug discovery?",
+        "quiz_ko": "2단락에 따르면, AI가 신약 개발에서 제공하는 이점은?",
+        "answer1": "It can rapidly scan molecular databases to identify potential therapeutic candidates.",
+        "answer1_ko": "분자 데이터베이스를 신속하게 분석해 잠재적 치료 후보물질을 식별할 수 있다.",
+        "answer2": "It automatically synthesizes and tests new drugs in laboratory settings.",
+        "answer2_ko": "실험실 환경에서 새로운 약물을 자동으로 합성하고 테스트한다.",
+        "answer3": "It replaces the need for clinical trials by simulating patient responses.",
+        "answer3_ko": "환자 반응을 시뮬레이션하여 임상 시험의 필요성을 대체한다.",
+        "answer4": "It directly administers experimental compounds to patients with rare diseases.",
+        "answer4_ko": "희귀 질환 환자에게 실험적 화합물을 직접 투여한다.",
+        "answer": 1,
+        "commentary": "2단락에 'AI systems can analyze vast databases of molecular compounds to identify potential therapeutic candidates in a fraction of the time required by conventional research methods'라고 나옵니다. a fraction of the time(훨씬 짧은 시간에)은 속도의 우위를 강조하는 표현입니다.",
+        "keywords": [
+          { "word": "molecular", "meaning": "분자의" },
+          { "word": "therapeutic", "meaning": "치료의" },
+          { "word": "candidate", "meaning": "후보물질" },
+          { "word": "conventional", "meaning": "기존의, 전통적인" }
+        ]
+      },
+      {
+        "q_id": 38,
+        "type": "detail",
+        "quiz": "What specific problem with AI diagnostic systems is documented in paragraph 3?",
+        "quiz_ko": "3단락에서 기록된 AI 진단 시스템의 구체적인 문제는?",
+        "answer1": "AI systems frequently malfunction due to poor software engineering.",
+        "answer1_ko": "AI 시스템은 불량한 소프트웨어 공학으로 인해 자주 오작동한다.",
+        "answer2": "They require far more energy than conventional diagnostic equipment.",
+        "answer2_ko": "기존 진단 장비보다 훨씬 많은 에너지가 필요하다.",
+        "answer3": "AI tools have been shown to slow down hospital diagnostic workflows.",
+        "answer3_ko": "AI 도구가 병원 진단 작업 흐름을 느리게 하는 것으로 나타났다.",
+        "answer4": "Some AI systems have performed poorly for certain demographic groups due to biased training data.",
+        "answer4_ko": "일부 AI 시스템은 편향된 훈련 데이터로 인해 특정 인구 집단에서 성능이 낮다.",
+        "answer": 4,
+        "commentary": "3단락에 'Studies have also documented cases in which AI diagnostic systems performed poorly for certain demographic groups, reflecting biases present in the training data'라고 나옵니다. demographic(인구 통계학적)과 bias(편향)는 지텔프에서 자주 나오는 어휘입니다.",
+        "keywords": [
+          { "word": "demographic", "meaning": "인구 통계학적" },
+          { "word": "bias", "meaning": "편향" },
+          { "word": "transparency", "meaning": "투명성" },
+          { "word": "deployment", "meaning": "배치, 활용" }
+        ]
+      },
+      {
+        "q_id": 39,
+        "type": "detail",
+        "quiz": "What position do many healthcare experts take in paragraph 4?",
+        "quiz_ko": "4단락에서 많은 의료 전문가들이 취하는 입장은?",
+        "answer1": "AI must be completely removed from clinical environments immediately.",
+        "answer1_ko": "AI는 즉시 임상 환경에서 완전히 제거되어야 한다.",
+        "answer2": "AI should be carefully integrated while keeping human expertise central to care.",
+        "answer2_ko": "AI는 인간 전문성을 치료의 중심에 두면서 신중하게 통합되어야 한다.",
+        "answer3": "Regulatory agencies alone should decide how AI is used in medicine.",
+        "answer3_ko": "규제 기관만이 의학에서 AI가 어떻게 사용될지 결정해야 한다.",
+        "answer4": "Medical AI should be adopted as broadly and quickly as possible.",
+        "answer4_ko": "의료 AI는 가능한 한 광범위하고 빠르게 채택되어야 한다.",
+        "answer": 2,
+        "commentary": "4단락에 'the path forward involves neither uncritical adoption nor wholesale rejection of AI, but rather a thoughtful integration that keeps human expertise at the center of patient care'라고 나옵니다. neither A nor B(A도 B도 아닌) 구문은 중립적 입장을 표명할 때 자주 쓰입니다.",
+        "keywords": [
+          { "word": "wholesale", "meaning": "전면적인" },
+          { "word": "rejection", "meaning": "거부, 거절" },
+          { "word": "thoughtful", "meaning": "신중한" },
+          { "word": "expertise", "meaning": "전문성" }
+        ]
+      },
+      {
+        "q_id": 40,
+        "type": "detail",
+        "quiz": "What field of medicine is specifically mentioned in paragraph 2 as an area where AI detects disease early?",
+        "quiz_ko": "2단락에서 AI가 조기에 질병을 감지하는 분야로 구체적으로 언급된 의학 분야는?",
+        "answer1": "Cardiology, where AI monitors heartbeat irregularities in real time.",
+        "answer1_ko": "AI가 부정맥을 실시간으로 모니터링하는 심장학.",
+        "answer2": "Neurology, where AI identifies brain activity patterns in cognitive disorders.",
+        "answer2_ko": "AI가 인지 장애에서 뇌 활동 패턴을 식별하는 신경학.",
+        "answer3": "Radiology, where algorithms trained on images can detect tumors and fractures.",
+        "answer3_ko": "이미지로 훈련된 알고리즘이 종양과 골절을 감지할 수 있는 방사선학.",
+        "answer4": "Orthopedics, where AI designs custom joint replacement procedures.",
+        "answer4_ko": "AI가 맞춤형 관절 교체 절차를 설계하는 정형외과.",
+        "answer": 3,
+        "commentary": "2단락에 'One of the most promising applications of AI in medicine is in radiology, where algorithms trained on millions of images can detect tumors, fractures, and early signs of disease with remarkable precision'이라고 나옵니다. precision(정밀도)은 accuracy와 동의어입니다.",
+        "keywords": [
+          { "word": "radiology", "meaning": "방사선학" },
+          { "word": "precision", "meaning": "정밀도" },
+          { "word": "tumor", "meaning": "종양" },
+          { "word": "fracture", "meaning": "골절" }
+        ]
+      },
+      {
+        "q_id": 41,
+        "type": "vocabulary",
+        "quiz": "The word \"augment\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'augment'와 가장 가까운 의미의 표현은?",
+        "answer1": "eliminate",
+        "answer1_ko": "제거하다",
+        "answer2": "examine",
+        "answer2_ko": "검사하다, 조사하다",
+        "answer3": "replace",
+        "answer3_ko": "대체하다",
+        "answer4": "enhance or supplement",
+        "answer4_ko": "향상시키다, 보완하다",
+        "answer": 4,
+        "commentary": "augment는 '증대시키다, 보완하다'라는 뜻으로 enhance or supplement가 가장 유사합니다. 'designed to augment the physician's decision-making'에서 AI가 의사의 판단을 '대체'하는 것이 아니라 '보완·향상'한다는 문맥이 핵심입니다. augmented reality(증강 현실)에서도 같은 어근이 쓰입니다.",
+        "keywords": [
+          { "word": "augment", "meaning": "증대시키다, 보완하다" },
+          { "word": "supplement", "meaning": "보완하다" },
+          { "word": "enhance", "meaning": "향상시키다" },
+          { "word": "complement", "meaning": "보완하다, 보완물" }
+        ]
+      },
+      {
+        "q_id": 42,
+        "type": "vocabulary",
+        "quiz": "The word \"scrutiny\" in paragraph 4 is closest in meaning to:",
+        "quiz_ko": "4단락의 'scrutiny'와 가장 가까운 의미의 표현은?",
+        "answer1": "approval",
+        "answer1_ko": "승인, 인가",
+        "answer2": "careful examination or oversight",
+        "answer2_ko": "면밀한 검토, 감독",
+        "answer3": "financial investment",
+        "answer3_ko": "재정적 투자",
+        "answer4": "public criticism",
+        "answer4_ko": "공개적 비판",
+        "answer": 2,
+        "commentary": "scrutiny는 '면밀한 검토, 감시'라는 뜻으로 careful examination or oversight가 가장 가깝습니다. 'placing AI-based medical devices under increasing scrutiny'는 '더 강화된 감시 하에 두다'는 의미입니다. scrutinize(면밀히 검토하다)라는 동사 형태도 함께 기억하세요.",
+        "keywords": [
+          { "word": "scrutiny", "meaning": "면밀한 검토, 감시" },
+          { "word": "scrutinize", "meaning": "면밀히 검토하다" },
+          { "word": "oversight", "meaning": "감독" },
+          { "word": "regulatory", "meaning": "규제의" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 7,
+    "part": 2,
+    "passage_text": "Climate change is posing an increasingly serious threat to global agricultural systems, challenging humanity's ability to produce enough food for a growing world population. Rising temperatures, shifting precipitation patterns, and more frequent extreme weather events are disrupting crop cycles that farmers have relied upon for generations. According to the United Nations Food and Agriculture Organization, the world will need to produce approximately 70 percent more food by 2050 to meet the demands of a projected population of nearly ten billion people, making the vulnerability of current agricultural systems to climate variability a critical global concern.\n\nThe effects of climate change on farming are already being felt across every inhabited continent. In sub-Saharan Africa, prolonged droughts have devastated harvests and threatened the livelihoods of smallholder farmers who depend almost entirely on rainfall for irrigation. Meanwhile, in coastal regions of South and Southeast Asia, rising sea levels and increased flooding have contaminated fertile agricultural land with saltwater, rendering once-productive fields barren. Perhaps most disruptively, erratic seasonal shifts have thrown off the timing of planting and harvesting, confusing both crops and the agricultural calendars that have guided farming practices for centuries.\n\nIn response, researchers and agronomists are developing a range of adaptive strategies to help farmers cope with a more hostile climate. Drought-resistant and heat-tolerant crop varieties have shown considerable promise, with several genetically modified strains already in use in parts of Africa and Asia. Precision agriculture, which uses satellite data, sensors, and AI-driven analytics to optimize the use of water, fertilizer, and pesticides, is emerging as a cost-effective approach to maximizing yields while minimizing environmental impact. Agroforestry — the practice of integrating trees into farmland to provide shade and prevent soil erosion — is also gaining traction among sustainability advocates.\n\nNevertheless, experts caution that technological solutions alone are insufficient to mitigate the full impact of climate-related agricultural disruption. Effective policy responses, including international cooperation on carbon emission reductions and dedicated climate adaptation funds for vulnerable nations, are seen as essential complements to on-the-ground innovation. Without coordinated global action, the burden of food insecurity will fall disproportionately on developing nations that lack the resources to invest in expensive agricultural technologies or to absorb repeated crop failures caused by extreme weather.",
+    "questions": [
+      {
+        "q_id": 43,
+        "type": "detail",
+        "quiz": "What challenge to global food production is identified in paragraph 1?",
+        "quiz_ko": "1단락에서 세계 식량 생산에 대한 어떤 도전이 제시되는가?",
+        "answer1": "Climate change is disrupting crop cycles that farmers have relied on for generations.",
+        "answer1_ko": "기후 변화가 농부들이 수 세대에 걸쳐 의존해 온 작물 주기를 교란하고 있다.",
+        "answer2": "A shortage of agricultural land is making it impossible to expand food production.",
+        "answer2_ko": "농지 부족으로 식량 생산 확대가 불가능해지고 있다.",
+        "answer3": "Modern farming methods are depleting soil nutrients too rapidly.",
+        "answer3_ko": "현대 농업 방식이 토양 영양분을 너무 빠르게 고갈시키고 있다.",
+        "answer4": "Increased demand for biofuels is diverting farmland away from food crops.",
+        "answer4_ko": "바이오 연료 수요 증가가 농지를 식량 작물에서 멀어지게 하고 있다.",
+        "answer": 1,
+        "commentary": "1단락에 'Rising temperatures, shifting precipitation patterns, and more frequent extreme weather events are disrupting crop cycles that farmers have relied upon for generations'이라고 나옵니다. disrupt(교란하다)는 매우 자주 출제되는 동사이며, relied upon(~에 의존했다)은 depended on과 같습니다.",
+        "keywords": [
+          { "word": "precipitation", "meaning": "강수, 강수량" },
+          { "word": "disrupt", "meaning": "교란하다" },
+          { "word": "vulnerability", "meaning": "취약성" },
+          { "word": "variability", "meaning": "변동성" }
+        ]
+      },
+      {
+        "q_id": 44,
+        "type": "detail",
+        "quiz": "What effect of climate change on coastal agricultural regions is mentioned in paragraph 2?",
+        "quiz_ko": "2단락에서 연안 농업 지역에 대한 기후 변화의 영향으로 언급된 것은?",
+        "answer1": "Increased sunlight has accelerated crop growth beyond manageable levels.",
+        "answer1_ko": "증가한 일조량이 작물 성장을 관리할 수 없는 수준으로 가속화했다.",
+        "answer2": "New coastal farming techniques have significantly increased harvests.",
+        "answer2_ko": "새로운 연안 농업 기술이 수확량을 크게 증가시켰다.",
+        "answer3": "Governments have successfully relocated farming operations to higher ground.",
+        "answer3_ko": "정부가 농업 운영을 더 높은 지대로 성공적으로 이전했다.",
+        "answer4": "Rising sea levels and flooding have contaminated farmland with saltwater.",
+        "answer4_ko": "해수면 상승과 홍수로 농지가 염수로 오염되었다.",
+        "answer": 4,
+        "commentary": "2단락에 'rising sea levels and increased flooding have contaminated fertile agricultural land with saltwater, rendering once-productive fields barren'이라고 나옵니다. render(~하게 만들다)는 make와 동의어이며, barren(불모의)은 infertile과 같습니다.",
+        "keywords": [
+          { "word": "contaminate", "meaning": "오염시키다" },
+          { "word": "fertile", "meaning": "비옥한" },
+          { "word": "barren", "meaning": "불모의" },
+          { "word": "render", "meaning": "~하게 만들다" }
+        ]
+      },
+      {
+        "q_id": 45,
+        "type": "detail",
+        "quiz": "What is described as a key feature of precision agriculture in paragraph 3?",
+        "quiz_ko": "3단락에서 정밀 농업의 핵심 특징으로 설명된 것은?",
+        "answer1": "It relies exclusively on traditional farming knowledge passed down through generations.",
+        "answer1_ko": "세대를 거쳐 전해 내려온 전통적인 농업 지식에만 의존한다.",
+        "answer2": "It uses satellite data, sensors, and AI analytics to optimize agricultural resources.",
+        "answer2_ko": "위성 데이터, 센서, AI 분석을 사용하여 농업 자원을 최적화한다.",
+        "answer3": "It requires significant government subsidies to operate effectively on small farms.",
+        "answer3_ko": "소규모 농장에서 효과적으로 운영하려면 상당한 정부 보조금이 필요하다.",
+        "answer4": "It focuses primarily on eliminating all use of chemical pesticides in farming.",
+        "answer4_ko": "주로 농업에서 화학 농약의 모든 사용을 없애는 데 초점을 맞춘다.",
+        "answer": 2,
+        "commentary": "3단락에 'Precision agriculture, which uses satellite data, sensors, and AI-driven analytics to optimize the use of water, fertilizer, and pesticides'라고 나옵니다. optimize(최적화하다)는 maximize efficiency와 유사한 의미입니다.",
+        "keywords": [
+          { "word": "precision", "meaning": "정밀, 정확" },
+          { "word": "optimize", "meaning": "최적화하다" },
+          { "word": "analytics", "meaning": "분석학" },
+          { "word": "agroforestry", "meaning": "농림 복합업" }
+        ]
+      },
+      {
+        "q_id": 46,
+        "type": "detail",
+        "quiz": "What does paragraph 4 argue about technological solutions to climate-related agricultural problems?",
+        "quiz_ko": "4단락은 기후 관련 농업 문제에 대한 기술적 해결책에 대해 무엇을 주장하는가?",
+        "answer1": "Technology is the most important factor in addressing global food insecurity.",
+        "answer1_ko": "기술은 전 세계적 식량 불안을 해결하는 데 가장 중요한 요소이다.",
+        "answer2": "Developing nations should prioritize technology investment over policy reform.",
+        "answer2_ko": "개발도상국은 정책 개혁보다 기술 투자를 우선시해야 한다.",
+        "answer3": "Technological solutions alone are insufficient without coordinated policy responses.",
+        "answer3_ko": "기술적 해결책만으로는 조율된 정책 대응 없이는 불충분하다.",
+        "answer4": "International agricultural technology has already eliminated the risk of crop failure.",
+        "answer4_ko": "국제 농업 기술이 이미 작물 실패 위험을 제거했다.",
+        "answer": 3,
+        "commentary": "4단락에 'experts caution that technological solutions alone are insufficient to mitigate the full impact of climate-related agricultural disruption'이라고 나옵니다. caution(경고하다)은 warn과 유사하며, alone(단독으로)이 핵심 부사입니다.",
+        "keywords": [
+          { "word": "caution", "meaning": "경고하다, 주의를 주다" },
+          { "word": "insufficient", "meaning": "불충분한" },
+          { "word": "disproportionately", "meaning": "불균형적으로" },
+          { "word": "complement", "meaning": "보완물, 보완하다" }
+        ]
+      },
+      {
+        "q_id": 47,
+        "type": "detail",
+        "quiz": "What does the United Nations Food and Agriculture Organization project for 2050 according to paragraph 1?",
+        "quiz_ko": "1단락에 따르면, 유엔 식량농업기구는 2050년에 대해 무엇을 예측하는가?",
+        "answer1": "The world will need to produce approximately 70 percent more food.",
+        "answer1_ko": "세계는 약 70% 더 많은 식량을 생산해야 할 것이다.",
+        "answer2": "Global agricultural land will need to expand by at least 50 percent.",
+        "answer2_ko": "글로벌 농업 토지는 최소 50% 이상 확장되어야 할 것이다.",
+        "answer3": "New crop technologies will double yields within current farmland limits.",
+        "answer3_ko": "새로운 작물 기술이 현재 농지 한계 내에서 수확량을 두 배로 늘릴 것이다.",
+        "answer4": "Most countries will shift from traditional farming to fully automated agriculture.",
+        "answer4_ko": "대부분의 국가는 전통적인 농업에서 완전 자동화 농업으로 전환할 것이다.",
+        "answer": 1,
+        "commentary": "1단락에 'the world will need to produce approximately 70 percent more food by 2050 to meet the demands of a projected population of nearly ten billion people'이라고 나옵니다. projected(예상되는)는 expected / estimated와 동의어입니다.",
+        "keywords": [
+          { "word": "projected", "meaning": "예상되는" },
+          { "word": "approximately", "meaning": "약, 대략" },
+          { "word": "vulnerability", "meaning": "취약성" },
+          { "word": "variability", "meaning": "변동성" }
+        ]
+      },
+      {
+        "q_id": 48,
+        "type": "vocabulary",
+        "quiz": "The word \"erratic\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'erratic'와 가장 가까운 의미의 표현은?",
+        "answer1": "gradual",
+        "answer1_ko": "점진적인",
+        "answer2": "seasonal",
+        "answer2_ko": "계절적인",
+        "answer3": "unpredictable or irregular",
+        "answer3_ko": "예측 불가능한, 불규칙한",
+        "answer4": "permanent",
+        "answer4_ko": "영구적인",
+        "answer": 3,
+        "commentary": "erratic는 '불규칙한, 예측 불가능한'이라는 뜻으로 unpredictable or irregular가 가장 유사합니다. 'erratic seasonal shifts have thrown off the timing of planting'에서 '예측 불가능한' 계절 변화가 작물 일정을 망가뜨렸다는 문맥이 핵심입니다. erratically(불규칙하게)라는 부사 형태도 기억하세요.",
+        "keywords": [
+          { "word": "erratic", "meaning": "불규칙한, 예측 불가능한" },
+          { "word": "irregular", "meaning": "불규칙한" },
+          { "word": "unpredictable", "meaning": "예측 불가능한" },
+          { "word": "precipitation", "meaning": "강수량" }
+        ]
+      },
+      {
+        "q_id": 49,
+        "type": "vocabulary",
+        "quiz": "The word \"mitigate\" in paragraph 4 is closest in meaning to:",
+        "quiz_ko": "4단락의 'mitigate'와 가장 가까운 의미의 표현은?",
+        "answer1": "increase",
+        "answer1_ko": "증가시키다",
+        "answer2": "study",
+        "answer2_ko": "연구하다",
+        "answer3": "ignore",
+        "answer3_ko": "무시하다",
+        "answer4": "reduce or lessen",
+        "answer4_ko": "줄이다, 완화하다",
+        "answer": 4,
+        "commentary": "mitigate는 '완화하다, 줄이다'라는 뜻으로 reduce or lessen이 가장 유사합니다. 'insufficient to mitigate the full impact'에서 부정적 결과를 '줄이기'에 불충분하다는 문맥이 핵심입니다. mitigation(완화)과 함께 기후 관련 지문에서 매우 자주 출제됩니다.",
+        "keywords": [
+          { "word": "mitigate", "meaning": "완화하다, 줄이다" },
+          { "word": "mitigation", "meaning": "완화" },
+          { "word": "alleviate", "meaning": "완화하다" },
+          { "word": "minimize", "meaning": "최소화하다" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 8,
+    "part": 2,
+    "passage_text": "Procrastination — the chronic habit of delaying tasks despite knowing the negative consequences — is estimated to affect roughly 20 percent of adults on a consistent basis and up to 95 percent of students at some point in their academic careers. Far from being a simple character flaw or a failure of time management, procrastination is increasingly understood by psychologists as a complex emotional and motivational phenomenon. Researchers emphasize that the defining feature of procrastination is not the delay itself, but the fact that the person is aware the delay is irrational and counterproductive — yet continues to postpone anyway.\n\nOne of the most widely supported explanations for procrastination centers on the concept of task aversion. When people anticipate that a task will be unpleasant, anxiety-inducing, or threatening to their self-concept, they experience a strong impulse to avoid it. This avoidance temporarily relieves the discomfort, reinforcing the habit through a cycle of negative reinforcement. Perfectionism also plays a significant role; individuals who set unrealistically high standards often delay starting a task because they fear that the result will not meet their expectations, and an imperfect outcome feels worse than no outcome at all.\n\nNeuroscientific research has shed further light on the mechanics of procrastination. Brain imaging studies suggest that the limbic system, which governs emotional responses and short-term pleasure-seeking, frequently overpowers the prefrontal cortex — the region responsible for rational planning and impulse control. In individuals who procrastinate frequently, the amygdala, a key component of the limbic system, tends to be larger and more reactive, amplifying the emotional response to potential threats and making it even harder to initiate tasks that feel uncomfortable or uncertain.\n\nBehavioral strategies for overcoming procrastination have shown considerable success in clinical and educational settings. Breaking large tasks into small, manageable steps creates tangible short-term goals that feel achievable, reducing the overwhelming nature of the overall project. Implementation intentions — specific plans that link a situation to a desired behavior — have been shown in numerous studies to significantly increase follow-through. Addressing the underlying emotional triggers through cognitive-behavioral techniques, rather than simply relying on willpower, is now considered the most effective long-term approach.",
+    "questions": [
+      {
+        "q_id": 50,
+        "type": "detail",
+        "quiz": "According to paragraph 1, what distinguishes procrastination from ordinary delay?",
+        "quiz_ko": "1단락에 따르면, 지연(procrastination)을 일반적인 미룸과 구별하는 것은?",
+        "answer1": "Procrastination always leads to complete failure to complete a task.",
+        "answer1_ko": "지연은 항상 과제를 완전히 실패하게 만든다.",
+        "answer2": "It is caused by external interruptions that prevent people from working.",
+        "answer2_ko": "사람들이 일하는 것을 막는 외부 방해에 의해 발생한다.",
+        "answer3": "Procrastination only affects students, not adults in professional settings.",
+        "answer3_ko": "지연은 직장인이 아닌 학생들에게만 영향을 미친다.",
+        "answer4": "The person is aware the delay is counterproductive but continues to postpone anyway.",
+        "answer4_ko": "사람이 미루는 것이 역효과임을 알면서도 계속해서 미룬다.",
+        "answer": 4,
+        "commentary": "1단락에 'the defining feature of procrastination is not the delay itself, but the fact that the person is aware the delay is irrational and counterproductive — yet continues to postpone anyway'라고 나옵니다. defining feature(결정적 특징)와 counterproductive(역효과를 낳는)는 꼭 기억해 두세요.",
+        "keywords": [
+          { "word": "procrastination", "meaning": "지연, 미루기" },
+          { "word": "counterproductive", "meaning": "역효과를 낳는" },
+          { "word": "irrational", "meaning": "비합리적인" },
+          { "word": "postpone", "meaning": "미루다" }
+        ]
+      },
+      {
+        "q_id": 51,
+        "type": "detail",
+        "quiz": "What psychological mechanism does paragraph 2 identify as central to procrastination?",
+        "quiz_ko": "2단락에서 지연의 핵심으로 지목된 심리적 메커니즘은?",
+        "answer1": "Overconfidence in one's ability to complete tasks quickly under pressure.",
+        "answer1_ko": "압박 하에 과제를 빠르게 완료하는 자신의 능력에 대한 과신.",
+        "answer2": "Avoidance of unpleasant tasks reinforced by temporary emotional relief.",
+        "answer2_ko": "일시적인 감정적 안도로 강화된 불쾌한 과제 회피.",
+        "answer3": "A deliberate strategy to wait for optimal conditions before starting work.",
+        "answer3_ko": "작업 시작 전 최적의 조건을 기다리는 의도적인 전략.",
+        "answer4": "An inability to judge which tasks are most important or urgent.",
+        "answer4_ko": "어떤 과제가 가장 중요하거나 긴급한지 판단하지 못하는 무능함.",
+        "answer": 2,
+        "commentary": "2단락에 'This avoidance temporarily relieves the discomfort, reinforcing the habit through a cycle of negative reinforcement'이라고 나옵니다. reinforce(강화하다)와 negative reinforcement(부정적 강화)는 행동 심리학의 핵심 용어입니다.",
+        "keywords": [
+          { "word": "aversion", "meaning": "혐오, 회피" },
+          { "word": "reinforcement", "meaning": "강화" },
+          { "word": "avoidance", "meaning": "회피" },
+          { "word": "perfectionism", "meaning": "완벽주의" }
+        ]
+      },
+      {
+        "q_id": 52,
+        "type": "detail",
+        "quiz": "According to paragraph 3, which part of the brain is associated with emotional responses that drive procrastination?",
+        "quiz_ko": "3단락에 따르면, 지연을 유발하는 감정적 반응과 관련된 뇌 부위는?",
+        "answer1": "The limbic system, particularly the amygdala.",
+        "answer1_ko": "변연계, 특히 편도체.",
+        "answer2": "The prefrontal cortex, which handles rational planning.",
+        "answer2_ko": "합리적 계획을 담당하는 전전두엽 피질.",
+        "answer3": "The cerebellum, which coordinates voluntary movement.",
+        "answer3_ko": "자발적 움직임을 조율하는 소뇌.",
+        "answer4": "The hippocampus, which processes long-term memory storage.",
+        "answer4_ko": "장기 기억 저장을 처리하는 해마.",
+        "answer": 1,
+        "commentary": "3단락에 'the limbic system, which governs emotional responses and short-term pleasure-seeking, frequently overpowers the prefrontal cortex'라고 나오며, 이어서 'the amygdala, a key component of the limbic system, tends to be larger and more reactive'라고 나옵니다. govern(관장하다)은 control과 동의어입니다.",
+        "keywords": [
+          { "word": "limbic system", "meaning": "변연계" },
+          { "word": "amygdala", "meaning": "편도체" },
+          { "word": "prefrontal cortex", "meaning": "전전두엽 피질" },
+          { "word": "overpower", "meaning": "압도하다" }
+        ]
+      },
+      {
+        "q_id": 53,
+        "type": "detail",
+        "quiz": "What does paragraph 3 suggest about the amygdala in people who frequently procrastinate?",
+        "quiz_ko": "3단락에서 자주 미루는 사람들의 편도체에 대해 제시하는 내용은?",
+        "answer1": "It is smaller and less responsive than in non-procrastinators.",
+        "answer1_ko": "미루지 않는 사람들보다 더 작고 덜 반응적이다.",
+        "answer2": "It helps procrastinators focus more effectively under deadline pressure.",
+        "answer2_ko": "마감 압박 하에 더 효과적으로 집중할 수 있도록 돕는다.",
+        "answer3": "It tends to be larger and more reactive, heightening anxiety about tasks.",
+        "answer3_ko": "더 크고 반응적인 경향이 있어 과제에 대한 불안을 높인다.",
+        "answer4": "It suppresses emotional reactions that would otherwise motivate action.",
+        "answer4_ko": "그렇지 않으면 행동을 동기 부여하는 감정적 반응을 억제한다.",
+        "answer": 3,
+        "commentary": "3단락에 'the amygdala...tends to be larger and more reactive, amplifying the emotional response to potential threats'라고 나옵니다. amplify(증폭시키다)는 intensify와 동의어이며, 불안 반응을 더 강하게 만든다는 의미입니다.",
+        "keywords": [
+          { "word": "amygdala", "meaning": "편도체" },
+          { "word": "reactive", "meaning": "반응적인" },
+          { "word": "amplify", "meaning": "증폭시키다" },
+          { "word": "anxiety", "meaning": "불안" }
+        ]
+      },
+      {
+        "q_id": 54,
+        "type": "detail",
+        "quiz": "What behavioral strategy for overcoming procrastination is described in paragraph 4?",
+        "quiz_ko": "4단락에서 설명된 지연 극복을 위한 행동 전략은?",
+        "answer1": "Scheduling long uninterrupted work sessions for maximum productivity.",
+        "answer1_ko": "최대 생산성을 위해 긴 방해받지 않는 작업 세션을 계획한다.",
+        "answer2": "Rewarding oneself with leisure time only after completing major projects.",
+        "answer2_ko": "주요 프로젝트를 완료한 후에만 여가 시간으로 자신을 보상한다.",
+        "answer3": "Consulting a mental health professional before beginning any challenging task.",
+        "answer3_ko": "어려운 과제를 시작하기 전에 정신 건강 전문가와 상담한다.",
+        "answer4": "Using implementation intentions that link specific situations to desired behaviors.",
+        "answer4_ko": "특정 상황을 원하는 행동과 연결하는 실행 의도를 사용한다.",
+        "answer": 4,
+        "commentary": "4단락에 'Implementation intentions — specific plans that link a situation to a desired behavior — have been shown in numerous studies to significantly increase follow-through'라고 나옵니다. follow-through(완수, 마무리)는 completion과 유사한 의미입니다.",
+        "keywords": [
+          { "word": "implementation", "meaning": "실행, 이행" },
+          { "word": "intention", "meaning": "의도" },
+          { "word": "tangible", "meaning": "구체적인, 실질적인" },
+          { "word": "cognitive-behavioral", "meaning": "인지 행동적" }
+        ]
+      },
+      {
+        "q_id": 55,
+        "type": "vocabulary",
+        "quiz": "The word \"aversion\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'aversion'과 가장 가까운 의미의 표현은?",
+        "answer1": "attraction",
+        "answer1_ko": "끌림, 매력",
+        "answer2": "strong dislike or avoidance",
+        "answer2_ko": "강한 혐오 또는 회피",
+        "answer3": "confidence",
+        "answer3_ko": "자신감",
+        "answer4": "motivation",
+        "answer4_ko": "동기",
+        "answer": 2,
+        "commentary": "aversion은 '혐오, 회피'라는 뜻으로 strong dislike or avoidance가 가장 유사합니다. 'task aversion'에서 사람들이 특정 과제를 불쾌하게 여겨 피하려 한다는 문맥이 핵심입니다. averse to(~을 싫어하는)라는 표현도 함께 알아두세요.",
+        "keywords": [
+          { "word": "aversion", "meaning": "혐오, 회피" },
+          { "word": "averse", "meaning": "~을 싫어하는" },
+          { "word": "avoidance", "meaning": "회피" },
+          { "word": "repulsion", "meaning": "혐오, 반발" }
+        ]
+      },
+      {
+        "q_id": 56,
+        "type": "vocabulary",
+        "quiz": "The word \"tangible\" in paragraph 4 is closest in meaning to:",
+        "quiz_ko": "4단락의 'tangible'과 가장 가까운 의미의 표현은?",
+        "answer1": "concrete and real",
+        "answer1_ko": "구체적이고 실질적인",
+        "answer2": "distant or long-term",
+        "answer2_ko": "멀거나 장기적인",
+        "answer3": "complicated and abstract",
+        "answer3_ko": "복잡하고 추상적인",
+        "answer4": "emotional and subjective",
+        "answer4_ko": "감정적이고 주관적인",
+        "answer": 1,
+        "commentary": "tangible은 '실질적인, 구체적인'이라는 뜻으로 concrete and real이 가장 유사합니다. 'creates tangible short-term goals'에서 '손에 잡히는 구체적인 목표'라는 의미로 쓰였습니다. intangible(무형의, 추상적인)은 반의어로 함께 기억하세요.",
+        "keywords": [
+          { "word": "tangible", "meaning": "구체적인, 실질적인" },
+          { "word": "intangible", "meaning": "무형의, 추상적인" },
+          { "word": "concrete", "meaning": "구체적인" },
+          { "word": "achievable", "meaning": "달성 가능한" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 9,
+    "part": 2,
+    "passage_text": "The global shift toward plant-based diets has been one of the most significant dietary trends of the past decade, driven by a convergence of health awareness, environmental consciousness, and evolving food technology. Sales of plant-based meat alternatives, dairy substitutes, and vegan food products have grown exponentially in markets across North America, Europe, and increasingly in Asia. Major food companies have responded by acquiring plant-based startups and reformulating existing products, while restaurant chains have added plant-based options to their menus at an unprecedented scale. This widespread adoption reflects not only changing consumer values but also a growing body of scientific evidence linking diet to long-term health outcomes.\n\nA substantial body of research supports the health benefits of well-planned plant-based diets. Studies consistently show that diets rich in fruits, vegetables, whole grains, and legumes are associated with a significantly lower risk of cardiovascular disease, largely because plant foods tend to be low in saturated fats and high in fiber. Type 2 diabetes risk has also been shown to decrease among individuals who follow predominantly plant-based eating patterns. Additionally, plant-based diets are often associated with healthier body weight management, as the higher fiber content of plant foods tends to promote satiety and reduce overall caloric intake.\n\nBeyond individual health, plant-based diets offer compelling environmental advantages. The livestock industry is responsible for a substantial share of global greenhouse gas emissions, including methane released by cattle and nitrous oxide from fertilizers used to grow animal feed. A comprehensive 2019 analysis published in the journal Science found that plant-based foods generally produce significantly fewer greenhouse gas emissions per gram of protein than meat or dairy products. Shifting diets at a global scale could free up vast areas of land currently used for animal grazing and feed crop production, potentially restoring ecosystems and increasing biodiversity.\n\nDespite these benefits, critics and nutritionists caution that plant-based diets require careful planning to avoid nutritional deficiencies. Vitamin B12, which is found almost exclusively in animal products, is a common concern, as are adequate intake of iron, calcium, zinc, and omega-3 fatty acids. While fortified foods and dietary supplements can help bridge these gaps, experts warn that poorly planned plant-based diets — particularly those that simply eliminate meat without adding nutritious alternatives — may fail to supplement essential nutrients adequately. Those considering a full transition are advised to consult a registered dietitian to ensure their nutritional needs are fully met.",
+    "questions": [
+      {
+        "q_id": 57,
+        "type": "detail",
+        "quiz": "What does paragraph 1 identify as a driving force behind the rise of plant-based diets?",
+        "quiz_ko": "1단락에서 식물성 식단 증가의 원동력으로 제시된 것은?",
+        "answer1": "Mandatory government regulations requiring reduced meat consumption.",
+        "answer1_ko": "육류 소비 감소를 요구하는 정부의 의무 규정.",
+        "answer2": "A convergence of health awareness, environmental consciousness, and food technology.",
+        "answer2_ko": "건강 인식, 환경 의식, 식품 기술의 융합.",
+        "answer3": "A global shortage of livestock caused by widespread animal diseases.",
+        "answer3_ko": "광범위한 동물 질병으로 인한 전 세계적인 가축 부족.",
+        "answer4": "The inability of traditional agriculture to meet growing consumer demand.",
+        "answer4_ko": "증가하는 소비자 수요를 충족시키지 못하는 전통 농업의 무능력.",
+        "answer": 2,
+        "commentary": "1단락에 'driven by a convergence of health awareness, environmental consciousness, and evolving food technology'라고 나옵니다. convergence(융합, 수렴)는 combination과 유사한 의미이며, driven by(~에 의해 이끌리는)는 이유를 나타내는 중요한 표현입니다.",
+        "keywords": [
+          { "word": "convergence", "meaning": "융합, 수렴" },
+          { "word": "consciousness", "meaning": "의식" },
+          { "word": "unprecedented", "meaning": "전례 없는" },
+          { "word": "exponentially", "meaning": "기하급수적으로" }
+        ]
+      },
+      {
+        "q_id": 58,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what cardiovascular benefit is associated with plant-based diets?",
+        "quiz_ko": "2단락에 따르면, 식물성 식단과 관련된 심혈관 이점은?",
+        "answer1": "They increase production of red blood cells, preventing anemia.",
+        "answer1_ko": "적혈구 생산을 증가시켜 빈혈을 예방한다.",
+        "answer2": "They strengthen heart muscle tissue through higher protein content.",
+        "answer2_ko": "더 높은 단백질 함량을 통해 심장 근육 조직을 강화한다.",
+        "answer3": "They are associated with a significantly lower risk of cardiovascular disease.",
+        "answer3_ko": "심혈관 질환의 위험을 현저히 낮추는 것과 관련이 있다.",
+        "answer4": "They regulate blood pressure through high concentrations of potassium.",
+        "answer4_ko": "고농도의 칼륨을 통해 혈압을 조절한다.",
+        "answer": 3,
+        "commentary": "2단락에 'diets rich in fruits, vegetables, whole grains, and legumes are associated with a significantly lower risk of cardiovascular disease'라고 나옵니다. associated with(~와 관련된)는 linked to와 동의어로 지텔프에서 매우 자주 출제됩니다.",
+        "keywords": [
+          { "word": "cardiovascular", "meaning": "심혈관의" },
+          { "word": "legumes", "meaning": "콩류" },
+          { "word": "satiety", "meaning": "포만감" },
+          { "word": "caloric", "meaning": "열량의" }
+        ]
+      },
+      {
+        "q_id": 59,
+        "type": "detail",
+        "quiz": "What environmental finding does the 2019 Science journal analysis in paragraph 3 report?",
+        "quiz_ko": "3단락에서 2019년 사이언스 저널 분석이 보고한 환경적 발견은?",
+        "answer1": "Plant-based foods use less water per unit than most animal products.",
+        "answer1_ko": "식물성 식품은 대부분의 동물성 제품보다 단위당 물을 덜 사용한다.",
+        "answer2": "Livestock farming produces less methane than previously estimated.",
+        "answer2_ko": "축산업이 이전에 추정된 것보다 메탄을 덜 생산한다.",
+        "answer3": "Organic farming methods eliminate most greenhouse gas emissions from agriculture.",
+        "answer3_ko": "유기농 방식이 농업에서 발생하는 대부분의 온실 가스 배출을 제거한다.",
+        "answer4": "Plant-based foods generally produce fewer greenhouse gas emissions per gram of protein than meat or dairy.",
+        "answer4_ko": "식물성 식품은 육류나 유제품보다 단백질 1그램당 일반적으로 더 적은 온실 가스 배출을 생성한다.",
+        "answer": 4,
+        "commentary": "3단락에 'plant-based foods generally produce significantly fewer greenhouse gas emissions per gram of protein than meat or dairy products'라고 직접 나옵니다. per gram of protein(단백질 1그램당)처럼 비교 단위를 정확히 파악하는 것이 중요합니다.",
+        "keywords": [
+          { "word": "greenhouse gas", "meaning": "온실 가스" },
+          { "word": "methane", "meaning": "메탄" },
+          { "word": "biodiversity", "meaning": "생물 다양성" },
+          { "word": "livestock", "meaning": "가축" }
+        ]
+      },
+      {
+        "q_id": 60,
+        "type": "detail",
+        "quiz": "According to paragraph 3, what potential environmental benefit could a large-scale dietary shift bring?",
+        "quiz_ko": "3단락에 따르면, 대규모 식단 전환이 가져올 수 있는 잠재적 환경적 이점은?",
+        "answer1": "It could free up land currently used for grazing, potentially restoring ecosystems and biodiversity.",
+        "answer1_ko": "방목에 사용되는 토지를 확보하여 생태계와 생물 다양성을 회복시킬 수 있다.",
+        "answer2": "It would immediately halt all greenhouse gas emissions from global agriculture.",
+        "answer2_ko": "전 세계 농업에서 발생하는 모든 온실 가스 배출을 즉시 중단시킬 것이다.",
+        "answer3": "It would eliminate the need for chemical fertilizers in all forms of crop farming.",
+        "answer3_ko": "모든 형태의 작물 농사에서 화학 비료의 필요성을 없앨 것이다.",
+        "answer4": "It could allow governments to redirect environmental funding toward ocean conservation.",
+        "answer4_ko": "정부가 환경 자금을 해양 보전 방향으로 재할당할 수 있게 할 것이다.",
+        "answer": 1,
+        "commentary": "3단락에 'Shifting diets at a global scale could free up vast areas of land currently used for animal grazing and feed crop production, potentially restoring ecosystems and increasing biodiversity'라고 나옵니다. free up(확보하다, 해방시키다)은 지텔프에서 자주 나오는 구동사입니다.",
+        "keywords": [
+          { "word": "biodiversity", "meaning": "생물 다양성" },
+          { "word": "ecosystem", "meaning": "생태계" },
+          { "word": "grazing", "meaning": "방목" },
+          { "word": "restore", "meaning": "복원하다" }
+        ]
+      },
+      {
+        "q_id": 61,
+        "type": "detail",
+        "quiz": "What nutritional concern about plant-based diets is raised in paragraph 4?",
+        "quiz_ko": "4단락에서 식물성 식단에 대해 제기된 영양 우려는?",
+        "answer1": "Plant-based diets consistently cause excessive weight loss in most adults.",
+        "answer1_ko": "식물성 식단은 대부분의 성인에게 지속적으로 과도한 체중 감소를 일으킨다.",
+        "answer2": "Nutrients such as Vitamin B12, iron, and calcium may be difficult to obtain adequately.",
+        "answer2_ko": "비타민 B12, 철분, 칼슘 등의 영양소를 충분히 얻기 어려울 수 있다.",
+        "answer3": "Plant-based protein sources are poorly digested by the human body.",
+        "answer3_ko": "식물성 단백질 공급원은 인체에서 제대로 소화되지 않는다.",
+        "answer4": "Eating only plant foods causes the body to overproduce certain digestive enzymes.",
+        "answer4_ko": "식물성 식품만 먹으면 신체가 특정 소화 효소를 과다 생산하게 된다.",
+        "answer": 2,
+        "commentary": "4단락에 'Vitamin B12, which is found almost exclusively in animal products, is a common concern, as are adequate intake of iron, calcium, zinc, and omega-3 fatty acids'라고 나옵니다. found almost exclusively in(거의 전적으로 ~에서 발견되는)은 제한된 출처를 강조하는 표현입니다.",
+        "keywords": [
+          { "word": "deficiency", "meaning": "결핍" },
+          { "word": "supplement", "meaning": "보충하다, 보충제" },
+          { "word": "fortified", "meaning": "강화된" },
+          { "word": "dietitian", "meaning": "영양사" }
+        ]
+      },
+      {
+        "q_id": 62,
+        "type": "vocabulary",
+        "quiz": "The word \"saturated\" in paragraph 2, as used in the phrase \"saturated fats,\" is closest in meaning to:",
+        "quiz_ko": "2단락의 'saturated fats'에서 'saturated'와 가장 가까운 의미의 표현은?",
+        "answer1": "unsalted",
+        "answer1_ko": "소금이 없는, 무염의",
+        "answer2": "processed",
+        "answer2_ko": "가공된",
+        "answer3": "excessive",
+        "answer3_ko": "과도한",
+        "answer4": "fully loaded with a particular substance",
+        "answer4_ko": "특정 물질로 완전히 포화된",
+        "answer": 4,
+        "commentary": "saturated는 화학적으로 '포화된' 상태를 뜻합니다. 'saturated fats'는 탄소 원자가 수소 원자로 완전히 채워진 지방으로, fully loaded with a particular substance가 가장 정확한 표현입니다. saturated(포화된) ↔ unsaturated(불포화된)는 영양학 맥락에서 중요한 반의어 쌍입니다.",
+        "keywords": [
+          { "word": "saturated", "meaning": "포화된" },
+          { "word": "unsaturated", "meaning": "불포화된" },
+          { "word": "fatty acid", "meaning": "지방산" },
+          { "word": "cardiovascular", "meaning": "심혈관의" }
+        ]
+      },
+      {
+        "q_id": 63,
+        "type": "vocabulary",
+        "quiz": "The word \"supplement\" in paragraph 4, as used in the phrase \"supplement essential nutrients,\" is closest in meaning to:",
+        "quiz_ko": "4단락의 'supplement essential nutrients'에서 'supplement'와 가장 가까운 의미의 표현은?",
+        "answer1": "eliminate",
+        "answer1_ko": "제거하다",
+        "answer2": "discover",
+        "answer2_ko": "발견하다",
+        "answer3": "add to or provide additionally",
+        "answer3_ko": "추가하다, 보충적으로 제공하다",
+        "answer4": "replace entirely",
+        "answer4_ko": "완전히 대체하다",
+        "answer": 3,
+        "commentary": "supplement는 동사로 '보충하다, 추가적으로 제공하다'를 뜻하며 add to or provide additionally가 가장 가깝습니다. 'fail to supplement essential nutrients adequately'는 '필수 영양소를 적절히 보충하지 못하다'는 의미입니다. 명사 형태 supplement(보충제)도 함께 알아두세요.",
+        "keywords": [
+          { "word": "supplement", "meaning": "보충하다, 보충제" },
+          { "word": "fortify", "meaning": "강화하다, 영양을 보강하다" },
+          { "word": "deficiency", "meaning": "결핍" },
+          { "word": "adequate", "meaning": "충분한, 적절한" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 10,
+    "part": 2,
+    "passage_text": "The rapid proliferation of smartphones and tablet devices among children and adolescents has sparked intense debate among educators, psychologists, and public health officials worldwide. In many developed nations, the majority of children own a personal smartphone before the age of twelve, and screen time among teenagers averages more than seven hours per day according to recent surveys. This unprecedented level of exposure to digital media has prompted urgent questions about the short-term and long-term effects of such early and extensive technology use on developing minds and social behaviors.\n\nA growing body of research has raised serious concerns about the detrimental effects of excessive smartphone use on young people's cognitive and emotional development. Studies consistently link high levels of screen time to disrupted sleep patterns, as the blue light emitted by screens suppresses melatonin production, making it harder for children to fall asleep and reducing the total duration and quality of their rest. Researchers have also found associations between heavy social media use and elevated rates of anxiety, depression, and loneliness among adolescents, with some studies suggesting that passive consumption of curated online content may fuel social comparison and lower self-esteem. Furthermore, the constant availability of digital entertainment is thought to shorten attention spans and reduce the capacity for sustained, focused thinking.\n\nDespite these concerns, proponents of digital technology argue that smartphones and the internet provide children with access to vast educational resources, global communication networks, and digital literacy skills that are increasingly essential in the modern workforce. They point to studies suggesting that interactive and educational uses of technology — such as coding apps, language learning platforms, and collaborative online projects — can enhance creativity, problem-solving abilities, and cross-cultural understanding. Critics of broad screen time restrictions argue that blanket bans may leave children underprepared for a digitally-dominated professional world.\n\nTo address these competing concerns, many pediatric health experts recommend a balanced approach centered on quality over quantity. Rather than focusing solely on the number of hours children spend on screens, experts suggest that parents and educators prioritize the type and context of digital content. Setting consistent boundaries around screen use — particularly in the hour before bedtime and during shared family meals — is widely recommended. Schools are also being encouraged to develop digital literacy curricula that teach children to engage critically and responsibly with technology, transforming passive consumers into informed, active participants in the digital world.",
+    "questions": [
+      {
+        "q_id": 64,
+        "type": "detail",
+        "quiz": "What concern about children's smartphone use is highlighted in paragraph 1?",
+        "quiz_ko": "1단락에서 아이들의 스마트폰 사용에 관해 부각된 우려는?",
+        "answer1": "Children are using smartphones to avoid completing school assignments.",
+        "answer1_ko": "아이들이 학교 과제 완성을 피하기 위해 스마트폰을 사용하고 있다.",
+        "answer2": "Smartphone manufacturers are deliberately targeting younger consumers.",
+        "answer2_ko": "스마트폰 제조업체들이 의도적으로 더 어린 소비자들을 타겟으로 하고 있다.",
+        "answer3": "Children are exposed to unprecedented levels of digital media at increasingly young ages.",
+        "answer3_ko": "아이들이 점점 더 어린 나이에 전례 없는 수준의 디지털 미디어에 노출되고 있다.",
+        "answer4": "Social media platforms do not provide adequate privacy protections for minors.",
+        "answer4_ko": "소셜 미디어 플랫폼이 미성년자를 위한 적절한 개인 정보 보호를 제공하지 않는다.",
+        "answer": 3,
+        "commentary": "1단락에 'This unprecedented level of exposure to digital media has prompted urgent questions about the short-term and long-term effects'라고 나옵니다. unprecedented(전례 없는)는 unparalleled와 동의어이며, prompt(촉발하다, 유도하다)도 중요한 어휘입니다.",
+        "keywords": [
+          { "word": "proliferation", "meaning": "급속한 확산" },
+          { "word": "unprecedented", "meaning": "전례 없는" },
+          { "word": "exposure", "meaning": "노출" },
+          { "word": "adolescent", "meaning": "청소년" }
+        ]
+      },
+      {
+        "q_id": 65,
+        "type": "detail",
+        "quiz": "According to paragraph 2, how does screen time affect children's sleep?",
+        "quiz_ko": "2단락에 따르면, 화면 시간이 아이들의 수면에 미치는 영향은?",
+        "answer1": "Blue light from screens suppresses melatonin production, making it harder to fall asleep.",
+        "answer1_ko": "화면에서 나오는 청색광이 멜라토닌 생성을 억제하여 잠들기 어렵게 만든다.",
+        "answer2": "Screen activity stimulates creative thinking that energizes children before sleep.",
+        "answer2_ko": "화면 활동이 창의적 사고를 자극하여 자기 전에 아이들에게 활력을 준다.",
+        "answer3": "Night-mode settings reduce but do not eliminate sleep disruptions from devices.",
+        "answer3_ko": "야간 모드 설정은 기기로 인한 수면 방해를 줄이지만 완전히 없애지는 못한다.",
+        "answer4": "Children who use smartphones excessively tend to sleep more than the recommended hours.",
+        "answer4_ko": "스마트폰을 과도하게 사용하는 어린이들은 권장 시간보다 더 많이 자는 경향이 있다.",
+        "answer": 1,
+        "commentary": "2단락에 'the blue light emitted by screens suppresses melatonin production, making it harder for children to fall asleep and reducing the total duration and quality of their rest'라고 나옵니다. suppress(억제하다)는 inhibit과 동의어이며, emit(방출하다)도 함께 기억하세요.",
+        "keywords": [
+          { "word": "melatonin", "meaning": "멜라토닌" },
+          { "word": "suppress", "meaning": "억제하다" },
+          { "word": "emit", "meaning": "방출하다" },
+          { "word": "duration", "meaning": "지속 시간" }
+        ]
+      },
+      {
+        "q_id": 66,
+        "type": "detail",
+        "quiz": "What social concern associated with heavy social media use is mentioned in paragraph 2?",
+        "quiz_ko": "2단락에서 소셜 미디어 과사용과 관련된 사회적 우려로 언급된 것은?",
+        "answer1": "Teenagers increasingly prefer online communication over face-to-face interaction.",
+        "answer1_ko": "십대들이 점점 더 대면 상호작용보다 온라인 소통을 선호한다.",
+        "answer2": "Elevated rates of anxiety, depression, and loneliness among adolescents.",
+        "answer2_ko": "청소년들 사이에서 불안, 우울, 고독감의 증가.",
+        "answer3": "Children exposed to social media are more likely to develop aggressive behaviors.",
+        "answer3_ko": "소셜 미디어에 노출된 아이들은 공격적인 행동을 보일 가능성이 더 높다.",
+        "answer4": "Young people are increasingly rejecting social platforms in favor of in-person contact.",
+        "answer4_ko": "젊은이들이 점점 더 대면 접촉을 위해 소셜 플랫폼을 거부하고 있다.",
+        "answer": 2,
+        "commentary": "2단락에 'Researchers have also found associations between heavy social media use and elevated rates of anxiety, depression, and loneliness among adolescents'라고 나옵니다. elevated(높아진, 상승한)는 increased와 동의어입니다.",
+        "keywords": [
+          { "word": "anxiety", "meaning": "불안" },
+          { "word": "depression", "meaning": "우울" },
+          { "word": "self-esteem", "meaning": "자존감" },
+          { "word": "social comparison", "meaning": "사회적 비교" }
+        ]
+      },
+      {
+        "q_id": 67,
+        "type": "detail",
+        "quiz": "What argument do proponents of digital technology make in paragraph 3?",
+        "quiz_ko": "3단락에서 디지털 기술 지지자들이 주장하는 것은?",
+        "answer1": "Smartphones make children more physically active by encouraging outdoor exploration.",
+        "answer1_ko": "스마트폰은 야외 탐험을 장려하여 어린이들을 더 활동적으로 만든다.",
+        "answer2": "Social media platforms are an important source of educational content for teenagers.",
+        "answer2_ko": "소셜 미디어 플랫폼은 십대들에게 중요한 교육적 콘텐츠 소스이다.",
+        "answer3": "Screen time limits should be determined by individual families, not schools.",
+        "answer3_ko": "화면 시간 제한은 학교가 아닌 개별 가정이 결정해야 한다.",
+        "answer4": "Digital literacy skills are increasingly essential and interactive technology use can enhance creativity.",
+        "answer4_ko": "디지털 리터러시 기술이 점점 더 중요해지고 있으며 인터랙티브 기술 사용이 창의성을 향상시킬 수 있다.",
+        "answer": 4,
+        "commentary": "3단락에 'smartphones and the internet provide children with...digital literacy skills that are increasingly essential in the modern workforce'이라고 나오며, 'interactive and educational uses of technology...can enhance creativity, problem-solving abilities'라고 나옵니다. enhance(향상시키다)는 improve와 동의어입니다.",
+        "keywords": [
+          { "word": "digital literacy", "meaning": "디지털 리터러시" },
+          { "word": "interactive", "meaning": "상호작용하는" },
+          { "word": "enhance", "meaning": "향상시키다" },
+          { "word": "proponent", "meaning": "지지자" }
+        ]
+      },
+      {
+        "q_id": 68,
+        "type": "detail",
+        "quiz": "What approach do pediatric health experts recommend in paragraph 4?",
+        "quiz_ko": "4단락에서 소아과 전문가들이 권장하는 접근 방식은?",
+        "answer1": "A complete prohibition on all smartphone use for children under 16.",
+        "answer1_ko": "16세 미만 어린이의 모든 스마트폰 사용에 대한 완전 금지.",
+        "answer2": "Unlimited access to digital technology to prepare children for the workforce.",
+        "answer2_ko": "어린이를 직업 세계에 준비시키기 위한 디지털 기술에의 무제한 접근.",
+        "answer3": "A balanced approach focusing on the quality and context of digital content, not just hours.",
+        "answer3_ko": "단순한 시간이 아닌 디지털 콘텐츠의 품질과 맥락에 초점을 맞춘 균형 잡힌 접근.",
+        "answer4": "Requiring children to pass a digital literacy test before using any internet-connected device.",
+        "answer4_ko": "인터넷 연결 장치를 사용하기 전에 어린이가 디지털 리터러시 테스트를 통과하도록 요구.",
+        "answer": 3,
+        "commentary": "4단락에 'experts recommend a balanced approach centered on quality over quantity'이라고 나오며, 'parents and educators prioritize the type and context of digital content'라고 나옵니다. quality over quantity(양보다 질)는 자주 쓰이는 관용 표현입니다.",
+        "keywords": [
+          { "word": "curriculum", "meaning": "커리큘럼, 교육과정" },
+          { "word": "boundary", "meaning": "경계, 제한" },
+          { "word": "prioritize", "meaning": "우선시하다" },
+          { "word": "passive", "meaning": "수동적인" }
+        ]
+      },
+      {
+        "q_id": 69,
+        "type": "vocabulary",
+        "quiz": "The word \"proliferation\" in paragraph 1 is closest in meaning to:",
+        "quiz_ko": "1단락의 'proliferation'과 가장 가까운 의미의 표현은?",
+        "answer1": "rapid spread or increase",
+        "answer1_ko": "급속한 확산 또는 증가",
+        "answer2": "careful regulation",
+        "answer2_ko": "신중한 규제",
+        "answer3": "gradual decline",
+        "answer3_ko": "점진적인 감소",
+        "answer4": "widespread misuse",
+        "answer4_ko": "광범위한 오용",
+        "answer": 1,
+        "commentary": "proliferation은 '급속한 확산, 증식'이라는 뜻으로 rapid spread or increase가 가장 유사합니다. 'The rapid proliferation of smartphones among children'에서 스마트폰이 빠르게 퍼지고 있다는 문맥이 핵심입니다. proliferate(확산되다, 급증하다)라는 동사 형태도 기억하세요.",
+        "keywords": [
+          { "word": "proliferation", "meaning": "급속한 확산" },
+          { "word": "proliferate", "meaning": "확산되다, 급증하다" },
+          { "word": "spread", "meaning": "확산" },
+          { "word": "unprecedented", "meaning": "전례 없는" }
+        ]
+      },
+      {
+        "q_id": 70,
+        "type": "vocabulary",
+        "quiz": "The word \"detrimental\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'detrimental'과 가장 가까운 의미의 표현은?",
+        "answer1": "beneficial",
+        "answer1_ko": "유익한",
+        "answer2": "harmful or damaging",
+        "answer2_ko": "해로운, 손상을 주는",
+        "answer3": "temporary",
+        "answer3_ko": "일시적인",
+        "answer4": "measurable",
+        "answer4_ko": "측정 가능한",
+        "answer": 2,
+        "commentary": "detrimental은 '해로운, 유해한'이라는 뜻으로 harmful or damaging이 가장 유사합니다. 'detrimental effects of excessive smartphone use'는 '과도한 스마트폰 사용의 해로운 영향'이라는 의미입니다. detrimental to(~에 해로운)라는 전치사 표현도 함께 기억하세요.",
+        "keywords": [
+          { "word": "detrimental", "meaning": "해로운, 유해한" },
+          { "word": "harmful", "meaning": "해로운" },
+          { "word": "damaging", "meaning": "손상을 주는" },
+          { "word": "excessive", "meaning": "과도한" }
+        ]
+      }
+    ]
+  }
+]

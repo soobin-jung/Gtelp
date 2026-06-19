@@ -11,6 +11,7 @@ import verbalItems from "../data/grammar/verbals/category.json";
 import verbalQuestions from "../data/grammar/verbals/questions.json";
 import verbalWords from "../data/grammar/verbals/words.json";
 import readingPart1Questions from "../data/reading/part1/questions.json";
+import readingPart2Questions from "../data/reading/part2/questions.json";
 
 const readingFiles = import.meta.glob("../data/reading/reading_*.json");
 
@@ -18,6 +19,17 @@ const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const BATCH_SIZE = 20;
 const ADMIN_CONTACT_ENDPOINT = "/api/contact";
 const TELEGRAM_ADMIN_URL = "";
+
+function toWordImageFileName(word) {
+  const normalized = String(word ?? "")
+    .trim()
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+
+  return normalized ? `/word-images/img_${normalized}.png` : "";
+}
 
 const grammarConfigs = {
   "grammar-subjunctive": {
@@ -204,6 +216,7 @@ const readingPartConfigs = {
   },
   "reading-part-2": {
     title: "part 2",
+    questions: readingPart2Questions,
     genre: "잡지 및 인터넷 기사 (Magazine/Web Article)",
     summary:
       "최신 트렌드, 사회적 이슈, 과학적 발견, 특정 연구 결과 등을 다루는 정보 전달형 기사입니다. 지텔프에서는 글의 전체 주제뿐 아니라 원인과 결과, 장단점, 연구 결과의 세부 내용을 함께 묻는 경우가 많아 체감 난도가 높은 편입니다.",
@@ -284,8 +297,10 @@ function App() {
   const [inquiryMessage, setInquiryMessage] = useState("");
   const [inquiryStatus, setInquiryStatus] = useState("idle");
   const [inquiryError, setInquiryError] = useState("");
+  const [wordPreview, setWordPreview] = useState(null);
   const loadMoreRef = useRef(null);
   const tableScrollRef = useRef(null);
+  const previewTimerRef = useRef(null);
 
   const page = pageMeta[currentPage] ?? pageMeta.dashboard;
   const visibleWords = words.slice(0, visibleCount);
@@ -300,6 +315,15 @@ function App() {
       setRevealedMeaningSeqs([]);
     }
   }, [isMeaningLocked]);
+
+  useEffect(
+    () => () => {
+      if (previewTimerRef.current) {
+        window.clearTimeout(previewTimerRef.current);
+      }
+    },
+    []
+  );
 
   useEffect(() => {
     const config = grammarConfigs[currentPage];
@@ -425,6 +449,35 @@ function App() {
     setIsInquiryOpen(false);
     setInquiryStatus("idle");
     setInquiryError("");
+  }
+
+  function closeWordPreview() {
+    if (previewTimerRef.current) {
+      window.clearTimeout(previewTimerRef.current);
+      previewTimerRef.current = null;
+    }
+    setWordPreview(null);
+  }
+
+  function openWordPreview(item) {
+    if (!item?.word) {
+      return;
+    }
+
+    if (previewTimerRef.current) {
+      window.clearTimeout(previewTimerRef.current);
+    }
+
+    setWordPreview({
+      word: item.word,
+      meaning: item.meaning ?? "",
+      imageSrc: toWordImageFileName(item.word)
+    });
+
+    previewTimerRef.current = window.setTimeout(() => {
+      setWordPreview(null);
+      previewTimerRef.current = null;
+    }, 2600);
   }
 
   async function submitInquiry() {
@@ -623,6 +676,7 @@ function App() {
               onRevealMeaning={(seq) =>
                 setRevealedMeaningSeqs((prev) => (prev.includes(seq) ? prev : [...prev, seq]))
               }
+              onPreviewWord={openWordPreview}
               loadMoreRef={loadMoreRef}
               tableScrollRef={tableScrollRef}
             />
@@ -693,6 +747,34 @@ function App() {
             </div>
           </section>
         </div>
+      ) : null}
+
+      {wordPreview ? (
+        <button type="button" className="word-preview-overlay" onClick={closeWordPreview}>
+          <div className="word-preview-card">
+            <img
+              className="word-preview-image"
+              src={wordPreview.imageSrc}
+              alt={wordPreview.word}
+              onError={(event) => {
+                event.currentTarget.onerror = null;
+                event.currentTarget.src =
+                  "data:image/svg+xml;utf8," +
+                  encodeURIComponent(`
+                    <svg xmlns="http://www.w3.org/2000/svg" width="720" height="520" viewBox="0 0 720 520">
+                      <rect width="100%" height="100%" rx="28" fill="white" stroke="#d4d4d8" stroke-width="3"/>
+                      <text x="50%" y="44%" text-anchor="middle" font-family="Arial, sans-serif" font-size="44" fill="#111827">IMAGE READY</text>
+                      <text x="50%" y="58%" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#6b7280">${wordPreview.word}</text>
+                    </svg>
+                  `);
+              }}
+            />
+            <div className="word-preview-copy">
+              <strong>{wordPreview.word}</strong>
+              <span>{wordPreview.meaning || "image preview"}</span>
+            </div>
+          </div>
+        </button>
       ) : null}
     </div>
   );
@@ -1197,6 +1279,7 @@ function ReadingWordsPage({
   onToggleMeaningLock,
   revealedMeaningSeqs,
   onRevealMeaning,
+  onPreviewWord,
   loadMoreRef,
   tableScrollRef
 }) {
@@ -1255,7 +1338,15 @@ function ReadingWordsPage({
                 return (
                   <tr key={`${selectedLetter}-${item.seq}`}>
                     <td className="seq-cell">{item.seq}</td>
-                    <td className="word-cell">{item.word || "-"}</td>
+                    <td className="word-cell">
+                      <button
+                        type="button"
+                        className="word-preview-btn"
+                        onClick={() => onPreviewWord(item)}
+                      >
+                        {item.word || "-"}
+                      </button>
+                    </td>
                     <td className="meaning-cell">
                       {shouldMaskMeaning ? (
                         <button
