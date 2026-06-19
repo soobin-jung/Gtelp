@@ -118,7 +118,7 @@ button {
 
 .menu-stack {
   display: grid;
-  gap: 12px;
+  gap: 6px;
   flex: 1;
   overflow-y: auto;
   padding-right: 4px;
@@ -135,7 +135,7 @@ button {
 .menu-title {
   width: 100%;
   border: 0;
-  padding: 13px 15px;
+  padding: 9px 15px;
   background: transparent;
   color: var(--sidebar-text);
   display: flex;
