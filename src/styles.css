@@ -153,9 +153,9 @@ button {
 }
 
 .menu-icon {
-  width: 30px;
-  height: 30px;
-  border-radius: 10px;
+  width: 22px;
+  height: 22px;
+  border-radius: 7px;
   display: grid;
   place-items: center;
   background: #eef3fb;
