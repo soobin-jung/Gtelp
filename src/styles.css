@@ -1245,7 +1245,7 @@ button {
   display: flex;
   flex-direction: column;
   gap: 14px;
-  min-height: 0;
+  height: calc(100vh - 236px);
 }
 
 .reading-questions-scroll {
