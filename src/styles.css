@@ -1094,6 +1094,11 @@ button {
   line-height: 1.6;
 }
 
+.quiz-panel-footer {
+  display: flex;
+  justify-content: flex-start;
+}
+
 .quiz-next-btn {
   border: 1px solid var(--panel-border);
   background: #ffffff;
@@ -1205,6 +1210,18 @@ button {
 .reading-scroll-panel {
   max-height: calc(100vh - 236px);
   overflow: auto;
+}
+
+.reading-questions-shell {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+
+.reading-questions-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
 }
 
 .reading-passage-card {
@@ -1389,6 +1406,10 @@ button {
   }
 
   .reading-quiz-layout {
+    grid-template-columns: 1fr;
+  }
+
+  .reading-questions-grid {
     grid-template-columns: 1fr;
   }
 }

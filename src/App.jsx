@@ -874,9 +874,6 @@ function GrammarStudyPage({
                     <div className="quiz-panel-head">
                       <div className="quiz-counter">{state.solveCount}</div>
                       <p className="quiz-question">{displayedQuizText}</p>
-                      <button type="button" className="quiz-next-btn" onClick={onPickNextQuiz}>
-                        다른 문제
-                      </button>
                     </div>
 
                     <div className="quiz-answer-list">
@@ -914,6 +911,12 @@ function GrammarStudyPage({
                         <div className="quiz-commentary">{activeQuiz.commentary}</div>
                       </>
                     ) : null}
+
+                    <div className="quiz-panel-footer">
+                      <button type="button" className="quiz-next-btn" onClick={onPickNextQuiz}>
+                        다른 문제
+                      </button>
+                    </div>
                   </section>
                 ) : (
                   <EmptyState text="선택한 범위에 연결된 퀴즈가 없습니다." />
@@ -1312,15 +1315,15 @@ function ReadingWordsPage({
 
 function ReadingPartPage({ config }) {
   const [tab, setTab] = useState("concept");
-  const [questionIndex, setQuestionIndex] = useState(0);
+  const [passageIndex, setPassageIndex] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState({});
-  const passage = config.questions?.[0] ?? null;
+  const passages = config.questions ?? [];
+  const passage = passages[passageIndex] ?? null;
   const quizItems = passage?.questions ?? [];
-  const activeQuestion = quizItems[questionIndex] ?? null;
 
   useEffect(() => {
     setSelectedAnswers({});
-    setQuestionIndex(0);
+    setPassageIndex(0);
   }, [config.title]);
 
   return (
@@ -1397,132 +1400,86 @@ function ReadingPartPage({ config }) {
             <div className="reading-quiz-layout">
               <article className="reading-passage-card reading-scroll-panel">
                 <div className="reading-passage-head">
-                  <strong>{config.title} Passage</strong>
-                  <span>
-                    {quizItems.length} Questions
-                  </span>
+                  <strong>{config.title} Passage {passages.length > 1 ? `${passageIndex + 1} / ${passages.length}` : ""}</strong>
+                  <span>{quizItems.length} Questions</span>
                 </div>
                 <p className="reading-passage-text">{passage.passage_text}</p>
               </article>
 
-              <section className="quiz-panel reading-scroll-panel">
-                {quizItems.map((question) => {
-                  const answers = [
-                    question.answer1,
-                    question.answer2,
-                    question.answer3,
-                    question.answer4
-                  ];
-                  const selectedAnswer = selectedAnswers[question.q_id] ?? null;
-                  const isAnswered = selectedAnswer !== null;
-                  const isCorrect = isAnswered && selectedAnswer === question.answer;
+              <section className="reading-questions-shell reading-scroll-panel">
+                <div className="reading-questions-grid">
+                  {quizItems.map((question) => {
+                    const answers = [question.answer1, question.answer2, question.answer3, question.answer4];
+                    const selectedAnswer = selectedAnswers[question.q_id] ?? null;
+                    const isAnswered = selectedAnswer !== null;
+                    const isCorrect = isAnswered && selectedAnswer === question.answer;
 
-                  return (
-                    <article key={question.q_id} className="quiz-question-card">
-                      <div className="quiz-panel-head">
-                        <div className="quiz-counter">{question.q_id}</div>
-                        <p className="quiz-question">{question.quiz}</p>
-                      </div>
+                    return (
+                      <article key={question.q_id} className="quiz-question-card">
+                        <div className="quiz-panel-head">
+                          <div className="quiz-counter">{question.q_id}</div>
+                          <p className="quiz-question">{question.quiz}</p>
+                        </div>
 
-                      <div className="quiz-answer-list">
-                        {answers.map((answerText, index) => {
-                          const answerNumber = index + 1;
-                          const answerState =
-                            !isAnswered
-                              ? ""
-                              : answerNumber === question.answer
-                                ? "correct"
-                                : answerNumber === selectedAnswer
-                                  ? "wrong"
-                                  : "";
+                        <div className="quiz-answer-list">
+                          {answers.map((answerText, index) => {
+                            const answerNumber = index + 1;
+                            const answerState =
+                              !isAnswered
+                                ? ""
+                                : answerNumber === question.answer
+                                  ? "correct"
+                                  : answerNumber === selectedAnswer
+                                    ? "wrong"
+                                    : "";
 
-                          return (
-                            <button
-                              key={`${question.q_id}-${answerNumber}`}
-                              type="button"
-                              className={`quiz-answer-btn ${answerState}`}
-                              onClick={() =>
-                                setSelectedAnswers((prev) =>
-                                  prev[question.q_id]
-                                    ? prev
-                                    : { ...prev, [question.q_id]: answerNumber }
-                                )
-                              }
-                              disabled={Boolean(isAnswered)}
-                            >
-                              <span className="quiz-answer-index">{answerNumber}</span>
-                              <span>{answerText}</span>
-                            </button>
-                          );
-                        })}
-                      </div>
+                            return (
+                              <button
+                                key={`${question.q_id}-${answerNumber}`}
+                                type="button"
+                                className={`quiz-answer-btn ${answerState}`}
+                                onClick={() =>
+                                  setSelectedAnswers((prev) =>
+                                    prev[question.q_id]
+                                      ? prev
+                                      : { ...prev, [question.q_id]: answerNumber }
+                                  )
+                                }
+                                disabled={Boolean(isAnswered)}
+                              >
+                                <span className="quiz-answer-index">{answerNumber}</span>
+                                <span>{answerText}</span>
+                              </button>
+                            );
+                          })}
+                        </div>
 
-                      {isAnswered ? (
-                        <>
-                          <div className={`quiz-result ${isCorrect ? "correct" : "wrong"}`}>
-                            {isCorrect ? "?뺣떟?낅땲??" : "?ㅻ떟?낅땲??"}
-                          </div>
-                          <div className="quiz-commentary">{question.commentary}</div>
-                        </>
-                      ) : null}
-                    </article>
-                  );
-                })}
+                        {isAnswered ? (
+                          <>
+                            <div className={`quiz-result ${isCorrect ? "correct" : "wrong"}`}>
+                              {isCorrect ? "정답입니다." : "오답입니다."}
+                            </div>
+                            <div className="quiz-commentary">{question.commentary}</div>
+                          </>
+                        ) : null}
+                      </article>
+                    );
+                  })}
+                </div>
 
-              {false ? (
-                <>
-              <div className="quiz-panel-head">
-                <div className="quiz-counter">{activeQuestion.q_id}</div>
-                <p className="quiz-question">{activeQuestion.quiz}</p>
-                <button
-                  type="button"
-                  className="quiz-next-btn"
-                  onClick={() => {
-                    setQuestionIndex((prev) => (prev + 1) % quizItems.length);
-                    setSelectedAnswer(null);
-                  }}
-                >
-                  다음 문제
-                </button>
-              </div>
-
-              <div className="quiz-answer-list">
-                {answers.map((answerText, index) => {
-                  const answerNumber = index + 1;
-                  const answerState =
-                    !isAnswered
-                      ? ""
-                      : answerNumber === activeQuestion.answer
-                        ? "correct"
-                        : answerNumber === selectedAnswer
-                          ? "wrong"
-                          : "";
-
-                  return (
-                    <button
-                      key={`${activeQuestion.q_id}-${answerNumber}`}
-                      type="button"
-                      className={`quiz-answer-btn ${answerState}`}
-                      onClick={() => setSelectedAnswer(answerNumber)}
-                      disabled={Boolean(isAnswered)}
-                    >
-                      <span className="quiz-answer-index">{answerNumber}</span>
-                      <span>{answerText}</span>
-                    </button>
-                  );
-                })}
-              </div>
-
-              {isAnswered ? (
-                <>
-                  <div className={`quiz-result ${isCorrect ? "correct" : "wrong"}`}>
-                    {isCorrect ? "정답입니다." : "오답입니다."}
-                  </div>
-                  <div className="quiz-commentary">{activeQuestion.commentary}</div>
-                </>
-              ) : null}
-                </>
-              ) : null}
+                <div className="quiz-panel-footer">
+                  <button
+                    type="button"
+                    className="quiz-next-btn"
+                    onClick={() => {
+                      setPassageIndex((prev) => (prev + 1) % passages.length);
+                      setSelectedAnswers({});
+                    }}
+                    disabled={passages.length <= 1}
+                  >
+                    다음 지문
+                  </button>
+                </div>
               </section>
             </div>
           ) : (
