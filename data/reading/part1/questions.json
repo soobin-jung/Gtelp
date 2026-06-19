@@ -13,7 +13,13 @@
         "answer3": "Travel the world",
         "answer4": "Invent tools",
         "answer": 1,
-        "commentary": "지문 첫 문단에 부모님이 전통적인 직업을 갖기를 원했다고 언급됨."
+        "commentary": "1단락에 'Despite her parents' wishes for her to pursue a more traditional career'라는 표현이 나옵니다. traditional career(전통적인 직업)를 보기에서는 conventional career(관습적인 직업)로 paraphrasing했습니다. 지텔프에서 자주 쓰이는 paraphrasing 패턴이니 꼭 익혀두세요.",
+        "keywords": [
+          { "word": "pioneering", "meaning": "선구적인, 개척하는" },
+          { "word": "conventional", "meaning": "관습적인, 전통적인" },
+          { "word": "despite", "meaning": "~에도 불구하고" },
+          { "word": "prestigious", "meaning": "명망 있는, 권위 있는" }
+        ]
       },
       {
         "q_id": 2,
@@ -24,7 +30,13 @@
         "answer3": "To observe marine life at great depths",
         "answer4": "To measure temperature",
         "answer": 3,
-        "commentary": "두 번째 단락에 심해 생물을 관찰하기 위한 도구라고 명시됨."
+        "commentary": "2단락에 'allowed researchers to observe marine life at unprecedented depths'라고 명시되어 있습니다. unprecedented(전례 없는)는 지텔프 독해에서 자주 등장하는 형용사입니다. 보기의 'at great depths'는 지문의 'at unprecedented depths'를 paraphrasing한 표현입니다.",
+        "keywords": [
+          { "word": "unprecedented", "meaning": "전례 없는, 유례없는" },
+          { "word": "armored", "meaning": "장갑을 두른, 보호된" },
+          { "word": "observe", "meaning": "관찰하다" },
+          { "word": "marine life", "meaning": "해양 생물" }
+        ]
       },
       {
         "q_id": 3,
@@ -35,7 +47,13 @@
         "answer3": "It was a work of fiction",
         "answer4": "It focused solely on conservation",
         "answer": 2,
-        "commentary": "두 번째 단락에 발견한 50종 이상의 생물 관찰 기록이 담겨 있으며 큰 성공을 거뒀다고 언급됨."
+        "commentary": "2단락에서 책에는 50종 이상의 심해 생물 관찰 내용이 담겼고, 'massive success(큰 성공)'를 거뒀다고 합니다. 보기 1번 'ignored(무시됨)'는 지문과 정반대이므로 오답입니다. 지텔프에서는 지문 내용과 정반대인 보기로 함정을 만드는 경우가 많으니 주의하세요.",
+        "keywords": [
+          { "word": "detailed observations", "meaning": "세밀한 관찰 기록" },
+          { "word": "massive success", "meaning": "큰 성공" },
+          { "word": "international fame", "meaning": "국제적인 명성" },
+          { "word": "species", "meaning": "종(생물 분류 단위)" }
+        ]
       },
       {
         "q_id": 4,
@@ -46,7 +64,13 @@
         "answer3": "Economic downturn and skepticism from colleagues",
         "answer4": "She had already retired from research",
         "answer": 3,
-        "commentary": "세 번째 단락에 경기 침체와 동료들의 회의론이 원인이라고 언급됨."
+        "commentary": "3단락에 'due to the economic downturn and widespread skepticism from her male colleagues'라고 두 가지 이유가 명확하게 나옵니다. 이처럼 이유를 묻는 문제는 'due to / because of / owing to' 뒤에 답이 오는 경우가 많습니다.",
+        "keywords": [
+          { "word": "financial backing", "meaning": "자금 지원" },
+          { "word": "economic downturn", "meaning": "경기 침체" },
+          { "word": "skepticism", "meaning": "회의론, 의심" },
+          { "word": "dismiss", "meaning": "무시하다, 일축하다" }
+        ]
       },
       {
         "q_id": 5,
@@ -57,7 +81,13 @@
         "answer3": "Retired from scientific work",
         "answer4": "Passed away",
         "answer": 2,
-        "commentary": "마지막 단락에 1950년 해양 연구소를 설립했다고 나옴."
+        "commentary": "4단락에 'Vance established the Vance Marine Institute in 1950'이라고 나옵니다. established(설립했다)를 보기에서는 founded(설립했다)로 paraphrasing했습니다. established = founded는 지텔프 독해 paraphrasing의 대표적인 예입니다.",
+        "keywords": [
+          { "word": "established", "meaning": "설립했다 (= founded)" },
+          { "word": "dedicate", "meaning": "헌신하다, 바치다" },
+          { "word": "conservation", "meaning": "보호, 보존" },
+          { "word": "legacy", "meaning": "유산, 업적" }
+        ]
       },
       {
         "q_id": 6,
@@ -68,7 +98,13 @@
         "answer3": "complicated",
         "answer4": "traditional",
         "answer": 1,
-        "commentary": "'획기적인'이라는 뜻으로 'innovative(혁신적인)'와 동의어임."
+        "commentary": "groundbreaking은 '획기적인, 혁신적인'이라는 뜻으로, innovative(혁신적인)와 동의어입니다. 반의어는 conventional / traditional(전통적인)입니다. 2단락에서 Aquasphere를 설명하는 맥락이므로, 세상에 없던 새로운 발명품을 수식하는 단어임을 파악하면 쉽게 고를 수 있습니다.",
+        "keywords": [
+          { "word": "groundbreaking", "meaning": "획기적인, 혁신적인" },
+          { "word": "innovative", "meaning": "혁신적인 (= groundbreaking)" },
+          { "word": "revolutionary", "meaning": "혁명적인, 획기적인" },
+          { "word": "conventional", "meaning": "전통적인, 관습적인 (반의어)" }
+        ]
       },
       {
         "q_id": 7,
@@ -79,7 +115,13 @@
         "answer3": "confused",
         "answer4": "exhausted",
         "answer": 2,
-        "commentary": "'단념하지 않고, 굴하지 않고'라는 뜻으로 'unshaken(흔들리지 않는)'이 동의어임."
+        "commentary": "undeterred는 '굴하지 않고, 단념하지 않고'라는 뜻입니다. deter(단념시키다, 막다)에 부정 접두사 un-이 붙은 형태로, unshaken(흔들리지 않는)과 의미가 가장 가깝습니다. 1번 discouraged(낙담한)는 반의어에 해당하므로 오답입니다.",
+        "keywords": [
+          { "word": "undeterred", "meaning": "굴하지 않고, 단념하지 않고" },
+          { "word": "deter", "meaning": "단념시키다, 막다" },
+          { "word": "unshaken", "meaning": "흔들리지 않는, 확고한" },
+          { "word": "discouraged", "meaning": "낙담한, 의기소침한 (반의어)" }
+        ]
       }
     ]
   },
@@ -97,7 +139,13 @@
         "answer3": "Farming",
         "answer4": "Politics",
         "answer": 1,
-        "commentary": "첫 번째 단락에서 가족들이 의학(medicine)을 공부하기를 고집했다고 언급됨."
+        "commentary": "1단락에 'the family insisting he study medicine instead'라고 직접적으로 언급되어 있습니다. insist(고집하다, 주장하다)는 지텔프에서 that절 동사원형과 함께 자주 출제됩니다. 'insist that + 주어 + 동사원형' 구조를 꼭 기억해 두세요.",
+        "keywords": [
+          { "word": "discouraged", "meaning": "낙담시키다, 단념시키다" },
+          { "word": "insist", "meaning": "고집하다, 주장하다" },
+          { "word": "undeniable", "meaning": "부정할 수 없는, 명백한" },
+          { "word": "pave the way for", "meaning": "~의 길을 열다, 기반을 마련하다" }
+        ]
       },
       {
         "q_id": 9,
@@ -108,7 +156,13 @@
         "answer3": "Capturing the fleeting quality of light",
         "answer4": "Focusing exclusively on portrait painting",
         "answer": 3,
-        "commentary": "두 번째 단락에서 빛의 일시적인 특성을 포착하는 기법이라고 설명됨."
+        "commentary": "2단락에 'a technique that focused on capturing the fleeting quality of light'라고 정의되어 있습니다. fleeting(순간적인, 덧없는)은 지텔프 어휘 문제에 자주 나오는 단어입니다. 보기 1·2·4번은 지문에 전혀 언급되지 않은 내용으로 오답입니다.",
+        "keywords": [
+          { "word": "breakthrough", "meaning": "획기적인 성과, 돌파구" },
+          { "word": "fleeting", "meaning": "순간적인, 덧없는" },
+          { "word": "capture", "meaning": "포착하다, 담아내다" },
+          { "word": "unconventional", "meaning": "비관습적인, 파격적인" }
+        ]
       },
       {
         "q_id": 10,
@@ -119,7 +173,13 @@
         "answer3": "They ignored the exhibition entirely.",
         "answer4": "They purchased his paintings.",
         "answer": 2,
-        "commentary": "두 번째 단락에서 전통적인 비평가들이 그의 파격적인 방법에 회의적(skeptical)이었다고 나옴."
+        "commentary": "2단락에 'traditional critics remained skeptical of his unconventional methods'라고 나옵니다. skeptical(회의적인)은 비판적인 태도를 나타내는 핵심 표현입니다. 1번 praised(칭찬했다)는 지문 내용과 정반대이므로 오답입니다.",
+        "keywords": [
+          { "word": "skeptical", "meaning": "회의적인, 의심하는" },
+          { "word": "unconventional", "meaning": "비관습적인, 파격적인" },
+          { "word": "exhibition", "meaning": "전시회" },
+          { "word": "immediate fame", "meaning": "즉각적인 명성" }
+        ]
       },
       {
         "q_id": 11,
@@ -130,7 +190,13 @@
         "answer3": "He permanently lost his eyesight.",
         "answer4": "His financial support was cut off.",
         "answer": 1,
-        "commentary": "세 번째 단락에서 1917년 공습으로 스튜디오가 파괴되었다고 나옴."
+        "commentary": "3단락에 'His studio was destroyed by an air raid in 1917'라고 명확히 나옵니다. setback(좌절, 차질)은 지문에서 hardship / obstacle과 같은 역경을 표현하는 단어들과 같이 쓰이는 어휘입니다. 나머지 보기들은 지문에 언급되지 않은 내용입니다.",
+        "keywords": [
+          { "word": "immense", "meaning": "엄청난, 막대한" },
+          { "word": "hardship", "meaning": "고난, 어려움" },
+          { "word": "air raid", "meaning": "공습" },
+          { "word": "vast collection", "meaning": "방대한 컬렉션, 대규모 수집품" }
+        ]
       },
       {
         "q_id": 12,
@@ -141,7 +207,13 @@
         "answer3": "He wrote a detailed autobiography.",
         "answer4": "He taught at the Paris Academy of Fine Arts.",
         "answer": 4,
-        "commentary": "마지막 단락에서 파리 예술 아카데미에서 젊은 예술가들을 가르쳤다고 나옴."
+        "commentary": "4단락에 'dedicated his remaining years to teaching young artists at the Paris Academy of Fine Arts'라고 나옵니다. dedicated A to B(A를 B에 헌신했다) 구조를 기억해 두세요. 지텔프 독해에서 마지막 단락에 인물의 말년 행적이 나오는 패턴이 자주 출제됩니다.",
+        "keywords": [
+          { "word": "renewed vigor", "meaning": "새로운 활력, 재충전된 열정" },
+          { "word": "iconic", "meaning": "상징적인, 대표적인" },
+          { "word": "dedicate A to B", "meaning": "A를 B에 헌신하다/바치다" },
+          { "word": "cornerstone", "meaning": "초석, 핵심 기반" }
+        ]
       },
       {
         "q_id": 13,
@@ -152,7 +224,13 @@
         "answer3": "humble",
         "answer4": "crowded",
         "answer": 3,
-        "commentary": "'검소한, 소박한'이라는 뜻으로 'humble(소박한, 변변치 않은)'이 동의어임."
+        "commentary": "modest는 '검소한, 소박한, 변변치 않은'이라는 뜻으로, humble(소박한, 수수한)이 동의어입니다. 1번 wealthy(부유한)는 반의어에 해당합니다. 'a modest household'는 '소박한 가정'이라는 의미로, Sterling이 부유하지 않은 환경에서 자랐음을 나타냅니다.",
+        "keywords": [
+          { "word": "modest", "meaning": "소박한, 검소한, 보통의" },
+          { "word": "humble", "meaning": "겸손한, 소박한 (= modest)" },
+          { "word": "household", "meaning": "가정, 세대" },
+          { "word": "wealthy", "meaning": "부유한 (반의어)" }
+        ]
       },
       {
         "q_id": 14,
@@ -163,7 +241,13 @@
         "answer3": "caution",
         "answer4": "patience",
         "answer": 2,
-        "commentary": "'활력, 정력'이라는 뜻으로 'energy(에너지, 활기)'가 동의어임."
+        "commentary": "vigor는 '활력, 열정, 힘'이라는 뜻으로, energy(에너지, 활기)가 동의어입니다. 'returned to his art with renewed vigor'는 '새로운 활력으로 예술로 돌아왔다'는 의미입니다. vigorous(활기찬)라는 형용사 형태도 함께 기억해 두세요.",
+        "keywords": [
+          { "word": "vigor", "meaning": "활력, 열정, 힘" },
+          { "word": "vigorous", "meaning": "활기찬, 힘찬" },
+          { "word": "renewed", "meaning": "새로워진, 재충전된" },
+          { "word": "eventually", "meaning": "결국, 마침내" }
+        ]
       }
     ]
   },
@@ -181,7 +265,13 @@
         "answer3": "A personal desire to become a politician",
         "answer4": "An invitation from the government",
         "answer": 1,
-        "commentary": "첫 번째 단락에서 노동자 계층의 구조적 불평등을 목격하고 법조계로 진출하게 되었다고 나옴."
+        "commentary": "1단락에 'witnessed the systemic inequality in his community, which inspired him to enter the world of law'라고 나옵니다. which는 관계대명사로 앞 내용 전체를 받아 결과를 설명합니다. inspired(영감을 주다, 자극하다)는 motivated(동기를 부여하다)로 paraphrasing되었습니다.",
+        "keywords": [
+          { "word": "systemic inequality", "meaning": "구조적 불평등" },
+          { "word": "inspire", "meaning": "영감을 주다, 동기를 부여하다" },
+          { "word": "corrupt", "meaning": "부패한" },
+          { "word": "burden", "meaning": "짐을 지우다, 부담을 주다" }
+        ]
       },
       {
         "q_id": 16,
@@ -192,7 +282,13 @@
         "answer3": "Rival political parties lost most of their power",
         "answer4": "The government reduced its role in labor disputes",
         "answer": 2,
-        "commentary": "두 번째 단락에 직장 안전과 최저임금의 기준을 세워 노동자들에게 혜택을 주었다고 나옴."
+        "commentary": "2단락에 'set unprecedented standards for workplace safety and minimum wages, directly benefiting millions of workers'라고 나옵니다. outcome(결과)을 묻는 문제에서는 지문의 result / effect / benefit 관련 표현을 찾으면 됩니다. 1번은 지문 내용과 반대입니다.",
+        "keywords": [
+          { "word": "legislation", "meaning": "법률, 입법" },
+          { "word": "minimum wages", "meaning": "최저임금" },
+          { "word": "negotiate", "meaning": "협상하다" },
+          { "word": "controversial", "meaning": "논란이 많은, 논쟁적인" }
+        ]
       },
       {
         "q_id": 17,
@@ -203,7 +299,13 @@
         "answer3": "By successfully negotiating with rival parties",
         "answer4": "By threatening members of the political elite",
         "answer": 3,
-        "commentary": "두 번째 단락에서 경쟁 정당과의 협상 능력이 법안 통과의 핵심이었다고 나옴."
+        "commentary": "2단락에 'His ability to negotiate with rival parties was key to passing such a controversial bill'이라고 나옵니다. manage to(~을 해내다)는 succeed in과 같은 의미입니다. 이 문제에서 'key(핵심, 열쇠)'가 정답 근거가 되는 단어입니다.",
+        "keywords": [
+          { "word": "rival", "meaning": "경쟁하는, 대립하는" },
+          { "word": "reputation", "meaning": "명성, 평판" },
+          { "word": "master diplomat", "meaning": "외교의 달인" },
+          { "word": "bill", "meaning": "법안" }
+        ]
       },
       {
         "q_id": 18,
@@ -214,7 +316,13 @@
         "answer3": "He was offered a more prominent government position.",
         "answer4": "He chose to retire from public life voluntarily.",
         "answer": 1,
-        "commentary": "세 번째 단락에서 적들에 의해 기획된 비리 스캔들 때문에 사임했다고 나옴."
+        "commentary": "3단락에 'he faced a massive smear campaign orchestrated by his opponents, who accused him of corruption'이라고 나옵니다. smear campaign(비방 캠페인)과 accused of corruption(부패 혐의 고발)이 핵심 표현입니다. forced to resign(강제로 사임당하다)이라는 표현도 시험에 자주 등장합니다.",
+        "keywords": [
+          { "word": "smear campaign", "meaning": "비방 캠페인, 흑색선전" },
+          { "word": "orchestrated", "meaning": "치밀하게 기획된, 조직된" },
+          { "word": "undermine", "meaning": "약화시키다, 훼손하다" },
+          { "word": "resign", "meaning": "사임하다, 사직하다" }
+        ]
       },
       {
         "q_id": 19,
@@ -225,7 +333,13 @@
         "answer3": "As a corrupt official who betrayed the working class",
         "answer4": "As a symbol of integrity and commitment to social justice",
         "answer": 4,
-        "commentary": "마지막 단락에서 역사가들이 그를 사회 정의에 대한 헌신과 청렴함의 상징으로 연구한다고 나옴."
+        "commentary": "4단락에 'His life is still studied by historians as a symbol of integrity and commitment to social justice'라고 나옵니다. 전기문 마지막 단락에는 인물의 현재 평가가 담기는 경우가 많습니다. integrity(청렴함, 성실함)는 지텔프 독해에서 자주 나오는 어휘입니다.",
+        "keywords": [
+          { "word": "integrity", "meaning": "청렴함, 도덕적 성실함" },
+          { "word": "commitment", "meaning": "헌신, 전념" },
+          { "word": "social justice", "meaning": "사회 정의" },
+          { "word": "setback", "meaning": "좌절, 차질" }
+        ]
       },
       {
         "q_id": 20,
@@ -236,7 +350,13 @@
         "answer3": "rewarded",
         "answer4": "weighed down",
         "answer": 4,
-        "commentary": "'짐을 지우다, 괴롭히다'라는 뜻으로 'weighed down(압박을 가하다)'이 동의어임."
+        "commentary": "burden은 명사로 '짐, 부담', 동사로 '짐을 지우다, 압박하다'라는 뜻입니다. 'weighed down(압박을 가하다, 짓누르다)'이 가장 가까운 의미입니다. 지문에서 'burdened the working class with unfair taxes'는 '불공정한 세금으로 노동자들을 압박했다'는 의미입니다.",
+        "keywords": [
+          { "word": "burden", "meaning": "짐, 부담 / 짐을 지우다" },
+          { "word": "weigh down", "meaning": "짓누르다, 압박하다" },
+          { "word": "unfair", "meaning": "불공정한, 부당한" },
+          { "word": "working class", "meaning": "노동자 계층" }
+        ]
       },
       {
         "q_id": 21,
@@ -247,7 +367,13 @@
         "answer3": "accidentally caused",
         "answer4": "publicly announced",
         "answer": 2,
-        "commentary": "'치밀하게 조직하다, 기획하다'라는 뜻으로 'planned and coordinated(계획하고 조율한)'이 동의어임."
+        "commentary": "orchestrate는 원래 '오케스트라를 지휘하다'라는 뜻이지만, 비유적으로 '치밀하게 계획하고 조율하다'라는 의미로도 쓰입니다. 'a smear campaign orchestrated by his opponents'는 '적들에 의해 치밀하게 기획된 비방 캠페인'이라는 의미입니다.",
+        "keywords": [
+          { "word": "orchestrate", "meaning": "치밀하게 계획하다, 조율하다" },
+          { "word": "coordinate", "meaning": "조율하다, 조정하다" },
+          { "word": "opponent", "meaning": "적, 반대자, 상대방" },
+          { "word": "fierce", "meaning": "맹렬한, 격렬한" }
+        ]
       }
     ]
   },
@@ -265,7 +391,13 @@
         "answer3": "A move to an urban area",
         "answer4": "A position in government",
         "answer": 1,
-        "commentary": "첫 번째 단락에서 가족들이 그녀가 간호학에 집중하기를 바랐다고 나옴."
+        "commentary": "1단락에 'While her family wanted her to focus on nursing'이라고 명시되어 있습니다. while(~인 반면에)은 대조를 나타내는 접속사로, 가족의 바람과 Hawthorne 본인의 선택이 대비되는 구조입니다. 지텔프 독해에서 while / although / however 뒤에 핵심 내용이 오는 경우가 많습니다.",
+        "keywords": [
+          { "word": "ecologist", "meaning": "생태학자" },
+          { "word": "bond", "meaning": "유대, 결속" },
+          { "word": "wilderness", "meaning": "황야, 자연 그대로의 지역" },
+          { "word": "natural resources", "meaning": "천연자원" }
+        ]
       },
       {
         "q_id": 23,
@@ -276,7 +408,13 @@
         "answer3": "The area was designated as a protected national reserve.",
         "answer4": "She was appointed to a government advisory role.",
         "answer": 3,
-        "commentary": "두 번째 단락에서 그 지역이 보호된 국립 공원으로 지정되었다고 나옴."
+        "commentary": "2단락에 'eventually succeeding in designating the area as a protected national reserve'라고 결과가 나옵니다. eventually(결국, 마침내)는 결과를 알려주는 신호 부사입니다. 2번은 지문 내용과 정반대(오답 함정)입니다.",
+        "keywords": [
+          { "word": "spearhead", "meaning": "주도하다, 선봉에 서다" },
+          { "word": "lobby", "meaning": "로비하다, 압력을 넣다" },
+          { "word": "designate", "meaning": "지정하다, 명시하다" },
+          { "word": "national reserve", "meaning": "국립 보호구역" }
+        ]
       },
       {
         "q_id": 24,
@@ -287,7 +425,13 @@
         "answer3": "They sought her advice on environmental policy.",
         "answer4": "They offered her a high-paying position.",
         "answer": 2,
-        "commentary": "세 번째 단락에서 기업들이 그녀를 깎아내리기 위한 미디어 캠페인을 펼쳤다고 나옴."
+        "commentary": "3단락에 'these companies launched a massive media campaign to discredit her'라고 나옵니다. discredit(신뢰를 떨어뜨리다, 평판을 손상시키다)는 지텔프 독해에서 자주 나오는 부정적 표현입니다. 1·3·4번은 지문에 전혀 나오지 않는 내용입니다.",
+        "keywords": [
+          { "word": "backlash", "meaning": "강한 반발, 역풍" },
+          { "word": "discredit", "meaning": "신뢰를 떨어뜨리다, 평판을 손상시키다" },
+          { "word": "conservation", "meaning": "보호, 보존" },
+          { "word": "ruin", "meaning": "망치다, 파괴하다" }
+        ]
       },
       {
         "q_id": 25,
@@ -298,7 +442,13 @@
         "answer3": "She was banned from entering national parks.",
         "answer4": "She was denied funding for her research center.",
         "answer": 1,
-        "commentary": "세 번째 단락에 몇 년 동안 주요 대학에서 연설하는 것이 금지되었다고 나옴."
+        "commentary": "3단락에 'she was barred from speaking at major universities'라고 명시되어 있습니다. be barred from(~을 금지당하다)은 be prohibited from / be banned from과 같은 의미입니다. 나머지 보기들은 지문에 언급되지 않은 내용입니다.",
+        "keywords": [
+          { "word": "barred from", "meaning": "~을 금지당하다 (= prohibited from)" },
+          { "word": "trial", "meaning": "시련, 고난 / 재판" },
+          { "word": "activist", "meaning": "활동가, 운동가" },
+          { "word": "benchmark", "meaning": "기준, 표준" }
+        ]
       },
       {
         "q_id": 26,
@@ -309,7 +459,13 @@
         "answer3": "Producing media content on environmental issues",
         "answer4": "Sustainable land management",
         "answer": 4,
-        "commentary": "마지막 단락에서 해당 연구소가 지속 가능한 토지 관리에 중점을 둔다고 나옴."
+        "commentary": "4단락에 'a forest research center in 1952, which focuses on sustainable land management'라고 나옵니다. sustainable(지속 가능한)은 환경 관련 지문에서 매우 자주 등장하는 어휘입니다. 1번 logging(벌목)은 그녀가 반대했던 것이므로 오답 함정입니다.",
+        "keywords": [
+          { "word": "sustainable", "meaning": "지속 가능한" },
+          { "word": "land management", "meaning": "토지 관리" },
+          { "word": "dedicated", "meaning": "헌신적인, 전념하는" },
+          { "word": "conservationist", "meaning": "환경 보호론자" }
+        ]
       },
       {
         "q_id": 27,
@@ -320,7 +476,13 @@
         "answer3": "led",
         "answer4": "funded",
         "answer": 3,
-        "commentary": "'선봉에 서다, 주도하다'라는 뜻으로 'led(이끌었다)'가 동의어임."
+        "commentary": "spearhead는 원래 '창끝'이라는 뜻에서 파생되어 '선봉에 서다, 주도하다'라는 의미로 쓰입니다. led(이끌었다)가 동의어입니다. 유사 표현으로 headed, pioneered, initiated 등도 알아두면 유용합니다.",
+        "keywords": [
+          { "word": "spearhead", "meaning": "선봉에 서다, 주도하다" },
+          { "word": "lead / led", "meaning": "이끌다 / 이끌었다 (= spearhead)" },
+          { "word": "initiate", "meaning": "시작하다, 주도하다" },
+          { "word": "campaign", "meaning": "캠페인, 운동" }
+        ]
       },
       {
         "q_id": 28,
@@ -331,7 +493,13 @@
         "answer3": "public celebration",
         "answer4": "legal punishment",
         "answer": 2,
-        "commentary": "'강한 반발, 역풍'이라는 뜻으로 'strong negative reaction(강한 부정적 반응)'이 동의어임."
+        "commentary": "backlash는 '강한 반발, 역풍'이라는 뜻으로, 어떤 행동이나 정책에 대한 부정적인 반응을 의미합니다. 'strong negative reaction(강한 부정적 반응)'이 가장 가까운 표현입니다. 1번 support(지지)는 반의어에 해당하므로 오답입니다.",
+        "keywords": [
+          { "word": "backlash", "meaning": "강한 반발, 역풍" },
+          { "word": "significant", "meaning": "상당한, 중요한" },
+          { "word": "corporation", "meaning": "기업, 법인" },
+          { "word": "opposition", "meaning": "반대, 저항" }
+        ]
       }
     ]
   },
@@ -349,7 +517,13 @@
         "answer3": "Merchant trade",
         "answer4": "Military service",
         "answer": 1,
-        "commentary": "첫 번째 단락에서 부유한 상인인 아버지가 그에게 법조계 진출을 준비하라고 고집했다고 나옴."
+        "commentary": "1단락에 'his father, a wealthy merchant, insisted that he prepare for a career in law'라고 나옵니다. insist that + 주어 + 동사원형(should 생략) 구조입니다. 3번 merchant(상인)는 아버지의 직업이지 아버지가 원한 직업이 아니므로 오답 함정입니다.",
+        "keywords": [
+          { "word": "visionary", "meaning": "선견지명이 있는, 비전 있는" },
+          { "word": "perceive", "meaning": "인식하다, 이해하다" },
+          { "word": "constellation", "meaning": "별자리" },
+          { "word": "merchant", "meaning": "상인, 무역상" }
+        ]
       },
       {
         "q_id": 30,
@@ -360,7 +534,13 @@
         "answer3": "He invented a telescope that could see through clouds.",
         "answer4": "He built the world's largest public observatory.",
         "answer": 2,
-        "commentary": "두 번째 단락에 혜성 궤도를 계산하는 새로운 방법을 개발했다고 나옴."
+        "commentary": "2단락에 'he developed a new method for calculating comet trajectories'라고 명시되어 있습니다. trajectory(궤도, 궤적)는 과학 관련 지문에서 자주 나오는 어휘입니다. 4번의 public observatory(공공 천문대)는 1920년의 일이므로 시기가 다른 오답 함정입니다.",
+        "keywords": [
+          { "word": "breakthrough", "meaning": "획기적인 발견, 돌파구" },
+          { "word": "trajectory", "meaning": "궤도, 궤적" },
+          { "word": "predict", "meaning": "예측하다" },
+          { "word": "rare", "meaning": "드문, 희귀한" }
+        ]
       },
       {
         "q_id": 31,
@@ -371,7 +551,13 @@
         "answer3": "They attempted to replicate his research.",
         "answer4": "They responded with indifference.",
         "answer": 4,
-        "commentary": "두 번째 단락에 초기에는 무관심(indifference)으로 반응했다고 나옴."
+        "commentary": "2단락에 'His findings were initially met with indifference by the scientific community'라고 나옵니다. initially(처음에는)는 나중에 상황이 바뀔 것을 암시하는 부사입니다. 실제로 이후 'soon verified'로 상황이 반전됩니다. 이런 반전 구조를 파악하는 것이 지텔프 독해의 핵심입니다.",
+        "keywords": [
+          { "word": "indifference", "meaning": "무관심" },
+          { "word": "initially", "meaning": "처음에는" },
+          { "word": "verified", "meaning": "검증된, 확인된" },
+          { "word": "catapult", "meaning": "급부상시키다, 단번에 올려놓다" }
+        ]
       },
       {
         "q_id": 32,
@@ -382,7 +568,13 @@
         "answer3": "He suffered physical injuries in the fire.",
         "answer4": "His university closed his laboratory.",
         "answer": 1,
-        "commentary": "세 번째 단락에 화재로 주요 연구 저널과 차트가 파괴되었다고 나옴."
+        "commentary": "3단락에 'a lab fire destroyed many of his primary research journals and charts'라고 나옵니다. primary(주요한, 핵심적인)를 보기에서는 critical(중요한, 핵심적인)로 paraphrasing했습니다. 2번은 잘못된 내용으로, 그는 이후에도 연구를 계속했습니다.",
+        "keywords": [
+          { "word": "primary", "meaning": "주요한, 핵심적인" },
+          { "word": "reconstruct", "meaning": "재구성하다, 다시 만들다" },
+          { "word": "severe depression", "meaning": "극심한 우울증" },
+          { "word": "abandon", "meaning": "포기하다, 버리다" }
+        ]
       },
       {
         "q_id": 33,
@@ -393,7 +585,13 @@
         "answer3": "A public observatory for the general public",
         "answer4": "A scholarship foundation for young scientists",
         "answer": 3,
-        "commentary": "마지막 단락에서 일반인들이 과학을 접할 수 있도록 공공 천문대를 열었다고 나옴."
+        "commentary": "4단락에 'opening a public observatory to encourage common people to engage with science'라고 나옵니다. 목적을 나타내는 to부정사(to encourage)를 통해 공공 천문대를 연 이유도 함께 파악할 수 있습니다. common people = general public으로 paraphrasing되었습니다.",
+        "keywords": [
+          { "word": "emerged", "meaning": "나타나다, 부상하다" },
+          { "word": "observatory", "meaning": "천문대" },
+          { "word": "engage with", "meaning": "~에 참여하다, 관심을 갖다" },
+          { "word": "essential", "meaning": "필수적인" }
+        ]
       },
       {
         "q_id": 34,
@@ -404,7 +602,13 @@
         "answer3": "strong opposition",
         "answer4": "deep admiration",
         "answer": 2,
-        "commentary": "'무관심'이라는 뜻으로 'lack of interest(관심 없음)'가 동의어임."
+        "commentary": "indifference는 '무관심, 냉담함'이라는 뜻으로, 'lack of interest(관심 없음)'가 가장 가까운 의미입니다. indifferent(무관심한) 형용사 형태도 함께 기억해 두세요. 1번 excitement(흥분), 4번 admiration(감탄)은 반의어에 가깝습니다.",
+        "keywords": [
+          { "word": "indifference", "meaning": "무관심, 냉담함" },
+          { "word": "indifferent", "meaning": "무관심한, 냉담한" },
+          { "word": "lack of interest", "meaning": "관심 없음 (= indifference)" },
+          { "word": "admiration", "meaning": "감탄, 경탄 (반의어)" }
+        ]
       },
       {
         "q_id": 35,
@@ -415,7 +619,13 @@
         "answer3": "destroy",
         "answer4": "rebuild",
         "answer": 4,
-        "commentary": "'재구성하다, 다시 만들다'라는 뜻으로 'rebuild(재건하다)'가 동의어임."
+        "commentary": "reconstruct는 're-(다시) + construct(만들다, 건설하다)'의 합성어로 '재구성하다, 다시 만들다'라는 뜻입니다. rebuild(재건하다)가 동의어입니다. 1번 abandon(포기하다), 3번 destroy(파괴하다)는 반의어에 해당합니다.",
+        "keywords": [
+          { "word": "reconstruct", "meaning": "재구성하다, 다시 만들다" },
+          { "word": "rebuild", "meaning": "재건하다 (= reconstruct)" },
+          { "word": "construct", "meaning": "건설하다, 구성하다" },
+          { "word": "abandon", "meaning": "포기하다, 버리다 (반의어)" }
+        ]
       }
     ]
   },
@@ -433,7 +643,13 @@
         "answer3": "To avoid legal trouble for her controversial views",
         "answer4": "Because she disliked her real name",
         "answer": 1,
-        "commentary": "첫 번째 단락에서 남성 필명을 사용하여 작품 자체의 가치로 평가받고 싶어 했다고 나옴."
+        "commentary": "1단락에 'using a masculine pen name to ensure her work was judged on its own merit'라고 나옵니다. to ensure(~을 보장하기 위해)는 목적을 나타내는 표현입니다. merit(공로, 가치)는 작품 자체의 능력으로 평가받겠다는 의미로, 당시 여성이라는 이유로 차별받는 현실을 반영합니다.",
+        "keywords": [
+          { "word": "anonymous", "meaning": "익명의, 이름이 알려지지 않은" },
+          { "word": "pen name", "meaning": "필명, 가명" },
+          { "word": "merit", "meaning": "공로, 가치, 장점" },
+          { "word": "leisure", "meaning": "여가, 한가함" }
+        ]
       },
       {
         "q_id": 37,
@@ -444,7 +660,13 @@
         "answer3": "Major historical events in early 20th-century England",
         "answer4": "A science fiction story set in the future",
         "answer": 2,
-        "commentary": "두 번째 단락에 노동자 계층의 투쟁을 생생하게 묘사했다고 나옴."
+        "commentary": "2단락에 'its raw portrayal of working-class struggles'와 'exposing the hardships of urban laborers'라고 나옵니다. raw portrayal(생생한 묘사)을 hardships(고난)으로 paraphrasing했습니다. 1번 wealthy families의 lifestyle은 지문에서 Bennett이 비판한 대상이지 소설의 주제가 아닙니다.",
+        "keywords": [
+          { "word": "raw portrayal", "meaning": "생생한 묘사, 적나라한 묘사" },
+          { "word": "working-class", "meaning": "노동자 계층의" },
+          { "word": "hardship", "meaning": "고난, 어려움" },
+          { "word": "critique", "meaning": "비평, 비판" }
+        ]
       },
       {
         "q_id": 38,
@@ -455,7 +677,13 @@
         "answer3": "Her true identity was publicly revealed.",
         "answer4": "She was arrested because of her writing.",
         "answer": 3,
-        "commentary": "세 번째 단락에 그녀의 신원이 원치 않게 밝혀졌다고 나옴."
+        "commentary": "3단락에 'her identity was exposed against her will'이라고 나옵니다. against her will(그녀의 의사에 반하여)은 비자발적으로 일어난 일임을 나타내는 중요한 표현입니다. 2번 voluntarily(자발적으로)는 지문 내용과 반대입니다.",
+        "keywords": [
+          { "word": "exposed", "meaning": "드러난, 폭로된" },
+          { "word": "against one's will", "meaning": "~의 의사에 반하여, 비자발적으로" },
+          { "word": "blacklisted", "meaning": "블랙리스트에 오른, 배척된" },
+          { "word": "cut ties with", "meaning": "~와 관계를 끊다" }
+        ]
       },
       {
         "q_id": 39,
@@ -466,7 +694,13 @@
         "answer3": "It forced her to write only for financial reasons.",
         "answer4": "She shifted to writing exclusively for children.",
         "answer": 1,
-        "commentary": "세 번째 단락에 그 시기의 고립이 더 내성적이고 시적인 작품을 쓰게 했다고 나옴."
+        "commentary": "3단락에 'This period of isolation led her to produce some of her most introspective and poetic works'라고 나옵니다. lead A to B(A가 B하도록 이끌다) 구조가 쓰였습니다. 고난이 오히려 더 깊은 작품을 만들어냈다는 역설적 결과를 파악하는 것이 핵심입니다.",
+        "keywords": [
+          { "word": "isolation", "meaning": "고립, 격리" },
+          { "word": "introspective", "meaning": "내성적인, 자기 성찰적인" },
+          { "word": "cult following", "meaning": "열성 팬층, 소수 마니아층" },
+          { "word": "lead A to B", "meaning": "A가 B하도록 이끌다" }
+        ]
       },
       {
         "q_id": 40,
@@ -477,7 +711,13 @@
         "answer3": "As a controversial figure who damaged the literary world",
         "answer4": "As one of the most courageous figures in literature",
         "answer": 4,
-        "commentary": "마지막 단락에서 문학계에서 가장 용기 있는 인물로 존경받는다고 나옴."
+        "commentary": "4단락에 'she is honored as one of the most courageous figures in literature'라고 나옵니다. 전기문의 마지막 문장은 인물에 대한 최종 평가를 담고 있어 주제/평가 문제의 정답 근거가 되는 경우가 많습니다. courageous(용감한) = brave = daring 등도 함께 기억하세요.",
+        "keywords": [
+          { "word": "courageous", "meaning": "용감한, 용기 있는" },
+          { "word": "honored", "meaning": "존경받는, 영예로운" },
+          { "word": "voiceless", "meaning": "목소리를 낼 수 없는, 소외된" },
+          { "word": "figure", "meaning": "인물, 사람" }
+        ]
       },
       {
         "q_id": 41,
@@ -488,7 +728,13 @@
         "answer3": "hidden from view",
         "answer4": "nameless",
         "answer": 4,
-        "commentary": "'익명의, 이름이 알려지지 않은'이라는 뜻으로 'nameless(이름 없는)'가 동의어임."
+        "commentary": "anonymous는 '익명의, 이름이 알려지지 않은'이라는 뜻으로, nameless(이름 없는)가 동의어입니다. anonymity(익명성)라는 명사 형태도 알아두세요. 1번 famous(유명한)는 반의어에 해당합니다.",
+        "keywords": [
+          { "word": "anonymous", "meaning": "익명의, 이름이 알려지지 않은" },
+          { "word": "nameless", "meaning": "이름 없는 (= anonymous)" },
+          { "word": "anonymity", "meaning": "익명성" },
+          { "word": "masculine", "meaning": "남성적인, 남성의" }
+        ]
       },
       {
         "q_id": 42,
@@ -499,7 +745,13 @@
         "answer3": "banned",
         "answer4": "promoted",
         "answer": 3,
-        "commentary": "'블랙리스트에 올리다, 배척하다'라는 뜻으로 'banned(금지된, 배제된)'가 동의어임."
+        "commentary": "blacklist는 '블랙리스트에 올리다, 배척하다'라는 뜻으로, banned(금지된, 배제된)가 동의어입니다. 1번 celebrated(유명한, 칭송받는)와 4번 promoted(홍보된, 승진한)는 반의어에 가깝습니다. 지문에서 주요 출판사들에게 배척당했다는 맥락으로 파악할 수 있습니다.",
+        "keywords": [
+          { "word": "blacklisted", "meaning": "블랙리스트에 오른, 배척된" },
+          { "word": "banned", "meaning": "금지된, 배제된 (= blacklisted)" },
+          { "word": "publisher", "meaning": "출판사" },
+          { "word": "prominent", "meaning": "저명한, 눈에 띄는" }
+        ]
       }
     ]
   }

@@ -1450,6 +1450,19 @@ function ReadingPartPage({ config }) {
                               {isCorrect ? "정답입니다." : "오답입니다."}
                             </div>
                             <div className="quiz-commentary">{question.commentary}</div>
+                            {question.keywords?.length ? (
+                              <div className="quiz-keywords">
+                                <p className="quiz-keywords-label">핵심 단어</p>
+                                <div className="quiz-keywords-list">
+                                  {question.keywords.map((kw) => (
+                                    <div key={kw.word} className="quiz-keyword-item">
+                                      <strong>{kw.word}</strong>
+                                      <span>{kw.meaning}</span>
+                                    </div>
+                                  ))}
+                                </div>
+                              </div>
+                            ) : null}
                           </>
                         ) : null}
                       </article>
