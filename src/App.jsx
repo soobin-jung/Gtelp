@@ -14,6 +14,7 @@ import readingPart1Questions from "../data/reading/part1/questions.json";
 import readingPart2Questions from "../data/reading/part2/questions.json";
 
 const readingFiles = import.meta.glob("../data/reading/word/reading_*.json");
+const wordImgSources = import.meta.glob("../data/reading/word_img/*.png");
 
 function normalizeWordKey(word) {
   return String(word ?? "")
@@ -24,6 +25,13 @@ function normalizeWordKey(word) {
     .replace(/^_+|_+$/g, "");
 }
 
+const availableImageKeys = new Set(
+  Object.keys(wordImgSources).map((filePath) => {
+    const baseName = (filePath.split("/").pop() ?? "").replace(/\.png$/i, "");
+    return normalizeWordKey(baseName);
+  })
+);
+
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const BATCH_SIZE = 20;
 const ADMIN_CONTACT_ENDPOINT = "/api/contact";
@@ -31,7 +39,7 @@ const TELEGRAM_ADMIN_URL = "";
 
 function toWordImageFileName(word) {
   const key = normalizeWordKey(word);
-  return key ? `/word-images/img_${key}.webp` : "";
+  return key && availableImageKeys.has(key) ? `/word-images/img_${key}.webp` : "";
 }
 
 const grammarConfigs = {
