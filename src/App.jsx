@@ -14,10 +14,6 @@ import readingPart1Questions from "../data/reading/part1/questions.json";
 import readingPart2Questions from "../data/reading/part2/questions.json";
 
 const readingFiles = import.meta.glob("../data/reading/word/reading_*.json");
-const wordImageFiles = import.meta.glob("../data/reading/word_img/*.png", {
-  eager: true,
-  import: "default"
-});
 
 function normalizeWordKey(word) {
   return String(word ?? "")
@@ -28,22 +24,14 @@ function normalizeWordKey(word) {
     .replace(/^_+|_+$/g, "");
 }
 
-const wordImageMap = Object.fromEntries(
-  Object.entries(wordImageFiles).map(([filePath, assetUrl]) => {
-    const fileName = filePath.split("/").pop() ?? "";
-    const baseName = fileName.replace(/\.png$/i, "");
-    return [normalizeWordKey(baseName), assetUrl];
-  })
-);
-
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const BATCH_SIZE = 20;
 const ADMIN_CONTACT_ENDPOINT = "/api/contact";
 const TELEGRAM_ADMIN_URL = "";
 
 function toWordImageFileName(word) {
-  const normalized = normalizeWordKey(word);
-  return normalized ? wordImageMap[normalized] ?? "" : "";
+  const key = normalizeWordKey(word);
+  return key ? `/word-images/img_${key}.webp` : "";
 }
 
 const grammarConfigs = {
@@ -804,6 +792,7 @@ function App() {
               className="word-preview-image"
               src={wordPreview.imageSrc}
               alt={wordPreview.word}
+              loading="lazy"
               onError={(event) => {
                 event.currentTarget.onerror = null;
                 event.currentTarget.src =
@@ -919,12 +908,8 @@ function GrammarStudyPage({
     : [];
   const isAnswered = state.selectedAnswer !== null && activeQuiz !== null;
   const isCorrect = isAnswered && state.selectedAnswer === activeQuiz.answer;
-  const selectedAnswerText = isAnswered ? answers[(state.selectedAnswer ?? 1) - 1] ?? "" : "";
-  const displayedQuizText = activeQuiz
-    ? isAnswered
-      ? activeQuiz.quiz.replace("_____", selectedAnswerText)
-      : activeQuiz.quiz
-    : "";
+  const correctAnswerText = activeQuiz ? answers[(activeQuiz.answer ?? 1) - 1] ?? "" : "";
+  const displayedQuizText = activeQuiz?.quiz ?? "";
 
   return (
     <section className="study-panel">
@@ -992,7 +977,13 @@ function GrammarStudyPage({
                   <section className="quiz-panel">
                     <div className="quiz-panel-head">
                       <div className="quiz-counter">{state.solveCount}</div>
-                      <p className="quiz-question">{displayedQuizText}</p>
+                      <p className="quiz-question">
+                        <QuizQuestionText
+                          quizText={displayedQuizText}
+                          answerText={correctAnswerText}
+                          revealAnswer={isAnswered}
+                        />
+                      </p>
                     </div>
 
                     <div className="quiz-answer-list">
@@ -1064,6 +1055,33 @@ function HighlightedText({ text }) {
     }
 
     return <span key={`${segment}-${index}`}>{segment}</span>;
+  });
+}
+
+function QuizQuestionText({ quizText, answerText, revealAnswer = false }) {
+  const sourceText = String(quizText ?? "");
+
+  if (!revealAnswer || !answerText) {
+    return sourceText;
+  }
+
+  const parts = sourceText.split(/_{2,}/);
+
+  if (parts.length < 2) {
+    return sourceText;
+  }
+
+  return parts.flatMap((part, index) => {
+    if (index === parts.length - 1) {
+      return <span key={`quiz-part-${index}`}>{part}</span>;
+    }
+
+    return [
+      <span key={`quiz-part-${index}`}>{part}</span>,
+      <mark key={`quiz-answer-${index}`} className="quiz-answer-highlight">
+        {answerText}
+      </mark>
+    ];
   });
 }
 
@@ -1831,7 +1849,7 @@ function ReadingWordQuizPage() {
           {imgVisible ? (
             <div className="word-quiz-image-area">
               {imgSrc ? (
-                <img src={imgSrc} alt={quizWord.word} className="word-quiz-image" />
+                <img src={imgSrc} alt={quizWord.word} className="word-quiz-image" loading="lazy" />
               ) : (
                 <strong className="word-quiz-no-image">{quizWord.meaning}</strong>
               )}

@@ -1189,6 +1189,24 @@ button {
   line-height: 1.6;
 }
 
+.quiz-answer-highlight {
+  display: inline;
+  margin: 0 0.08em;
+  padding: 0 0.2em;
+  border-radius: 0.28em;
+  background: linear-gradient(
+    180deg,
+    rgba(255, 234, 92, 0) 0%,
+    rgba(255, 234, 92, 0) 20%,
+    rgba(255, 234, 92, 0.96) 20%,
+    rgba(255, 234, 92, 0.96) 88%,
+    rgba(255, 234, 92, 0) 88%,
+    rgba(255, 234, 92, 0) 100%
+  );
+  color: #1f2937;
+  font-weight: 800;
+}
+
 .quiz-panel-footer {
   display: flex;
   justify-content: flex-start;
