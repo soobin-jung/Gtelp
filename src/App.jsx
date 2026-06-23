@@ -13,7 +13,28 @@ import verbalWords from "../data/grammar/verbals/words.json";
 import readingPart1Questions from "../data/reading/part1/questions.json";
 import readingPart2Questions from "../data/reading/part2/questions.json";
 
-const readingFiles = import.meta.glob("../data/reading/reading_*.json");
+const readingFiles = import.meta.glob("../data/reading/word/reading_*.json");
+const wordImageFiles = import.meta.glob("../data/reading/word_img/*.png", {
+  eager: true,
+  import: "default"
+});
+
+function normalizeWordKey(word) {
+  return String(word ?? "")
+    .trim()
+    .toLowerCase()
+    .replace(/&/g, "and")
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_+|_+$/g, "");
+}
+
+const wordImageMap = Object.fromEntries(
+  Object.entries(wordImageFiles).map(([filePath, assetUrl]) => {
+    const fileName = filePath.split("/").pop() ?? "";
+    const baseName = fileName.replace(/\.png$/i, "");
+    return [normalizeWordKey(baseName), assetUrl];
+  })
+);
 
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const BATCH_SIZE = 20;
@@ -21,14 +42,8 @@ const ADMIN_CONTACT_ENDPOINT = "/api/contact";
 const TELEGRAM_ADMIN_URL = "";
 
 function toWordImageFileName(word) {
-  const normalized = String(word ?? "")
-    .trim()
-    .toLowerCase()
-    .replace(/&/g, "and")
-    .replace(/[^a-z0-9]+/g, "_")
-    .replace(/^_+|_+$/g, "");
-
-  return normalized ? `/word-images/img_${normalized}.png` : "";
+  const normalized = normalizeWordKey(word);
+  return normalized ? wordImageMap[normalized] ?? "" : "";
 }
 
 const grammarConfigs = {
@@ -106,6 +121,7 @@ const menuConfig = [
     icon: "독",
     items: [
       { label: "단어", page: "reading-words" },
+      { label: "단어 퀴즈", page: "reading-word-quiz" },
       { label: "part 1", page: "reading-part-1" },
       { label: "part 2", page: "reading-part-2" },
       { label: "part 3", page: "reading-part-3" },
@@ -127,6 +143,10 @@ const pageMeta = {
   "reading-words": {
     title: "독해 단어",
     description: "A부터 Z까지 분류된 독해 단어 목록을 확인할 수 있습니다."
+  },
+  "reading-word-quiz": {
+    title: "단어 퀴즈",
+    description: "랜덤으로 출제되는 단어 뜻 맞히기 퀴즈입니다."
   },
   "reading-part-1": {
     title: "독해 part 1",
@@ -298,6 +318,7 @@ function App() {
   const [inquiryStatus, setInquiryStatus] = useState("idle");
   const [inquiryError, setInquiryError] = useState("");
   const [wordPreview, setWordPreview] = useState(null);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const loadMoreRef = useRef(null);
   const tableScrollRef = useRef(null);
   const previewTimerRef = useRef(null);
@@ -354,7 +375,7 @@ function App() {
       setIsLoading(true);
 
       try {
-        const filePath = `../data/reading/reading_${selectedLetter.toLowerCase()}.json`;
+        const filePath = `../data/reading/word/reading_${selectedLetter.toLowerCase()}.json`;
         const loader = readingFiles[filePath];
 
         if (!loader) {
@@ -369,12 +390,18 @@ function App() {
         }
 
         setWords(
-          items.map((item, index) => ({
-            seq: typeof item.seq === "number" ? item.seq : index + 1,
-            word: item.word ?? "",
-            meaning: item.meaning ?? "",
-            synonym: Array.isArray(item.synonym) ? item.synonym : []
-          }))
+          items.map((item, index) => {
+            const imageSrc = toWordImageFileName(item.word);
+
+            return {
+              seq: typeof item.seq === "number" ? item.seq : index + 1,
+              word: item.word ?? "",
+              meaning: item.meaning ?? "",
+              synonym: Array.isArray(item.synonym) ? item.synonym : [],
+              imageSrc,
+              hasImage: Boolean(imageSrc)
+            };
+          })
         );
       } catch {
         if (!ignore) {
@@ -430,6 +457,7 @@ function App() {
   function navigateTo(item) {
     setCurrentPage(item.page);
     setActiveMenuLabel(item.label);
+    setIsSidebarOpen(false);
   }
 
   function updateGrammarPage(pageKey, updater) {
@@ -460,7 +488,7 @@ function App() {
   }
 
   function openWordPreview(item) {
-    if (!item?.word) {
+    if (!item?.word || !item?.imageSrc) {
       return;
     }
 
@@ -471,7 +499,7 @@ function App() {
     setWordPreview({
       word: item.word,
       meaning: item.meaning ?? "",
-      imageSrc: toWordImageFileName(item.word)
+      imageSrc: item.imageSrc
     });
 
     previewTimerRef.current = window.setTimeout(() => {
@@ -530,7 +558,15 @@ function App() {
 
   return (
     <div className="app-shell">
-      <aside className="sidebar">
+      {isSidebarOpen ? (
+        <div
+          className="sidebar-backdrop"
+          role="presentation"
+          onClick={() => setIsSidebarOpen(false)}
+        />
+      ) : null}
+
+      <aside className={`sidebar ${isSidebarOpen ? "open" : ""}`}>
         <div className="sidebar-glow" />
         <div className="brand">
           <div className="brand-badge">G</div>
@@ -582,6 +618,16 @@ function App() {
 
       <main className="main">
         <header className="topbar">
+          <button
+            type="button"
+            className="hamburger-btn"
+            aria-label="메뉴 열기"
+            onClick={() => setIsSidebarOpen((prev) => !prev)}
+          >
+            <span />
+            <span />
+            <span />
+          </button>
           <div className="topbar-copy">
             <p className="eyebrow">Dashboard / Study Workspace</p>
             <h1>{page.title}</h1>
@@ -685,6 +731,8 @@ function App() {
           {currentPage in readingPartConfigs ? (
             <ReadingPartPage config={readingPartConfigs[currentPage]} />
           ) : null}
+
+          {currentPage === "reading-word-quiz" ? <ReadingWordQuizPage /> : null}
 
           {currentPage === "grammar-should-omission" ? <ShouldOmissionPage /> : null}
           </div>
@@ -1339,13 +1387,17 @@ function ReadingWordsPage({
                   <tr key={`${selectedLetter}-${item.seq}`}>
                     <td className="seq-cell">{item.seq}</td>
                     <td className="word-cell">
-                      <button
-                        type="button"
-                        className="word-preview-btn"
-                        onClick={() => onPreviewWord(item)}
-                      >
-                        {item.word || "-"}
-                      </button>
+                      {item.hasImage ? (
+                        <button
+                          type="button"
+                          className="word-preview-btn"
+                          onClick={() => onPreviewWord(item)}
+                        >
+                          {item.word || "-"}
+                        </button>
+                      ) : (
+                        <span className="word-label">{item.word || "-"}</span>
+                      )}
                     </td>
                     <td className="meaning-cell">
                       {shouldMaskMeaning ? (
@@ -1369,9 +1421,7 @@ function ReadingWordsPage({
                               {synonym}
                             </span>
                           ))
-                        ) : (
-                          <span className="synonym-pill">없음</span>
-                        )}
+                        ) : null}
                       </div>
                     </td>
                   </tr>
@@ -1672,6 +1722,163 @@ function ShouldOmissionPage() {
           <EmptyState text="퀴즈 데이터가 준비되면 이 영역에 바로 연결됩니다." />
         ) : null}
       </div>
+    </section>
+  );
+}
+
+function ReadingWordQuizPage() {
+  const [allWords, setAllWords] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
+  const [quizWord, setQuizWord] = useState(null);
+  const [options, setOptions] = useState([]);
+  const [selectedIdx, setSelectedIdx] = useState(null);
+  const [imgVisible, setImgVisible] = useState(false);
+  const timerRef = useRef(null);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    async function loadAll() {
+      const all = [];
+      await Promise.all(
+        Object.values(readingFiles).map(async (loader) => {
+          const mod = await loader();
+          const items = Array.isArray(mod.default) ? mod.default : [];
+          all.push(...items.filter((w) => w.word && w.meaning));
+        })
+      );
+      if (!cancelled) {
+        setAllWords(all);
+        setIsLoading(false);
+        if (all.length >= 4) pickQuestion(all);
+      }
+    }
+
+    loadAll();
+    return () => {
+      cancelled = true;
+    };
+  }, []);
+
+  useEffect(
+    () => () => {
+      if (timerRef.current) clearTimeout(timerRef.current);
+    },
+    []
+  );
+
+  function pickQuestion(pool) {
+    if (pool.length < 4) return;
+
+    const idx = Math.floor(Math.random() * pool.length);
+    const word = pool[idx];
+    const distractors = pool
+      .filter((_, i) => i !== idx)
+      .sort(() => Math.random() - 0.5)
+      .slice(0, 3);
+
+    const opts = [
+      { meaning: word.meaning, correct: true },
+      ...distractors.map((d) => ({ meaning: d.meaning, correct: false }))
+    ].sort(() => Math.random() - 0.5);
+
+    setQuizWord(word);
+    setOptions(opts);
+    setSelectedIdx(null);
+    setImgVisible(false);
+    if (timerRef.current) clearTimeout(timerRef.current);
+  }
+
+  function handleSelect(idx) {
+    if (selectedIdx !== null) return;
+    setSelectedIdx(idx);
+
+    if (!options[idx].correct) {
+      setImgVisible(true);
+      timerRef.current = setTimeout(() => setImgVisible(false), 3000);
+    }
+  }
+
+  if (isLoading) return <EmptyState text="단어를 불러오는 중입니다..." />;
+  if (!quizWord) return <EmptyState text="단어 데이터가 없습니다." />;
+
+  const answered = selectedIdx !== null;
+  const correct = answered && options[selectedIdx]?.correct;
+  const imgSrc = getWordImgSrc(quizWord.word);
+
+  return (
+    <section className="study-panel">
+      <div className="study-panel-top">
+        <p className="eyebrow">Word Quiz</p>
+        <div className="study-chip">랜덤 출제</div>
+      </div>
+
+      <div className="word-quiz-layout">
+        <div className="word-quiz-word-col">
+          <div className="word-quiz-word-card">
+            <strong className="word-quiz-word">{quizWord.word}</strong>
+            {quizWord.synonym?.length > 0 ? (
+              <div className="word-quiz-synonyms">
+                {quizWord.synonym.map((s) => (
+                  <span key={s} className="synonym-pill">
+                    {s}
+                  </span>
+                ))}
+              </div>
+            ) : null}
+          </div>
+
+          {imgVisible ? (
+            <div className="word-quiz-image-area">
+              {imgSrc ? (
+                <img src={imgSrc} alt={quizWord.word} className="word-quiz-image" />
+              ) : (
+                <strong className="word-quiz-no-image">{quizWord.meaning}</strong>
+              )}
+            </div>
+          ) : null}
+
+          {answered ? (
+            <div className={`quiz-result ${correct ? "correct" : "wrong"}`}>
+              {correct ? "정답!" : `오답 — 정답: ${quizWord.meaning}`}
+            </div>
+          ) : null}
+        </div>
+
+        <div className="word-quiz-options-col">
+          <div className="quiz-answer-list">
+            {options.map((opt, idx) => {
+              const state = !answered
+                ? ""
+                : opt.correct
+                  ? "correct"
+                  : idx === selectedIdx
+                    ? "wrong"
+                    : "";
+              return (
+                <button
+                  key={`${quizWord.word}-opt-${idx}`}
+                  type="button"
+                  className={`quiz-answer-btn ${state}`}
+                  onClick={() => handleSelect(idx)}
+                  disabled={answered}
+                >
+                  <span className="quiz-answer-index">{idx + 1}</span>
+                  <span>{opt.meaning}</span>
+                </button>
+              );
+            })}
+          </div>
+        </div>
+      </div>
+
+      {answered ? (
+        <div className="quiz-panel-footer word-quiz-footer">
+          <button type="button" className="quiz-next-btn" onClick={() => pickQuestion(allWords)}>
+            다음 문제
+          </button>
+        </div>
+      ) : null}
     </section>
   );
 }

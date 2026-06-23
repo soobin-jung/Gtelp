@@ -1,0 +1,728 @@
+[
+  {
+    "seq": 1,
+    "word": "call off",
+    "meaning": "취소하다",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "called",
+    "meaning": "불리는",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "cancel",
+    "meaning": "취소하다",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "candidate",
+    "meaning": "후보자",
+    "synonym": [
+      "applicant",
+      "nominee"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "carbohydrate",
+    "meaning": "탄수화물",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "carbon",
+    "meaning": "탄소",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "care",
+    "meaning": "돌봄",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "careful",
+    "meaning": "신중한",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "carefully",
+    "meaning": "주의깊게",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "carrot",
+    "meaning": "당근",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "cash",
+    "meaning": "현금",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "caught",
+    "meaning": "붙잡힌",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "cause",
+    "meaning": "야기하다",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "caused",
+    "meaning": "유발된",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "cease",
+    "meaning": "멈추다",
+    "synonym": [
+      "stop",
+      "halt"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "chain",
+    "meaning": "사슬, 연쇄",
+    "synonym": [
+      "series",
+      "link"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "challenging",
+    "meaning": "힘든",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "change",
+    "meaning": "변화",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "charity",
+    "meaning": "자선 단체",
+    "synonym": [
+      "donation",
+      "fund"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "chef",
+    "meaning": "요리사",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "chemical",
+    "meaning": "화학의",
+    "synonym": [
+      "synthetic",
+      "substance"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "childhood",
+    "meaning": "어린 시절",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "children",
+    "meaning": "어린이",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "choose",
+    "meaning": "선택하다",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "chore",
+    "meaning": "잡일",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "circular",
+    "meaning": "원형의",
+    "synonym": [
+      "round",
+      "spherical"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "cite",
+    "meaning": "인용하다",
+    "synonym": [
+      "quote",
+      "refer"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "citizen",
+    "meaning": "시민",
+    "synonym": [
+      "resident",
+      "inhabitant"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "city",
+    "meaning": "도시",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "clean",
+    "meaning": "청소하다",
+    "synonym": []
+  },
+  {
+    "seq": 31,
+    "word": "clear",
+    "meaning": "명확한",
+    "synonym": []
+  },
+  {
+    "seq": 32,
+    "word": "clearly",
+    "meaning": "분명하게",
+    "synonym": []
+  },
+  {
+    "seq": 33,
+    "word": "client",
+    "meaning": "고객",
+    "synonym": [
+      "customer",
+      "patron"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "climate",
+    "meaning": "기후",
+    "synonym": [
+      "weather",
+      "atmosphere"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "cluster",
+    "meaning": "무리",
+    "synonym": [
+      "bunch",
+      "group"
+    ]
+  },
+  {
+    "seq": 36,
+    "word": "co-worker",
+    "meaning": "??",
+    "synonym": []
+  },
+  {
+    "seq": 37,
+    "word": "cohesion",
+    "meaning": "결속력",
+    "synonym": []
+  },
+  {
+    "seq": 38,
+    "word": "collaborate",
+    "meaning": "협력하다",
+    "synonym": [
+      "cooperate",
+      "work together"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "colleague",
+    "meaning": "동료",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "coma",
+    "meaning": "혼수상태",
+    "synonym": []
+  },
+  {
+    "seq": 41,
+    "word": "comfort",
+    "meaning": "안락, 편안",
+    "synonym": []
+  },
+  {
+    "seq": 42,
+    "word": "comfortable",
+    "meaning": "편안한",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "comic book",
+    "meaning": "만화책",
+    "synonym": []
+  },
+  {
+    "seq": 44,
+    "word": "commission",
+    "meaning": "위원회, 수수료",
+    "synonym": [
+      "committee",
+      "fee"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "commonly",
+    "meaning": "흔히",
+    "synonym": [
+      "generally",
+      "usually"
+    ]
+  },
+  {
+    "seq": 46,
+    "word": "communicate",
+    "meaning": "의사소통하다",
+    "synonym": [
+      "interact",
+      "convey"
+    ]
+  },
+  {
+    "seq": 47,
+    "word": "communication",
+    "meaning": "의사소통",
+    "synonym": []
+  },
+  {
+    "seq": 48,
+    "word": "communitie",
+    "meaning": "공동체, 마을",
+    "synonym": []
+  },
+  {
+    "seq": 49,
+    "word": "company",
+    "meaning": "회사",
+    "synonym": []
+  },
+  {
+    "seq": 50,
+    "word": "compare",
+    "meaning": "비교하다",
+    "synonym": []
+  },
+  {
+    "seq": 51,
+    "word": "compel",
+    "meaning": "강요하다",
+    "synonym": [
+      "force",
+      "oblige"
+    ]
+  },
+  {
+    "seq": 52,
+    "word": "competitive",
+    "meaning": "경쟁적인",
+    "synonym": [
+      "rival",
+      "ambitious"
+    ]
+  },
+  {
+    "seq": 53,
+    "word": "complaint",
+    "meaning": "불평",
+    "synonym": [
+      "grievance",
+      "objection"
+    ]
+  },
+  {
+    "seq": 54,
+    "word": "complement",
+    "meaning": "보완하다",
+    "synonym": [
+      "supplement",
+      "complete"
+    ]
+  },
+  {
+    "seq": 55,
+    "word": "complete",
+    "meaning": "완료하다",
+    "synonym": [
+      "finish",
+      "conclude"
+    ]
+  },
+  {
+    "seq": 56,
+    "word": "comply with",
+    "meaning": "~를 준수하다",
+    "synonym": []
+  },
+  {
+    "seq": 57,
+    "word": "concealer",
+    "meaning": "컨실러",
+    "synonym": []
+  },
+  {
+    "seq": 58,
+    "word": "concentration",
+    "meaning": "농도",
+    "synonym": []
+  },
+  {
+    "seq": 59,
+    "word": "conclusion",
+    "meaning": "결론",
+    "synonym": [
+      "end",
+      "result"
+    ]
+  },
+  {
+    "seq": 60,
+    "word": "condition",
+    "meaning": "조건, 상태",
+    "synonym": [
+      "state",
+      "situation"
+    ]
+  },
+  {
+    "seq": 61,
+    "word": "confident",
+    "meaning": "자신 있는",
+    "synonym": [
+      "sure",
+      "certain"
+    ]
+  },
+  {
+    "seq": 62,
+    "word": "confuse",
+    "meaning": "혼동하다",
+    "synonym": [
+      "baffle",
+      "puzzle"
+    ]
+  },
+  {
+    "seq": 63,
+    "word": "conglomerate",
+    "meaning": "대기업",
+    "synonym": []
+  },
+  {
+    "seq": 64,
+    "word": "congregate",
+    "meaning": "모이다",
+    "synonym": [
+      "gather",
+      "assemble"
+    ]
+  },
+  {
+    "seq": 65,
+    "word": "considerable",
+    "meaning": "상당한",
+    "synonym": []
+  },
+  {
+    "seq": 66,
+    "word": "consideration",
+    "meaning": "고려",
+    "synonym": [
+      "thought",
+      "deliberation"
+    ]
+  },
+  {
+    "seq": 67,
+    "word": "constellation",
+    "meaning": "별자리",
+    "synonym": [
+      "group",
+      "cluster"
+    ]
+  },
+  {
+    "seq": 68,
+    "word": "consult",
+    "meaning": "상담하다",
+    "synonym": []
+  },
+  {
+    "seq": 69,
+    "word": "consumer",
+    "meaning": "소비자",
+    "synonym": []
+  },
+  {
+    "seq": 70,
+    "word": "consumption",
+    "meaning": "섭취",
+    "synonym": []
+  },
+  {
+    "seq": 71,
+    "word": "contact",
+    "meaning": "접촉",
+    "synonym": [
+      "connection",
+      "touch"
+    ]
+  },
+  {
+    "seq": 72,
+    "word": "contain",
+    "meaning": "포함하다",
+    "synonym": []
+  },
+  {
+    "seq": 73,
+    "word": "contest",
+    "meaning": "경기, 대회",
+    "synonym": []
+  },
+  {
+    "seq": 74,
+    "word": "continue",
+    "meaning": "계속하다",
+    "synonym": []
+  },
+  {
+    "seq": 75,
+    "word": "continuous",
+    "meaning": "계속되는",
+    "synonym": [
+      "ongoing",
+      "uninterrupted"
+    ]
+  },
+  {
+    "seq": 76,
+    "word": "contribute",
+    "meaning": "기여하다",
+    "synonym": [
+      "donate",
+      "provide"
+    ]
+  },
+  {
+    "seq": 77,
+    "word": "controversial",
+    "meaning": "논란이 되는",
+    "synonym": [
+      "disputed",
+      "debatable"
+    ]
+  },
+  {
+    "seq": 78,
+    "word": "convey",
+    "meaning": "전달하다",
+    "synonym": [
+      "transmit",
+      "communicate"
+    ]
+  },
+  {
+    "seq": 79,
+    "word": "convince",
+    "meaning": "설득하다",
+    "synonym": [
+      "persuade",
+      "assure"
+    ]
+  },
+  {
+    "seq": 80,
+    "word": "coordinate",
+    "meaning": "조정하다",
+    "synonym": [
+      "organize",
+      "arrange"
+    ]
+  },
+  {
+    "seq": 81,
+    "word": "cope with",
+    "meaning": "~을 다루다",
+    "synonym": []
+  },
+  {
+    "seq": 82,
+    "word": "copy",
+    "meaning": "사본",
+    "synonym": []
+  },
+  {
+    "seq": 83,
+    "word": "corner",
+    "meaning": "구석",
+    "synonym": []
+  },
+  {
+    "seq": 84,
+    "word": "corporate",
+    "meaning": "기업의",
+    "synonym": [
+      "business",
+      "company"
+    ]
+  },
+  {
+    "seq": 85,
+    "word": "couch",
+    "meaning": "소파",
+    "synonym": []
+  },
+  {
+    "seq": 86,
+    "word": "council",
+    "meaning": "시의회",
+    "synonym": []
+  },
+  {
+    "seq": 87,
+    "word": "counselor",
+    "meaning": "상담가",
+    "synonym": []
+  },
+  {
+    "seq": 88,
+    "word": "couple",
+    "meaning": "부부",
+    "synonym": []
+  },
+  {
+    "seq": 89,
+    "word": "courteous",
+    "meaning": "예의 바른",
+    "synonym": []
+  },
+  {
+    "seq": 90,
+    "word": "cover",
+    "meaning": "덮다, 감추다",
+    "synonym": []
+  },
+  {
+    "seq": 91,
+    "word": "coworker",
+    "meaning": "동료",
+    "synonym": []
+  },
+  {
+    "seq": 92,
+    "word": "cozy",
+    "meaning": "안락한",
+    "synonym": []
+  },
+  {
+    "seq": 93,
+    "word": "crazy",
+    "meaning": "열광한",
+    "synonym": []
+  },
+  {
+    "seq": 94,
+    "word": "create",
+    "meaning": "창조하다",
+    "synonym": []
+  },
+  {
+    "seq": 95,
+    "word": "creativity",
+    "meaning": "창의성",
+    "synonym": []
+  },
+  {
+    "seq": 96,
+    "word": "criminal",
+    "meaning": "범죄자",
+    "synonym": [
+      "offender",
+      "culprit"
+    ]
+  },
+  {
+    "seq": 97,
+    "word": "crisis",
+    "meaning": "위기",
+    "synonym": []
+  },
+  {
+    "seq": 98,
+    "word": "critic",
+    "meaning": "비평가",
+    "synonym": [
+      "reviewer",
+      "judge"
+    ]
+  },
+  {
+    "seq": 99,
+    "word": "criticize",
+    "meaning": "비판하다",
+    "synonym": [
+      "blame",
+      "condemn"
+    ]
+  },
+  {
+    "seq": 100,
+    "word": "cultivate",
+    "meaning": "기르다",
+    "synonym": []
+  },
+  {
+    "seq": 101,
+    "word": "current",
+    "meaning": "현재의",
+    "synonym": []
+  },
+  {
+    "seq": 102,
+    "word": "customer",
+    "meaning": "고객",
+    "synonym": []
+  }
+]

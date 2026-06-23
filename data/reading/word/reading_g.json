@@ -1,0 +1,119 @@
+[
+  {
+    "seq": 1,
+    "word": "gain",
+    "meaning": "얻다",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "gather",
+    "meaning": "모으다",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "generous",
+    "meaning": "관대한",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "genuine",
+    "meaning": "진짜의",
+    "synonym": [
+      "real",
+      "authentic"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "get",
+    "meaning": "따다",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "get in",
+    "meaning": "들어가다",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "get in shape",
+    "meaning": "몸매를 가꾸다",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "get out of",
+    "meaning": "~에서 나오다",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "give",
+    "meaning": "주다",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "give up",
+    "meaning": "포기하다",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "global",
+    "meaning": "전 세계의",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "go out of business",
+    "meaning": "폐업하다",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "goal",
+    "meaning": "목표",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "government",
+    "meaning": "정부",
+    "synonym": [
+      "administration",
+      "authority"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "graduate",
+    "meaning": "졸업하다",
+    "synonym": [
+      "complete",
+      "finish"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "greatly",
+    "meaning": "크게",
+    "synonym": [
+      "highly",
+      "immensely"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "guilty",
+    "meaning": "유죄의",
+    "synonym": [
+      "culpable",
+      "responsible"
+    ]
+  }
+]

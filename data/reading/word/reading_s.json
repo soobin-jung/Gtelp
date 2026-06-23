@@ -1,0 +1,782 @@
+[
+  {
+    "seq": 1,
+    "word": "sacrifice",
+    "meaning": "희생하다",
+    "synonym": [
+      "give up",
+      "forfeit"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "safeguard",
+    "meaning": "지키다",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "safety",
+    "meaning": "안전",
+    "synonym": [
+      "protection",
+      "security"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "salary",
+    "meaning": "월급",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "sale",
+    "meaning": "판매",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "same",
+    "meaning": "같은",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "satisfied",
+    "meaning": "만족한",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "satisfy",
+    "meaning": "만족시키다",
+    "synonym": [
+      "please",
+      "fulfill"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "save",
+    "meaning": "구하다, 저축하다",
+    "synonym": [
+      "rescue",
+      "keep"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "say",
+    "meaning": "말하다",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "scalp",
+    "meaning": "두피",
+    "synonym": [
+      "skin",
+      "head"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "scary",
+    "meaning": "무서운",
+    "synonym": [
+      "frightening",
+      "creepy"
+    ]
+  },
+  {
+    "seq": 13,
+    "word": "scent",
+    "meaning": "향기",
+    "synonym": [
+      "smell",
+      "fragrance"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "schedule",
+    "meaning": "일정",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "scheduled",
+    "meaning": "예정된",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "scratch",
+    "meaning": "긁다",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "search",
+    "meaning": "검색하다",
+    "synonym": [
+      "look for",
+      "seek"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "secret",
+    "meaning": "비결, 비밀",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "security",
+    "meaning": "보안",
+    "synonym": [
+      "safety",
+      "protection"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "see",
+    "meaning": "보다",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "seek",
+    "meaning": "찾다",
+    "synonym": [
+      "search",
+      "pursue"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "select",
+    "meaning": "선택하다",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "semester",
+    "meaning": "학기",
+    "synonym": [
+      "term",
+      "period"
+    ]
+  },
+  {
+    "seq": 24,
+    "word": "send",
+    "meaning": "보내다",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "separate",
+    "meaning": "분리하다",
+    "synonym": [
+      "divide",
+      "disconnect"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "serious",
+    "meaning": "심각한",
+    "synonym": []
+  },
+  {
+    "seq": 27,
+    "word": "server",
+    "meaning": "종업원",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "session",
+    "meaning": "회의, 기간",
+    "synonym": [
+      "meeting",
+      "period"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "set",
+    "meaning": "(",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "settle",
+    "meaning": "정착하다, 해결하다",
+    "synonym": [
+      "resolve",
+      "establish"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "several",
+    "meaning": "몇 번의",
+    "synonym": []
+  },
+  {
+    "seq": 32,
+    "word": "shade",
+    "meaning": "그늘",
+    "synonym": [
+      "shadow",
+      "cover"
+    ]
+  },
+  {
+    "seq": 33,
+    "word": "shake",
+    "meaning": "흔들다",
+    "synonym": [
+      "tremble",
+      "vibrate"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "share",
+    "meaning": "공유하다",
+    "synonym": [
+      "divide",
+      "distribute"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "sharp",
+    "meaning": "급격한",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "shelter",
+    "meaning": "피난처",
+    "synonym": [
+      "refuge",
+      "protection"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "ship",
+    "meaning": "배, 배송하다",
+    "synonym": [
+      "vessel",
+      "send"
+    ]
+  },
+  {
+    "seq": 38,
+    "word": "shop",
+    "meaning": "쇼핑하다",
+    "synonym": []
+  },
+  {
+    "seq": 39,
+    "word": "show",
+    "meaning": "보여주다",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "shrub",
+    "meaning": "관목",
+    "synonym": [
+      "bush",
+      "plant"
+    ]
+  },
+  {
+    "seq": 41,
+    "word": "sibling",
+    "meaning": "형제자매",
+    "synonym": []
+  },
+  {
+    "seq": 42,
+    "word": "sick",
+    "meaning": "아픈",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "significantly",
+    "meaning": "상당히",
+    "synonym": []
+  },
+  {
+    "seq": 44,
+    "word": "silence",
+    "meaning": "침묵",
+    "synonym": [
+      "quiet",
+      "stillness"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "similarly",
+    "meaning": "유사하게",
+    "synonym": []
+  },
+  {
+    "seq": 46,
+    "word": "simply",
+    "meaning": "단순히",
+    "synonym": [
+      "merely",
+      "just"
+    ]
+  },
+  {
+    "seq": 47,
+    "word": "since",
+    "meaning": "~ 때문에",
+    "synonym": []
+  },
+  {
+    "seq": 48,
+    "word": "single",
+    "meaning": "하나의",
+    "synonym": []
+  },
+  {
+    "seq": 49,
+    "word": "situation",
+    "meaning": "상황",
+    "synonym": [
+      "circumstance",
+      "condition"
+    ]
+  },
+  {
+    "seq": 50,
+    "word": "skill",
+    "meaning": "기술",
+    "synonym": []
+  },
+  {
+    "seq": 51,
+    "word": "sleek",
+    "meaning": "매끄러운",
+    "synonym": [
+      "smooth",
+      "glossy"
+    ]
+  },
+  {
+    "seq": 52,
+    "word": "sleep",
+    "meaning": "자다",
+    "synonym": []
+  },
+  {
+    "seq": 53,
+    "word": "slightly",
+    "meaning": "약간",
+    "synonym": [
+      "a little",
+      "somewhat"
+    ]
+  },
+  {
+    "seq": 54,
+    "word": "slim",
+    "meaning": "날씬한",
+    "synonym": []
+  },
+  {
+    "seq": 55,
+    "word": "slot",
+    "meaning": "구멍, 자리",
+    "synonym": [
+      "opening",
+      "space"
+    ]
+  },
+  {
+    "seq": 56,
+    "word": "smoother",
+    "meaning": "더 부드러운",
+    "synonym": []
+  },
+  {
+    "seq": 57,
+    "word": "snuff",
+    "meaning": "코를 킁킁거리다",
+    "synonym": [
+      "sniff",
+      "smell"
+    ]
+  },
+  {
+    "seq": 58,
+    "word": "so",
+    "meaning": "너무",
+    "synonym": []
+  },
+  {
+    "seq": 59,
+    "word": "so that",
+    "meaning": "~하도록",
+    "synonym": []
+  },
+  {
+    "seq": 60,
+    "word": "soaring",
+    "meaning": "급증하는",
+    "synonym": []
+  },
+  {
+    "seq": 61,
+    "word": "social",
+    "meaning": "사회적",
+    "synonym": []
+  },
+  {
+    "seq": 62,
+    "word": "soil",
+    "meaning": "흙",
+    "synonym": [
+      "dirt",
+      "earth"
+    ]
+  },
+  {
+    "seq": 63,
+    "word": "solution",
+    "meaning": "해결책",
+    "synonym": [
+      "answer",
+      "resolution"
+    ]
+  },
+  {
+    "seq": 64,
+    "word": "solve",
+    "meaning": "해결하다",
+    "synonym": []
+  },
+  {
+    "seq": 65,
+    "word": "some",
+    "meaning": "몇몇의",
+    "synonym": []
+  },
+  {
+    "seq": 66,
+    "word": "something",
+    "meaning": "무언가",
+    "synonym": []
+  },
+  {
+    "seq": 67,
+    "word": "sometimes",
+    "meaning": "때때로",
+    "synonym": []
+  },
+  {
+    "seq": 68,
+    "word": "sound",
+    "meaning": "소리",
+    "synonym": []
+  },
+  {
+    "seq": 69,
+    "word": "space",
+    "meaning": "공간",
+    "synonym": []
+  },
+  {
+    "seq": 70,
+    "word": "special",
+    "meaning": "특별한",
+    "synonym": []
+  },
+  {
+    "seq": 71,
+    "word": "species",
+    "meaning": "종",
+    "synonym": []
+  },
+  {
+    "seq": 72,
+    "word": "specific",
+    "meaning": "특정한",
+    "synonym": []
+  },
+  {
+    "seq": 73,
+    "word": "spend",
+    "meaning": "소비하다",
+    "synonym": [
+      "pay",
+      "expend"
+    ]
+  },
+  {
+    "seq": 74,
+    "word": "spent",
+    "meaning": "썼다",
+    "synonym": []
+  },
+  {
+    "seq": 75,
+    "word": "spice",
+    "meaning": "향신료",
+    "synonym": []
+  },
+  {
+    "seq": 76,
+    "word": "spread",
+    "meaning": "퍼지다",
+    "synonym": [
+      "extend",
+      "scatter"
+    ]
+  },
+  {
+    "seq": 77,
+    "word": "stability",
+    "meaning": "안정성",
+    "synonym": []
+  },
+  {
+    "seq": 78,
+    "word": "stable",
+    "meaning": "안정적인",
+    "synonym": []
+  },
+  {
+    "seq": 79,
+    "word": "steady",
+    "meaning": "꾸준한",
+    "synonym": [
+      "constant",
+      "stable"
+    ]
+  },
+  {
+    "seq": 80,
+    "word": "steal",
+    "meaning": "훔치다",
+    "synonym": []
+  },
+  {
+    "seq": 81,
+    "word": "stick",
+    "meaning": "막대기, 붙이다",
+    "synonym": [
+      "branch",
+      "adhere"
+    ]
+  },
+  {
+    "seq": 82,
+    "word": "stock",
+    "meaning": "주식",
+    "synonym": []
+  },
+  {
+    "seq": 83,
+    "word": "stop",
+    "meaning": "멈추다",
+    "synonym": []
+  },
+  {
+    "seq": 84,
+    "word": "store",
+    "meaning": "상점, 저장하다",
+    "synonym": [
+      "shop",
+      "keep"
+    ]
+  },
+  {
+    "seq": 85,
+    "word": "strand",
+    "meaning": "가닥",
+    "synonym": []
+  },
+  {
+    "seq": 86,
+    "word": "strange",
+    "meaning": "이상한",
+    "synonym": []
+  },
+  {
+    "seq": 87,
+    "word": "strengthen",
+    "meaning": "강화시키다",
+    "synonym": []
+  },
+  {
+    "seq": 88,
+    "word": "strict",
+    "meaning": "엄격한",
+    "synonym": []
+  },
+  {
+    "seq": 89,
+    "word": "structure",
+    "meaning": "구조",
+    "synonym": [
+      "framework",
+      "building"
+    ]
+  },
+  {
+    "seq": 90,
+    "word": "struggle",
+    "meaning": "투쟁하다",
+    "synonym": [
+      "fight",
+      "strive"
+    ]
+  },
+  {
+    "seq": 91,
+    "word": "study",
+    "meaning": "연구",
+    "synonym": []
+  },
+  {
+    "seq": 92,
+    "word": "submit",
+    "meaning": "제출하다",
+    "synonym": [
+      "turn in",
+      "present"
+    ]
+  },
+  {
+    "seq": 93,
+    "word": "substance",
+    "meaning": "물질",
+    "synonym": []
+  },
+  {
+    "seq": 94,
+    "word": "succeed",
+    "meaning": "성공하다",
+    "synonym": [
+      "achieve",
+      "prosper"
+    ]
+  },
+  {
+    "seq": 95,
+    "word": "successful",
+    "meaning": "성공적인",
+    "synonym": []
+  },
+  {
+    "seq": 96,
+    "word": "such as",
+    "meaning": "~와 같은",
+    "synonym": []
+  },
+  {
+    "seq": 97,
+    "word": "suddenly",
+    "meaning": "갑자기",
+    "synonym": [
+      "abruptly",
+      "unexpectedly"
+    ]
+  },
+  {
+    "seq": 98,
+    "word": "suffer",
+    "meaning": "겪다",
+    "synonym": []
+  },
+  {
+    "seq": 99,
+    "word": "suggest",
+    "meaning": "제안하다",
+    "synonym": []
+  },
+  {
+    "seq": 100,
+    "word": "suggestion",
+    "meaning": "제안",
+    "synonym": []
+  },
+  {
+    "seq": 101,
+    "word": "suitable",
+    "meaning": "적합한",
+    "synonym": []
+  },
+  {
+    "seq": 102,
+    "word": "supervisor",
+    "meaning": "감독관",
+    "synonym": [
+      "manager",
+      "overseer"
+    ]
+  },
+  {
+    "seq": 103,
+    "word": "supplement",
+    "meaning": "보충제",
+    "synonym": []
+  },
+  {
+    "seq": 104,
+    "word": "support",
+    "meaning": "뒷받침하다",
+    "synonym": []
+  },
+  {
+    "seq": 105,
+    "word": "sure",
+    "meaning": "확신하는",
+    "synonym": []
+  },
+  {
+    "seq": 106,
+    "word": "survival",
+    "meaning": "생존",
+    "synonym": []
+  },
+  {
+    "seq": 107,
+    "word": "survive",
+    "meaning": "살아남다",
+    "synonym": []
+  },
+  {
+    "seq": 108,
+    "word": "suspect",
+    "meaning": "용의다",
+    "synonym": []
+  },
+  {
+    "seq": 109,
+    "word": "sustainable",
+    "meaning": "지속적인",
+    "synonym": []
+  },
+  {
+    "seq": 110,
+    "word": "swallow",
+    "meaning": "삼키다",
+    "synonym": []
+  }
+]

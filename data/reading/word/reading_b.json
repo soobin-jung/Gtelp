@@ -1,0 +1,290 @@
+[
+  {
+    "seq": 1,
+    "word": "bachelor",
+    "meaning": "학사",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "bail",
+    "meaning": "보석금",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "balance",
+    "meaning": "균형",
+    "synonym": [
+      "equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "balanced",
+    "meaning": "균형 잡힌",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "ban",
+    "meaning": "금지하다",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "band",
+    "meaning": "밴드",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "barrier",
+    "meaning": "장벽",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "basic",
+    "meaning": "기본적인",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "be",
+    "meaning": "되다",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "be going to",
+    "meaning": "~할 예정이다",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "bear",
+    "meaning": "참다, 곰",
+    "synonym": [
+      "endure",
+      "tolerate"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "because",
+    "meaning": "~때문에",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "because of",
+    "meaning": "~ 때문에",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "become",
+    "meaning": "되다",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "bee",
+    "meaning": "벌",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "before",
+    "meaning": "~전에",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "behavioral",
+    "meaning": "행동의",
+    "synonym": [
+      "conductive",
+      "mannerly"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "believe",
+    "meaning": "믿다",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "beneficial",
+    "meaning": "이로운",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "benefit",
+    "meaning": "이점",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "between",
+    "meaning": "~사이에서",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "beverage",
+    "meaning": "음료",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "biggest",
+    "meaning": "가장 큰",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "birth",
+    "meaning": "탄생",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "bite",
+    "meaning": "물다",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "block",
+    "meaning": "막다, 구역",
+    "synonym": [
+      "obstruct",
+      "hinder"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "blur",
+    "meaning": "흐리게 하다",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "boast",
+    "meaning": "자랑하다",
+    "synonym": [
+      "brag",
+      "show off"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "bold",
+    "meaning": "대담한",
+    "synonym": [
+      "brave",
+      "daring"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "boost",
+    "meaning": "상승시키다",
+    "synonym": [
+      "increase",
+      "enhance"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "born",
+    "meaning": "태어난",
+    "synonym": []
+  },
+  {
+    "seq": 32,
+    "word": "boss",
+    "meaning": "상사",
+    "synonym": []
+  },
+  {
+    "seq": 33,
+    "word": "break down",
+    "meaning": "부수다",
+    "synonym": []
+  },
+  {
+    "seq": 34,
+    "word": "breakdown",
+    "meaning": "고장, 붕괴",
+    "synonym": [
+      "failure",
+      "collapse"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "bribe",
+    "meaning": "뇌물",
+    "synonym": [
+      "inducement",
+      "payoff"
+    ]
+  },
+  {
+    "seq": 36,
+    "word": "bride",
+    "meaning": "신부",
+    "synonym": []
+  },
+  {
+    "seq": 37,
+    "word": "bright",
+    "meaning": "밝은",
+    "synonym": []
+  },
+  {
+    "seq": 38,
+    "word": "build",
+    "meaning": "세우다",
+    "synonym": []
+  },
+  {
+    "seq": 39,
+    "word": "built",
+    "meaning": "세워진",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "bundle",
+    "meaning": "묶음",
+    "synonym": [
+      "bunch",
+      "package"
+    ]
+  },
+  {
+    "seq": 41,
+    "word": "burned out",
+    "meaning": "지친",
+    "synonym": []
+  },
+  {
+    "seq": 42,
+    "word": "buy",
+    "meaning": "사다",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "by",
+    "meaning": "~쯤에는",
+    "synonym": []
+  }
+]

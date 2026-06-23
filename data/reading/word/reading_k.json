@@ -1,0 +1,53 @@
+[
+  {
+    "seq": 1,
+    "word": "keep",
+    "meaning": "유지하다",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "keep on",
+    "meaning": "계속 ~하다",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "kid",
+    "meaning": "아이",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "kill",
+    "meaning": "죽이다",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "kindergarten",
+    "meaning": "유치원",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "know",
+    "meaning": "알다",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "knowledge",
+    "meaning": "지식",
+    "synonym": [
+      "understanding",
+      "information"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "known",
+    "meaning": "알려진",
+    "synonym": []
+  }
+]

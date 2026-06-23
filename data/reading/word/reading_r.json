@@ -1,0 +1,716 @@
+[
+  {
+    "seq": 1,
+    "word": "race",
+    "meaning": "경주",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "radiation",
+    "meaning": "방사선",
+    "synonym": [
+      "emission",
+      "rays"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "railing",
+    "meaning": "난간",
+    "synonym": [
+      "fence",
+      "barrier"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "raise",
+    "meaning": "올리다",
+    "synonym": [
+      "lift",
+      "increase"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "rampant",
+    "meaning": "만연한",
+    "synonym": [
+      "widespread",
+      "uncontrolled"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "rapid",
+    "meaning": "빠른",
+    "synonym": [
+      "fast",
+      "quick"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "rare",
+    "meaning": "드문",
+    "synonym": [
+      "scarce",
+      "uncommon"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "rating",
+    "meaning": "등급",
+    "synonym": [
+      "score",
+      "ranking"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "rave",
+    "meaning": "극찬하다",
+    "synonym": [
+      "praise",
+      "enthuse"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "reach",
+    "meaning": "도달하다",
+    "synonym": [
+      "arrive",
+      "attain"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "reaction",
+    "meaning": "반응",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "reality",
+    "meaning": "현실",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "realize",
+    "meaning": "깨닫다",
+    "synonym": [
+      "understand",
+      "recognize"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "reason",
+    "meaning": "이유",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "reasonable",
+    "meaning": "합리적인",
+    "synonym": [
+      "fair",
+      "logical"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "rebate",
+    "meaning": "환불",
+    "synonym": [
+      "refund",
+      "discount"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "receive",
+    "meaning": "받다",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "recently",
+    "meaning": "최근에",
+    "synonym": [
+      "lately",
+      "newly"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "recipe",
+    "meaning": "조리법",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "recognize",
+    "meaning": "인식하다, 인정하다",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "recommend",
+    "meaning": "추천하다",
+    "synonym": [
+      "suggest",
+      "advise"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "record",
+    "meaning": "기록",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "recruit",
+    "meaning": "모집하다",
+    "synonym": [
+      "hire",
+      "enlist"
+    ]
+  },
+  {
+    "seq": 24,
+    "word": "recruitment",
+    "meaning": "모집",
+    "synonym": [
+      "hiring",
+      "enlistment"
+    ]
+  },
+  {
+    "seq": 25,
+    "word": "reduce",
+    "meaning": "줄이다",
+    "synonym": [
+      "decrease",
+      "lessen"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "reference",
+    "meaning": "참조",
+    "synonym": [
+      "mention",
+      "citation"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "refine",
+    "meaning": "정제하다",
+    "synonym": [
+      "purify",
+      "improve"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "reflect",
+    "meaning": "반사하다, 반영하다",
+    "synonym": [
+      "mirror",
+      "show"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "refrigerate",
+    "meaning": "냉장하다",
+    "synonym": [
+      "cool",
+      "chill"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "refugee",
+    "meaning": "난민",
+    "synonym": [
+      "exile",
+      "escapee"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "refund",
+    "meaning": "환불",
+    "synonym": [
+      "repayment",
+      "return"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "refuse",
+    "meaning": "거절하다",
+    "synonym": [
+      "reject",
+      "decline"
+    ]
+  },
+  {
+    "seq": 33,
+    "word": "regain",
+    "meaning": "되찾다",
+    "synonym": [
+      "recover",
+      "retrieve"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "regard",
+    "meaning": "여기다, 간주하다",
+    "synonym": [
+      "consider",
+      "view"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "regarding",
+    "meaning": "~에 관하여",
+    "synonym": [
+      "concerning",
+      "about"
+    ]
+  },
+  {
+    "seq": 36,
+    "word": "register",
+    "meaning": "등록하다",
+    "synonym": [
+      "enroll",
+      "record"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "regular",
+    "meaning": "규칙적인",
+    "synonym": [
+      "normal",
+      "usual"
+    ]
+  },
+  {
+    "seq": 38,
+    "word": "regulate",
+    "meaning": "규제하다",
+    "synonym": [
+      "control",
+      "govern"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "regulation",
+    "meaning": "규정",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "rehearsal",
+    "meaning": "리허설",
+    "synonym": [
+      "practice",
+      "run-through"
+    ]
+  },
+  {
+    "seq": 41,
+    "word": "related",
+    "meaning": "관련된",
+    "synonym": [
+      "connected",
+      "associated"
+    ]
+  },
+  {
+    "seq": 42,
+    "word": "relationship",
+    "meaning": "관계",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "relax",
+    "meaning": "휴식하다",
+    "synonym": [
+      "rest",
+      "unwind"
+    ]
+  },
+  {
+    "seq": 44,
+    "word": "release",
+    "meaning": "풀어주다, 출시하다",
+    "synonym": [
+      "free",
+      "publish"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "released",
+    "meaning": "출시된",
+    "synonym": []
+  },
+  {
+    "seq": 46,
+    "word": "relevant",
+    "meaning": "관련된",
+    "synonym": [
+      "applicable",
+      "pertinent"
+    ]
+  },
+  {
+    "seq": 47,
+    "word": "reliable",
+    "meaning": "믿을 수 있는",
+    "synonym": [
+      "dependable",
+      "trustworthy"
+    ]
+  },
+  {
+    "seq": 48,
+    "word": "relieve",
+    "meaning": "완화하다",
+    "synonym": [
+      "ease",
+      "alleviate"
+    ]
+  },
+  {
+    "seq": 49,
+    "word": "religion",
+    "meaning": "종교",
+    "synonym": [
+      "faith",
+      "belief"
+    ]
+  },
+  {
+    "seq": 50,
+    "word": "relocate",
+    "meaning": "이전하다",
+    "synonym": [
+      "move",
+      "transfer"
+    ]
+  },
+  {
+    "seq": 51,
+    "word": "reluctance",
+    "meaning": "꺼림",
+    "synonym": [
+      "hesitation",
+      "unwillingness"
+    ]
+  },
+  {
+    "seq": 52,
+    "word": "rely",
+    "meaning": "의존하다",
+    "synonym": [
+      "depend",
+      "trust"
+    ]
+  },
+  {
+    "seq": 53,
+    "word": "remember",
+    "meaning": "기억하다",
+    "synonym": []
+  },
+  {
+    "seq": 54,
+    "word": "remove",
+    "meaning": "제거하다",
+    "synonym": [
+      "eliminate",
+      "take away"
+    ]
+  },
+  {
+    "seq": 55,
+    "word": "rent",
+    "meaning": "집세",
+    "synonym": []
+  },
+  {
+    "seq": 56,
+    "word": "replace",
+    "meaning": "대체하다",
+    "synonym": []
+  },
+  {
+    "seq": 57,
+    "word": "replaced",
+    "meaning": "대체되는",
+    "synonym": []
+  },
+  {
+    "seq": 58,
+    "word": "report",
+    "meaning": "보고서",
+    "synonym": [
+      "account",
+      "statement"
+    ]
+  },
+  {
+    "seq": 59,
+    "word": "represent",
+    "meaning": "대표하다",
+    "synonym": [
+      "stand for",
+      "symbolize"
+    ]
+  },
+  {
+    "seq": 60,
+    "word": "reputation",
+    "meaning": "명성",
+    "synonym": [
+      "status",
+      "standing"
+    ]
+  },
+  {
+    "seq": 61,
+    "word": "request",
+    "meaning": "요청하다",
+    "synonym": []
+  },
+  {
+    "seq": 62,
+    "word": "require",
+    "meaning": "요구하다",
+    "synonym": []
+  },
+  {
+    "seq": 63,
+    "word": "requirement",
+    "meaning": "요구조건",
+    "synonym": []
+  },
+  {
+    "seq": 64,
+    "word": "research",
+    "meaning": "조사하다",
+    "synonym": []
+  },
+  {
+    "seq": 65,
+    "word": "reserve",
+    "meaning": "예약하다",
+    "synonym": [
+      "book",
+      "save"
+    ]
+  },
+  {
+    "seq": 66,
+    "word": "resistance",
+    "meaning": "저항",
+    "synonym": [
+      "opposition",
+      "defiance"
+    ]
+  },
+  {
+    "seq": 67,
+    "word": "resolution",
+    "meaning": "결의안, 해결",
+    "synonym": [
+      "decision",
+      "solution"
+    ]
+  },
+  {
+    "seq": 68,
+    "word": "respect",
+    "meaning": "존중하다",
+    "synonym": []
+  },
+  {
+    "seq": 69,
+    "word": "respond",
+    "meaning": "반응하다",
+    "synonym": [
+      "reply",
+      "answer"
+    ]
+  },
+  {
+    "seq": 70,
+    "word": "responsibility",
+    "meaning": "책임",
+    "synonym": [
+      "duty",
+      "obligation"
+    ]
+  },
+  {
+    "seq": 71,
+    "word": "responsible",
+    "meaning": "책임이 있는, 원인이 되는",
+    "synonym": []
+  },
+  {
+    "seq": 72,
+    "word": "rest",
+    "meaning": "휴식",
+    "synonym": []
+  },
+  {
+    "seq": 73,
+    "word": "restore",
+    "meaning": "되찾다",
+    "synonym": []
+  },
+  {
+    "seq": 74,
+    "word": "result",
+    "meaning": "결과",
+    "synonym": [
+      "outcome",
+      "effect"
+    ]
+  },
+  {
+    "seq": 75,
+    "word": "resume",
+    "meaning": "이력서, 재개하다",
+    "synonym": [
+      "CV",
+      "continue"
+    ]
+  },
+  {
+    "seq": 76,
+    "word": "retail",
+    "meaning": "소매",
+    "synonym": [
+      "sales",
+      "selling"
+    ]
+  },
+  {
+    "seq": 77,
+    "word": "retirement",
+    "meaning": "은퇴",
+    "synonym": []
+  },
+  {
+    "seq": 78,
+    "word": "retreat",
+    "meaning": "후퇴하다",
+    "synonym": [
+      "withdraw",
+      "pull back"
+    ]
+  },
+  {
+    "seq": 79,
+    "word": "return",
+    "meaning": "돌아가다",
+    "synonym": []
+  },
+  {
+    "seq": 80,
+    "word": "reveal",
+    "meaning": "드러내다",
+    "synonym": [
+      "disclose",
+      "uncover"
+    ]
+  },
+  {
+    "seq": 81,
+    "word": "revenue",
+    "meaning": "수익",
+    "synonym": []
+  },
+  {
+    "seq": 82,
+    "word": "review",
+    "meaning": "검토하다",
+    "synonym": [
+      "evaluate",
+      "assess"
+    ]
+  },
+  {
+    "seq": 83,
+    "word": "reward",
+    "meaning": "보상",
+    "synonym": [
+      "prize",
+      "bonus"
+    ]
+  },
+  {
+    "seq": 84,
+    "word": "right",
+    "meaning": "올바른",
+    "synonym": []
+  },
+  {
+    "seq": 85,
+    "word": "right after",
+    "meaning": "~ 직후",
+    "synonym": []
+  },
+  {
+    "seq": 86,
+    "word": "rights",
+    "meaning": "권리",
+    "synonym": []
+  },
+  {
+    "seq": 87,
+    "word": "risk",
+    "meaning": "위험",
+    "synonym": []
+  },
+  {
+    "seq": 88,
+    "word": "routine",
+    "meaning": "일상",
+    "synonym": [
+      "habit",
+      "schedule"
+    ]
+  },
+  {
+    "seq": 89,
+    "word": "rule",
+    "meaning": "규칙",
+    "synonym": []
+  },
+  {
+    "seq": 90,
+    "word": "run over",
+    "meaning": "~를 치다",
+    "synonym": []
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "seq": 1,
+    "word": "made",
+    "meaning": "만들다",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "magazine",
+    "meaning": "잡지",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "maintain",
+    "meaning": "유지하다",
+    "synonym": [
+      "keep",
+      "preserve"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "major",
+    "meaning": "주요한",
+    "synonym": [
+      "main",
+      "chief"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "make",
+    "meaning": "만들다",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "mammal",
+    "meaning": "포유류",
+    "synonym": [
+      "animal",
+      "creature"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "manage to",
+    "meaning": "가까스로 ~하다",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "management",
+    "meaning": "관리",
+    "synonym": [
+      "administration",
+      "control"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "mansion",
+    "meaning": "저택",
+    "synonym": [
+      "estate",
+      "villa"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "manufacture",
+    "meaning": "제조하다",
+    "synonym": [
+      "produce",
+      "make"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "manuscript",
+    "meaning": "원고",
+    "synonym": [
+      "document",
+      "text"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "marine",
+    "meaning": "해양의",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "mark",
+    "meaning": "표시하다",
+    "synonym": [
+      "sign",
+      "symbol"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "marker",
+    "meaning": "표시",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "mass",
+    "meaning": "질량, 대중",
+    "synonym": [
+      "bulk",
+      "crowd"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "material",
+    "meaning": "물질",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "math",
+    "meaning": "수학",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "meal",
+    "meaning": "식사",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "meaningful",
+    "meaning": "의미 있는",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "means",
+    "meaning": "수단",
+    "synonym": [
+      "method",
+      "way"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "measure",
+    "meaning": "조치",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "measures",
+    "meaning": "조치",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "meat",
+    "meaning": "고기",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "mechanic",
+    "meaning": "정비공",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "media",
+    "meaning": "매체",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "medical",
+    "meaning": "의료의",
+    "synonym": []
+  },
+  {
+    "seq": 27,
+    "word": "meet",
+    "meaning": "만나다",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "mention",
+    "meaning": "언급하다",
+    "synonym": [
+      "state",
+      "remark"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "merge",
+    "meaning": "합병하다",
+    "synonym": [
+      "combine",
+      "unite"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "method",
+    "meaning": "방법",
+    "synonym": [
+      "process",
+      "technique"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "migraine",
+    "meaning": "편두통",
+    "synonym": []
+  },
+  {
+    "seq": 32,
+    "word": "military",
+    "meaning": "군대의",
+    "synonym": [
+      "armed",
+      "martial"
+    ]
+  },
+  {
+    "seq": 33,
+    "word": "million",
+    "meaning": "백만",
+    "synonym": []
+  },
+  {
+    "seq": 34,
+    "word": "millionaire",
+    "meaning": "백만장자",
+    "synonym": [
+      "rich person",
+      "wealthy"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "miraculously",
+    "meaning": "기적적으로",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "missing",
+    "meaning": "실종된",
+    "synonym": []
+  },
+  {
+    "seq": 37,
+    "word": "modify",
+    "meaning": "수정하다",
+    "synonym": [
+      "change",
+      "alter"
+    ]
+  },
+  {
+    "seq": 38,
+    "word": "molecule",
+    "meaning": "분자",
+    "synonym": [
+      "particle",
+      "atom"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "month",
+    "meaning": "달",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "mood",
+    "meaning": "기분",
+    "synonym": []
+  },
+  {
+    "seq": 41,
+    "word": "morality",
+    "meaning": "도덕성",
+    "synonym": [
+      "ethics",
+      "virtue"
+    ]
+  },
+  {
+    "seq": 42,
+    "word": "moreover",
+    "meaning": "게다가",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "most",
+    "meaning": "대부분의",
+    "synonym": []
+  },
+  {
+    "seq": 44,
+    "word": "motivate",
+    "meaning": "동기부여하다",
+    "synonym": []
+  },
+  {
+    "seq": 45,
+    "word": "mountain",
+    "meaning": "산",
+    "synonym": []
+  },
+  {
+    "seq": 46,
+    "word": "move",
+    "meaning": "옮기다",
+    "synonym": []
+  },
+  {
+    "seq": 47,
+    "word": "movement",
+    "meaning": "움직임",
+    "synonym": [
+      "motion",
+      "activity"
+    ]
+  },
+  {
+    "seq": 48,
+    "word": "mow",
+    "meaning": "깎다",
+    "synonym": []
+  },
+  {
+    "seq": 49,
+    "word": "much",
+    "meaning": "많이",
+    "synonym": []
+  },
+  {
+    "seq": 50,
+    "word": "multiple",
+    "meaning": "다수의",
+    "synonym": [
+      "many",
+      "various"
+    ]
+  },
+  {
+    "seq": 51,
+    "word": "muscle",
+    "meaning": "근육",
+    "synonym": [
+      "strength",
+      "power"
+    ]
+  },
+  {
+    "seq": 52,
+    "word": "mushroom",
+    "meaning": "버섯",
+    "synonym": []
+  },
+  {
+    "seq": 53,
+    "word": "mythology",
+    "meaning": "신화",
+    "synonym": [
+      "legend",
+      "lore"
+    ]
+  }
+]

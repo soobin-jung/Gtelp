@@ -1,0 +1,539 @@
+[
+  {
+    "seq": 1,
+    "word": "id card",
+    "meaning": "신분증",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "identity",
+    "meaning": "정체성",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "if",
+    "meaning": "만약 ~하다면",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "ignore",
+    "meaning": "무시하다",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "illegal",
+    "meaning": "불법적인",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "immediately",
+    "meaning": "즉시",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "immerse",
+    "meaning": "몰두하다",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "immigrant",
+    "meaning": "이민자",
+    "synonym": [
+      "settler",
+      "newcomer"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "impact",
+    "meaning": "영향",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "implement",
+    "meaning": "실행하다",
+    "synonym": [
+      "execute",
+      "apply"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "importance",
+    "meaning": "중요성",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "important",
+    "meaning": "중요한",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "impress",
+    "meaning": "깊은 인상을 주다",
+    "synonym": [
+      "affect",
+      "influence"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "impression",
+    "meaning": "인상",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "improve",
+    "meaning": "개선시키다",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "in",
+    "meaning": "~에, ~에서",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "in addition",
+    "meaning": "게다가",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "in case that",
+    "meaning": "~하는 경우에",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "in contrast",
+    "meaning": "대조적으로",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "in fact",
+    "meaning": "사실",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "in spite of",
+    "meaning": "~에도 불구하고",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "inability",
+    "meaning": "무능력",
+    "synonym": [
+      "incapacity",
+      "failure"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "inadequate",
+    "meaning": "불충분한",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "inclined",
+    "meaning": "~하는 경향이 있는",
+    "synonym": [
+      "prone",
+      "tending"
+    ]
+  },
+  {
+    "seq": 25,
+    "word": "including",
+    "meaning": "~을 포함하여",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "incomes",
+    "meaning": "수입",
+    "synonym": []
+  },
+  {
+    "seq": 27,
+    "word": "inconsistent",
+    "meaning": "불안정한",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "increase",
+    "meaning": "증가하다",
+    "synonym": []
+  },
+  {
+    "seq": 29,
+    "word": "increased",
+    "meaning": "증가된",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "independent",
+    "meaning": "독립적인",
+    "synonym": [
+      "free",
+      "autonomous"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "indicate",
+    "meaning": "나타내다",
+    "synonym": [
+      "show",
+      "point out"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "individual",
+    "meaning": "개인",
+    "synonym": [
+      "person",
+      "single"
+    ]
+  },
+  {
+    "seq": 33,
+    "word": "individuality",
+    "meaning": "개성",
+    "synonym": []
+  },
+  {
+    "seq": 34,
+    "word": "induce",
+    "meaning": "유도하다",
+    "synonym": []
+  },
+  {
+    "seq": 35,
+    "word": "industrial",
+    "meaning": "산업의",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "industry",
+    "meaning": "산업",
+    "synonym": [
+      "business",
+      "trade"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "inflate",
+    "meaning": "부풀리다",
+    "synonym": [
+      "expand",
+      "blow up"
+    ]
+  },
+  {
+    "seq": 38,
+    "word": "influence",
+    "meaning": "영향",
+    "synonym": [
+      "impact",
+      "effect"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "inform",
+    "meaning": "알리다",
+    "synonym": [
+      "notify",
+      "tell"
+    ]
+  },
+  {
+    "seq": 40,
+    "word": "information",
+    "meaning": "정보",
+    "synonym": []
+  },
+  {
+    "seq": 41,
+    "word": "infrared",
+    "meaning": "적외선의",
+    "synonym": [
+      "light",
+      "spectrum"
+    ]
+  },
+  {
+    "seq": 42,
+    "word": "ingredient",
+    "meaning": "재료",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "inhale",
+    "meaning": "숨을 들이쉬다",
+    "synonym": [
+      "breathe in",
+      "gasp"
+    ]
+  },
+  {
+    "seq": 44,
+    "word": "inhibit",
+    "meaning": "억제하다",
+    "synonym": [
+      "prevent",
+      "restrict"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "initially",
+    "meaning": "처음에",
+    "synonym": [
+      "originally",
+      "first"
+    ]
+  },
+  {
+    "seq": 46,
+    "word": "injured",
+    "meaning": "부상 당한",
+    "synonym": []
+  },
+  {
+    "seq": 47,
+    "word": "innovation",
+    "meaning": "혁신",
+    "synonym": []
+  },
+  {
+    "seq": 48,
+    "word": "inquiry",
+    "meaning": "질문, 조사",
+    "synonym": [
+      "question",
+      "investigation"
+    ]
+  },
+  {
+    "seq": 49,
+    "word": "insect",
+    "meaning": "곤충",
+    "synonym": []
+  },
+  {
+    "seq": 50,
+    "word": "insecurity",
+    "meaning": "불안정",
+    "synonym": []
+  },
+  {
+    "seq": 51,
+    "word": "insist",
+    "meaning": "주장하다",
+    "synonym": []
+  },
+  {
+    "seq": 52,
+    "word": "inspire",
+    "meaning": "영감을 주다",
+    "synonym": [
+      "encourage",
+      "motivate"
+    ]
+  },
+  {
+    "seq": 53,
+    "word": "instant",
+    "meaning": "즉각적인",
+    "synonym": [
+      "immediate",
+      "prompt"
+    ]
+  },
+  {
+    "seq": 54,
+    "word": "instead",
+    "meaning": "대신에",
+    "synonym": []
+  },
+  {
+    "seq": 55,
+    "word": "instead of",
+    "meaning": "~대신에",
+    "synonym": []
+  },
+  {
+    "seq": 56,
+    "word": "instruct",
+    "meaning": "지시하다",
+    "synonym": [
+      "teach",
+      "direct"
+    ]
+  },
+  {
+    "seq": 57,
+    "word": "instrument",
+    "meaning": "도구",
+    "synonym": []
+  },
+  {
+    "seq": 58,
+    "word": "intelligent",
+    "meaning": "지능적인",
+    "synonym": [
+      "smart",
+      "clever"
+    ]
+  },
+  {
+    "seq": 59,
+    "word": "intense",
+    "meaning": "강렬한",
+    "synonym": [
+      "extreme",
+      "severe"
+    ]
+  },
+  {
+    "seq": 60,
+    "word": "intensely",
+    "meaning": "강도높게",
+    "synonym": []
+  },
+  {
+    "seq": 61,
+    "word": "intent",
+    "meaning": "의도",
+    "synonym": [
+      "purpose",
+      "aim"
+    ]
+  },
+  {
+    "seq": 62,
+    "word": "interest",
+    "meaning": "흥미",
+    "synonym": []
+  },
+  {
+    "seq": 63,
+    "word": "into",
+    "meaning": "~로",
+    "synonym": []
+  },
+  {
+    "seq": 64,
+    "word": "invent",
+    "meaning": "발명하다",
+    "synonym": [
+      "create",
+      "discover"
+    ]
+  },
+  {
+    "seq": 65,
+    "word": "invest",
+    "meaning": "투자하다",
+    "synonym": [
+      "fund",
+      "spend"
+    ]
+  },
+  {
+    "seq": 66,
+    "word": "investigation",
+    "meaning": "조사",
+    "synonym": [
+      "examination",
+      "study"
+    ]
+  },
+  {
+    "seq": 67,
+    "word": "invite",
+    "meaning": "초대하다",
+    "synonym": [
+      "ask",
+      "request"
+    ]
+  },
+  {
+    "seq": 68,
+    "word": "invoice",
+    "meaning": "청구서",
+    "synonym": [
+      "bill",
+      "statement"
+    ]
+  },
+  {
+    "seq": 69,
+    "word": "involve",
+    "meaning": "포함하다",
+    "synonym": [
+      "include",
+      "entail"
+    ]
+  },
+  {
+    "seq": 70,
+    "word": "irritation",
+    "meaning": "염증",
+    "synonym": []
+  },
+  {
+    "seq": 71,
+    "word": "is",
+    "meaning": "있다",
+    "synonym": []
+  },
+  {
+    "seq": 72,
+    "word": "isolation",
+    "meaning": "고립",
+    "synonym": [
+      "separation",
+      "seclusion"
+    ]
+  },
+  {
+    "seq": 73,
+    "word": "issue",
+    "meaning": "문제, 발행하다",
+    "synonym": [
+      "problem",
+      "publish"
+    ]
+  },
+  {
+    "seq": 74,
+    "word": "item",
+    "meaning": "품목, 항목",
+    "synonym": []
+  }
+]

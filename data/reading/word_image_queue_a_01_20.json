@@ -1,0 +1,202 @@
+[
+  {
+    "seq": 1,
+    "word": "a day",
+    "meaning": "하루에",
+    "filename": "img_a_day.png",
+    "relativePath": "/word-images/img_a_day.png",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"a day\" appears on a holographic sign above a futuristic street. Show a bright sun traveling across the sky from morning to night with breakfast, lunch, and moon icons lined up beneath the letters. Dense pixel detail, neon contrast, retro-futuristic atmosphere.",
+    "status": "saved"
+  },
+  {
+    "seq": 2,
+    "word": "a few years ago",
+    "meaning": "몇 년 전에",
+    "filename": "img_a_few_years_ago.png",
+    "relativePath": "/word-images/img_a_few_years_ago.png",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"a few years ago\" appears as a glowing emblem made of sparkling light and curling vines. Show a nostalgic timeline with calendar pages flipping backward, an old photograph, and a younger version of a character waving from the past. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder.",
+    "status": "saved"
+  },
+  {
+    "seq": 3,
+    "word": "a lot of",
+    "meaning": "많은",
+    "filename": "img_a_lot_of.png",
+    "relativePath": "/word-images/img_a_lot_of.png",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"a lot of\" appears in big wobbly colorful letters. Show an overflowing pile of colorful objects such as books, apples, and coins spilling everywhere to make abundance instantly obvious. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable.",
+    "status": "saved"
+  },
+  {
+    "seq": 4,
+    "word": "abdomen",
+    "meaning": "복부",
+    "filename": "img_abdomen.png",
+    "relativePath": "/word-images/img_abdomen.png",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"abdomen\" is shown through a striking visual metaphor. Show a cute character pointing dramatically to the stomach area with a glowing outline highlighting the abdomen. Unusual scale, unexpected object placement, memorable symbolism.",
+    "status": "saved"
+  },
+  {
+    "seq": 5,
+    "word": "ability",
+    "meaning": "능력",
+    "filename": "img_ability.png",
+    "relativePath": "/word-images/img_ability.png",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"ability\" dominates the title area in huge action lettering. Show a cheerful character unlocking multiple talents at once, like lifting a weight, painting, and solving a puzzle. Punchy colors, exaggerated motion, nostalgic pop-art energy.",
+    "status": "saved"
+  },
+  {
+    "seq": 6,
+    "word": "about",
+    "meaning": "~에 대해",
+    "filename": "img_about.png",
+    "relativePath": "/word-images/img_about.png",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"about\" glows in stylized neon letters. Show a central topic bubble with smaller icons orbiting around it to clearly suggest 'about this topic'. Wet reflections, steam, urban energy, cinematic lighting.",
+    "status": "saved"
+  },
+  {
+    "seq": 7,
+    "word": "abundant",
+    "meaning": "풍부한",
+    "filename": "img_abundant.png",
+    "relativePath": "/word-images/img_abundant.png",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"abundant\" is engraved prominently on the central plaque. Show fields, baskets, and trees overflowing with fruit and flowers so the viewer instantly feels richness and plenty. Warm workshop light, tactile detail, imaginative mechanical storytelling.",
+    "status": "saved"
+  },
+  {
+    "seq": 8,
+    "word": "academic",
+    "meaning": "학문의",
+    "filename": "img_academic.png",
+    "relativePath": "/word-images/img_academic.png",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"academic\" is shown through a realistic symbolic scene. Show a studious scene with books, graduation cap, notes, charts, and a serious campus atmosphere. Deep colors, timeless mood, visible brushwork, elegant composition.",
+    "status": "saved"
+  },
+  {
+    "seq": 9,
+    "word": "accept",
+    "meaning": "받아들이다",
+    "filename": "img_accept.png",
+    "relativePath": "/word-images/img_accept.png",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"accept\" is softly integrated into the composition. Show two characters smiling as one receives a gift or invitation with open hands and warm agreement. Gentle color bleed, airy layout, emotional clarity, poetic mood.",
+    "status": "saved"
+  },
+  {
+    "seq": 10,
+    "word": "access",
+    "meaning": "접근",
+    "filename": "img_access.png",
+    "relativePath": "/word-images/img_access.png",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"access\" appears in wildstyle lettering at the center. Show a glowing door, keycard, keypad, or portal opening to a special place after permission is granted. Spray-paint texture, layered tags, urban rhythm, bold visual punch.",
+    "status": "saved"
+  },
+  {
+    "seq": 11,
+    "word": "accident",
+    "meaning": "사고",
+    "filename": "img_accident.png",
+    "relativePath": "/word-images/img_accident.png",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"accident\" appears on a holographic sign above a futuristic street. Show a comic but clear mishap such as spilled paint, a slipped banana peel, or a bumped bicycle with shocked expressions. Dense pixel detail, neon contrast, retro-futuristic atmosphere.",
+    "status": "saved"
+  },
+  {
+    "seq": 12,
+    "word": "accomplish",
+    "meaning": "성취하다",
+    "filename": "img_accomplish.png",
+    "relativePath": "/word-images/img_accomplish.png",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"accomplish\" appears as a glowing emblem made of sparkling light and curling vines. Show a determined character planting a flag at the top of a checklist mountain after finishing tasks. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder.",
+    "status": "saved"
+  },
+  {
+    "seq": 13,
+    "word": "account",
+    "meaning": "계좌, 설명",
+    "filename": "img_account.png",
+    "relativePath": "/word-images/img_account.png",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"account\" appears in big wobbly colorful letters. Show both meanings cleverly: a bank account card and a speech bubble giving an explanation side by side. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable.",
+    "status": "saved"
+  },
+  {
+    "seq": 14,
+    "word": "accounting",
+    "meaning": "회계",
+    "filename": "img_accounting.png",
+    "relativePath": "/word-images/img_accounting.png",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"accounting\" is shown through a striking visual metaphor. Show calculators, ledgers, receipts, graphs, and a tidy desk with someone balancing numbers. Unusual scale, unexpected object placement, memorable symbolism.",
+    "status": "saved"
+  },
+  {
+    "seq": 15,
+    "word": "accurately",
+    "meaning": "정확하게",
+    "filename": "img_accurately.png",
+    "relativePath": "/word-images/img_accurately.png",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"accurately\" dominates the title area in huge action lettering. Show a target hit exactly in the center, a ruler aligned perfectly, and a laser-straight check mark. Punchy colors, exaggerated motion, nostalgic pop-art energy.",
+    "status": "saved"
+  },
+  {
+    "seq": 16,
+    "word": "achieve",
+    "meaning": "성취하다",
+    "filename": "img_achieve.png",
+    "relativePath": "/word-images/img_achieve.png",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"achieve\" glows in stylized neon letters. Show a character reaching a shining trophy or star after effort, stairs, and progress markers. Wet reflections, steam, urban energy, cinematic lighting.",
+    "status": "saved"
+  },
+  {
+    "seq": 17,
+    "word": "achievement",
+    "meaning": "성취",
+    "filename": "img_achievement.png",
+    "relativePath": "/word-images/img_achievement.png",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"achievement\" is engraved prominently on the central plaque. Show medals, certificates, confetti, and a proud display shelf celebrating a completed goal. Warm workshop light, tactile detail, imaginative mechanical storytelling.",
+    "status": "saved"
+  },
+  {
+    "seq": 18,
+    "word": "acquire",
+    "meaning": "얻다",
+    "filename": "img_acquire.png",
+    "relativePath": "/word-images/img_acquire.png",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"acquire\" is shown through a realistic symbolic scene. Show a character successfully obtaining a glowing object, key skill book, or treasure chest they worked for. Deep colors, timeless mood, visible brushwork, elegant composition.",
+    "status": "saved"
+  },
+  {
+    "seq": 19,
+    "word": "across",
+    "meaning": "~에 걸쳐",
+    "filename": "img_across.png",
+    "relativePath": "/word-images/img_across.png",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"across\" is softly integrated into the composition. Show a bridge or road stretching from one side to the other with motion clearly crossing over. Gentle color bleed, airy layout, emotional clarity, poetic mood.",
+    "status": "saved"
+  },
+  {
+    "seq": 20,
+    "word": "actual",
+    "meaning": "실제의",
+    "filename": "img_actual.png",
+    "relativePath": "/word-images/img_actual.png",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"actual\" appears in wildstyle lettering at the center. Show illusion versus reality, with a fake stage set pulled aside to reveal the true object behind it. Spray-paint texture, layered tags, urban rhythm, bold visual punch.",
+    "status": "saved"
+  }
+]

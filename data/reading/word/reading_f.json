@@ -1,0 +1,410 @@
+[
+  {
+    "seq": 1,
+    "word": "face",
+    "meaning": "직면하다",
+    "synonym": [
+      "confront",
+      "encounter"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "facility",
+    "meaning": "시설",
+    "synonym": [
+      "amenity",
+      "building"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "facing",
+    "meaning": "직면한",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "factor",
+    "meaning": "요인",
+    "synonym": [
+      "element",
+      "cause"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "factory",
+    "meaning": "공장",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "fail",
+    "meaning": "실패하다",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "fallen",
+    "meaning": "빠진",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "false",
+    "meaning": "잘못된",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "famous",
+    "meaning": "유명한",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "fancy",
+    "meaning": "고급의",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "fantasy",
+    "meaning": "환상",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "farmers",
+    "meaning": "농부",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "fascinate",
+    "meaning": "매혹하다",
+    "synonym": [
+      "captivate",
+      "attract"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "faster",
+    "meaning": "더 빠르게",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "fatal",
+    "meaning": "치명적인",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "feature",
+    "meaning": "특징",
+    "synonym": [
+      "characteristic",
+      "trait"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "features",
+    "meaning": "특징",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "feeling",
+    "meaning": "감정",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "field",
+    "meaning": "분야",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "figure",
+    "meaning": "수치, 인물",
+    "synonym": [
+      "number",
+      "person"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "finally",
+    "meaning": "마침내",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "finance",
+    "meaning": "재정",
+    "synonym": [
+      "funding",
+      "economics"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "financial",
+    "meaning": "재정적인",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "financially",
+    "meaning": "재정적으로",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "find",
+    "meaning": "발견하다",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "finding",
+    "meaning": "발견",
+    "synonym": [
+      "discovery",
+      "result"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "finish",
+    "meaning": "마치다",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "firm",
+    "meaning": "확고한, 회사",
+    "synonym": [
+      "solid",
+      "company"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "fitness",
+    "meaning": "건강",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "flame",
+    "meaning": "불꽃",
+    "synonym": [
+      "fire",
+      "blaze"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "flavor",
+    "meaning": "맛",
+    "synonym": [
+      "taste",
+      "savor"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "flaw",
+    "meaning": "결점",
+    "synonym": []
+  },
+  {
+    "seq": 33,
+    "word": "flexibility",
+    "meaning": "유연성",
+    "synonym": [
+      "adaptability",
+      "elasticity"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "flirt",
+    "meaning": "추파를 던지다",
+    "synonym": [
+      "tease",
+      "play"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "follow",
+    "meaning": "따르다",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "fondness",
+    "meaning": "애정",
+    "synonym": [
+      "affection",
+      "liking"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "footage",
+    "meaning": "화면",
+    "synonym": []
+  },
+  {
+    "seq": 38,
+    "word": "for",
+    "meaning": "~를 위해",
+    "synonym": []
+  },
+  {
+    "seq": 39,
+    "word": "for example",
+    "meaning": "예를 들어",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "forced",
+    "meaning": "강요받는",
+    "synonym": []
+  },
+  {
+    "seq": 41,
+    "word": "fortunately",
+    "meaning": "다행히",
+    "synonym": []
+  },
+  {
+    "seq": 42,
+    "word": "foster",
+    "meaning": "육성하다",
+    "synonym": [
+      "encourage",
+      "promote"
+    ]
+  },
+  {
+    "seq": 43,
+    "word": "found",
+    "meaning": "설립하다",
+    "synonym": [
+      "establish",
+      "create"
+    ]
+  },
+  {
+    "seq": 44,
+    "word": "fraud",
+    "meaning": "사기",
+    "synonym": [
+      "deceit",
+      "scam"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "freight",
+    "meaning": "화물",
+    "synonym": [
+      "cargo",
+      "shipment"
+    ]
+  },
+  {
+    "seq": 46,
+    "word": "friendships",
+    "meaning": "우정",
+    "synonym": []
+  },
+  {
+    "seq": 47,
+    "word": "from",
+    "meaning": "~로 부터",
+    "synonym": []
+  },
+  {
+    "seq": 48,
+    "word": "fruitful",
+    "meaning": "결실 있는",
+    "synonym": [
+      "productive",
+      "profitable"
+    ]
+  },
+  {
+    "seq": 49,
+    "word": "fulfill",
+    "meaning": "성취하다",
+    "synonym": [
+      "accomplish",
+      "achieve"
+    ]
+  },
+  {
+    "seq": 50,
+    "word": "full",
+    "meaning": "완전한",
+    "synonym": []
+  },
+  {
+    "seq": 51,
+    "word": "full of",
+    "meaning": "~로 가득찬",
+    "synonym": []
+  },
+  {
+    "seq": 52,
+    "word": "function",
+    "meaning": "기능하다",
+    "synonym": []
+  },
+  {
+    "seq": 53,
+    "word": "fund",
+    "meaning": "자금",
+    "synonym": [
+      "money",
+      "capital"
+    ]
+  },
+  {
+    "seq": 54,
+    "word": "furniture",
+    "meaning": "가구",
+    "synonym": []
+  },
+  {
+    "seq": 55,
+    "word": "further",
+    "meaning": "더 이상의",
+    "synonym": [
+      "additional",
+      "more"
+    ]
+  },
+  {
+    "seq": 56,
+    "word": "furthermore",
+    "meaning": "게다가",
+    "synonym": []
+  },
+  {
+    "seq": 57,
+    "word": "future",
+    "meaning": "미래",
+    "synonym": []
+  }
+]

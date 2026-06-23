@@ -1,0 +1,404 @@
+[
+  {
+    "seq": 1,
+    "word": "obedient",
+    "meaning": "순종적인",
+    "synonym": [
+      "compliant",
+      "docile"
+    ]
+  },
+  {
+    "seq": 2,
+    "word": "object",
+    "meaning": "물체",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "observe",
+    "meaning": "관찰하다",
+    "synonym": [
+      "watch",
+      "monitor"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "obsess",
+    "meaning": "집착하게 하다",
+    "synonym": [
+      "preoccupy",
+      "fixate"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "obviously",
+    "meaning": "분명히",
+    "synonym": [
+      "clearly",
+      "evidently"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "occasion",
+    "meaning": "경우, 행사",
+    "synonym": [
+      "event",
+      "opportunity"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "occur",
+    "meaning": "발생하다",
+    "synonym": [
+      "happen",
+      "take place"
+    ]
+  },
+  {
+    "seq": 8,
+    "word": "of",
+    "meaning": "~의",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "offensive",
+    "meaning": "불쾌한",
+    "synonym": [
+      "insulting",
+      "rude"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "offer",
+    "meaning": "제공하다",
+    "synonym": [
+      "provide",
+      "propose"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "offset",
+    "meaning": "상쇄하다",
+    "synonym": [
+      "balance",
+      "counteract"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "often",
+    "meaning": "종종",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "on",
+    "meaning": "~에",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "on the other hand",
+    "meaning": "반면에",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "once",
+    "meaning": "한 때",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "ongoing",
+    "meaning": "진행 중인",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "online",
+    "meaning": "온라인에서",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "only",
+    "meaning": "오직",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "opaque",
+    "meaning": "불투명한",
+    "synonym": [
+      "cloudy",
+      "unclear"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "operate",
+    "meaning": "작동하다",
+    "synonym": [
+      "run",
+      "function"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "opinion",
+    "meaning": "의견",
+    "synonym": [
+      "view",
+      "belief"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "opportunity",
+    "meaning": "기회",
+    "synonym": [
+      "chance",
+      "moment"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "optimal",
+    "meaning": "최적의",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "order",
+    "meaning": "명령, 순서",
+    "synonym": [
+      "command",
+      "sequence"
+    ]
+  },
+  {
+    "seq": 25,
+    "word": "ordinary",
+    "meaning": "평범한",
+    "synonym": [
+      "normal",
+      "usual"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "organic",
+    "meaning": "유기농의",
+    "synonym": [
+      "natural",
+      "biological"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "organisms",
+    "meaning": "유기체",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "organization",
+    "meaning": "조직",
+    "synonym": []
+  },
+  {
+    "seq": 29,
+    "word": "organizations",
+    "meaning": "조직, 단체",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "organize",
+    "meaning": "조직하다",
+    "synonym": [
+      "arrange",
+      "structure"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "organized",
+    "meaning": "조직화된",
+    "synonym": [
+      "arranged",
+      "structured"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "original",
+    "meaning": "원래의",
+    "synonym": [
+      "initial",
+      "authentic"
+    ]
+  },
+  {
+    "seq": 33,
+    "word": "originate",
+    "meaning": "유래하다",
+    "synonym": [
+      "begin",
+      "start"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "other",
+    "meaning": "다른",
+    "synonym": []
+  },
+  {
+    "seq": 35,
+    "word": "others",
+    "meaning": "다른 사람",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "otherwise",
+    "meaning": "그렇지 않으면",
+    "synonym": [
+      "or else",
+      "differently"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "outbreak",
+    "meaning": "발발",
+    "synonym": [
+      "eruption",
+      "burst"
+    ]
+  },
+  {
+    "seq": 38,
+    "word": "outcome",
+    "meaning": "결과",
+    "synonym": [
+      "result",
+      "consequence"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "outdoor",
+    "meaning": "야외의",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "outfit",
+    "meaning": "옷",
+    "synonym": []
+  },
+  {
+    "seq": 41,
+    "word": "outlet",
+    "meaning": "할인점, 배출구",
+    "synonym": [
+      "store",
+      "vent"
+    ]
+  },
+  {
+    "seq": 42,
+    "word": "outstanding",
+    "meaning": "뛰어난",
+    "synonym": [
+      "excellent",
+      "remarkable"
+    ]
+  },
+  {
+    "seq": 43,
+    "word": "over",
+    "meaning": "~에 걸쳐",
+    "synonym": []
+  },
+  {
+    "seq": 44,
+    "word": "overcome",
+    "meaning": "극복하다",
+    "synonym": []
+  },
+  {
+    "seq": 45,
+    "word": "overconfident",
+    "meaning": "지나치게 자신하는",
+    "synonym": [
+      "cocky",
+      "arrogant"
+    ]
+  },
+  {
+    "seq": 46,
+    "word": "overlook",
+    "meaning": "간과하다",
+    "synonym": [
+      "ignore",
+      "miss"
+    ]
+  },
+  {
+    "seq": 47,
+    "word": "overrun",
+    "meaning": "초과하다",
+    "synonym": [
+      "exceed",
+      "invade"
+    ]
+  },
+  {
+    "seq": 48,
+    "word": "oversee",
+    "meaning": "감독하다",
+    "synonym": [
+      "supervise",
+      "manage"
+    ]
+  },
+  {
+    "seq": 49,
+    "word": "overview",
+    "meaning": "개요",
+    "synonym": [
+      "summary",
+      "outline"
+    ]
+  },
+  {
+    "seq": 50,
+    "word": "own",
+    "meaning": "소유하다",
+    "synonym": [
+      "possess",
+      "hold"
+    ]
+  },
+  {
+    "seq": 51,
+    "word": "oxygen",
+    "meaning": "산소",
+    "synonym": [
+      "air",
+      "gas"
+    ]
+  }
+]

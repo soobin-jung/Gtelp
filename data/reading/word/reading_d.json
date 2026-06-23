@@ -1,0 +1,500 @@
+[
+  {
+    "seq": 1,
+    "word": "dangerous",
+    "meaning": "위험한",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "daylilie",
+    "meaning": "원추리",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "deal",
+    "meaning": "(",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "debatable",
+    "meaning": "논쟁의 여지가 있는",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "debris",
+    "meaning": "파편",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "decide",
+    "meaning": "결정하다",
+    "synonym": [
+      "determine",
+      "resolve"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "decline",
+    "meaning": "감소하다",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "decrease",
+    "meaning": "감소시키다",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "dedication",
+    "meaning": "헌신",
+    "synonym": [
+      "commitment",
+      "devotion"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "defect",
+    "meaning": "결함",
+    "synonym": [
+      "flaw",
+      "fault"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "degree",
+    "meaning": "정도, 학위",
+    "synonym": [
+      "level",
+      "diploma"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "deliberately",
+    "meaning": "의도적으로",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "delicious",
+    "meaning": "맛있는",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "deliver",
+    "meaning": "배달하다",
+    "synonym": [
+      "transport",
+      "bring"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "delivered",
+    "meaning": "전달된",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "demise",
+    "meaning": "사망, 종말",
+    "synonym": [
+      "death",
+      "end"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "demonstrate",
+    "meaning": "증명하다, 시위하다",
+    "synonym": [
+      "show",
+      "prove"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "department",
+    "meaning": "부서",
+    "synonym": [
+      "division",
+      "section"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "depressed",
+    "meaning": "우울한",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "depression",
+    "meaning": "우울증",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "deprived",
+    "meaning": "가난한",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "derive",
+    "meaning": "끌어내다",
+    "synonym": [
+      "obtain",
+      "extract"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "describe",
+    "meaning": "설명하다",
+    "synonym": [
+      "explain",
+      "detail"
+    ]
+  },
+  {
+    "seq": 24,
+    "word": "despite",
+    "meaning": "~에도 불구하고",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "detain",
+    "meaning": "억류하다",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "deter",
+    "meaning": "단념시키다",
+    "synonym": [
+      "discourage",
+      "prevent"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "determined",
+    "meaning": "단호한",
+    "synonym": [
+      "resolute",
+      "decided"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "devastating",
+    "meaning": "파괴적인",
+    "synonym": []
+  },
+  {
+    "seq": 29,
+    "word": "develop",
+    "meaning": "개발하다",
+    "synonym": [
+      "grow",
+      "advance"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "development",
+    "meaning": "발달",
+    "synonym": []
+  },
+  {
+    "seq": 31,
+    "word": "dictate",
+    "meaning": "받아쓰게 하다, 지시하다",
+    "synonym": [
+      "command",
+      "order"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "diet",
+    "meaning": "식단",
+    "synonym": []
+  },
+  {
+    "seq": 33,
+    "word": "difference",
+    "meaning": "차이",
+    "synonym": [
+      "distinction",
+      "disparity"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "different",
+    "meaning": "다양한",
+    "synonym": []
+  },
+  {
+    "seq": 35,
+    "word": "difficult",
+    "meaning": "어려운",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "digest",
+    "meaning": "소화하다",
+    "synonym": []
+  },
+  {
+    "seq": 37,
+    "word": "diminish",
+    "meaning": "감소하다",
+    "synonym": [
+      "reduce",
+      "decrease"
+    ]
+  },
+  {
+    "seq": 38,
+    "word": "dinner",
+    "meaning": "저녁",
+    "synonym": []
+  },
+  {
+    "seq": 39,
+    "word": "disability",
+    "meaning": "장애, 무력",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "disappearance",
+    "meaning": "사라짐",
+    "synonym": [
+      "vanishing",
+      "fading"
+    ]
+  },
+  {
+    "seq": 41,
+    "word": "disaster",
+    "meaning": "재난",
+    "synonym": [
+      "catastrophe",
+      "tragedy"
+    ]
+  },
+  {
+    "seq": 42,
+    "word": "disastrous",
+    "meaning": "막심한, 비참한",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "discover",
+    "meaning": "발견하다",
+    "synonym": []
+  },
+  {
+    "seq": 44,
+    "word": "discrepancy",
+    "meaning": "불일치",
+    "synonym": [
+      "difference",
+      "inconsistency"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "dish",
+    "meaning": "요리",
+    "synonym": []
+  },
+  {
+    "seq": 46,
+    "word": "display",
+    "meaning": "전시하다",
+    "synonym": [
+      "show",
+      "exhibit"
+    ]
+  },
+  {
+    "seq": 47,
+    "word": "disregard",
+    "meaning": "무시하다",
+    "synonym": [
+      "ignore",
+      "neglect"
+    ]
+  },
+  {
+    "seq": 48,
+    "word": "disruptive",
+    "meaning": "지장을 주는",
+    "synonym": [
+      "disturbing",
+      "troublesome"
+    ]
+  },
+  {
+    "seq": 49,
+    "word": "dissolve",
+    "meaning": "녹이다, 해산하다",
+    "synonym": [
+      "melt",
+      "disband"
+    ]
+  },
+  {
+    "seq": 50,
+    "word": "distinct",
+    "meaning": "뚜렷한",
+    "synonym": [
+      "clear",
+      "obvious"
+    ]
+  },
+  {
+    "seq": 51,
+    "word": "distinguish",
+    "meaning": "구별하다",
+    "synonym": []
+  },
+  {
+    "seq": 52,
+    "word": "distribute",
+    "meaning": "분배하다",
+    "synonym": [
+      "allocate",
+      "hand out"
+    ]
+  },
+  {
+    "seq": 53,
+    "word": "diverse",
+    "meaning": "다양한",
+    "synonym": [
+      "various",
+      "different"
+    ]
+  },
+  {
+    "seq": 54,
+    "word": "divide",
+    "meaning": "나누다",
+    "synonym": [
+      "separate",
+      "split"
+    ]
+  },
+  {
+    "seq": 55,
+    "word": "division",
+    "meaning": "분할, 부서",
+    "synonym": [
+      "separation",
+      "department"
+    ]
+  },
+  {
+    "seq": 56,
+    "word": "do",
+    "meaning": "하다",
+    "synonym": []
+  },
+  {
+    "seq": 57,
+    "word": "dominate",
+    "meaning": "지배하다",
+    "synonym": [
+      "control",
+      "rule"
+    ]
+  },
+  {
+    "seq": 58,
+    "word": "donate",
+    "meaning": "기부하다",
+    "synonym": []
+  },
+  {
+    "seq": 59,
+    "word": "doubt",
+    "meaning": "의심하다",
+    "synonym": [
+      "question",
+      "suspect"
+    ]
+  },
+  {
+    "seq": 60,
+    "word": "drain",
+    "meaning": "물기를 빼다",
+    "synonym": [
+      "empty",
+      "exhaust"
+    ]
+  },
+  {
+    "seq": 61,
+    "word": "drop",
+    "meaning": "감소",
+    "synonym": []
+  },
+  {
+    "seq": 62,
+    "word": "dropout",
+    "meaning": "중퇴자",
+    "synonym": []
+  },
+  {
+    "seq": 63,
+    "word": "drummer",
+    "meaning": "드러머",
+    "synonym": []
+  },
+  {
+    "seq": 64,
+    "word": "due",
+    "meaning": "~할 예정인, 기한이 된",
+    "synonym": [
+      "expected",
+      "scheduled"
+    ]
+  },
+  {
+    "seq": 65,
+    "word": "due to",
+    "meaning": "~ 때문에",
+    "synonym": []
+  },
+  {
+    "seq": 66,
+    "word": "dump",
+    "meaning": "버리다",
+    "synonym": []
+  },
+  {
+    "seq": 67,
+    "word": "during",
+    "meaning": "~동안",
+    "synonym": []
+  }
+]

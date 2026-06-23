@@ -1,4002 +1,7462 @@
 [
-    {
-        "word": "abdomen",
-        "meaning": "복부",
-        "synonym": [
-            "belly",
-            "stomach"
-        ]
-    },
-    {
-        "word": "abundant",
-        "meaning": "풍부한",
-        "synonym": [
-            "plentiful",
-            "copious"
-        ]
-    },
-    {
-        "word": "access",
-        "meaning": "접근",
-        "synonym": [
-            "approach",
-            "entry"
-        ]
-    },
-    {
-        "word": "accomplish",
-        "meaning": "성취하다",
-        "synonym": [
-            "achieve",
-            "fulfill"
-        ]
-    },
-    {
-        "word": "account",
-        "meaning": "계좌, 설명",
-        "synonym": [
-            "record",
-            "description"
-        ]
-    },
-    {
-        "word": "accounting",
-        "meaning": "회계",
-        "synonym": [
-            "bookkeeping",
-            "finance"
-        ]
-    },
-    {
-        "word": "achievement",
-        "meaning": "성취",
-        "synonym": [
-            "accomplishment",
-            "success"
-        ]
-    },
-    {
-        "word": "acquire",
-        "meaning": "얻다",
-        "synonym": [
-            "obtain",
-            "gain"
-        ]
-    },
-    {
-        "word": "actual",
-        "meaning": "실제의",
-        "synonym": [
-            "real",
-            "true"
-        ]
-    },
-    {
-        "word": "address",
-        "meaning": "주소, 연설하다",
-        "synonym": [
-            "location",
-            "speech"
-        ]
-    },
-    {
-        "word": "admire",
-        "meaning": "존경하다",
-        "synonym": [
-            "respect",
-            "appreciate"
-        ]
-    },
-    {
-        "word": "adoptive",
-        "meaning": "입양의",
-        "synonym": [
-            "foster",
-            "adopted"
-        ]
-    },
-    {
-        "word": "advanced",
-        "meaning": "고급의, 진보한",
-        "synonym": [
-            "progressive",
-            "higher"
-        ]
-    },
-    {
-        "word": "advertising",
-        "meaning": "광고",
-        "synonym": [
-            "marketing",
-            "promotion"
-        ]
-    },
-    {
-        "word": "aesthetically",
-        "meaning": "미적으로",
-        "synonym": [
-            "artistically",
-            "beautifully"
-        ]
-    },
-    {
-        "word": "affair",
-        "meaning": "일, 사건",
-        "synonym": [
-            "matter",
-            "event"
-        ]
-    },
-    {
-        "word": "affordable",
-        "meaning": "감당할 수 있는",
-        "synonym": [
-            "reasonable",
-            "inexpensive"
-        ]
-    },
-    {
-        "word": "agree",
-        "meaning": "동의하다",
-        "synonym": [
-            "consent",
-            "concur"
-        ]
-    },
-    {
-        "word": "agriculture",
-        "meaning": "농업",
-        "synonym": [
-            "farming",
-            "cultivation"
-        ]
-    },
-    {
-        "word": "air",
-        "meaning": "공기",
-        "synonym": [
-            "atmosphere",
-            "breeze"
-        ]
-    },
-    {
-        "word": "airtight",
-        "meaning": "밀폐된",
-        "synonym": [
-            "sealed",
-            "impermeable"
-        ]
-    },
-    {
-        "word": "allot",
-        "meaning": "할당하다",
-        "synonym": [
-            "allocate",
-            "assign"
-        ]
-    },
-    {
-        "word": "allow",
-        "meaning": "허락하다",
-        "synonym": [
-            "permit",
-            "grant"
-        ]
-    },
-    {
-        "word": "alter",
-        "meaning": "변경하다",
-        "synonym": [
-            "change",
-            "modify"
-        ]
-    },
-    {
-        "word": "amenity",
-        "meaning": "편의 시설",
-        "synonym": [
-            "facility",
-            "convenience"
-        ]
-    },
-    {
-        "word": "ancestor",
-        "meaning": "조상",
-        "synonym": [
-            "forefather",
-            "predecessor"
-        ]
-    },
-    {
-        "word": "anesthesia",
-        "meaning": "마취",
-        "synonym": [
-            "numbness",
-            "painkiller"
-        ]
-    },
-    {
-        "word": "annual",
-        "meaning": "연간의",
-        "synonym": [
-            "yearly",
-            "anniversary"
-        ]
-    },
-    {
-        "word": "apparent",
-        "meaning": "명백한",
-        "synonym": [
-            "obvious",
-            "clear"
-        ]
-    },
-    {
-        "word": "applicant",
-        "meaning": "지원자",
-        "synonym": [
-            "candidate",
-            "aspirant"
-        ]
-    },
-    {
-        "word": "apprentice",
-        "meaning": "견습생",
-        "synonym": [
-            "trainee",
-            "novice"
-        ]
-    },
-    {
-        "word": "archeological",
-        "meaning": "고고학적인",
-        "synonym": [
-            "historical",
-            "ancient"
-        ]
-    },
-    {
-        "word": "arrange",
-        "meaning": "배열하다, 주선하다",
-        "synonym": [
-            "organize",
-            "plan"
-        ]
-    },
-    {
-        "word": "arrogant",
-        "meaning": "거만한",
-        "synonym": [
-            "haughty",
-            "proud"
-        ]
-    },
-    {
-        "word": "artificial",
-        "meaning": "인공의",
-        "synonym": [
-            "synthetic",
-            "man-made"
-        ]
-    },
-    {
-        "word": "assemble",
-        "meaning": "조립하다, 모이다",
-        "synonym": [
-            "gather",
-            "put together"
-        ]
-    },
-    {
-        "word": "assess",
-        "meaning": "평가하다",
-        "synonym": [
-            "evaluate",
-            "judge"
-        ]
-    },
-    {
-        "word": "assistant",
-        "meaning": "조수",
-        "synonym": [
-            "helper",
-            "aide"
-        ]
-    },
-    {
-        "word": "associate",
-        "meaning": "연관시키다",
-        "synonym": [
-            "connect",
-            "link"
-        ]
-    },
-    {
-        "word": "assume",
-        "meaning": "가정하다, 떠맡다",
-        "synonym": [
-            "presume",
-            "undertake"
-        ]
-    },
-    {
-        "word": "astronomer",
-        "meaning": "천문학자",
-        "synonym": [
-            "stargazer",
-            "scientist"
-        ]
-    },
-    {
-        "word": "attack",
-        "meaning": "공격하다",
-        "synonym": [
-            "assault",
-            "strike"
-        ]
-    },
-    {
-        "word": "attempt",
-        "meaning": "시도하다",
-        "synonym": [
-            "try",
-            "endeavor"
-        ]
-    },
-    {
-        "word": "attention",
-        "meaning": "주의",
-        "synonym": [
-            "focus",
-            "concentration"
-        ]
-    },
-    {
-        "word": "attitude",
-        "meaning": "태도",
-        "synonym": [
-            "mindset",
-            "posture"
-        ]
-    },
-    {
-        "word": "attract",
-        "meaning": "끌다",
-        "synonym": [
-            "draw",
-            "appeal"
-        ]
-    },
-    {
-        "word": "attraction",
-        "meaning": "매력, 명소",
-        "synonym": [
-            "appeal",
-            "draw"
-        ]
-    },
-    {
-        "word": "audience",
-        "meaning": "청중",
-        "synonym": [
-            "spectators",
-            "listeners"
-        ]
-    },
-    {
-        "word": "audit",
-        "meaning": "회계 감사",
-        "synonym": [
-            "inspection",
-            "review"
-        ]
-    },
-    {
-        "word": "authority",
-        "meaning": "권위",
-        "synonym": [
-            "power",
-            "control"
-        ]
-    },
-    {
-        "word": "award",
-        "meaning": "상, 수여하다",
-        "synonym": [
-            "prize",
-            "grant"
-        ]
-    },
-    {
-        "word": "balance",
-        "meaning": "균형",
-        "synonym": [
-            "equilibrium",
-            "stability"
-        ]
-    },
-    {
-        "word": "bear",
-        "meaning": "참다, 곰",
-        "synonym": [
-            "endure",
-            "tolerate"
-        ]
-    },
-    {
-        "word": "behavioral",
-        "meaning": "행동의",
-        "synonym": [
-            "conductive",
-            "mannerly"
-        ]
-    },
-    {
-        "word": "block",
-        "meaning": "막다, 구역",
-        "synonym": [
-            "obstruct",
-            "hinder"
-        ]
-    },
-    {
-        "word": "boast",
-        "meaning": "자랑하다",
-        "synonym": [
-            "brag",
-            "show off"
-        ]
-    },
-    {
-        "word": "bold",
-        "meaning": "대담한",
-        "synonym": [
-            "brave",
-            "daring"
-        ]
-    },
-    {
-        "word": "boost",
-        "meaning": "상승시키다",
-        "synonym": [
-            "increase",
-            "enhance"
-        ]
-    },
-    {
-        "word": "breakdown",
-        "meaning": "고장, 붕괴",
-        "synonym": [
-            "failure",
-            "collapse"
-        ]
-    },
-    {
-        "word": "bribe",
-        "meaning": "뇌물",
-        "synonym": [
-            "inducement",
-            "payoff"
-        ]
-    },
-    {
-        "word": "bundle",
-        "meaning": "묶음",
-        "synonym": [
-            "bunch",
-            "package"
-        ]
-    },
-    {
-        "word": "candidate",
-        "meaning": "후보자",
-        "synonym": [
-            "applicant",
-            "nominee"
-        ]
-    },
-    {
-        "word": "cease",
-        "meaning": "멈추다",
-        "synonym": [
-            "stop",
-            "halt"
-        ]
-    },
-    {
-        "word": "chain",
-        "meaning": "사슬, 연쇄",
-        "synonym": [
-            "series",
-            "link"
-        ]
-    },
-    {
-        "word": "charity",
-        "meaning": "자선 단체",
-        "synonym": [
-            "donation",
-            "fund"
-        ]
-    },
-    {
-        "word": "chemical",
-        "meaning": "화학의",
-        "synonym": [
-            "synthetic",
-            "substance"
-        ]
-    },
-    {
-        "word": "circular",
-        "meaning": "원형의",
-        "synonym": [
-            "round",
-            "spherical"
-        ]
-    },
-    {
-        "word": "cite",
-        "meaning": "인용하다",
-        "synonym": [
-            "quote",
-            "refer"
-        ]
-    },
-    {
-        "word": "citizen",
-        "meaning": "시민",
-        "synonym": [
-            "resident",
-            "inhabitant"
-        ]
-    },
-    {
-        "word": "client",
-        "meaning": "고객",
-        "synonym": [
-            "customer",
-            "patron"
-        ]
-    },
-    {
-        "word": "climate",
-        "meaning": "기후",
-        "synonym": [
-            "weather",
-            "atmosphere"
-        ]
-    },
-    {
-        "word": "cluster",
-        "meaning": "무리",
-        "synonym": [
-            "bunch",
-            "group"
-        ]
-    },
-    {
-        "word": "collaborate",
-        "meaning": "협력하다",
-        "synonym": [
-            "cooperate",
-            "work together"
-        ]
-    },
-    {
-        "word": "commission",
-        "meaning": "위원회, 수수료",
-        "synonym": [
-            "committee",
-            "fee"
-        ]
-    },
-    {
-        "word": "commonly",
-        "meaning": "흔히",
-        "synonym": [
-            "generally",
-            "usually"
-        ]
-    },
-    {
-        "word": "communicate",
-        "meaning": "의사소통하다",
-        "synonym": [
-            "interact",
-            "convey"
-        ]
-    },
-    {
-        "word": "compel",
-        "meaning": "강요하다",
-        "synonym": [
-            "force",
-            "oblige"
-        ]
-    },
-    {
-        "word": "competitive",
-        "meaning": "경쟁적인",
-        "synonym": [
-            "rival",
-            "ambitious"
-        ]
-    },
-    {
-        "word": "complaint",
-        "meaning": "불평",
-        "synonym": [
-            "grievance",
-            "objection"
-        ]
-    },
-    {
-        "word": "complement",
-        "meaning": "보완하다",
-        "synonym": [
-            "supplement",
-            "complete"
-        ]
-    },
-    {
-        "word": "complete",
-        "meaning": "완료하다",
-        "synonym": [
-            "finish",
-            "conclude"
-        ]
-    },
-    {
-        "word": "conclusion",
-        "meaning": "결론",
-        "synonym": [
-            "end",
-            "result"
-        ]
-    },
-    {
-        "word": "condition",
-        "meaning": "조건, 상태",
-        "synonym": [
-            "state",
-            "situation"
-        ]
-    },
-    {
-        "word": "confident",
-        "meaning": "자신 있는",
-        "synonym": [
-            "sure",
-            "certain"
-        ]
-    },
-    {
-        "word": "confuse",
-        "meaning": "혼동하다",
-        "synonym": [
-            "baffle",
-            "puzzle"
-        ]
-    },
-    {
-        "word": "congregate",
-        "meaning": "모이다",
-        "synonym": [
-            "gather",
-            "assemble"
-        ]
-    },
-    {
-        "word": "consideration",
-        "meaning": "고려",
-        "synonym": [
-            "thought",
-            "deliberation"
-        ]
-    },
-    {
-        "word": "constellation",
-        "meaning": "별자리",
-        "synonym": [
-            "group",
-            "cluster"
-        ]
-    },
-    {
-        "word": "contact",
-        "meaning": "접촉",
-        "synonym": [
-            "connection",
-            "touch"
-        ]
-    },
-    {
-        "word": "continuous",
-        "meaning": "계속되는",
-        "synonym": [
-            "ongoing",
-            "uninterrupted"
-        ]
-    },
-    {
-        "word": "contribute",
-        "meaning": "기여하다",
-        "synonym": [
-            "donate",
-            "provide"
-        ]
-    },
-    {
-        "word": "controversial",
-        "meaning": "논란이 되는",
-        "synonym": [
-            "disputed",
-            "debatable"
-        ]
-    },
-    {
-        "word": "convey",
-        "meaning": "전달하다",
-        "synonym": [
-            "transmit",
-            "communicate"
-        ]
-    },
-    {
-        "word": "convince",
-        "meaning": "설득하다",
-        "synonym": [
-            "persuade",
-            "assure"
-        ]
-    },
-    {
-        "word": "coordinate",
-        "meaning": "조정하다",
-        "synonym": [
-            "organize",
-            "arrange"
-        ]
-    },
-    {
-        "word": "corporate",
-        "meaning": "기업의",
-        "synonym": [
-            "business",
-            "company"
-        ]
-    },
-    {
-        "word": "criminal",
-        "meaning": "범죄자",
-        "synonym": [
-            "offender",
-            "culprit"
-        ]
-    },
-    {
-        "word": "critic",
-        "meaning": "비평가",
-        "synonym": [
-            "reviewer",
-            "judge"
-        ]
-    },
-    {
-        "word": "criticize",
-        "meaning": "비판하다",
-        "synonym": [
-            "blame",
-            "condemn"
-        ]
-    },
-    {
-        "word": "decide",
-        "meaning": "결정하다",
-        "synonym": [
-            "determine",
-            "resolve"
-        ]
-    },
-    {
-        "word": "dedication",
-        "meaning": "헌신",
-        "synonym": [
-            "commitment",
-            "devotion"
-        ]
-    },
-    {
-        "word": "defect",
-        "meaning": "결함",
-        "synonym": [
-            "flaw",
-            "fault"
-        ]
-    },
-    {
-        "word": "degree",
-        "meaning": "정도, 학위",
-        "synonym": [
-            "level",
-            "diploma"
-        ]
-    },
-    {
-        "word": "deliver",
-        "meaning": "배달하다",
-        "synonym": [
-            "transport",
-            "bring"
-        ]
-    },
-    {
-        "word": "demise",
-        "meaning": "사망, 종말",
-        "synonym": [
-            "death",
-            "end"
-        ]
-    },
-    {
-        "word": "demonstrate",
-        "meaning": "증명하다, 시위하다",
-        "synonym": [
-            "show",
-            "prove"
-        ]
-    },
-    {
-        "word": "department",
-        "meaning": "부서",
-        "synonym": [
-            "division",
-            "section"
-        ]
-    },
-    {
-        "word": "derive",
-        "meaning": "끌어내다",
-        "synonym": [
-            "obtain",
-            "extract"
-        ]
-    },
-    {
-        "word": "describe",
-        "meaning": "설명하다",
-        "synonym": [
-            "explain",
-            "detail"
-        ]
-    },
-    {
-        "word": "deter",
-        "meaning": "단념시키다",
-        "synonym": [
-            "discourage",
-            "prevent"
-        ]
-    },
-    {
-        "word": "determined",
-        "meaning": "단호한",
-        "synonym": [
-            "resolute",
-            "decided"
-        ]
-    },
-    {
-        "word": "develop",
-        "meaning": "개발하다",
-        "synonym": [
-            "grow",
-            "advance"
-        ]
-    },
-    {
-        "word": "dictate",
-        "meaning": "받아쓰게 하다, 지시하다",
-        "synonym": [
-            "command",
-            "order"
-        ]
-    },
-    {
-        "word": "difference",
-        "meaning": "차이",
-        "synonym": [
-            "distinction",
-            "disparity"
-        ]
-    },
-    {
-        "word": "diminish",
-        "meaning": "감소하다",
-        "synonym": [
-            "reduce",
-            "decrease"
-        ]
-    },
-    {
-        "word": "disappearance",
-        "meaning": "사라짐",
-        "synonym": [
-            "vanishing",
-            "fading"
-        ]
-    },
-    {
-        "word": "disaster",
-        "meaning": "재난",
-        "synonym": [
-            "catastrophe",
-            "tragedy"
-        ]
-    },
-    {
-        "word": "discrepancy",
-        "meaning": "불일치",
-        "synonym": [
-            "difference",
-            "inconsistency"
-        ]
-    },
-    {
-        "word": "display",
-        "meaning": "전시하다",
-        "synonym": [
-            "show",
-            "exhibit"
-        ]
-    },
-    {
-        "word": "disregard",
-        "meaning": "무시하다",
-        "synonym": [
-            "ignore",
-            "neglect"
-        ]
-    },
-    {
-        "word": "disruptive",
-        "meaning": "지장을 주는",
-        "synonym": [
-            "disturbing",
-            "troublesome"
-        ]
-    },
-    {
-        "word": "dissolve",
-        "meaning": "녹이다, 해산하다",
-        "synonym": [
-            "melt",
-            "disband"
-        ]
-    },
-    {
-        "word": "distinct",
-        "meaning": "뚜렷한",
-        "synonym": [
-            "clear",
-            "obvious"
-        ]
-    },
-    {
-        "word": "distribute",
-        "meaning": "분배하다",
-        "synonym": [
-            "allocate",
-            "hand out"
-        ]
-    },
-    {
-        "word": "diverse",
-        "meaning": "다양한",
-        "synonym": [
-            "various",
-            "different"
-        ]
-    },
-    {
-        "word": "divide",
-        "meaning": "나누다",
-        "synonym": [
-            "separate",
-            "split"
-        ]
-    },
-    {
-        "word": "division",
-        "meaning": "분할, 부서",
-        "synonym": [
-            "separation",
-            "department"
-        ]
-    },
-    {
-        "word": "dominate",
-        "meaning": "지배하다",
-        "synonym": [
-            "control",
-            "rule"
-        ]
-    },
-    {
-        "word": "doubt",
-        "meaning": "의심하다",
-        "synonym": [
-            "question",
-            "suspect"
-        ]
-    },
-    {
-        "word": "drain",
-        "meaning": "물기를 빼다",
-        "synonym": [
-            "empty",
-            "exhaust"
-        ]
-    },
-    {
-        "word": "due",
-        "meaning": "~할 예정인, 기한이 된",
-        "synonym": [
-            "expected",
-            "scheduled"
-        ]
-    },
-    {
-        "word": "eagerness",
-        "meaning": "열망",
-        "synonym": [
-            "enthusiasm",
-            "desire"
-        ]
-    },
-    {
-        "word": "editorial",
-        "meaning": "사설",
-        "synonym": [
-            "article",
-            "commentary"
-        ]
-    },
-    {
-        "word": "effective",
-        "meaning": "효과적인",
-        "synonym": [
-            "efficient",
-            "productive"
-        ]
-    },
-    {
-        "word": "effort",
-        "meaning": "노력",
-        "synonym": [
-            "attempt",
-            "endeavor"
-        ]
-    },
-    {
-        "word": "electricity",
-        "meaning": "전기",
-        "synonym": [
-            "power",
-            "energy"
-        ]
-    },
-    {
-        "word": "elevate",
-        "meaning": "올리다",
-        "synonym": [
-            "raise",
-            "lift"
-        ]
-    },
-    {
-        "word": "emergency",
-        "meaning": "응급 상황",
-        "synonym": [
-            "crisis",
-            "urgency"
-        ]
-    },
-    {
-        "word": "emphasis",
-        "meaning": "강조",
-        "synonym": [
-            "stress",
-            "importance"
-        ]
-    },
-    {
-        "word": "employ",
-        "meaning": "고용하다",
-        "synonym": [
-            "hire",
-            "recruit"
-        ]
-    },
-    {
-        "word": "enclose",
-        "meaning": "동봉하다, 에워싸다",
-        "synonym": [
-            "include",
-            "surround"
-        ]
-    },
-    {
-        "word": "endure",
-        "meaning": "견디다",
-        "synonym": [
-            "bear",
-            "tolerate"
-        ]
-    },
-    {
-        "word": "engaged",
-        "meaning": "약혼한, 바쁜",
-        "synonym": [
-            "occupied",
-            "committed"
-        ]
-    },
-    {
-        "word": "enlarge",
-        "meaning": "확대하다",
-        "synonym": [
-            "expand",
-            "increase"
-        ]
-    },
-    {
-        "word": "enrage",
-        "meaning": "격분하게 하다",
-        "synonym": [
-            "anger",
-            "infuriate"
-        ]
-    },
-    {
-        "word": "entertain",
-        "meaning": "즐겁게 하다",
-        "synonym": [
-            "amuse",
-            "delight"
-        ]
-    },
-    {
-        "word": "enthusiast",
-        "meaning": "열광적인 팬",
-        "synonym": [
-            "fan",
-            "supporter"
-        ]
-    },
-    {
-        "word": "entrepreneur",
-        "meaning": "기업가",
-        "synonym": [
-            "businessman",
-            "founder"
-        ]
-    },
-    {
-        "word": "entry",
-        "meaning": "입장, 출품작",
-        "synonym": [
-            "admission",
-            "submission"
-        ]
-    },
-    {
-        "word": "environment",
-        "meaning": "환경",
-        "synonym": [
-            "surroundings",
-            "nature"
-        ]
-    },
-    {
-        "word": "escape",
-        "meaning": "탈출하다",
-        "synonym": [
-            "flee",
-            "get away"
-        ]
-    },
-    {
-        "word": "especially",
-        "meaning": "특히",
-        "synonym": [
-            "particularly",
-            "notably"
-        ]
-    },
-    {
-        "word": "evacuate",
-        "meaning": "대피시키다",
-        "synonym": [
-            "clear",
-            "empty"
-        ]
-    },
-    {
-        "word": "evaporate",
-        "meaning": "증발하다",
-        "synonym": [
-            "vaporize",
-            "dry up"
-        ]
-    },
-    {
-        "word": "eventually",
-        "meaning": "결국",
-        "synonym": [
-            "finally",
-            "ultimately"
-        ]
-    },
-    {
-        "word": "evidence",
-        "meaning": "증거",
-        "synonym": [
-            "proof",
-            "indication"
-        ]
-    },
-    {
-        "word": "exclusive",
-        "meaning": "독점적인",
-        "synonym": [
-            "sole",
-            "private"
-        ]
-    },
-    {
-        "word": "excuse",
-        "meaning": "변명, 용서하다",
-        "synonym": [
-            "apology",
-            "forgive"
-        ]
-    },
-    {
-        "word": "executive",
-        "meaning": "임원, 경영진",
-        "synonym": [
-            "manager",
-            "director"
-        ]
-    },
-    {
-        "word": "exhibit",
-        "meaning": "전시하다",
-        "synonym": [
-            "display",
-            "show"
-        ]
-    },
-    {
-        "word": "existence",
-        "meaning": "존재",
-        "synonym": [
-            "being",
-            "presence"
-        ]
-    },
-    {
-        "word": "expansion",
-        "meaning": "확장",
-        "synonym": [
-            "growth",
-            "enlargement"
-        ]
-    },
-    {
-        "word": "expect",
-        "meaning": "기대하다",
-        "synonym": [
-            "anticipate",
-            "await"
-        ]
-    },
-    {
-        "word": "experiment",
-        "meaning": "실험",
-        "synonym": [
-            "test",
-            "trial"
-        ]
-    },
-    {
-        "word": "expertise",
-        "meaning": "전문 지식",
-        "synonym": [
-            "skill",
-            "knowledge"
-        ]
-    },
-    {
-        "word": "explorer",
-        "meaning": "탐험가",
-        "synonym": [
-            "adventurer",
-            "traveler"
-        ]
-    },
-    {
-        "word": "extend",
-        "meaning": "연장하다",
-        "synonym": [
-            "prolong",
-            "stretch"
-        ]
-    },
-    {
-        "word": "extensive",
-        "meaning": "광범위한",
-        "synonym": [
-            "broad",
-            "widespread"
-        ]
-    },
-    {
-        "word": "extent",
-        "meaning": "정도, 규모",
-        "synonym": [
-            "degree",
-            "scope"
-        ]
-    },
-    {
-        "word": "extinct",
-        "meaning": "멸종된",
-        "synonym": [
-            "vanished",
-            "dead"
-        ]
-    },
-    {
-        "word": "face",
-        "meaning": "직면하다",
-        "synonym": [
-            "confront",
-            "encounter"
-        ]
-    },
-    {
-        "word": "facility",
-        "meaning": "시설",
-        "synonym": [
-            "amenity",
-            "building"
-        ]
-    },
-    {
-        "word": "factor",
-        "meaning": "요인",
-        "synonym": [
-            "element",
-            "cause"
-        ]
-    },
-    {
-        "word": "fascinate",
-        "meaning": "매혹하다",
-        "synonym": [
-            "captivate",
-            "attract"
-        ]
-    },
-    {
-        "word": "feature",
-        "meaning": "특징",
-        "synonym": [
-            "characteristic",
-            "trait"
-        ]
-    },
-    {
-        "word": "figure",
-        "meaning": "수치, 인물",
-        "synonym": [
-            "number",
-            "person"
-        ]
-    },
-    {
-        "word": "finance",
-        "meaning": "재정",
-        "synonym": [
-            "funding",
-            "economics"
-        ]
-    },
-    {
-        "word": "finding",
-        "meaning": "발견",
-        "synonym": [
-            "discovery",
-            "result"
-        ]
-    },
-    {
-        "word": "firm",
-        "meaning": "확고한, 회사",
-        "synonym": [
-            "solid",
-            "company"
-        ]
-    },
-    {
-        "word": "flame",
-        "meaning": "불꽃",
-        "synonym": [
-            "fire",
-            "blaze"
-        ]
-    },
-    {
-        "word": "flavor",
-        "meaning": "맛",
-        "synonym": [
-            "taste",
-            "savor"
-        ]
-    },
-    {
-        "word": "flexibility",
-        "meaning": "유연성",
-        "synonym": [
-            "adaptability",
-            "elasticity"
-        ]
-    },
-    {
-        "word": "flirt",
-        "meaning": "추파를 던지다",
-        "synonym": [
-            "tease",
-            "play"
-        ]
-    },
-    {
-        "word": "fondness",
-        "meaning": "애정",
-        "synonym": [
-            "affection",
-            "liking"
-        ]
-    },
-    {
-        "word": "foster",
-        "meaning": "육성하다",
-        "synonym": [
-            "encourage",
-            "promote"
-        ]
-    },
-    {
-        "word": "found",
-        "meaning": "설립하다",
-        "synonym": [
-            "establish",
-            "create"
-        ]
-    },
-    {
-        "word": "fraud",
-        "meaning": "사기",
-        "synonym": [
-            "deceit",
-            "scam"
-        ]
-    },
-    {
-        "word": "freight",
-        "meaning": "화물",
-        "synonym": [
-            "cargo",
-            "shipment"
-        ]
-    },
-    {
-        "word": "fruitful",
-        "meaning": "결실 있는",
-        "synonym": [
-            "productive",
-            "profitable"
-        ]
-    },
-    {
-        "word": "fulfill",
-        "meaning": "성취하다",
-        "synonym": [
-            "accomplish",
-            "achieve"
-        ]
-    },
-    {
-        "word": "fund",
-        "meaning": "자금",
-        "synonym": [
-            "money",
-            "capital"
-        ]
-    },
-    {
-        "word": "further",
-        "meaning": "더 이상의",
-        "synonym": [
-            "additional",
-            "more"
-        ]
-    },
-    {
-        "word": "genuine",
-        "meaning": "진짜의",
-        "synonym": [
-            "real",
-            "authentic"
-        ]
-    },
-    {
-        "word": "government",
-        "meaning": "정부",
-        "synonym": [
-            "administration",
-            "authority"
-        ]
-    },
-    {
-        "word": "graduate",
-        "meaning": "졸업하다",
-        "synonym": [
-            "complete",
-            "finish"
-        ]
-    },
-    {
-        "word": "greatly",
-        "meaning": "크게",
-        "synonym": [
-            "highly",
-            "immensely"
-        ]
-    },
-    {
-        "word": "guilty",
-        "meaning": "유죄의",
-        "synonym": [
-            "culpable",
-            "responsible"
-        ]
-    },
-    {
-        "word": "head",
-        "meaning": "향하다, 우두머리",
-        "synonym": [
-            "lead",
-            "chief"
-        ]
-    },
-    {
-        "word": "hemisphere",
-        "meaning": "반구",
-        "synonym": [
-            "half",
-            "section"
-        ]
-    },
-    {
-        "word": "hike",
-        "meaning": "하이킹하다, 인상하다",
-        "synonym": [
-            "walk",
-            "increase"
-        ]
-    },
-    {
-        "word": "hire",
-        "meaning": "고용하다",
-        "synonym": [
-            "employ",
-            "recruit"
-        ]
-    },
-    {
-        "word": "hollow",
-        "meaning": "속이 빈",
-        "synonym": [
-            "empty",
-            "vacant"
-        ]
-    },
-    {
-        "word": "honor",
-        "meaning": "명예",
-        "synonym": [
-            "respect",
-            "glory"
-        ]
-    },
-    {
-        "word": "horizontal",
-        "meaning": "수평의",
-        "synonym": [
-            "level",
-            "flat"
-        ]
-    },
-    {
-        "word": "immigrant",
-        "meaning": "이민자",
-        "synonym": [
-            "settler",
-            "newcomer"
-        ]
-    },
-    {
-        "word": "implement",
-        "meaning": "실행하다",
-        "synonym": [
-            "execute",
-            "apply"
-        ]
-    },
-    {
-        "word": "impress",
-        "meaning": "깊은 인상을 주다",
-        "synonym": [
-            "affect",
-            "influence"
-        ]
-    },
-    {
-        "word": "inability",
-        "meaning": "무능력",
-        "synonym": [
-            "incapacity",
-            "failure"
-        ]
-    },
-    {
-        "word": "inclined",
-        "meaning": "~하는 경향이 있는",
-        "synonym": [
-            "prone",
-            "tending"
-        ]
-    },
-    {
-        "word": "independent",
-        "meaning": "독립적인",
-        "synonym": [
-            "free",
-            "autonomous"
-        ]
-    },
-    {
-        "word": "indicate",
-        "meaning": "나타내다",
-        "synonym": [
-            "show",
-            "point out"
-        ]
-    },
-    {
-        "word": "individual",
-        "meaning": "개인",
-        "synonym": [
-            "person",
-            "single"
-        ]
-    },
-    {
-        "word": "industry",
-        "meaning": "산업",
-        "synonym": [
-            "business",
-            "trade"
-        ]
-    },
-    {
-        "word": "inflate",
-        "meaning": "부풀리다",
-        "synonym": [
-            "expand",
-            "blow up"
-        ]
-    },
-    {
-        "word": "influence",
-        "meaning": "영향",
-        "synonym": [
-            "impact",
-            "effect"
-        ]
-    },
-    {
-        "word": "inform",
-        "meaning": "알리다",
-        "synonym": [
-            "notify",
-            "tell"
-        ]
-    },
-    {
-        "word": "infrared",
-        "meaning": "적외선의",
-        "synonym": [
-            "light",
-            "spectrum"
-        ]
-    },
-    {
-        "word": "inhale",
-        "meaning": "숨을 들이쉬다",
-        "synonym": [
-            "breathe in",
-            "gasp"
-        ]
-    },
-    {
-        "word": "inhibit",
-        "meaning": "억제하다",
-        "synonym": [
-            "prevent",
-            "restrict"
-        ]
-    },
-    {
-        "word": "initially",
-        "meaning": "처음에",
-        "synonym": [
-            "originally",
-            "first"
-        ]
-    },
-    {
-        "word": "inquiry",
-        "meaning": "질문, 조사",
-        "synonym": [
-            "question",
-            "investigation"
-        ]
-    },
-    {
-        "word": "inspire",
-        "meaning": "영감을 주다",
-        "synonym": [
-            "encourage",
-            "motivate"
-        ]
-    },
-    {
-        "word": "instant",
-        "meaning": "즉각적인",
-        "synonym": [
-            "immediate",
-            "prompt"
-        ]
-    },
-    {
-        "word": "instruct",
-        "meaning": "지시하다",
-        "synonym": [
-            "teach",
-            "direct"
-        ]
-    },
-    {
-        "word": "intelligent",
-        "meaning": "지능적인",
-        "synonym": [
-            "smart",
-            "clever"
-        ]
-    },
-    {
-        "word": "intense",
-        "meaning": "강렬한",
-        "synonym": [
-            "extreme",
-            "severe"
-        ]
-    },
-    {
-        "word": "intent",
-        "meaning": "의도",
-        "synonym": [
-            "purpose",
-            "aim"
-        ]
-    },
-    {
-        "word": "invent",
-        "meaning": "발명하다",
-        "synonym": [
-            "create",
-            "discover"
-        ]
-    },
-    {
-        "word": "invest",
-        "meaning": "투자하다",
-        "synonym": [
-            "fund",
-            "spend"
-        ]
-    },
-    {
-        "word": "investigation",
-        "meaning": "조사",
-        "synonym": [
-            "examination",
-            "study"
-        ]
-    },
-    {
-        "word": "invite",
-        "meaning": "초대하다",
-        "synonym": [
-            "ask",
-            "request"
-        ]
-    },
-    {
-        "word": "invoice",
-        "meaning": "청구서",
-        "synonym": [
-            "bill",
-            "statement"
-        ]
-    },
-    {
-        "word": "involve",
-        "meaning": "포함하다",
-        "synonym": [
-            "include",
-            "entail"
-        ]
-    },
-    {
-        "word": "isolation",
-        "meaning": "고립",
-        "synonym": [
-            "separation",
-            "seclusion"
-        ]
-    },
-    {
-        "word": "issue",
-        "meaning": "문제, 발행하다",
-        "synonym": [
-            "problem",
-            "publish"
-        ]
-    },
-    {
-        "word": "juvenile",
-        "meaning": "청소년의",
-        "synonym": [
-            "young",
-            "adolescent"
-        ]
-    },
-    {
-        "word": "knowledge",
-        "meaning": "지식",
-        "synonym": [
-            "understanding",
-            "information"
-        ]
-    },
-    {
-        "word": "labor",
-        "meaning": "노동",
-        "synonym": [
-            "work",
-            "effort"
-        ]
-    },
-    {
-        "word": "lack",
-        "meaning": "부족",
-        "synonym": [
-            "shortage",
-            "deficiency"
-        ]
-    },
-    {
-        "word": "last",
-        "meaning": "마지막의, 지속되다",
-        "synonym": [
-            "final",
-            "continue"
-        ]
-    },
-    {
-        "word": "lean",
-        "meaning": "기대다",
-        "synonym": [
-            "bend",
-            "rest"
-        ]
-    },
-    {
-        "word": "length",
-        "meaning": "길이",
-        "synonym": [
-            "distance",
-            "extent"
-        ]
-    },
-    {
-        "word": "likewise",
-        "meaning": "마찬가지로",
-        "synonym": [
-            "similarly",
-            "also"
-        ]
-    },
-    {
-        "word": "limited",
-        "meaning": "제한된",
-        "synonym": [
-            "restricted",
-            "bounded"
-        ]
-    },
-    {
-        "word": "linguist",
-        "meaning": "언어학자",
-        "synonym": [
-            "language expert",
-            "translator"
-        ]
-    },
-    {
-        "word": "literature",
-        "meaning": "문학",
-        "synonym": [
-            "writings",
-            "books"
-        ]
-    },
-    {
-        "word": "maintain",
-        "meaning": "유지하다",
-        "synonym": [
-            "keep",
-            "preserve"
-        ]
-    },
-    {
-        "word": "major",
-        "meaning": "주요한",
-        "synonym": [
-            "main",
-            "chief"
-        ]
-    },
-    {
-        "word": "mammal",
-        "meaning": "포유류",
-        "synonym": [
-            "animal",
-            "creature"
-        ]
-    },
-    {
-        "word": "management",
-        "meaning": "관리",
-        "synonym": [
-            "administration",
-            "control"
-        ]
-    },
-    {
-        "word": "mansion",
-        "meaning": "저택",
-        "synonym": [
-            "estate",
-            "villa"
-        ]
-    },
-    {
-        "word": "manufacture",
-        "meaning": "제조하다",
-        "synonym": [
-            "produce",
-            "make"
-        ]
-    },
-    {
-        "word": "manuscript",
-        "meaning": "원고",
-        "synonym": [
-            "document",
-            "text"
-        ]
-    },
-    {
-        "word": "mark",
-        "meaning": "표시하다",
-        "synonym": [
-            "sign",
-            "symbol"
-        ]
-    },
-    {
-        "word": "mass",
-        "meaning": "질량, 대중",
-        "synonym": [
-            "bulk",
-            "crowd"
-        ]
-    },
-    {
-        "word": "means",
-        "meaning": "수단",
-        "synonym": [
-            "method",
-            "way"
-        ]
-    },
-    {
-        "word": "mention",
-        "meaning": "언급하다",
-        "synonym": [
-            "state",
-            "remark"
-        ]
-    },
-    {
-        "word": "merge",
-        "meaning": "합병하다",
-        "synonym": [
-            "combine",
-            "unite"
-        ]
-    },
-    {
-        "word": "method",
-        "meaning": "방법",
-        "synonym": [
-            "process",
-            "technique"
-        ]
-    },
-    {
-        "word": "military",
-        "meaning": "군대의",
-        "synonym": [
-            "armed",
-            "martial"
-        ]
-    },
-    {
-        "word": "millionaire",
-        "meaning": "백만장자",
-        "synonym": [
-            "rich person",
-            "wealthy"
-        ]
-    },
-    {
-        "word": "modify",
-        "meaning": "수정하다",
-        "synonym": [
-            "change",
-            "alter"
-        ]
-    },
-    {
-        "word": "molecule",
-        "meaning": "분자",
-        "synonym": [
-            "particle",
-            "atom"
-        ]
-    },
-    {
-        "word": "morality",
-        "meaning": "도덕성",
-        "synonym": [
-            "ethics",
-            "virtue"
-        ]
-    },
-    {
-        "word": "movement",
-        "meaning": "움직임",
-        "synonym": [
-            "motion",
-            "activity"
-        ]
-    },
-    {
-        "word": "multiple",
-        "meaning": "다수의",
-        "synonym": [
-            "many",
-            "various"
-        ]
-    },
-    {
-        "word": "muscle",
-        "meaning": "근육",
-        "synonym": [
-            "strength",
-            "power"
-        ]
-    },
-    {
-        "word": "mythology",
-        "meaning": "신화",
-        "synonym": [
-            "legend",
-            "lore"
-        ]
-    },
-    {
-        "word": "nature",
-        "meaning": "자연, 본성",
-        "synonym": [
-            "environment",
-            "character"
-        ]
-    },
-    {
-        "word": "nerve",
-        "meaning": "신경",
-        "synonym": [
-            "fiber",
-            "courage"
-        ]
-    },
-    {
-        "word": "nitrogen",
-        "meaning": "질소",
-        "synonym": [
-            "gas",
-            "element"
-        ]
-    },
-    {
-        "word": "nomination",
-        "meaning": "지명",
-        "synonym": [
-            "appointment",
-            "selection"
-        ]
-    },
-    {
-        "word": "notice",
-        "meaning": "알아차리다",
-        "synonym": [
-            "observe",
-            "perceive"
-        ]
-    },
-    {
-        "word": "numerous",
-        "meaning": "수많은",
-        "synonym": [
-            "many",
-            "abundant"
-        ]
-    },
-    {
-        "word": "nurse",
-        "meaning": "간호사, 돌보다",
-        "synonym": [
-            "caregiver",
-            "tend"
-        ]
-    },
-    {
-        "word": "nutrition",
-        "meaning": "영양",
-        "synonym": [
-            "nourishment",
-            "diet"
-        ]
-    },
-    {
-        "word": "observe",
-        "meaning": "관찰하다",
-        "synonym": [
-            "watch",
-            "monitor"
-        ]
-    },
-    {
-        "word": "obsess",
-        "meaning": "집착하게 하다",
-        "synonym": [
-            "preoccupy",
-            "fixate"
-        ]
-    },
-    {
-        "word": "occur",
-        "meaning": "발생하다",
-        "synonym": [
-            "happen",
-            "take place"
-        ]
-    },
-    {
-        "word": "opaque",
-        "meaning": "불투명한",
-        "synonym": [
-            "cloudy",
-            "unclear"
-        ]
-    },
-    {
-        "word": "opportunity",
-        "meaning": "기회",
-        "synonym": [
-            "chance",
-            "moment"
-        ]
-    },
-    {
-        "word": "order",
-        "meaning": "명령, 순서",
-        "synonym": [
-            "command",
-            "sequence"
-        ]
-    },
-    {
-        "word": "ordinary",
-        "meaning": "평범한",
-        "synonym": [
-            "normal",
-            "usual"
-        ]
-    },
-    {
-        "word": "organize",
-        "meaning": "조직하다",
-        "synonym": [
-            "arrange",
-            "structure"
-        ]
-    },
-    {
-        "word": "original",
-        "meaning": "원래의",
-        "synonym": [
-            "initial",
-            "authentic"
-        ]
-    },
-    {
-        "word": "originate",
-        "meaning": "유래하다",
-        "synonym": [
-            "begin",
-            "start"
-        ]
-    },
-    {
-        "word": "outbreak",
-        "meaning": "발발",
-        "synonym": [
-            "eruption",
-            "burst"
-        ]
-    },
-    {
-        "word": "overconfident",
-        "meaning": "지나치게 자신하는",
-        "synonym": [
-            "cocky",
-            "arrogant"
-        ]
-    },
-    {
-        "word": "overlook",
-        "meaning": "간과하다",
-        "synonym": [
-            "ignore",
-            "miss"
-        ]
-    },
-    {
-        "word": "oversee",
-        "meaning": "감독하다",
-        "synonym": [
-            "supervise",
-            "manage"
-        ]
-    },
-    {
-        "word": "oxygen",
-        "meaning": "산소",
-        "synonym": [
-            "air",
-            "gas"
-        ]
-    },
-    {
-        "word": "participant",
-        "meaning": "참가자",
-        "synonym": [
-            "member",
-            "attendee"
-        ]
-    },
-    {
-        "word": "passionate",
-        "meaning": "열정적인",
-        "synonym": [
-            "enthusiastic",
-            "eager"
-        ]
-    },
-    {
-        "word": "patent",
-        "meaning": "특허",
-        "synonym": [
-            "copyright",
-            "license"
-        ]
-    },
-    {
-        "word": "pedestrian",
-        "meaning": "보행자",
-        "synonym": [
-            "walker",
-            "stroller"
-        ]
-    },
-    {
-        "word": "perform",
-        "meaning": "수행하다",
-        "synonym": [
-            "execute",
-            "do"
-        ]
-    },
-    {
-        "word": "perk",
-        "meaning": "특전",
-        "synonym": [
-            "benefit",
-            "bonus"
-        ]
-    },
-    {
-        "word": "permit",
-        "meaning": "허가하다",
-        "synonym": [
-            "allow",
-            "grant"
-        ]
-    },
-    {
-        "word": "personalize",
-        "meaning": "개인화하다",
-        "synonym": [
-            "customize",
-            "individualize"
-        ]
-    },
-    {
-        "word": "phenomenon",
-        "meaning": "현상",
-        "synonym": [
-            "occurrence",
-            "event"
-        ]
-    },
-    {
-        "word": "negotiate",
-        "meaning": "협상하다",
-        "synonym": [
-            "bargain",
-            "discuss"
-        ]
-    },
-    {
-        "word": "neighborhood",
-        "meaning": "이웃, 동네",
-        "synonym": [
-            "community",
-            "vicinity"
-        ]
-    },
-    {
-        "word": "obedient",
-        "meaning": "순종적인",
-        "synonym": [
-            "compliant",
-            "docile"
-        ]
-    },
-    {
-        "word": "obviously",
-        "meaning": "분명히",
-        "synonym": [
-            "clearly",
-            "evidently"
-        ]
-    },
-    {
-        "word": "occasion",
-        "meaning": "경우, 행사",
-        "synonym": [
-            "event",
-            "opportunity"
-        ]
-    },
-    {
-        "word": "offensive",
-        "meaning": "불쾌한",
-        "synonym": [
-            "insulting",
-            "rude"
-        ]
-    },
-    {
-        "word": "offer",
-        "meaning": "제공하다",
-        "synonym": [
-            "provide",
-            "propose"
-        ]
-    },
-    {
-        "word": "offset",
-        "meaning": "상쇄하다",
-        "synonym": [
-            "balance",
-            "counteract"
-        ]
-    },
-    {
-        "word": "operate",
-        "meaning": "작동하다",
-        "synonym": [
-            "run",
-            "function"
-        ]
-    },
-    {
-        "word": "opinion",
-        "meaning": "의견",
-        "synonym": [
-            "view",
-            "belief"
-        ]
-    },
-    {
-        "word": "organic",
-        "meaning": "유기농의",
-        "synonym": [
-            "natural",
-            "biological"
-        ]
-    },
-    {
-        "word": "organized",
-        "meaning": "조직화된",
-        "synonym": [
-            "arranged",
-            "structured"
-        ]
-    },
-    {
-        "word": "otherwise",
-        "meaning": "그렇지 않으면",
-        "synonym": [
-            "or else",
-            "differently"
-        ]
-    },
-    {
-        "word": "outcome",
-        "meaning": "결과",
-        "synonym": [
-            "result",
-            "consequence"
-        ]
-    },
-    {
-        "word": "outlet",
-        "meaning": "할인점, 배출구",
-        "synonym": [
-            "store",
-            "vent"
-        ]
-    },
-    {
-        "word": "outstanding",
-        "meaning": "뛰어난",
-        "synonym": [
-            "excellent",
-            "remarkable"
-        ]
-    },
-    {
-        "word": "overrun",
-        "meaning": "초과하다",
-        "synonym": [
-            "exceed",
-            "invade"
-        ]
-    },
-    {
-        "word": "overview",
-        "meaning": "개요",
-        "synonym": [
-            "summary",
-            "outline"
-        ]
-    },
-    {
-        "word": "own",
-        "meaning": "소유하다",
-        "synonym": [
-            "possess",
-            "hold"
-        ]
-    },
-    {
-        "word": "partial",
-        "meaning": "부분적인",
-        "synonym": [
-            "incomplete",
-            "biased"
-        ]
-    },
-    {
-        "word": "participate",
-        "meaning": "참여하다",
-        "synonym": [
-            "take part",
-            "join"
-        ]
-    },
-    {
-        "word": "particularly",
-        "meaning": "특히",
-        "synonym": [
-            "especially",
-            "notably"
-        ]
-    },
-    {
-        "word": "passenger",
-        "meaning": "승객",
-        "synonym": [
-            "traveler",
-            "commuter"
-        ]
-    },
-    {
-        "word": "performance",
-        "meaning": "성능, 공연",
-        "synonym": [
-            "execution",
-            "show"
-        ]
-    },
-    {
-        "word": "personality",
-        "meaning": "성격",
-        "synonym": [
-            "character",
-            "nature"
-        ]
-    },
-    {
-        "word": "personnel",
-        "meaning": "직원",
-        "synonym": [
-            "staff",
-            "employees"
-        ]
-    },
-    {
-        "word": "perspective",
-        "meaning": "관점",
-        "synonym": [
-            "viewpoint",
-            "angle"
-        ]
-    },
-    {
-        "word": "photocopy",
-        "meaning": "복사하다",
-        "synonym": [
-            "copy",
-            "duplicate"
-        ]
-    },
-    {
-        "word": "physical",
-        "meaning": "신체적인",
-        "synonym": [
-            "bodily",
-            "corporeal"
-        ]
-    },
-    {
-        "word": "pile",
-        "meaning": "더미",
-        "synonym": [
-            "heap",
-            "stack"
-        ]
-    },
-    {
-        "word": "plenty",
-        "meaning": "풍부함",
-        "synonym": [
-            "abundance",
-            "lot"
-        ]
-    },
-    {
-        "word": "policy",
-        "meaning": "정책",
-        "synonym": [
-            "rule",
-            "strategy"
-        ]
-    },
-    {
-        "word": "possession",
-        "meaning": "소유물",
-        "synonym": [
-            "belonging",
-            "property"
-        ]
-    },
-    {
-        "word": "potential",
-        "meaning": "잠재적인",
-        "synonym": [
-            "possible",
-            "likely"
-        ]
-    },
-    {
-        "word": "pour",
-        "meaning": "붓다",
-        "synonym": [
-            "spill",
-            "flow"
-        ]
-    },
-    {
-        "word": "practical",
-        "meaning": "실용적인",
-        "synonym": [
-            "useful",
-            "pragmatic"
-        ]
-    },
-    {
-        "word": "practice",
-        "meaning": "연습, 관행",
-        "synonym": [
-            "exercise",
-            "habit"
-        ]
-    },
-    {
-        "word": "prefer",
-        "meaning": "선호하다",
-        "synonym": [
-            "favor",
-            "choose"
-        ]
-    },
-    {
-        "word": "pressure",
-        "meaning": "압력",
-        "synonym": [
-            "force",
-            "stress"
-        ]
-    },
-    {
-        "word": "prevent",
-        "meaning": "예방하다",
-        "synonym": [
-            "stop",
-            "hinder"
-        ]
-    },
-    {
-        "word": "previous",
-        "meaning": "이전의",
-        "synonym": [
-            "prior",
-            "former"
-        ]
-    },
-    {
-        "word": "principle",
-        "meaning": "원칙",
-        "synonym": [
-            "rule",
-            "belief"
-        ]
-    },
-    {
-        "word": "priority",
-        "meaning": "우선순위",
-        "synonym": [
-            "preference",
-            "importance"
-        ]
-    },
-    {
-        "word": "probably",
-        "meaning": "아마도",
-        "synonym": [
-            "likely",
-            "perhaps"
-        ]
-    },
-    {
-        "word": "productive",
-        "meaning": "생산적인",
-        "synonym": [
-            "fruitful",
-            "efficient"
-        ]
-    },
-    {
-        "word": "profit",
-        "meaning": "이익",
-        "synonym": [
-            "gain",
-            "revenue"
-        ]
-    },
-    {
-        "word": "progressive",
-        "meaning": "진보적인",
-        "synonym": [
-            "forward-looking",
-            "advanced"
-        ]
-    },
-    {
-        "word": "promising",
-        "meaning": "유망한",
-        "synonym": [
-            "hopeful",
-            "encouraging"
-        ]
-    },
-    {
-        "word": "promotion",
-        "meaning": "승진, 홍보",
-        "synonym": [
-            "advancement",
-            "marketing"
-        ]
-    },
-    {
-        "word": "prompt",
-        "meaning": "즉각적인",
-        "synonym": [
-            "quick",
-            "immediate"
-        ]
-    },
-    {
-        "word": "philosophy",
-        "meaning": "철학",
-        "synonym": [
-            "belief",
-            "ideology"
-        ]
-    },
-    {
-        "word": "politician",
-        "meaning": "정치인",
-        "synonym": [
-            "lawmaker",
-            "leader"
-        ]
-    },
-    {
-        "word": "pollen",
-        "meaning": "꽃가루",
-        "synonym": [
-            "dust",
-            "spore"
-        ]
-    },
-    {
-        "word": "popularity",
-        "meaning": "인기",
-        "synonym": [
-            "favor",
-            "acceptance"
-        ]
-    },
-    {
-        "word": "population",
-        "meaning": "인구",
-        "synonym": [
-            "inhabitants",
-            "people"
-        ]
-    },
-    {
-        "word": "populous",
-        "meaning": "인구가 많은",
-        "synonym": [
-            "crowded",
-            "packed"
-        ]
-    },
-    {
-        "word": "portion",
-        "meaning": "부분",
-        "synonym": [
-            "part",
-            "share"
-        ]
-    },
-    {
-        "word": "possess",
-        "meaning": "소유하다",
-        "synonym": [
-            "own",
-            "have"
-        ]
-    },
-    {
-        "word": "preacher",
-        "meaning": "설교자",
-        "synonym": [
-            "minister",
-            "pastor"
-        ]
-    },
-    {
-        "word": "precise",
-        "meaning": "정확한",
-        "synonym": [
-            "exact",
-            "accurate"
-        ]
-    },
-    {
-        "word": "predator",
-        "meaning": "포식자",
-        "synonym": [
-            "hunter",
-            "carnivore"
-        ]
-    },
-    {
-        "word": "preference",
-        "meaning": "선호",
-        "synonym": [
-            "choice",
-            "favor"
-        ]
-    },
-    {
-        "word": "prepare",
-        "meaning": "준비하다",
-        "synonym": [
-            "arrange",
-            "ready"
-        ]
-    },
-    {
-        "word": "present",
-        "meaning": "현재의, 선물",
-        "synonym": [
-            "current",
-            "gift"
-        ]
-    },
-    {
-        "word": "preserve",
-        "meaning": "보존하다",
-        "synonym": [
-            "protect",
-            "maintain"
-        ]
-    },
-    {
-        "word": "prevalent",
-        "meaning": "널리 퍼진",
-        "synonym": [
-            "common",
-            "widespread"
-        ]
-    },
-    {
-        "word": "private",
-        "meaning": "개인적인",
-        "synonym": [
-            "personal",
-            "secret"
-        ]
-    },
-    {
-        "word": "process",
-        "meaning": "과정",
-        "synonym": [
-            "procedure",
-            "method"
-        ]
-    },
-    {
-        "word": "prominent",
-        "meaning": "저명한",
-        "synonym": [
-            "famous",
-            "notable"
-        ]
-    },
-    {
-        "word": "promote",
-        "meaning": "촉진하다, 승진시키다",
-        "synonym": [
-            "encourage",
-            "advance"
-        ]
-    },
-    {
-        "word": "propose",
-        "meaning": "제안하다",
-        "synonym": [
-            "suggest",
-            "offer"
-        ]
-    },
-    {
-        "word": "provide",
-        "meaning": "제공하다",
-        "synonym": [
-            "supply",
-            "give"
-        ]
-    },
-    {
-        "word": "publish",
-        "meaning": "출판하다",
-        "synonym": [
-            "print",
-            "issue"
-        ]
-    },
-    {
-        "word": "punishment",
-        "meaning": "처벌",
-        "synonym": [
-            "penalty",
-            "discipline"
-        ]
-    },
-    {
-        "word": "purchase",
-        "meaning": "구매하다",
-        "synonym": [
-            "buy",
-            "acquire"
-        ]
-    },
-    {
-        "word": "qualify",
-        "meaning": "자격을 얻다",
-        "synonym": [
-            "certify",
-            "entitle"
-        ]
-    },
-    {
-        "word": "query",
-        "meaning": "질문",
-        "synonym": [
-            "question",
-            "inquiry"
-        ]
-    },
-    {
-        "word": "radiation",
-        "meaning": "방사선",
-        "synonym": [
-            "emission",
-            "rays"
-        ]
-    },
-    {
-        "word": "raise",
-        "meaning": "올리다",
-        "synonym": [
-            "lift",
-            "increase"
-        ]
-    },
-    {
-        "word": "rampant",
-        "meaning": "만연한",
-        "synonym": [
-            "widespread",
-            "uncontrolled"
-        ]
-    },
-    {
-        "word": "rapid",
-        "meaning": "빠른",
-        "synonym": [
-            "fast",
-            "quick"
-        ]
-    },
-    {
-        "word": "reasonable",
-        "meaning": "합리적인",
-        "synonym": [
-            "fair",
-            "logical"
-        ]
-    },
-    {
-        "word": "recently",
-        "meaning": "최근에",
-        "synonym": [
-            "lately",
-            "newly"
-        ]
-    },
-    {
-        "word": "recruit",
-        "meaning": "모집하다",
-        "synonym": [
-            "hire",
-            "enlist"
-        ]
-    },
-    {
-        "word": "reference",
-        "meaning": "참조",
-        "synonym": [
-            "mention",
-            "citation"
-        ]
-    },
-    {
-        "word": "refine",
-        "meaning": "정제하다",
-        "synonym": [
-            "purify",
-            "improve"
-        ]
-    },
-    {
-        "word": "reflect",
-        "meaning": "반사하다, 반영하다",
-        "synonym": [
-            "mirror",
-            "show"
-        ]
-    },
-    {
-        "word": "refrigerate",
-        "meaning": "냉장하다",
-        "synonym": [
-            "cool",
-            "chill"
-        ]
-    },
-    {
-        "word": "refugee",
-        "meaning": "난민",
-        "synonym": [
-            "exile",
-            "escapee"
-        ]
-    },
-    {
-        "word": "refuse",
-        "meaning": "거절하다",
-        "synonym": [
-            "reject",
-            "decline"
-        ]
-    },
-    {
-        "word": "regain",
-        "meaning": "되찾다",
-        "synonym": [
-            "recover",
-            "retrieve"
-        ]
-    },
-    {
-        "word": "regard",
-        "meaning": "여기다, 간주하다",
-        "synonym": [
-            "consider",
-            "view"
-        ]
-    },
-    {
-        "word": "regarding",
-        "meaning": "~에 관하여",
-        "synonym": [
-            "concerning",
-            "about"
-        ]
-    },
-    {
-        "word": "regulate",
-        "meaning": "규제하다",
-        "synonym": [
-            "control",
-            "govern"
-        ]
-    },
-    {
-        "word": "related",
-        "meaning": "관련된",
-        "synonym": [
-            "connected",
-            "associated"
-        ]
-    },
-    {
-        "word": "release",
-        "meaning": "풀어주다, 출시하다",
-        "synonym": [
-            "free",
-            "publish"
-        ]
-    },
-    {
-        "word": "reliable",
-        "meaning": "믿을 수 있는",
-        "synonym": [
-            "dependable",
-            "trustworthy"
-        ]
-    },
-    {
-        "word": "religion",
-        "meaning": "종교",
-        "synonym": [
-            "faith",
-            "belief"
-        ]
-    },
-    {
-        "word": "relocate",
-        "meaning": "이전하다",
-        "synonym": [
-            "move",
-            "transfer"
-        ]
-    },
-    {
-        "word": "reluctance",
-        "meaning": "꺼림",
-        "synonym": [
-            "hesitation",
-            "unwillingness"
-        ]
-    },
-    {
-        "word": "proper",
-        "meaning": "적절한",
-        "synonym": [
-            "appropriate",
-            "correct"
-        ]
-    },
-    {
-        "word": "property",
-        "meaning": "재산",
-        "synonym": [
-            "estate",
-            "belongings"
-        ]
-    },
-    {
-        "word": "prospective",
-        "meaning": "장래의",
-        "synonym": [
-            "potential",
-            "expected"
-        ]
-    },
-    {
-        "word": "protect",
-        "meaning": "보호하다",
-        "synonym": [
-            "guard",
-            "defend"
-        ]
-    },
-    {
-        "word": "prove",
-        "meaning": "증명하다",
-        "synonym": [
-            "verify",
-            "show"
-        ]
-    },
-    {
-        "word": "puzzle",
-        "meaning": "퍼즐, 어리둥절하게 하다",
-        "synonym": [
-            "riddle",
-            "confuse"
-        ]
-    },
-    {
-        "word": "quality",
-        "meaning": "질, 품질",
-        "synonym": [
-            "standard",
-            "condition"
-        ]
-    },
-    {
-        "word": "quarrel",
-        "meaning": "다투다",
-        "synonym": [
-            "argue",
-            "fight"
-        ]
-    },
-    {
-        "word": "quarter",
-        "meaning": "4분의 1",
-        "synonym": [
-            "fourth",
-            "part"
-        ]
-    },
-    {
-        "word": "railing",
-        "meaning": "난간",
-        "synonym": [
-            "fence",
-            "barrier"
-        ]
-    },
-    {
-        "word": "rare",
-        "meaning": "드문",
-        "synonym": [
-            "scarce",
-            "uncommon"
-        ]
-    },
-    {
-        "word": "rating",
-        "meaning": "등급",
-        "synonym": [
-            "score",
-            "ranking"
-        ]
-    },
-    {
-        "word": "rave",
-        "meaning": "극찬하다",
-        "synonym": [
-            "praise",
-            "enthuse"
-        ]
-    },
-    {
-        "word": "reach",
-        "meaning": "도달하다",
-        "synonym": [
-            "arrive",
-            "attain"
-        ]
-    },
-    {
-        "word": "realize",
-        "meaning": "깨닫다",
-        "synonym": [
-            "understand",
-            "recognize"
-        ]
-    },
-    {
-        "word": "rebate",
-        "meaning": "환불",
-        "synonym": [
-            "refund",
-            "discount"
-        ]
-    },
-    {
-        "word": "recommend",
-        "meaning": "추천하다",
-        "synonym": [
-            "suggest",
-            "advise"
-        ]
-    },
-    {
-        "word": "recruitment",
-        "meaning": "모집",
-        "synonym": [
-            "hiring",
-            "enlistment"
-        ]
-    },
-    {
-        "word": "reduce",
-        "meaning": "줄이다",
-        "synonym": [
-            "decrease",
-            "lessen"
-        ]
-    },
-    {
-        "word": "refund",
-        "meaning": "환불",
-        "synonym": [
-            "repayment",
-            "return"
-        ]
-    },
-    {
-        "word": "register",
-        "meaning": "등록하다",
-        "synonym": [
-            "enroll",
-            "record"
-        ]
-    },
-    {
-        "word": "regular",
-        "meaning": "규칙적인",
-        "synonym": [
-            "normal",
-            "usual"
-        ]
-    },
-    {
-        "word": "rehearsal",
-        "meaning": "리허설",
-        "synonym": [
-            "practice",
-            "run-through"
-        ]
-    },
-    {
-        "word": "relax",
-        "meaning": "휴식하다",
-        "synonym": [
-            "rest",
-            "unwind"
-        ]
-    },
-    {
-        "word": "relevant",
-        "meaning": "관련된",
-        "synonym": [
-            "applicable",
-            "pertinent"
-        ]
-    },
-    {
-        "word": "relieve",
-        "meaning": "완화하다",
-        "synonym": [
-            "ease",
-            "alleviate"
-        ]
-    },
-    {
-        "word": "rely",
-        "meaning": "의존하다",
-        "synonym": [
-            "depend",
-            "trust"
-        ]
-    },
-    {
-        "word": "remove",
-        "meaning": "제거하다",
-        "synonym": [
-            "eliminate",
-            "take away"
-        ]
-    },
-    {
-        "word": "report",
-        "meaning": "보고서",
-        "synonym": [
-            "account",
-            "statement"
-        ]
-    },
-    {
-        "word": "represent",
-        "meaning": "대표하다",
-        "synonym": [
-            "stand for",
-            "symbolize"
-        ]
-    },
-    {
-        "word": "reputation",
-        "meaning": "명성",
-        "synonym": [
-            "status",
-            "standing"
-        ]
-    },
-    {
-        "word": "reserve",
-        "meaning": "예약하다",
-        "synonym": [
-            "book",
-            "save"
-        ]
-    },
-    {
-        "word": "resistance",
-        "meaning": "저항",
-        "synonym": [
-            "opposition",
-            "defiance"
-        ]
-    },
-    {
-        "word": "resolution",
-        "meaning": "결의안, 해결",
-        "synonym": [
-            "decision",
-            "solution"
-        ]
-    },
-    {
-        "word": "respond",
-        "meaning": "반응하다",
-        "synonym": [
-            "reply",
-            "answer"
-        ]
-    },
-    {
-        "word": "responsibility",
-        "meaning": "책임",
-        "synonym": [
-            "duty",
-            "obligation"
-        ]
-    },
-    {
-        "word": "result",
-        "meaning": "결과",
-        "synonym": [
-            "outcome",
-            "effect"
-        ]
-    },
-    {
-        "word": "resume",
-        "meaning": "이력서, 재개하다",
-        "synonym": [
-            "CV",
-            "continue"
-        ]
-    },
-    {
-        "word": "retail",
-        "meaning": "소매",
-        "synonym": [
-            "sales",
-            "selling"
-        ]
-    },
-    {
-        "word": "retreat",
-        "meaning": "후퇴하다",
-        "synonym": [
-            "withdraw",
-            "pull back"
-        ]
-    },
-    {
-        "word": "reveal",
-        "meaning": "드러내다",
-        "synonym": [
-            "disclose",
-            "uncover"
-        ]
-    },
-    {
-        "word": "review",
-        "meaning": "검토하다",
-        "synonym": [
-            "evaluate",
-            "assess"
-        ]
-    },
-    {
-        "word": "reward",
-        "meaning": "보상",
-        "synonym": [
-            "prize",
-            "bonus"
-        ]
-    },
-    {
-        "word": "routine",
-        "meaning": "일상",
-        "synonym": [
-            "habit",
-            "schedule"
-        ]
-    },
-    {
-        "word": "sacrifice",
-        "meaning": "희생하다",
-        "synonym": [
-            "give up",
-            "forfeit"
-        ]
-    },
-    {
-        "word": "safety",
-        "meaning": "안전",
-        "synonym": [
-            "protection",
-            "security"
-        ]
-    },
-    {
-        "word": "satisfy",
-        "meaning": "만족시키다",
-        "synonym": [
-            "please",
-            "fulfill"
-        ]
-    },
-    {
-        "word": "save",
-        "meaning": "구하다, 저축하다",
-        "synonym": [
-            "rescue",
-            "keep"
-        ]
-    },
-    {
-        "word": "scalp",
-        "meaning": "두피",
-        "synonym": [
-            "skin",
-            "head"
-        ]
-    },
-    {
-        "word": "scary",
-        "meaning": "무서운",
-        "synonym": [
-            "frightening",
-            "creepy"
-        ]
-    },
-    {
-        "word": "scent",
-        "meaning": "향기",
-        "synonym": [
-            "smell",
-            "fragrance"
-        ]
-    },
-    {
-        "word": "search",
-        "meaning": "검색하다",
-        "synonym": [
-            "look for",
-            "seek"
-        ]
-    },
-    {
-        "word": "security",
-        "meaning": "보안",
-        "synonym": [
-            "safety",
-            "protection"
-        ]
-    },
-    {
-        "word": "seek",
-        "meaning": "찾다",
-        "synonym": [
-            "search",
-            "pursue"
-        ]
-    },
-    {
-        "word": "semester",
-        "meaning": "학기",
-        "synonym": [
-            "term",
-            "period"
-        ]
-    },
-    {
-        "word": "separate",
-        "meaning": "분리하다",
-        "synonym": [
-            "divide",
-            "disconnect"
-        ]
-    },
-    {
-        "word": "session",
-        "meaning": "회의, 기간",
-        "synonym": [
-            "meeting",
-            "period"
-        ]
-    },
-    {
-        "word": "settle",
-        "meaning": "정착하다, 해결하다",
-        "synonym": [
-            "resolve",
-            "establish"
-        ]
-    },
-    {
-        "word": "shade",
-        "meaning": "그늘",
-        "synonym": [
-            "shadow",
-            "cover"
-        ]
-    },
-    {
-        "word": "shake",
-        "meaning": "흔들다",
-        "synonym": [
-            "tremble",
-            "vibrate"
-        ]
-    },
-    {
-        "word": "share",
-        "meaning": "공유하다",
-        "synonym": [
-            "divide",
-            "distribute"
-        ]
-    },
-    {
-        "word": "shelter",
-        "meaning": "피난처",
-        "synonym": [
-            "refuge",
-            "protection"
-        ]
-    },
-    {
-        "word": "ship",
-        "meaning": "배, 배송하다",
-        "synonym": [
-            "vessel",
-            "send"
-        ]
-    },
-    {
-        "word": "shrub",
-        "meaning": "관목",
-        "synonym": [
-            "bush",
-            "plant"
-        ]
-    },
-    {
-        "word": "silence",
-        "meaning": "침묵",
-        "synonym": [
-            "quiet",
-            "stillness"
-        ]
-    },
-    {
-        "word": "simply",
-        "meaning": "단순히",
-        "synonym": [
-            "merely",
-            "just"
-        ]
-    },
-    {
-        "word": "situation",
-        "meaning": "상황",
-        "synonym": [
-            "circumstance",
-            "condition"
-        ]
-    },
-    {
-        "word": "sleek",
-        "meaning": "매끄러운",
-        "synonym": [
-            "smooth",
-            "glossy"
-        ]
-    },
-    {
-        "word": "slightly",
-        "meaning": "약간",
-        "synonym": [
-            "a little",
-            "somewhat"
-        ]
-    },
-    {
-        "word": "slot",
-        "meaning": "구멍, 자리",
-        "synonym": [
-            "opening",
-            "space"
-        ]
-    },
-    {
-        "word": "snuff",
-        "meaning": "코를 킁킁거리다",
-        "synonym": [
-            "sniff",
-            "smell"
-        ]
-    },
-    {
-        "word": "soil",
-        "meaning": "흙",
-        "synonym": [
-            "dirt",
-            "earth"
-        ]
-    },
-    {
-        "word": "solution",
-        "meaning": "해결책",
-        "synonym": [
-            "answer",
-            "resolution"
-        ]
-    },
-    {
-        "word": "spend",
-        "meaning": "소비하다",
-        "synonym": [
-            "pay",
-            "expend"
-        ]
-    },
-    {
-        "word": "spread",
-        "meaning": "퍼지다",
-        "synonym": [
-            "extend",
-            "scatter"
-        ]
-    },
-    {
-        "word": "steady",
-        "meaning": "꾸준한",
-        "synonym": [
-            "constant",
-            "stable"
-        ]
-    },
-    {
-        "word": "stick",
-        "meaning": "막대기, 붙이다",
-        "synonym": [
-            "branch",
-            "adhere"
-        ]
-    },
-    {
-        "word": "store",
-        "meaning": "상점, 저장하다",
-        "synonym": [
-            "shop",
-            "keep"
-        ]
-    },
-    {
-        "word": "structure",
-        "meaning": "구조",
-        "synonym": [
-            "framework",
-            "building"
-        ]
-    },
-    {
-        "word": "struggle",
-        "meaning": "투쟁하다",
-        "synonym": [
-            "fight",
-            "strive"
-        ]
-    },
-    {
-        "word": "submit",
-        "meaning": "제출하다",
-        "synonym": [
-            "turn in",
-            "present"
-        ]
-    },
-    {
-        "word": "succeed",
-        "meaning": "성공하다",
-        "synonym": [
-            "achieve",
-            "prosper"
-        ]
-    },
-    {
-        "word": "suddenly",
-        "meaning": "갑자기",
-        "synonym": [
-            "abruptly",
-            "unexpectedly"
-        ]
-    },
-    {
-        "word": "supervisor",
-        "meaning": "감독관",
-        "synonym": [
-            "manager",
-            "overseer"
-        ]
-    },
-    {
-        "word": "tempt",
-        "meaning": "유혹하다",
-        "synonym": [
-            "entice",
-            "attract"
-        ]
-    },
-    {
-        "word": "threat",
-        "meaning": "위협",
-        "synonym": [
-            "danger",
-            "risk"
-        ]
-    },
-    {
-        "word": "traditional",
-        "meaning": "전통적인",
-        "synonym": [
-            "customary",
-            "classic"
-        ]
-    },
-    {
-        "word": "trait",
-        "meaning": "특징",
-        "synonym": [
-            "characteristic",
-            "feature"
-        ]
-    },
-    {
-        "word": "transform",
-        "meaning": "변형시키다",
-        "synonym": [
-            "change",
-            "alter"
-        ]
-    },
-    {
-        "word": "transition",
-        "meaning": "전환",
-        "synonym": [
-            "change",
-            "shift"
-        ]
-    },
-    {
-        "word": "trip",
-        "meaning": "여행",
-        "synonym": [
-            "journey",
-            "tour"
-        ]
-    },
-    {
-        "word": "tuition",
-        "meaning": "수업료",
-        "synonym": [
-            "fee",
-            "cost"
-        ]
-    },
-    {
-        "word": "undecided",
-        "meaning": "결정되지 않은",
-        "synonym": [
-            "uncertain",
-            "unsure"
-        ]
-    },
-    {
-        "word": "unstable",
-        "meaning": "불안정한",
-        "synonym": [
-            "shaky",
-            "insecure"
-        ]
-    },
-    {
-        "word": "usual",
-        "meaning": "평소의",
-        "synonym": [
-            "normal",
-            "customary"
-        ]
-    },
-    {
-        "word": "valid",
-        "meaning": "유효한",
-        "synonym": [
-            "legitimate",
-            "authentic"
-        ]
-    },
-    {
-        "word": "venue",
-        "meaning": "장소",
-        "synonym": [
-            "location",
-            "place"
-        ]
-    },
-    {
-        "word": "warehouse",
-        "meaning": "창고",
-        "synonym": [
-            "storehouse",
-            "depot"
-        ]
-    },
-    {
-        "word": "wordy",
-        "meaning": "장황한",
-        "synonym": [
-            "verbose",
-            "talkative"
-        ]
-    },
-    {
-        "word": "worth",
-        "meaning": "가치",
-        "synonym": [
-            "value",
-            "merit"
-        ]
-    }
+  {
+    "word": "a day",
+    "meaning": "하루에",
+    "synonym": []
+  },
+  {
+    "word": "a few years ago",
+    "meaning": "몇 년 전에",
+    "synonym": []
+  },
+  {
+    "word": "a lot of",
+    "meaning": "많은",
+    "synonym": []
+  },
+  {
+    "word": "abdomen",
+    "meaning": "복부",
+    "synonym": [
+      "belly",
+      "stomach"
+    ]
+  },
+  {
+    "word": "ability",
+    "meaning": "능력",
+    "synonym": []
+  },
+  {
+    "word": "about",
+    "meaning": "~에 대해",
+    "synonym": []
+  },
+  {
+    "word": "abundant",
+    "meaning": "풍부한",
+    "synonym": [
+      "plentiful",
+      "copious"
+    ]
+  },
+  {
+    "word": "academic",
+    "meaning": "학문의",
+    "synonym": []
+  },
+  {
+    "word": "accept",
+    "meaning": "받아들이다",
+    "synonym": []
+  },
+  {
+    "word": "access",
+    "meaning": "접근",
+    "synonym": [
+      "approach",
+      "entry"
+    ]
+  },
+  {
+    "word": "accident",
+    "meaning": "사고",
+    "synonym": []
+  },
+  {
+    "word": "accomplish",
+    "meaning": "성취하다",
+    "synonym": [
+      "achieve",
+      "fulfill"
+    ]
+  },
+  {
+    "word": "account",
+    "meaning": "계좌, 설명",
+    "synonym": [
+      "record",
+      "description"
+    ]
+  },
+  {
+    "word": "accounting",
+    "meaning": "회계",
+    "synonym": [
+      "bookkeeping",
+      "finance"
+    ]
+  },
+  {
+    "word": "accurately",
+    "meaning": "정확하게",
+    "synonym": []
+  },
+  {
+    "word": "achieve",
+    "meaning": "성취하다",
+    "synonym": []
+  },
+  {
+    "word": "achievement",
+    "meaning": "성취",
+    "synonym": [
+      "accomplishment",
+      "success"
+    ]
+  },
+  {
+    "word": "acquire",
+    "meaning": "얻다",
+    "synonym": [
+      "obtain",
+      "gain"
+    ]
+  },
+  {
+    "word": "across",
+    "meaning": "~에 걸쳐",
+    "synonym": []
+  },
+  {
+    "word": "actual",
+    "meaning": "실제의",
+    "synonym": [
+      "real",
+      "true"
+    ]
+  },
+  {
+    "word": "add",
+    "meaning": "덧붙이다",
+    "synonym": []
+  },
+  {
+    "word": "address",
+    "meaning": "주소, 연설하다",
+    "synonym": [
+      "location",
+      "speech"
+    ]
+  },
+  {
+    "word": "admire",
+    "meaning": "존경하다",
+    "synonym": [
+      "respect",
+      "appreciate"
+    ]
+  },
+  {
+    "word": "adopt",
+    "meaning": "입양하다",
+    "synonym": []
+  },
+  {
+    "word": "adoption",
+    "meaning": "입양",
+    "synonym": []
+  },
+  {
+    "word": "adoptive",
+    "meaning": "입양의",
+    "synonym": [
+      "foster",
+      "adopted"
+    ]
+  },
+  {
+    "word": "advanced",
+    "meaning": "고급의, 진보한",
+    "synonym": [
+      "progressive",
+      "higher"
+    ]
+  },
+  {
+    "word": "advantage",
+    "meaning": "이점",
+    "synonym": []
+  },
+  {
+    "word": "adverse",
+    "meaning": "해로운",
+    "synonym": []
+  },
+  {
+    "word": "advertising",
+    "meaning": "광고",
+    "synonym": [
+      "marketing",
+      "promotion"
+    ]
+  },
+  {
+    "word": "advise",
+    "meaning": "권고하다",
+    "synonym": []
+  },
+  {
+    "word": "aesthetically",
+    "meaning": "미적으로",
+    "synonym": [
+      "artistically",
+      "beautifully"
+    ]
+  },
+  {
+    "word": "affair",
+    "meaning": "일, 사건",
+    "synonym": [
+      "matter",
+      "event"
+    ]
+  },
+  {
+    "word": "affect",
+    "meaning": "영향을 끼치다",
+    "synonym": []
+  },
+  {
+    "word": "affected",
+    "meaning": "영향을 받은",
+    "synonym": []
+  },
+  {
+    "word": "afford",
+    "meaning": "여유가 있다",
+    "synonym": []
+  },
+  {
+    "word": "affordable",
+    "meaning": "감당할 수 있는",
+    "synonym": [
+      "reasonable",
+      "inexpensive"
+    ]
+  },
+  {
+    "word": "after",
+    "meaning": "~후에",
+    "synonym": []
+  },
+  {
+    "word": "agree",
+    "meaning": "동의하다",
+    "synonym": [
+      "consent",
+      "concur"
+    ]
+  },
+  {
+    "word": "agriculture",
+    "meaning": "농업",
+    "synonym": [
+      "farming",
+      "cultivation"
+    ]
+  },
+  {
+    "word": "aim to",
+    "meaning": "~를 목표로 하다",
+    "synonym": []
+  },
+  {
+    "word": "air",
+    "meaning": "공기",
+    "synonym": [
+      "atmosphere",
+      "breeze"
+    ]
+  },
+  {
+    "word": "aircraft",
+    "meaning": "항공기",
+    "synonym": []
+  },
+  {
+    "word": "airtight",
+    "meaning": "밀폐된",
+    "synonym": [
+      "sealed",
+      "impermeable"
+    ]
+  },
+  {
+    "word": "alive",
+    "meaning": "살아있는",
+    "synonym": []
+  },
+  {
+    "word": "all the time",
+    "meaning": "항상",
+    "synonym": []
+  },
+  {
+    "word": "allot",
+    "meaning": "할당하다",
+    "synonym": [
+      "allocate",
+      "assign"
+    ]
+  },
+  {
+    "word": "allow",
+    "meaning": "허락하다",
+    "synonym": [
+      "permit",
+      "grant"
+    ]
+  },
+  {
+    "word": "also",
+    "meaning": "또한",
+    "synonym": []
+  },
+  {
+    "word": "alter",
+    "meaning": "변경하다",
+    "synonym": [
+      "change",
+      "modify"
+    ]
+  },
+  {
+    "word": "alternative",
+    "meaning": "대체제",
+    "synonym": []
+  },
+  {
+    "word": "although",
+    "meaning": "비록 ~일지라도",
+    "synonym": []
+  },
+  {
+    "word": "always",
+    "meaning": "항상",
+    "synonym": []
+  },
+  {
+    "word": "amazing",
+    "meaning": "놀라운",
+    "synonym": []
+  },
+  {
+    "word": "amenity",
+    "meaning": "편의 시설",
+    "synonym": [
+      "facility",
+      "convenience"
+    ]
+  },
+  {
+    "word": "among",
+    "meaning": "~사이에서",
+    "synonym": []
+  },
+  {
+    "word": "amount",
+    "meaning": "총액, 양",
+    "synonym": []
+  },
+  {
+    "word": "analyze",
+    "meaning": "분석하다",
+    "synonym": []
+  },
+  {
+    "word": "ancestor",
+    "meaning": "조상",
+    "synonym": [
+      "forefather",
+      "predecessor"
+    ]
+  },
+  {
+    "word": "ancient",
+    "meaning": "고대의",
+    "synonym": []
+  },
+  {
+    "word": "anesthesia",
+    "meaning": "마취",
+    "synonym": [
+      "numbness",
+      "painkiller"
+    ]
+  },
+  {
+    "word": "announce",
+    "meaning": "발표하다",
+    "synonym": []
+  },
+  {
+    "word": "annual",
+    "meaning": "연간의",
+    "synonym": [
+      "yearly",
+      "anniversary"
+    ]
+  },
+  {
+    "word": "another",
+    "meaning": "또 다른",
+    "synonym": []
+  },
+  {
+    "word": "anxiety",
+    "meaning": "불안",
+    "synonym": []
+  },
+  {
+    "word": "anything",
+    "meaning": "어떤 것",
+    "synonym": []
+  },
+  {
+    "word": "apparent",
+    "meaning": "명백한",
+    "synonym": [
+      "obvious",
+      "clear"
+    ]
+  },
+  {
+    "word": "applicant",
+    "meaning": "지원자",
+    "synonym": [
+      "candidate",
+      "aspirant"
+    ]
+  },
+  {
+    "word": "appreciation",
+    "meaning": "감사",
+    "synonym": []
+  },
+  {
+    "word": "apprentice",
+    "meaning": "견습생",
+    "synonym": [
+      "trainee",
+      "novice"
+    ]
+  },
+  {
+    "word": "approach",
+    "meaning": "접근법",
+    "synonym": []
+  },
+  {
+    "word": "approximately",
+    "meaning": "대략",
+    "synonym": []
+  },
+  {
+    "word": "archaeologists",
+    "meaning": "고고학자",
+    "synonym": []
+  },
+  {
+    "word": "archeological",
+    "meaning": "고고학적인",
+    "synonym": [
+      "historical",
+      "ancient"
+    ]
+  },
+  {
+    "word": "archeologists",
+    "meaning": "고고학자",
+    "synonym": []
+  },
+  {
+    "word": "area",
+    "meaning": "지역",
+    "synonym": []
+  },
+  {
+    "word": "arise",
+    "meaning": "발생하다",
+    "synonym": []
+  },
+  {
+    "word": "around",
+    "meaning": "~주변을",
+    "synonym": []
+  },
+  {
+    "word": "arrange",
+    "meaning": "배열하다, 주선하다",
+    "synonym": [
+      "organize",
+      "plan"
+    ]
+  },
+  {
+    "word": "arrogant",
+    "meaning": "거만한",
+    "synonym": [
+      "haughty",
+      "proud"
+    ]
+  },
+  {
+    "word": "artificial",
+    "meaning": "인공의",
+    "synonym": [
+      "synthetic",
+      "man-made"
+    ]
+  },
+  {
+    "word": "as",
+    "meaning": "~함에 따라",
+    "synonym": []
+  },
+  {
+    "word": "as a result",
+    "meaning": "그 결과",
+    "synonym": []
+  },
+  {
+    "word": "ask",
+    "meaning": "요청하다",
+    "synonym": []
+  },
+  {
+    "word": "assemble",
+    "meaning": "조립하다, 모이다",
+    "synonym": [
+      "gather",
+      "put together"
+    ]
+  },
+  {
+    "word": "assess",
+    "meaning": "평가하다",
+    "synonym": [
+      "evaluate",
+      "judge"
+    ]
+  },
+  {
+    "word": "assign",
+    "meaning": "할당하다",
+    "synonym": []
+  },
+  {
+    "word": "assistance",
+    "meaning": "도움",
+    "synonym": []
+  },
+  {
+    "word": "assistant",
+    "meaning": "조수",
+    "synonym": [
+      "helper",
+      "aide"
+    ]
+  },
+  {
+    "word": "associate",
+    "meaning": "연관시키다",
+    "synonym": [
+      "connect",
+      "link"
+    ]
+  },
+  {
+    "word": "assume",
+    "meaning": "가정하다, 떠맡다",
+    "synonym": [
+      "presume",
+      "undertake"
+    ]
+  },
+  {
+    "word": "astronomer",
+    "meaning": "천문학자",
+    "synonym": [
+      "stargazer",
+      "scientist"
+    ]
+  },
+  {
+    "word": "at",
+    "meaning": "~에",
+    "synonym": []
+  },
+  {
+    "word": "at that time",
+    "meaning": "그 당시에",
+    "synonym": []
+  },
+  {
+    "word": "atmosphere",
+    "meaning": "대기",
+    "synonym": []
+  },
+  {
+    "word": "attack",
+    "meaning": "공격하다",
+    "synonym": [
+      "assault",
+      "strike"
+    ]
+  },
+  {
+    "word": "attempt",
+    "meaning": "시도하다",
+    "synonym": [
+      "try",
+      "endeavor"
+    ]
+  },
+  {
+    "word": "attend",
+    "meaning": "참석하다",
+    "synonym": []
+  },
+  {
+    "word": "attention",
+    "meaning": "주의",
+    "synonym": [
+      "focus",
+      "concentration"
+    ]
+  },
+  {
+    "word": "attitude",
+    "meaning": "태도",
+    "synonym": [
+      "mindset",
+      "posture"
+    ]
+  },
+  {
+    "word": "attorney",
+    "meaning": "변호사",
+    "synonym": []
+  },
+  {
+    "word": "attract",
+    "meaning": "끌다",
+    "synonym": [
+      "draw",
+      "appeal"
+    ]
+  },
+  {
+    "word": "attraction",
+    "meaning": "매력, 명소",
+    "synonym": [
+      "appeal",
+      "draw"
+    ]
+  },
+  {
+    "word": "audience",
+    "meaning": "청중",
+    "synonym": [
+      "spectators",
+      "listeners"
+    ]
+  },
+  {
+    "word": "audit",
+    "meaning": "회계 감사",
+    "synonym": [
+      "inspection",
+      "review"
+    ]
+  },
+  {
+    "word": "author",
+    "meaning": "작가",
+    "synonym": []
+  },
+  {
+    "word": "authority",
+    "meaning": "권위",
+    "synonym": [
+      "power",
+      "control"
+    ]
+  },
+  {
+    "word": "avoid",
+    "meaning": "피하다",
+    "synonym": []
+  },
+  {
+    "word": "award",
+    "meaning": "상, 수여하다",
+    "synonym": [
+      "prize",
+      "grant"
+    ]
+  },
+  {
+    "word": "bachelor",
+    "meaning": "학사",
+    "synonym": []
+  },
+  {
+    "word": "bail",
+    "meaning": "보석금",
+    "synonym": []
+  },
+  {
+    "word": "balance",
+    "meaning": "균형",
+    "synonym": [
+      "equilibrium",
+      "stability"
+    ]
+  },
+  {
+    "word": "balanced",
+    "meaning": "균형 잡힌",
+    "synonym": []
+  },
+  {
+    "word": "ban",
+    "meaning": "금지하다",
+    "synonym": []
+  },
+  {
+    "word": "band",
+    "meaning": "밴드",
+    "synonym": []
+  },
+  {
+    "word": "barrier",
+    "meaning": "장벽",
+    "synonym": []
+  },
+  {
+    "word": "basic",
+    "meaning": "기본적인",
+    "synonym": []
+  },
+  {
+    "word": "be",
+    "meaning": "되다",
+    "synonym": []
+  },
+  {
+    "word": "be going to",
+    "meaning": "~할 예정이다",
+    "synonym": []
+  },
+  {
+    "word": "bear",
+    "meaning": "참다, 곰",
+    "synonym": [
+      "endure",
+      "tolerate"
+    ]
+  },
+  {
+    "word": "because",
+    "meaning": "~때문에",
+    "synonym": []
+  },
+  {
+    "word": "because of",
+    "meaning": "~ 때문에",
+    "synonym": []
+  },
+  {
+    "word": "become",
+    "meaning": "되다",
+    "synonym": []
+  },
+  {
+    "word": "bee",
+    "meaning": "벌",
+    "synonym": []
+  },
+  {
+    "word": "before",
+    "meaning": "~전에",
+    "synonym": []
+  },
+  {
+    "word": "behavioral",
+    "meaning": "행동의",
+    "synonym": [
+      "conductive",
+      "mannerly"
+    ]
+  },
+  {
+    "word": "believe",
+    "meaning": "믿다",
+    "synonym": []
+  },
+  {
+    "word": "beneficial",
+    "meaning": "이로운",
+    "synonym": []
+  },
+  {
+    "word": "benefit",
+    "meaning": "이점",
+    "synonym": []
+  },
+  {
+    "word": "between",
+    "meaning": "~사이에서",
+    "synonym": []
+  },
+  {
+    "word": "beverage",
+    "meaning": "음료",
+    "synonym": []
+  },
+  {
+    "word": "biggest",
+    "meaning": "가장 큰",
+    "synonym": []
+  },
+  {
+    "word": "birth",
+    "meaning": "탄생",
+    "synonym": []
+  },
+  {
+    "word": "bite",
+    "meaning": "물다",
+    "synonym": []
+  },
+  {
+    "word": "block",
+    "meaning": "막다, 구역",
+    "synonym": [
+      "obstruct",
+      "hinder"
+    ]
+  },
+  {
+    "word": "blur",
+    "meaning": "흐리게 하다",
+    "synonym": []
+  },
+  {
+    "word": "boast",
+    "meaning": "자랑하다",
+    "synonym": [
+      "brag",
+      "show off"
+    ]
+  },
+  {
+    "word": "bold",
+    "meaning": "대담한",
+    "synonym": [
+      "brave",
+      "daring"
+    ]
+  },
+  {
+    "word": "boost",
+    "meaning": "상승시키다",
+    "synonym": [
+      "increase",
+      "enhance"
+    ]
+  },
+  {
+    "word": "born",
+    "meaning": "태어난",
+    "synonym": []
+  },
+  {
+    "word": "boss",
+    "meaning": "상사",
+    "synonym": []
+  },
+  {
+    "word": "break down",
+    "meaning": "부수다",
+    "synonym": []
+  },
+  {
+    "word": "breakdown",
+    "meaning": "고장, 붕괴",
+    "synonym": [
+      "failure",
+      "collapse"
+    ]
+  },
+  {
+    "word": "bribe",
+    "meaning": "뇌물",
+    "synonym": [
+      "inducement",
+      "payoff"
+    ]
+  },
+  {
+    "word": "bride",
+    "meaning": "신부",
+    "synonym": []
+  },
+  {
+    "word": "bright",
+    "meaning": "밝은",
+    "synonym": []
+  },
+  {
+    "word": "build",
+    "meaning": "세우다",
+    "synonym": []
+  },
+  {
+    "word": "built",
+    "meaning": "세워진",
+    "synonym": []
+  },
+  {
+    "word": "bundle",
+    "meaning": "묶음",
+    "synonym": [
+      "bunch",
+      "package"
+    ]
+  },
+  {
+    "word": "burned out",
+    "meaning": "지친",
+    "synonym": []
+  },
+  {
+    "word": "buy",
+    "meaning": "사다",
+    "synonym": []
+  },
+  {
+    "word": "by",
+    "meaning": "~쯤에는",
+    "synonym": []
+  },
+  {
+    "word": "call off",
+    "meaning": "취소하다",
+    "synonym": []
+  },
+  {
+    "word": "called",
+    "meaning": "불리는",
+    "synonym": []
+  },
+  {
+    "word": "cancel",
+    "meaning": "취소하다",
+    "synonym": []
+  },
+  {
+    "word": "candidate",
+    "meaning": "후보자",
+    "synonym": [
+      "applicant",
+      "nominee"
+    ]
+  },
+  {
+    "word": "carbohydrate",
+    "meaning": "탄수화물",
+    "synonym": []
+  },
+  {
+    "word": "carbon",
+    "meaning": "탄소",
+    "synonym": []
+  },
+  {
+    "word": "care",
+    "meaning": "돌봄",
+    "synonym": []
+  },
+  {
+    "word": "careful",
+    "meaning": "신중한",
+    "synonym": []
+  },
+  {
+    "word": "carefully",
+    "meaning": "주의깊게",
+    "synonym": []
+  },
+  {
+    "word": "carrot",
+    "meaning": "당근",
+    "synonym": []
+  },
+  {
+    "word": "cash",
+    "meaning": "현금",
+    "synonym": []
+  },
+  {
+    "word": "caught",
+    "meaning": "붙잡힌",
+    "synonym": []
+  },
+  {
+    "word": "cause",
+    "meaning": "야기하다",
+    "synonym": []
+  },
+  {
+    "word": "caused",
+    "meaning": "유발된",
+    "synonym": []
+  },
+  {
+    "word": "cease",
+    "meaning": "멈추다",
+    "synonym": [
+      "stop",
+      "halt"
+    ]
+  },
+  {
+    "word": "chain",
+    "meaning": "사슬, 연쇄",
+    "synonym": [
+      "series",
+      "link"
+    ]
+  },
+  {
+    "word": "challenging",
+    "meaning": "힘든",
+    "synonym": []
+  },
+  {
+    "word": "change",
+    "meaning": "변화",
+    "synonym": []
+  },
+  {
+    "word": "charity",
+    "meaning": "자선 단체",
+    "synonym": [
+      "donation",
+      "fund"
+    ]
+  },
+  {
+    "word": "chef",
+    "meaning": "요리사",
+    "synonym": []
+  },
+  {
+    "word": "chemical",
+    "meaning": "화학의",
+    "synonym": [
+      "synthetic",
+      "substance"
+    ]
+  },
+  {
+    "word": "childhood",
+    "meaning": "어린 시절",
+    "synonym": []
+  },
+  {
+    "word": "children",
+    "meaning": "어린이",
+    "synonym": []
+  },
+  {
+    "word": "choose",
+    "meaning": "선택하다",
+    "synonym": []
+  },
+  {
+    "word": "chore",
+    "meaning": "잡일",
+    "synonym": []
+  },
+  {
+    "word": "circular",
+    "meaning": "원형의",
+    "synonym": [
+      "round",
+      "spherical"
+    ]
+  },
+  {
+    "word": "cite",
+    "meaning": "인용하다",
+    "synonym": [
+      "quote",
+      "refer"
+    ]
+  },
+  {
+    "word": "citizen",
+    "meaning": "시민",
+    "synonym": [
+      "resident",
+      "inhabitant"
+    ]
+  },
+  {
+    "word": "city",
+    "meaning": "도시",
+    "synonym": []
+  },
+  {
+    "word": "clean",
+    "meaning": "청소하다",
+    "synonym": []
+  },
+  {
+    "word": "clear",
+    "meaning": "명확한",
+    "synonym": []
+  },
+  {
+    "word": "clearly",
+    "meaning": "분명하게",
+    "synonym": []
+  },
+  {
+    "word": "client",
+    "meaning": "고객",
+    "synonym": [
+      "customer",
+      "patron"
+    ]
+  },
+  {
+    "word": "climate",
+    "meaning": "기후",
+    "synonym": [
+      "weather",
+      "atmosphere"
+    ]
+  },
+  {
+    "word": "cluster",
+    "meaning": "무리",
+    "synonym": [
+      "bunch",
+      "group"
+    ]
+  },
+  {
+    "word": "co-worker",
+    "meaning": "??",
+    "synonym": []
+  },
+  {
+    "word": "cohesion",
+    "meaning": "결속력",
+    "synonym": []
+  },
+  {
+    "word": "collaborate",
+    "meaning": "협력하다",
+    "synonym": [
+      "cooperate",
+      "work together"
+    ]
+  },
+  {
+    "word": "colleague",
+    "meaning": "동료",
+    "synonym": []
+  },
+  {
+    "word": "coma",
+    "meaning": "혼수상태",
+    "synonym": []
+  },
+  {
+    "word": "comfort",
+    "meaning": "안락, 편안",
+    "synonym": []
+  },
+  {
+    "word": "comfortable",
+    "meaning": "편안한",
+    "synonym": []
+  },
+  {
+    "word": "comic book",
+    "meaning": "만화책",
+    "synonym": []
+  },
+  {
+    "word": "commission",
+    "meaning": "위원회, 수수료",
+    "synonym": [
+      "committee",
+      "fee"
+    ]
+  },
+  {
+    "word": "commonly",
+    "meaning": "흔히",
+    "synonym": [
+      "generally",
+      "usually"
+    ]
+  },
+  {
+    "word": "communicate",
+    "meaning": "의사소통하다",
+    "synonym": [
+      "interact",
+      "convey"
+    ]
+  },
+  {
+    "word": "communication",
+    "meaning": "의사소통",
+    "synonym": []
+  },
+  {
+    "word": "communitie",
+    "meaning": "공동체, 마을",
+    "synonym": []
+  },
+  {
+    "word": "company",
+    "meaning": "회사",
+    "synonym": []
+  },
+  {
+    "word": "compare",
+    "meaning": "비교하다",
+    "synonym": []
+  },
+  {
+    "word": "compel",
+    "meaning": "강요하다",
+    "synonym": [
+      "force",
+      "oblige"
+    ]
+  },
+  {
+    "word": "competitive",
+    "meaning": "경쟁적인",
+    "synonym": [
+      "rival",
+      "ambitious"
+    ]
+  },
+  {
+    "word": "complaint",
+    "meaning": "불평",
+    "synonym": [
+      "grievance",
+      "objection"
+    ]
+  },
+  {
+    "word": "complement",
+    "meaning": "보완하다",
+    "synonym": [
+      "supplement",
+      "complete"
+    ]
+  },
+  {
+    "word": "complete",
+    "meaning": "완료하다",
+    "synonym": [
+      "finish",
+      "conclude"
+    ]
+  },
+  {
+    "word": "comply with",
+    "meaning": "~를 준수하다",
+    "synonym": []
+  },
+  {
+    "word": "concealer",
+    "meaning": "컨실러",
+    "synonym": []
+  },
+  {
+    "word": "concentration",
+    "meaning": "농도",
+    "synonym": []
+  },
+  {
+    "word": "conclusion",
+    "meaning": "결론",
+    "synonym": [
+      "end",
+      "result"
+    ]
+  },
+  {
+    "word": "condition",
+    "meaning": "조건, 상태",
+    "synonym": [
+      "state",
+      "situation"
+    ]
+  },
+  {
+    "word": "confident",
+    "meaning": "자신 있는",
+    "synonym": [
+      "sure",
+      "certain"
+    ]
+  },
+  {
+    "word": "confuse",
+    "meaning": "혼동하다",
+    "synonym": [
+      "baffle",
+      "puzzle"
+    ]
+  },
+  {
+    "word": "conglomerate",
+    "meaning": "대기업",
+    "synonym": []
+  },
+  {
+    "word": "congregate",
+    "meaning": "모이다",
+    "synonym": [
+      "gather",
+      "assemble"
+    ]
+  },
+  {
+    "word": "considerable",
+    "meaning": "상당한",
+    "synonym": []
+  },
+  {
+    "word": "consideration",
+    "meaning": "고려",
+    "synonym": [
+      "thought",
+      "deliberation"
+    ]
+  },
+  {
+    "word": "constellation",
+    "meaning": "별자리",
+    "synonym": [
+      "group",
+      "cluster"
+    ]
+  },
+  {
+    "word": "consult",
+    "meaning": "상담하다",
+    "synonym": []
+  },
+  {
+    "word": "consumer",
+    "meaning": "소비자",
+    "synonym": []
+  },
+  {
+    "word": "consumption",
+    "meaning": "섭취",
+    "synonym": []
+  },
+  {
+    "word": "contact",
+    "meaning": "접촉",
+    "synonym": [
+      "connection",
+      "touch"
+    ]
+  },
+  {
+    "word": "contain",
+    "meaning": "포함하다",
+    "synonym": []
+  },
+  {
+    "word": "contest",
+    "meaning": "경기, 대회",
+    "synonym": []
+  },
+  {
+    "word": "continue",
+    "meaning": "계속하다",
+    "synonym": []
+  },
+  {
+    "word": "continuous",
+    "meaning": "계속되는",
+    "synonym": [
+      "ongoing",
+      "uninterrupted"
+    ]
+  },
+  {
+    "word": "contribute",
+    "meaning": "기여하다",
+    "synonym": [
+      "donate",
+      "provide"
+    ]
+  },
+  {
+    "word": "controversial",
+    "meaning": "논란이 되는",
+    "synonym": [
+      "disputed",
+      "debatable"
+    ]
+  },
+  {
+    "word": "convey",
+    "meaning": "전달하다",
+    "synonym": [
+      "transmit",
+      "communicate"
+    ]
+  },
+  {
+    "word": "convince",
+    "meaning": "설득하다",
+    "synonym": [
+      "persuade",
+      "assure"
+    ]
+  },
+  {
+    "word": "coordinate",
+    "meaning": "조정하다",
+    "synonym": [
+      "organize",
+      "arrange"
+    ]
+  },
+  {
+    "word": "cope with",
+    "meaning": "~을 다루다",
+    "synonym": []
+  },
+  {
+    "word": "copy",
+    "meaning": "사본",
+    "synonym": []
+  },
+  {
+    "word": "corner",
+    "meaning": "구석",
+    "synonym": []
+  },
+  {
+    "word": "corporate",
+    "meaning": "기업의",
+    "synonym": [
+      "business",
+      "company"
+    ]
+  },
+  {
+    "word": "couch",
+    "meaning": "소파",
+    "synonym": []
+  },
+  {
+    "word": "council",
+    "meaning": "시의회",
+    "synonym": []
+  },
+  {
+    "word": "counselor",
+    "meaning": "상담가",
+    "synonym": []
+  },
+  {
+    "word": "couple",
+    "meaning": "부부",
+    "synonym": []
+  },
+  {
+    "word": "courteous",
+    "meaning": "예의 바른",
+    "synonym": []
+  },
+  {
+    "word": "cover",
+    "meaning": "덮다, 감추다",
+    "synonym": []
+  },
+  {
+    "word": "coworker",
+    "meaning": "동료",
+    "synonym": []
+  },
+  {
+    "word": "cozy",
+    "meaning": "안락한",
+    "synonym": []
+  },
+  {
+    "word": "crazy",
+    "meaning": "열광한",
+    "synonym": []
+  },
+  {
+    "word": "create",
+    "meaning": "창조하다",
+    "synonym": []
+  },
+  {
+    "word": "creativity",
+    "meaning": "창의성",
+    "synonym": []
+  },
+  {
+    "word": "criminal",
+    "meaning": "범죄자",
+    "synonym": [
+      "offender",
+      "culprit"
+    ]
+  },
+  {
+    "word": "crisis",
+    "meaning": "위기",
+    "synonym": []
+  },
+  {
+    "word": "critic",
+    "meaning": "비평가",
+    "synonym": [
+      "reviewer",
+      "judge"
+    ]
+  },
+  {
+    "word": "criticize",
+    "meaning": "비판하다",
+    "synonym": [
+      "blame",
+      "condemn"
+    ]
+  },
+  {
+    "word": "cultivate",
+    "meaning": "기르다",
+    "synonym": []
+  },
+  {
+    "word": "current",
+    "meaning": "현재의",
+    "synonym": []
+  },
+  {
+    "word": "customer",
+    "meaning": "고객",
+    "synonym": []
+  },
+  {
+    "word": "dangerous",
+    "meaning": "위험한",
+    "synonym": []
+  },
+  {
+    "word": "daylilie",
+    "meaning": "원추리",
+    "synonym": []
+  },
+  {
+    "word": "deal",
+    "meaning": "(",
+    "synonym": []
+  },
+  {
+    "word": "debatable",
+    "meaning": "논쟁의 여지가 있는",
+    "synonym": []
+  },
+  {
+    "word": "debris",
+    "meaning": "파편",
+    "synonym": []
+  },
+  {
+    "word": "decide",
+    "meaning": "결정하다",
+    "synonym": [
+      "determine",
+      "resolve"
+    ]
+  },
+  {
+    "word": "decline",
+    "meaning": "감소하다",
+    "synonym": []
+  },
+  {
+    "word": "decrease",
+    "meaning": "감소시키다",
+    "synonym": []
+  },
+  {
+    "word": "dedication",
+    "meaning": "헌신",
+    "synonym": [
+      "commitment",
+      "devotion"
+    ]
+  },
+  {
+    "word": "defect",
+    "meaning": "결함",
+    "synonym": [
+      "flaw",
+      "fault"
+    ]
+  },
+  {
+    "word": "degree",
+    "meaning": "정도, 학위",
+    "synonym": [
+      "level",
+      "diploma"
+    ]
+  },
+  {
+    "word": "deliberately",
+    "meaning": "의도적으로",
+    "synonym": []
+  },
+  {
+    "word": "delicious",
+    "meaning": "맛있는",
+    "synonym": []
+  },
+  {
+    "word": "deliver",
+    "meaning": "배달하다",
+    "synonym": [
+      "transport",
+      "bring"
+    ]
+  },
+  {
+    "word": "delivered",
+    "meaning": "전달된",
+    "synonym": []
+  },
+  {
+    "word": "demise",
+    "meaning": "사망, 종말",
+    "synonym": [
+      "death",
+      "end"
+    ]
+  },
+  {
+    "word": "demonstrate",
+    "meaning": "증명하다, 시위하다",
+    "synonym": [
+      "show",
+      "prove"
+    ]
+  },
+  {
+    "word": "department",
+    "meaning": "부서",
+    "synonym": [
+      "division",
+      "section"
+    ]
+  },
+  {
+    "word": "depressed",
+    "meaning": "우울한",
+    "synonym": []
+  },
+  {
+    "word": "depression",
+    "meaning": "우울증",
+    "synonym": []
+  },
+  {
+    "word": "deprived",
+    "meaning": "가난한",
+    "synonym": []
+  },
+  {
+    "word": "derive",
+    "meaning": "끌어내다",
+    "synonym": [
+      "obtain",
+      "extract"
+    ]
+  },
+  {
+    "word": "describe",
+    "meaning": "설명하다",
+    "synonym": [
+      "explain",
+      "detail"
+    ]
+  },
+  {
+    "word": "despite",
+    "meaning": "~에도 불구하고",
+    "synonym": []
+  },
+  {
+    "word": "detain",
+    "meaning": "억류하다",
+    "synonym": []
+  },
+  {
+    "word": "deter",
+    "meaning": "단념시키다",
+    "synonym": [
+      "discourage",
+      "prevent"
+    ]
+  },
+  {
+    "word": "determined",
+    "meaning": "단호한",
+    "synonym": [
+      "resolute",
+      "decided"
+    ]
+  },
+  {
+    "word": "devastating",
+    "meaning": "파괴적인",
+    "synonym": []
+  },
+  {
+    "word": "develop",
+    "meaning": "개발하다",
+    "synonym": [
+      "grow",
+      "advance"
+    ]
+  },
+  {
+    "word": "development",
+    "meaning": "발달",
+    "synonym": []
+  },
+  {
+    "word": "dictate",
+    "meaning": "받아쓰게 하다, 지시하다",
+    "synonym": [
+      "command",
+      "order"
+    ]
+  },
+  {
+    "word": "diet",
+    "meaning": "식단",
+    "synonym": []
+  },
+  {
+    "word": "difference",
+    "meaning": "차이",
+    "synonym": [
+      "distinction",
+      "disparity"
+    ]
+  },
+  {
+    "word": "different",
+    "meaning": "다양한",
+    "synonym": []
+  },
+  {
+    "word": "difficult",
+    "meaning": "어려운",
+    "synonym": []
+  },
+  {
+    "word": "digest",
+    "meaning": "소화하다",
+    "synonym": []
+  },
+  {
+    "word": "diminish",
+    "meaning": "감소하다",
+    "synonym": [
+      "reduce",
+      "decrease"
+    ]
+  },
+  {
+    "word": "dinner",
+    "meaning": "저녁",
+    "synonym": []
+  },
+  {
+    "word": "disability",
+    "meaning": "장애, 무력",
+    "synonym": []
+  },
+  {
+    "word": "disappearance",
+    "meaning": "사라짐",
+    "synonym": [
+      "vanishing",
+      "fading"
+    ]
+  },
+  {
+    "word": "disaster",
+    "meaning": "재난",
+    "synonym": [
+      "catastrophe",
+      "tragedy"
+    ]
+  },
+  {
+    "word": "disastrous",
+    "meaning": "막심한, 비참한",
+    "synonym": []
+  },
+  {
+    "word": "discover",
+    "meaning": "발견하다",
+    "synonym": []
+  },
+  {
+    "word": "discrepancy",
+    "meaning": "불일치",
+    "synonym": [
+      "difference",
+      "inconsistency"
+    ]
+  },
+  {
+    "word": "dish",
+    "meaning": "요리",
+    "synonym": []
+  },
+  {
+    "word": "display",
+    "meaning": "전시하다",
+    "synonym": [
+      "show",
+      "exhibit"
+    ]
+  },
+  {
+    "word": "disregard",
+    "meaning": "무시하다",
+    "synonym": [
+      "ignore",
+      "neglect"
+    ]
+  },
+  {
+    "word": "disruptive",
+    "meaning": "지장을 주는",
+    "synonym": [
+      "disturbing",
+      "troublesome"
+    ]
+  },
+  {
+    "word": "dissolve",
+    "meaning": "녹이다, 해산하다",
+    "synonym": [
+      "melt",
+      "disband"
+    ]
+  },
+  {
+    "word": "distinct",
+    "meaning": "뚜렷한",
+    "synonym": [
+      "clear",
+      "obvious"
+    ]
+  },
+  {
+    "word": "distinguish",
+    "meaning": "구별하다",
+    "synonym": []
+  },
+  {
+    "word": "distribute",
+    "meaning": "분배하다",
+    "synonym": [
+      "allocate",
+      "hand out"
+    ]
+  },
+  {
+    "word": "diverse",
+    "meaning": "다양한",
+    "synonym": [
+      "various",
+      "different"
+    ]
+  },
+  {
+    "word": "divide",
+    "meaning": "나누다",
+    "synonym": [
+      "separate",
+      "split"
+    ]
+  },
+  {
+    "word": "division",
+    "meaning": "분할, 부서",
+    "synonym": [
+      "separation",
+      "department"
+    ]
+  },
+  {
+    "word": "do",
+    "meaning": "하다",
+    "synonym": []
+  },
+  {
+    "word": "dominate",
+    "meaning": "지배하다",
+    "synonym": [
+      "control",
+      "rule"
+    ]
+  },
+  {
+    "word": "donate",
+    "meaning": "기부하다",
+    "synonym": []
+  },
+  {
+    "word": "doubt",
+    "meaning": "의심하다",
+    "synonym": [
+      "question",
+      "suspect"
+    ]
+  },
+  {
+    "word": "drain",
+    "meaning": "물기를 빼다",
+    "synonym": [
+      "empty",
+      "exhaust"
+    ]
+  },
+  {
+    "word": "drop",
+    "meaning": "감소",
+    "synonym": []
+  },
+  {
+    "word": "dropout",
+    "meaning": "중퇴자",
+    "synonym": []
+  },
+  {
+    "word": "drummer",
+    "meaning": "드러머",
+    "synonym": []
+  },
+  {
+    "word": "due",
+    "meaning": "~할 예정인, 기한이 된",
+    "synonym": [
+      "expected",
+      "scheduled"
+    ]
+  },
+  {
+    "word": "due to",
+    "meaning": "~ 때문에",
+    "synonym": []
+  },
+  {
+    "word": "dump",
+    "meaning": "버리다",
+    "synonym": []
+  },
+  {
+    "word": "during",
+    "meaning": "~동안",
+    "synonym": []
+  },
+  {
+    "word": "each",
+    "meaning": "각각의",
+    "synonym": []
+  },
+  {
+    "word": "eagerness",
+    "meaning": "열망",
+    "synonym": [
+      "enthusiasm",
+      "desire"
+    ]
+  },
+  {
+    "word": "early",
+    "meaning": "이른, 초기의",
+    "synonym": []
+  },
+  {
+    "word": "earn",
+    "meaning": "얻다, 따다",
+    "synonym": []
+  },
+  {
+    "word": "earthquake",
+    "meaning": "지진",
+    "synonym": []
+  },
+  {
+    "word": "eating",
+    "meaning": "먹기",
+    "synonym": []
+  },
+  {
+    "word": "ecosystem",
+    "meaning": "생태계",
+    "synonym": []
+  },
+  {
+    "word": "edible",
+    "meaning": "식용의",
+    "synonym": []
+  },
+  {
+    "word": "editorial",
+    "meaning": "사설",
+    "synonym": [
+      "article",
+      "commentary"
+    ]
+  },
+  {
+    "word": "education",
+    "meaning": "교육",
+    "synonym": []
+  },
+  {
+    "word": "effect",
+    "meaning": "영향",
+    "synonym": []
+  },
+  {
+    "word": "effective",
+    "meaning": "효과적인",
+    "synonym": [
+      "efficient",
+      "productive"
+    ]
+  },
+  {
+    "word": "efficiently",
+    "meaning": "효율적으로",
+    "synonym": []
+  },
+  {
+    "word": "effort",
+    "meaning": "노력",
+    "synonym": [
+      "attempt",
+      "endeavor"
+    ]
+  },
+  {
+    "word": "electricity",
+    "meaning": "전기",
+    "synonym": [
+      "power",
+      "energy"
+    ]
+  },
+  {
+    "word": "elevate",
+    "meaning": "올리다",
+    "synonym": [
+      "raise",
+      "lift"
+    ]
+  },
+  {
+    "word": "emergence",
+    "meaning": "출현",
+    "synonym": []
+  },
+  {
+    "word": "emergency",
+    "meaning": "응급 상황",
+    "synonym": [
+      "crisis",
+      "urgency"
+    ]
+  },
+  {
+    "word": "emissions",
+    "meaning": "배출, 배출물",
+    "synonym": []
+  },
+  {
+    "word": "emotional",
+    "meaning": "감정적인",
+    "synonym": []
+  },
+  {
+    "word": "emphasis",
+    "meaning": "강조",
+    "synonym": [
+      "stress",
+      "importance"
+    ]
+  },
+  {
+    "word": "employ",
+    "meaning": "고용하다",
+    "synonym": [
+      "hire",
+      "recruit"
+    ]
+  },
+  {
+    "word": "employee",
+    "meaning": "직원",
+    "synonym": []
+  },
+  {
+    "word": "employer",
+    "meaning": "사장",
+    "synonym": []
+  },
+  {
+    "word": "enclose",
+    "meaning": "동봉하다, 에워싸다",
+    "synonym": [
+      "include",
+      "surround"
+    ]
+  },
+  {
+    "word": "encourage",
+    "meaning": "장려하다",
+    "synonym": []
+  },
+  {
+    "word": "endure",
+    "meaning": "견디다",
+    "synonym": [
+      "bear",
+      "tolerate"
+    ]
+  },
+  {
+    "word": "engaged",
+    "meaning": "약혼한, 바쁜",
+    "synonym": [
+      "occupied",
+      "committed"
+    ]
+  },
+  {
+    "word": "english",
+    "meaning": "영국의",
+    "synonym": []
+  },
+  {
+    "word": "enjoy",
+    "meaning": "즐기다, 누리다",
+    "synonym": []
+  },
+  {
+    "word": "enlarge",
+    "meaning": "확대하다",
+    "synonym": [
+      "expand",
+      "increase"
+    ]
+  },
+  {
+    "word": "enough",
+    "meaning": "충분한",
+    "synonym": []
+  },
+  {
+    "word": "enrage",
+    "meaning": "격분하게 하다",
+    "synonym": [
+      "anger",
+      "infuriate"
+    ]
+  },
+  {
+    "word": "enter",
+    "meaning": "들어가다",
+    "synonym": []
+  },
+  {
+    "word": "entertain",
+    "meaning": "즐겁게 하다",
+    "synonym": [
+      "amuse",
+      "delight"
+    ]
+  },
+  {
+    "word": "enthusiast",
+    "meaning": "열광적인 팬",
+    "synonym": [
+      "fan",
+      "supporter"
+    ]
+  },
+  {
+    "word": "entire",
+    "meaning": "전체의",
+    "synonym": []
+  },
+  {
+    "word": "entrepreneur",
+    "meaning": "기업가",
+    "synonym": [
+      "businessman",
+      "founder"
+    ]
+  },
+  {
+    "word": "entry",
+    "meaning": "입장, 출품작",
+    "synonym": [
+      "admission",
+      "submission"
+    ]
+  },
+  {
+    "word": "environment",
+    "meaning": "환경",
+    "synonym": [
+      "surroundings",
+      "nature"
+    ]
+  },
+  {
+    "word": "equal",
+    "meaning": "동등한",
+    "synonym": []
+  },
+  {
+    "word": "error",
+    "meaning": "오류",
+    "synonym": []
+  },
+  {
+    "word": "escape",
+    "meaning": "탈출하다",
+    "synonym": [
+      "flee",
+      "get away"
+    ]
+  },
+  {
+    "word": "especially",
+    "meaning": "특히",
+    "synonym": [
+      "particularly",
+      "notably"
+    ]
+  },
+  {
+    "word": "essential",
+    "meaning": "필수적인",
+    "synonym": []
+  },
+  {
+    "word": "establish",
+    "meaning": "설립하다",
+    "synonym": []
+  },
+  {
+    "word": "evacuate",
+    "meaning": "대피시키다",
+    "synonym": [
+      "clear",
+      "empty"
+    ]
+  },
+  {
+    "word": "evaporate",
+    "meaning": "증발하다",
+    "synonym": [
+      "vaporize",
+      "dry up"
+    ]
+  },
+  {
+    "word": "even",
+    "meaning": "심지어",
+    "synonym": []
+  },
+  {
+    "word": "even though",
+    "meaning": "비록 ~일지라도",
+    "synonym": []
+  },
+  {
+    "word": "event",
+    "meaning": "사건",
+    "synonym": []
+  },
+  {
+    "word": "eventually",
+    "meaning": "결국",
+    "synonym": [
+      "finally",
+      "ultimately"
+    ]
+  },
+  {
+    "word": "every",
+    "meaning": "모든",
+    "synonym": []
+  },
+  {
+    "word": "every month",
+    "meaning": "매달",
+    "synonym": []
+  },
+  {
+    "word": "every year",
+    "meaning": "매년",
+    "synonym": []
+  },
+  {
+    "word": "everyone",
+    "meaning": "모든 사람",
+    "synonym": []
+  },
+  {
+    "word": "evidence",
+    "meaning": "증거",
+    "synonym": [
+      "proof",
+      "indication"
+    ]
+  },
+  {
+    "word": "examine",
+    "meaning": "조사하다",
+    "synonym": []
+  },
+  {
+    "word": "excellent",
+    "meaning": "훌륭한",
+    "synonym": []
+  },
+  {
+    "word": "excessive",
+    "meaning": "과도한",
+    "synonym": []
+  },
+  {
+    "word": "exciting",
+    "meaning": "신나는",
+    "synonym": []
+  },
+  {
+    "word": "exclusive",
+    "meaning": "독점적인",
+    "synonym": [
+      "sole",
+      "private"
+    ]
+  },
+  {
+    "word": "excuse",
+    "meaning": "변명, 용서하다",
+    "synonym": [
+      "apology",
+      "forgive"
+    ]
+  },
+  {
+    "word": "executive",
+    "meaning": "임원, 경영진",
+    "synonym": [
+      "manager",
+      "director"
+    ]
+  },
+  {
+    "word": "exhaust",
+    "meaning": "지치다",
+    "synonym": []
+  },
+  {
+    "word": "exhibit",
+    "meaning": "전시하다",
+    "synonym": [
+      "display",
+      "show"
+    ]
+  },
+  {
+    "word": "exist",
+    "meaning": "존재하다",
+    "synonym": []
+  },
+  {
+    "word": "existence",
+    "meaning": "존재",
+    "synonym": [
+      "being",
+      "presence"
+    ]
+  },
+  {
+    "word": "expansion",
+    "meaning": "확장",
+    "synonym": [
+      "growth",
+      "enlargement"
+    ]
+  },
+  {
+    "word": "expect",
+    "meaning": "기대하다",
+    "synonym": [
+      "anticipate",
+      "await"
+    ]
+  },
+  {
+    "word": "expense",
+    "meaning": "지출",
+    "synonym": []
+  },
+  {
+    "word": "expensive",
+    "meaning": "비싼",
+    "synonym": []
+  },
+  {
+    "word": "experience",
+    "meaning": "경험하다",
+    "synonym": []
+  },
+  {
+    "word": "experiment",
+    "meaning": "실험",
+    "synonym": [
+      "test",
+      "trial"
+    ]
+  },
+  {
+    "word": "expert",
+    "meaning": "전문가",
+    "synonym": []
+  },
+  {
+    "word": "expertise",
+    "meaning": "전문 지식",
+    "synonym": [
+      "skill",
+      "knowledge"
+    ]
+  },
+  {
+    "word": "explorer",
+    "meaning": "탐험가",
+    "synonym": [
+      "adventurer",
+      "traveler"
+    ]
+  },
+  {
+    "word": "express",
+    "meaning": "표현하다",
+    "synonym": []
+  },
+  {
+    "word": "extend",
+    "meaning": "연장하다",
+    "synonym": [
+      "prolong",
+      "stretch"
+    ]
+  },
+  {
+    "word": "extended",
+    "meaning": "늘어난",
+    "synonym": []
+  },
+  {
+    "word": "extensive",
+    "meaning": "광범위한",
+    "synonym": [
+      "broad",
+      "widespread"
+    ]
+  },
+  {
+    "word": "extent",
+    "meaning": "정도, 규모",
+    "synonym": [
+      "degree",
+      "scope"
+    ]
+  },
+  {
+    "word": "extinct",
+    "meaning": "멸종된",
+    "synonym": [
+      "vanished",
+      "dead"
+    ]
+  },
+  {
+    "word": "extinction",
+    "meaning": "멸종",
+    "synonym": []
+  },
+  {
+    "word": "extra",
+    "meaning": "추가의",
+    "synonym": []
+  },
+  {
+    "word": "extreme",
+    "meaning": "극심한",
+    "synonym": []
+  },
+  {
+    "word": "extremely",
+    "meaning": "극도로",
+    "synonym": []
+  },
+  {
+    "word": "face",
+    "meaning": "직면하다",
+    "synonym": [
+      "confront",
+      "encounter"
+    ]
+  },
+  {
+    "word": "facility",
+    "meaning": "시설",
+    "synonym": [
+      "amenity",
+      "building"
+    ]
+  },
+  {
+    "word": "facing",
+    "meaning": "직면한",
+    "synonym": []
+  },
+  {
+    "word": "factor",
+    "meaning": "요인",
+    "synonym": [
+      "element",
+      "cause"
+    ]
+  },
+  {
+    "word": "factory",
+    "meaning": "공장",
+    "synonym": []
+  },
+  {
+    "word": "fail",
+    "meaning": "실패하다",
+    "synonym": []
+  },
+  {
+    "word": "fallen",
+    "meaning": "빠진",
+    "synonym": []
+  },
+  {
+    "word": "false",
+    "meaning": "잘못된",
+    "synonym": []
+  },
+  {
+    "word": "famous",
+    "meaning": "유명한",
+    "synonym": []
+  },
+  {
+    "word": "fancy",
+    "meaning": "고급의",
+    "synonym": []
+  },
+  {
+    "word": "fantasy",
+    "meaning": "환상",
+    "synonym": []
+  },
+  {
+    "word": "farmers",
+    "meaning": "농부",
+    "synonym": []
+  },
+  {
+    "word": "fascinate",
+    "meaning": "매혹하다",
+    "synonym": [
+      "captivate",
+      "attract"
+    ]
+  },
+  {
+    "word": "faster",
+    "meaning": "더 빠르게",
+    "synonym": []
+  },
+  {
+    "word": "fatal",
+    "meaning": "치명적인",
+    "synonym": []
+  },
+  {
+    "word": "feature",
+    "meaning": "특징",
+    "synonym": [
+      "characteristic",
+      "trait"
+    ]
+  },
+  {
+    "word": "features",
+    "meaning": "특징",
+    "synonym": []
+  },
+  {
+    "word": "feeling",
+    "meaning": "감정",
+    "synonym": []
+  },
+  {
+    "word": "field",
+    "meaning": "분야",
+    "synonym": []
+  },
+  {
+    "word": "figure",
+    "meaning": "수치, 인물",
+    "synonym": [
+      "number",
+      "person"
+    ]
+  },
+  {
+    "word": "finally",
+    "meaning": "마침내",
+    "synonym": []
+  },
+  {
+    "word": "finance",
+    "meaning": "재정",
+    "synonym": [
+      "funding",
+      "economics"
+    ]
+  },
+  {
+    "word": "financial",
+    "meaning": "재정적인",
+    "synonym": []
+  },
+  {
+    "word": "financially",
+    "meaning": "재정적으로",
+    "synonym": []
+  },
+  {
+    "word": "find",
+    "meaning": "발견하다",
+    "synonym": []
+  },
+  {
+    "word": "finding",
+    "meaning": "발견",
+    "synonym": [
+      "discovery",
+      "result"
+    ]
+  },
+  {
+    "word": "finish",
+    "meaning": "마치다",
+    "synonym": []
+  },
+  {
+    "word": "firm",
+    "meaning": "확고한, 회사",
+    "synonym": [
+      "solid",
+      "company"
+    ]
+  },
+  {
+    "word": "fitness",
+    "meaning": "건강",
+    "synonym": []
+  },
+  {
+    "word": "flame",
+    "meaning": "불꽃",
+    "synonym": [
+      "fire",
+      "blaze"
+    ]
+  },
+  {
+    "word": "flavor",
+    "meaning": "맛",
+    "synonym": [
+      "taste",
+      "savor"
+    ]
+  },
+  {
+    "word": "flaw",
+    "meaning": "결점",
+    "synonym": []
+  },
+  {
+    "word": "flexibility",
+    "meaning": "유연성",
+    "synonym": [
+      "adaptability",
+      "elasticity"
+    ]
+  },
+  {
+    "word": "flirt",
+    "meaning": "추파를 던지다",
+    "synonym": [
+      "tease",
+      "play"
+    ]
+  },
+  {
+    "word": "follow",
+    "meaning": "따르다",
+    "synonym": []
+  },
+  {
+    "word": "fondness",
+    "meaning": "애정",
+    "synonym": [
+      "affection",
+      "liking"
+    ]
+  },
+  {
+    "word": "footage",
+    "meaning": "화면",
+    "synonym": []
+  },
+  {
+    "word": "for",
+    "meaning": "~를 위해",
+    "synonym": []
+  },
+  {
+    "word": "for example",
+    "meaning": "예를 들어",
+    "synonym": []
+  },
+  {
+    "word": "forced",
+    "meaning": "강요받는",
+    "synonym": []
+  },
+  {
+    "word": "fortunately",
+    "meaning": "다행히",
+    "synonym": []
+  },
+  {
+    "word": "foster",
+    "meaning": "육성하다",
+    "synonym": [
+      "encourage",
+      "promote"
+    ]
+  },
+  {
+    "word": "found",
+    "meaning": "설립하다",
+    "synonym": [
+      "establish",
+      "create"
+    ]
+  },
+  {
+    "word": "fraud",
+    "meaning": "사기",
+    "synonym": [
+      "deceit",
+      "scam"
+    ]
+  },
+  {
+    "word": "freight",
+    "meaning": "화물",
+    "synonym": [
+      "cargo",
+      "shipment"
+    ]
+  },
+  {
+    "word": "friendships",
+    "meaning": "우정",
+    "synonym": []
+  },
+  {
+    "word": "from",
+    "meaning": "~로 부터",
+    "synonym": []
+  },
+  {
+    "word": "fruitful",
+    "meaning": "결실 있는",
+    "synonym": [
+      "productive",
+      "profitable"
+    ]
+  },
+  {
+    "word": "fulfill",
+    "meaning": "성취하다",
+    "synonym": [
+      "accomplish",
+      "achieve"
+    ]
+  },
+  {
+    "word": "full",
+    "meaning": "완전한",
+    "synonym": []
+  },
+  {
+    "word": "full of",
+    "meaning": "~로 가득찬",
+    "synonym": []
+  },
+  {
+    "word": "function",
+    "meaning": "기능하다",
+    "synonym": []
+  },
+  {
+    "word": "fund",
+    "meaning": "자금",
+    "synonym": [
+      "money",
+      "capital"
+    ]
+  },
+  {
+    "word": "furniture",
+    "meaning": "가구",
+    "synonym": []
+  },
+  {
+    "word": "further",
+    "meaning": "더 이상의",
+    "synonym": [
+      "additional",
+      "more"
+    ]
+  },
+  {
+    "word": "furthermore",
+    "meaning": "게다가",
+    "synonym": []
+  },
+  {
+    "word": "future",
+    "meaning": "미래",
+    "synonym": []
+  },
+  {
+    "word": "gain",
+    "meaning": "얻다",
+    "synonym": []
+  },
+  {
+    "word": "gather",
+    "meaning": "모으다",
+    "synonym": []
+  },
+  {
+    "word": "generous",
+    "meaning": "관대한",
+    "synonym": []
+  },
+  {
+    "word": "genuine",
+    "meaning": "진짜의",
+    "synonym": [
+      "real",
+      "authentic"
+    ]
+  },
+  {
+    "word": "get",
+    "meaning": "따다",
+    "synonym": []
+  },
+  {
+    "word": "get in",
+    "meaning": "들어가다",
+    "synonym": []
+  },
+  {
+    "word": "get in shape",
+    "meaning": "몸매를 가꾸다",
+    "synonym": []
+  },
+  {
+    "word": "get out of",
+    "meaning": "~에서 나오다",
+    "synonym": []
+  },
+  {
+    "word": "give",
+    "meaning": "주다",
+    "synonym": []
+  },
+  {
+    "word": "give up",
+    "meaning": "포기하다",
+    "synonym": []
+  },
+  {
+    "word": "global",
+    "meaning": "전 세계의",
+    "synonym": []
+  },
+  {
+    "word": "go out of business",
+    "meaning": "폐업하다",
+    "synonym": []
+  },
+  {
+    "word": "goal",
+    "meaning": "목표",
+    "synonym": []
+  },
+  {
+    "word": "government",
+    "meaning": "정부",
+    "synonym": [
+      "administration",
+      "authority"
+    ]
+  },
+  {
+    "word": "graduate",
+    "meaning": "졸업하다",
+    "synonym": [
+      "complete",
+      "finish"
+    ]
+  },
+  {
+    "word": "greatly",
+    "meaning": "크게",
+    "synonym": [
+      "highly",
+      "immensely"
+    ]
+  },
+  {
+    "word": "guilty",
+    "meaning": "유죄의",
+    "synonym": [
+      "culpable",
+      "responsible"
+    ]
+  },
+  {
+    "word": "had lost",
+    "meaning": "졌다",
+    "synonym": []
+  },
+  {
+    "word": "halve",
+    "meaning": "반으로 줄이다",
+    "synonym": []
+  },
+  {
+    "word": "happiness",
+    "meaning": "행복",
+    "synonym": []
+  },
+  {
+    "word": "hard",
+    "meaning": "열심히",
+    "synonym": []
+  },
+  {
+    "word": "harmful",
+    "meaning": "해로운",
+    "synonym": []
+  },
+  {
+    "word": "has grown",
+    "meaning": "성장해오고 있다",
+    "synonym": []
+  },
+  {
+    "word": "has won",
+    "meaning": "타오고 있다",
+    "synonym": []
+  },
+  {
+    "word": "have",
+    "meaning": "가지다",
+    "synonym": []
+  },
+  {
+    "word": "have brought",
+    "meaning": "가져오고 있다",
+    "synonym": []
+  },
+  {
+    "word": "hazardous",
+    "meaning": "유해한",
+    "synonym": []
+  },
+  {
+    "word": "head",
+    "meaning": "향하다, 우두머리",
+    "synonym": [
+      "lead",
+      "chief"
+    ]
+  },
+  {
+    "word": "headache",
+    "meaning": "두통",
+    "synonym": []
+  },
+  {
+    "word": "health",
+    "meaning": "건강",
+    "synonym": []
+  },
+  {
+    "word": "healthy",
+    "meaning": "건강한",
+    "synonym": []
+  },
+  {
+    "word": "hear",
+    "meaning": "듣다",
+    "synonym": []
+  },
+  {
+    "word": "heartbeat",
+    "meaning": "심장 박동",
+    "synonym": []
+  },
+  {
+    "word": "hemisphere",
+    "meaning": "반구",
+    "synonym": [
+      "half",
+      "section"
+    ]
+  },
+  {
+    "word": "hide",
+    "meaning": "숨기다",
+    "synonym": []
+  },
+  {
+    "word": "higher",
+    "meaning": "더 높은",
+    "synonym": []
+  },
+  {
+    "word": "hike",
+    "meaning": "하이킹하다, 인상하다",
+    "synonym": [
+      "walk",
+      "increase"
+    ]
+  },
+  {
+    "word": "hire",
+    "meaning": "고용하다",
+    "synonym": [
+      "employ",
+      "recruit"
+    ]
+  },
+  {
+    "word": "hit",
+    "meaning": "치다",
+    "synonym": []
+  },
+  {
+    "word": "hobby",
+    "meaning": "취미",
+    "synonym": []
+  },
+  {
+    "word": "hold",
+    "meaning": "열다, 개최하다",
+    "synonym": []
+  },
+  {
+    "word": "hollow",
+    "meaning": "속이 빈",
+    "synonym": [
+      "empty",
+      "vacant"
+    ]
+  },
+  {
+    "word": "honor",
+    "meaning": "명예",
+    "synonym": [
+      "respect",
+      "glory"
+    ]
+  },
+  {
+    "word": "horizon",
+    "meaning": "시야",
+    "synonym": []
+  },
+  {
+    "word": "horizontal",
+    "meaning": "수평의",
+    "synonym": [
+      "level",
+      "flat"
+    ]
+  },
+  {
+    "word": "hour",
+    "meaning": "시간",
+    "synonym": []
+  },
+  {
+    "word": "however",
+    "meaning": "그러나",
+    "synonym": []
+  },
+  {
+    "word": "hurt",
+    "meaning": "다치게 하다",
+    "synonym": []
+  },
+  {
+    "word": "husband",
+    "meaning": "남편",
+    "synonym": []
+  },
+  {
+    "word": "id card",
+    "meaning": "신분증",
+    "synonym": []
+  },
+  {
+    "word": "identity",
+    "meaning": "정체성",
+    "synonym": []
+  },
+  {
+    "word": "if",
+    "meaning": "만약 ~하다면",
+    "synonym": []
+  },
+  {
+    "word": "ignore",
+    "meaning": "무시하다",
+    "synonym": []
+  },
+  {
+    "word": "illegal",
+    "meaning": "불법적인",
+    "synonym": []
+  },
+  {
+    "word": "immediately",
+    "meaning": "즉시",
+    "synonym": []
+  },
+  {
+    "word": "immerse",
+    "meaning": "몰두하다",
+    "synonym": []
+  },
+  {
+    "word": "immigrant",
+    "meaning": "이민자",
+    "synonym": [
+      "settler",
+      "newcomer"
+    ]
+  },
+  {
+    "word": "impact",
+    "meaning": "영향",
+    "synonym": []
+  },
+  {
+    "word": "implement",
+    "meaning": "실행하다",
+    "synonym": [
+      "execute",
+      "apply"
+    ]
+  },
+  {
+    "word": "importance",
+    "meaning": "중요성",
+    "synonym": []
+  },
+  {
+    "word": "important",
+    "meaning": "중요한",
+    "synonym": []
+  },
+  {
+    "word": "impress",
+    "meaning": "깊은 인상을 주다",
+    "synonym": [
+      "affect",
+      "influence"
+    ]
+  },
+  {
+    "word": "impression",
+    "meaning": "인상",
+    "synonym": []
+  },
+  {
+    "word": "improve",
+    "meaning": "개선시키다",
+    "synonym": []
+  },
+  {
+    "word": "in",
+    "meaning": "~에, ~에서",
+    "synonym": []
+  },
+  {
+    "word": "in addition",
+    "meaning": "게다가",
+    "synonym": []
+  },
+  {
+    "word": "in case that",
+    "meaning": "~하는 경우에",
+    "synonym": []
+  },
+  {
+    "word": "in contrast",
+    "meaning": "대조적으로",
+    "synonym": []
+  },
+  {
+    "word": "in fact",
+    "meaning": "사실",
+    "synonym": []
+  },
+  {
+    "word": "in spite of",
+    "meaning": "~에도 불구하고",
+    "synonym": []
+  },
+  {
+    "word": "inability",
+    "meaning": "무능력",
+    "synonym": [
+      "incapacity",
+      "failure"
+    ]
+  },
+  {
+    "word": "inadequate",
+    "meaning": "불충분한",
+    "synonym": []
+  },
+  {
+    "word": "inclined",
+    "meaning": "~하는 경향이 있는",
+    "synonym": [
+      "prone",
+      "tending"
+    ]
+  },
+  {
+    "word": "including",
+    "meaning": "~을 포함하여",
+    "synonym": []
+  },
+  {
+    "word": "incomes",
+    "meaning": "수입",
+    "synonym": []
+  },
+  {
+    "word": "inconsistent",
+    "meaning": "불안정한",
+    "synonym": []
+  },
+  {
+    "word": "increase",
+    "meaning": "증가하다",
+    "synonym": []
+  },
+  {
+    "word": "increased",
+    "meaning": "증가된",
+    "synonym": []
+  },
+  {
+    "word": "independent",
+    "meaning": "독립적인",
+    "synonym": [
+      "free",
+      "autonomous"
+    ]
+  },
+  {
+    "word": "indicate",
+    "meaning": "나타내다",
+    "synonym": [
+      "show",
+      "point out"
+    ]
+  },
+  {
+    "word": "individual",
+    "meaning": "개인",
+    "synonym": [
+      "person",
+      "single"
+    ]
+  },
+  {
+    "word": "individuality",
+    "meaning": "개성",
+    "synonym": []
+  },
+  {
+    "word": "induce",
+    "meaning": "유도하다",
+    "synonym": []
+  },
+  {
+    "word": "industrial",
+    "meaning": "산업의",
+    "synonym": []
+  },
+  {
+    "word": "industry",
+    "meaning": "산업",
+    "synonym": [
+      "business",
+      "trade"
+    ]
+  },
+  {
+    "word": "inflate",
+    "meaning": "부풀리다",
+    "synonym": [
+      "expand",
+      "blow up"
+    ]
+  },
+  {
+    "word": "influence",
+    "meaning": "영향",
+    "synonym": [
+      "impact",
+      "effect"
+    ]
+  },
+  {
+    "word": "inform",
+    "meaning": "알리다",
+    "synonym": [
+      "notify",
+      "tell"
+    ]
+  },
+  {
+    "word": "information",
+    "meaning": "정보",
+    "synonym": []
+  },
+  {
+    "word": "infrared",
+    "meaning": "적외선의",
+    "synonym": [
+      "light",
+      "spectrum"
+    ]
+  },
+  {
+    "word": "ingredient",
+    "meaning": "재료",
+    "synonym": []
+  },
+  {
+    "word": "inhale",
+    "meaning": "숨을 들이쉬다",
+    "synonym": [
+      "breathe in",
+      "gasp"
+    ]
+  },
+  {
+    "word": "inhibit",
+    "meaning": "억제하다",
+    "synonym": [
+      "prevent",
+      "restrict"
+    ]
+  },
+  {
+    "word": "initially",
+    "meaning": "처음에",
+    "synonym": [
+      "originally",
+      "first"
+    ]
+  },
+  {
+    "word": "injured",
+    "meaning": "부상 당한",
+    "synonym": []
+  },
+  {
+    "word": "innovation",
+    "meaning": "혁신",
+    "synonym": []
+  },
+  {
+    "word": "inquiry",
+    "meaning": "질문, 조사",
+    "synonym": [
+      "question",
+      "investigation"
+    ]
+  },
+  {
+    "word": "insect",
+    "meaning": "곤충",
+    "synonym": []
+  },
+  {
+    "word": "insecurity",
+    "meaning": "불안정",
+    "synonym": []
+  },
+  {
+    "word": "insist",
+    "meaning": "주장하다",
+    "synonym": []
+  },
+  {
+    "word": "inspire",
+    "meaning": "영감을 주다",
+    "synonym": [
+      "encourage",
+      "motivate"
+    ]
+  },
+  {
+    "word": "instant",
+    "meaning": "즉각적인",
+    "synonym": [
+      "immediate",
+      "prompt"
+    ]
+  },
+  {
+    "word": "instead",
+    "meaning": "대신에",
+    "synonym": []
+  },
+  {
+    "word": "instead of",
+    "meaning": "~대신에",
+    "synonym": []
+  },
+  {
+    "word": "instruct",
+    "meaning": "지시하다",
+    "synonym": [
+      "teach",
+      "direct"
+    ]
+  },
+  {
+    "word": "instrument",
+    "meaning": "도구",
+    "synonym": []
+  },
+  {
+    "word": "intelligent",
+    "meaning": "지능적인",
+    "synonym": [
+      "smart",
+      "clever"
+    ]
+  },
+  {
+    "word": "intense",
+    "meaning": "강렬한",
+    "synonym": [
+      "extreme",
+      "severe"
+    ]
+  },
+  {
+    "word": "intensely",
+    "meaning": "강도높게",
+    "synonym": []
+  },
+  {
+    "word": "intent",
+    "meaning": "의도",
+    "synonym": [
+      "purpose",
+      "aim"
+    ]
+  },
+  {
+    "word": "interest",
+    "meaning": "흥미",
+    "synonym": []
+  },
+  {
+    "word": "into",
+    "meaning": "~로",
+    "synonym": []
+  },
+  {
+    "word": "invent",
+    "meaning": "발명하다",
+    "synonym": [
+      "create",
+      "discover"
+    ]
+  },
+  {
+    "word": "invest",
+    "meaning": "투자하다",
+    "synonym": [
+      "fund",
+      "spend"
+    ]
+  },
+  {
+    "word": "investigation",
+    "meaning": "조사",
+    "synonym": [
+      "examination",
+      "study"
+    ]
+  },
+  {
+    "word": "invite",
+    "meaning": "초대하다",
+    "synonym": [
+      "ask",
+      "request"
+    ]
+  },
+  {
+    "word": "invoice",
+    "meaning": "청구서",
+    "synonym": [
+      "bill",
+      "statement"
+    ]
+  },
+  {
+    "word": "involve",
+    "meaning": "포함하다",
+    "synonym": [
+      "include",
+      "entail"
+    ]
+  },
+  {
+    "word": "irritation",
+    "meaning": "염증",
+    "synonym": []
+  },
+  {
+    "word": "is",
+    "meaning": "있다",
+    "synonym": []
+  },
+  {
+    "word": "isolation",
+    "meaning": "고립",
+    "synonym": [
+      "separation",
+      "seclusion"
+    ]
+  },
+  {
+    "word": "issue",
+    "meaning": "문제, 발행하다",
+    "synonym": [
+      "problem",
+      "publish"
+    ]
+  },
+  {
+    "word": "item",
+    "meaning": "품목, 항목",
+    "synonym": []
+  },
+  {
+    "word": "jail",
+    "meaning": "감옥",
+    "synonym": []
+  },
+  {
+    "word": "juvenile",
+    "meaning": "청소년의",
+    "synonym": [
+      "young",
+      "adolescent"
+    ]
+  },
+  {
+    "word": "keep",
+    "meaning": "유지하다",
+    "synonym": []
+  },
+  {
+    "word": "keep on",
+    "meaning": "계속 ~하다",
+    "synonym": []
+  },
+  {
+    "word": "kid",
+    "meaning": "아이",
+    "synonym": []
+  },
+  {
+    "word": "kill",
+    "meaning": "죽이다",
+    "synonym": []
+  },
+  {
+    "word": "kindergarten",
+    "meaning": "유치원",
+    "synonym": []
+  },
+  {
+    "word": "know",
+    "meaning": "알다",
+    "synonym": []
+  },
+  {
+    "word": "knowledge",
+    "meaning": "지식",
+    "synonym": [
+      "understanding",
+      "information"
+    ]
+  },
+  {
+    "word": "known",
+    "meaning": "알려진",
+    "synonym": []
+  },
+  {
+    "word": "label",
+    "meaning": "라벨",
+    "synonym": []
+  },
+  {
+    "word": "labor",
+    "meaning": "노동",
+    "synonym": [
+      "work",
+      "effort"
+    ]
+  },
+  {
+    "word": "lack",
+    "meaning": "부족",
+    "synonym": [
+      "shortage",
+      "deficiency"
+    ]
+  },
+  {
+    "word": "land",
+    "meaning": "얻다",
+    "synonym": []
+  },
+  {
+    "word": "landing",
+    "meaning": "착륙",
+    "synonym": []
+  },
+  {
+    "word": "language",
+    "meaning": "언어",
+    "synonym": []
+  },
+  {
+    "word": "largest",
+    "meaning": "가장 큰",
+    "synonym": []
+  },
+  {
+    "word": "last",
+    "meaning": "마지막의, 지속되다",
+    "synonym": [
+      "final",
+      "continue"
+    ]
+  },
+  {
+    "word": "last year",
+    "meaning": "작년",
+    "synonym": []
+  },
+  {
+    "word": "lawn",
+    "meaning": "잔디",
+    "synonym": []
+  },
+  {
+    "word": "lazy",
+    "meaning": "게으른",
+    "synonym": []
+  },
+  {
+    "word": "lead to",
+    "meaning": "~로 이어지다",
+    "synonym": []
+  },
+  {
+    "word": "leads to",
+    "meaning": "~로 이어지다",
+    "synonym": []
+  },
+  {
+    "word": "lean",
+    "meaning": "기대다",
+    "synonym": [
+      "bend",
+      "rest"
+    ]
+  },
+  {
+    "word": "learn",
+    "meaning": "알다, 배우다",
+    "synonym": []
+  },
+  {
+    "word": "lecture",
+    "meaning": "강의",
+    "synonym": []
+  },
+  {
+    "word": "left",
+    "meaning": "왼쪽의",
+    "synonym": []
+  },
+  {
+    "word": "length",
+    "meaning": "길이",
+    "synonym": [
+      "distance",
+      "extent"
+    ]
+  },
+  {
+    "word": "level",
+    "meaning": "수준",
+    "synonym": []
+  },
+  {
+    "word": "life",
+    "meaning": "삶",
+    "synonym": []
+  },
+  {
+    "word": "lifelong",
+    "meaning": "평생의",
+    "synonym": []
+  },
+  {
+    "word": "light",
+    "meaning": "불을 붙이다",
+    "synonym": []
+  },
+  {
+    "word": "lighting",
+    "meaning": "조명",
+    "synonym": []
+  },
+  {
+    "word": "like",
+    "meaning": "~같은",
+    "synonym": []
+  },
+  {
+    "word": "likewise",
+    "meaning": "마찬가지로",
+    "synonym": [
+      "similarly",
+      "also"
+    ]
+  },
+  {
+    "word": "limited",
+    "meaning": "제한된",
+    "synonym": [
+      "restricted",
+      "bounded"
+    ]
+  },
+  {
+    "word": "line",
+    "meaning": "경계",
+    "synonym": []
+  },
+  {
+    "word": "linguist",
+    "meaning": "언어학자",
+    "synonym": [
+      "language expert",
+      "translator"
+    ]
+  },
+  {
+    "word": "listen",
+    "meaning": "귀를 기울이다",
+    "synonym": []
+  },
+  {
+    "word": "literature",
+    "meaning": "문학",
+    "synonym": [
+      "writings",
+      "books"
+    ]
+  },
+  {
+    "word": "live",
+    "meaning": "삶",
+    "synonym": []
+  },
+  {
+    "word": "lives",
+    "meaning": "삶",
+    "synonym": []
+  },
+  {
+    "word": "living",
+    "meaning": "생활",
+    "synonym": []
+  },
+  {
+    "word": "loan",
+    "meaning": "대출",
+    "synonym": []
+  },
+  {
+    "word": "local",
+    "meaning": "지역의",
+    "synonym": []
+  },
+  {
+    "word": "locate",
+    "meaning": "찾다",
+    "synonym": []
+  },
+  {
+    "word": "location",
+    "meaning": "위치",
+    "synonym": []
+  },
+  {
+    "word": "logically",
+    "meaning": "논리적으로",
+    "synonym": []
+  },
+  {
+    "word": "long",
+    "meaning": "긴",
+    "synonym": []
+  },
+  {
+    "word": "lose",
+    "meaning": "빼다",
+    "synonym": []
+  },
+  {
+    "word": "loss",
+    "meaning": "감량",
+    "synonym": []
+  },
+  {
+    "word": "lost",
+    "meaning": "잃어버렸다",
+    "synonym": []
+  },
+  {
+    "word": "made",
+    "meaning": "만들다",
+    "synonym": []
+  },
+  {
+    "word": "magazine",
+    "meaning": "잡지",
+    "synonym": []
+  },
+  {
+    "word": "maintain",
+    "meaning": "유지하다",
+    "synonym": [
+      "keep",
+      "preserve"
+    ]
+  },
+  {
+    "word": "major",
+    "meaning": "주요한",
+    "synonym": [
+      "main",
+      "chief"
+    ]
+  },
+  {
+    "word": "make",
+    "meaning": "만들다",
+    "synonym": []
+  },
+  {
+    "word": "mammal",
+    "meaning": "포유류",
+    "synonym": [
+      "animal",
+      "creature"
+    ]
+  },
+  {
+    "word": "manage to",
+    "meaning": "가까스로 ~하다",
+    "synonym": []
+  },
+  {
+    "word": "management",
+    "meaning": "관리",
+    "synonym": [
+      "administration",
+      "control"
+    ]
+  },
+  {
+    "word": "mansion",
+    "meaning": "저택",
+    "synonym": [
+      "estate",
+      "villa"
+    ]
+  },
+  {
+    "word": "manufacture",
+    "meaning": "제조하다",
+    "synonym": [
+      "produce",
+      "make"
+    ]
+  },
+  {
+    "word": "manuscript",
+    "meaning": "원고",
+    "synonym": [
+      "document",
+      "text"
+    ]
+  },
+  {
+    "word": "marine",
+    "meaning": "해양의",
+    "synonym": []
+  },
+  {
+    "word": "mark",
+    "meaning": "표시하다",
+    "synonym": [
+      "sign",
+      "symbol"
+    ]
+  },
+  {
+    "word": "marker",
+    "meaning": "표시",
+    "synonym": []
+  },
+  {
+    "word": "mass",
+    "meaning": "질량, 대중",
+    "synonym": [
+      "bulk",
+      "crowd"
+    ]
+  },
+  {
+    "word": "material",
+    "meaning": "물질",
+    "synonym": []
+  },
+  {
+    "word": "math",
+    "meaning": "수학",
+    "synonym": []
+  },
+  {
+    "word": "meal",
+    "meaning": "식사",
+    "synonym": []
+  },
+  {
+    "word": "meaningful",
+    "meaning": "의미 있는",
+    "synonym": []
+  },
+  {
+    "word": "means",
+    "meaning": "수단",
+    "synonym": [
+      "method",
+      "way"
+    ]
+  },
+  {
+    "word": "measure",
+    "meaning": "조치",
+    "synonym": []
+  },
+  {
+    "word": "measures",
+    "meaning": "조치",
+    "synonym": []
+  },
+  {
+    "word": "meat",
+    "meaning": "고기",
+    "synonym": []
+  },
+  {
+    "word": "mechanic",
+    "meaning": "정비공",
+    "synonym": []
+  },
+  {
+    "word": "media",
+    "meaning": "매체",
+    "synonym": []
+  },
+  {
+    "word": "medical",
+    "meaning": "의료의",
+    "synonym": []
+  },
+  {
+    "word": "meet",
+    "meaning": "만나다",
+    "synonym": []
+  },
+  {
+    "word": "mention",
+    "meaning": "언급하다",
+    "synonym": [
+      "state",
+      "remark"
+    ]
+  },
+  {
+    "word": "merge",
+    "meaning": "합병하다",
+    "synonym": [
+      "combine",
+      "unite"
+    ]
+  },
+  {
+    "word": "method",
+    "meaning": "방법",
+    "synonym": [
+      "process",
+      "technique"
+    ]
+  },
+  {
+    "word": "migraine",
+    "meaning": "편두통",
+    "synonym": []
+  },
+  {
+    "word": "military",
+    "meaning": "군대의",
+    "synonym": [
+      "armed",
+      "martial"
+    ]
+  },
+  {
+    "word": "million",
+    "meaning": "백만",
+    "synonym": []
+  },
+  {
+    "word": "millionaire",
+    "meaning": "백만장자",
+    "synonym": [
+      "rich person",
+      "wealthy"
+    ]
+  },
+  {
+    "word": "miraculously",
+    "meaning": "기적적으로",
+    "synonym": []
+  },
+  {
+    "word": "missing",
+    "meaning": "실종된",
+    "synonym": []
+  },
+  {
+    "word": "modify",
+    "meaning": "수정하다",
+    "synonym": [
+      "change",
+      "alter"
+    ]
+  },
+  {
+    "word": "molecule",
+    "meaning": "분자",
+    "synonym": [
+      "particle",
+      "atom"
+    ]
+  },
+  {
+    "word": "month",
+    "meaning": "달",
+    "synonym": []
+  },
+  {
+    "word": "mood",
+    "meaning": "기분",
+    "synonym": []
+  },
+  {
+    "word": "morality",
+    "meaning": "도덕성",
+    "synonym": [
+      "ethics",
+      "virtue"
+    ]
+  },
+  {
+    "word": "moreover",
+    "meaning": "게다가",
+    "synonym": []
+  },
+  {
+    "word": "most",
+    "meaning": "대부분의",
+    "synonym": []
+  },
+  {
+    "word": "motivate",
+    "meaning": "동기부여하다",
+    "synonym": []
+  },
+  {
+    "word": "mountain",
+    "meaning": "산",
+    "synonym": []
+  },
+  {
+    "word": "move",
+    "meaning": "옮기다",
+    "synonym": []
+  },
+  {
+    "word": "movement",
+    "meaning": "움직임",
+    "synonym": [
+      "motion",
+      "activity"
+    ]
+  },
+  {
+    "word": "mow",
+    "meaning": "깎다",
+    "synonym": []
+  },
+  {
+    "word": "much",
+    "meaning": "많이",
+    "synonym": []
+  },
+  {
+    "word": "multiple",
+    "meaning": "다수의",
+    "synonym": [
+      "many",
+      "various"
+    ]
+  },
+  {
+    "word": "muscle",
+    "meaning": "근육",
+    "synonym": [
+      "strength",
+      "power"
+    ]
+  },
+  {
+    "word": "mushroom",
+    "meaning": "버섯",
+    "synonym": []
+  },
+  {
+    "word": "mythology",
+    "meaning": "신화",
+    "synonym": [
+      "legend",
+      "lore"
+    ]
+  },
+  {
+    "word": "naturally",
+    "meaning": "자연스럽게",
+    "synonym": []
+  },
+  {
+    "word": "nature",
+    "meaning": "자연, 본성",
+    "synonym": [
+      "environment",
+      "character"
+    ]
+  },
+  {
+    "word": "necessary",
+    "meaning": "필수적인",
+    "synonym": []
+  },
+  {
+    "word": "need",
+    "meaning": "필요로 하다",
+    "synonym": []
+  },
+  {
+    "word": "needed",
+    "meaning": "필요로 되는",
+    "synonym": []
+  },
+  {
+    "word": "needs",
+    "meaning": "욕구",
+    "synonym": []
+  },
+  {
+    "word": "negative",
+    "meaning": "부정적인",
+    "synonym": []
+  },
+  {
+    "word": "negotiate",
+    "meaning": "협상하다",
+    "synonym": [
+      "bargain",
+      "discuss"
+    ]
+  },
+  {
+    "word": "neighborhood",
+    "meaning": "이웃, 동네",
+    "synonym": [
+      "community",
+      "vicinity"
+    ]
+  },
+  {
+    "word": "nerve",
+    "meaning": "신경",
+    "synonym": [
+      "fiber",
+      "courage"
+    ]
+  },
+  {
+    "word": "nervous",
+    "meaning": "긴장한",
+    "synonym": []
+  },
+  {
+    "word": "nevertheless",
+    "meaning": "그럼에도 불구하고",
+    "synonym": []
+  },
+  {
+    "word": "new",
+    "meaning": "새로운",
+    "synonym": []
+  },
+  {
+    "word": "next",
+    "meaning": "다음의",
+    "synonym": []
+  },
+  {
+    "word": "nitrogen",
+    "meaning": "질소",
+    "synonym": [
+      "gas",
+      "element"
+    ]
+  },
+  {
+    "word": "nomination",
+    "meaning": "지명",
+    "synonym": [
+      "appointment",
+      "selection"
+    ]
+  },
+  {
+    "word": "normal",
+    "meaning": "정상적인",
+    "synonym": []
+  },
+  {
+    "word": "notice",
+    "meaning": "알아차리다",
+    "synonym": [
+      "observe",
+      "perceive"
+    ]
+  },
+  {
+    "word": "novelist",
+    "meaning": "소설가",
+    "synonym": []
+  },
+  {
+    "word": "numerous",
+    "meaning": "수많은",
+    "synonym": [
+      "many",
+      "abundant"
+    ]
+  },
+  {
+    "word": "nurse",
+    "meaning": "간호사, 돌보다",
+    "synonym": [
+      "caregiver",
+      "tend"
+    ]
+  },
+  {
+    "word": "nutrient",
+    "meaning": "영양소",
+    "synonym": []
+  },
+  {
+    "word": "nutrition",
+    "meaning": "영양",
+    "synonym": [
+      "nourishment",
+      "diet"
+    ]
+  },
+  {
+    "word": "obedient",
+    "meaning": "순종적인",
+    "synonym": [
+      "compliant",
+      "docile"
+    ]
+  },
+  {
+    "word": "object",
+    "meaning": "물체",
+    "synonym": []
+  },
+  {
+    "word": "observe",
+    "meaning": "관찰하다",
+    "synonym": [
+      "watch",
+      "monitor"
+    ]
+  },
+  {
+    "word": "obsess",
+    "meaning": "집착하게 하다",
+    "synonym": [
+      "preoccupy",
+      "fixate"
+    ]
+  },
+  {
+    "word": "obviously",
+    "meaning": "분명히",
+    "synonym": [
+      "clearly",
+      "evidently"
+    ]
+  },
+  {
+    "word": "occasion",
+    "meaning": "경우, 행사",
+    "synonym": [
+      "event",
+      "opportunity"
+    ]
+  },
+  {
+    "word": "occur",
+    "meaning": "발생하다",
+    "synonym": [
+      "happen",
+      "take place"
+    ]
+  },
+  {
+    "word": "of",
+    "meaning": "~의",
+    "synonym": []
+  },
+  {
+    "word": "offensive",
+    "meaning": "불쾌한",
+    "synonym": [
+      "insulting",
+      "rude"
+    ]
+  },
+  {
+    "word": "offer",
+    "meaning": "제공하다",
+    "synonym": [
+      "provide",
+      "propose"
+    ]
+  },
+  {
+    "word": "offset",
+    "meaning": "상쇄하다",
+    "synonym": [
+      "balance",
+      "counteract"
+    ]
+  },
+  {
+    "word": "often",
+    "meaning": "종종",
+    "synonym": []
+  },
+  {
+    "word": "on",
+    "meaning": "~에",
+    "synonym": []
+  },
+  {
+    "word": "on the other hand",
+    "meaning": "반면에",
+    "synonym": []
+  },
+  {
+    "word": "once",
+    "meaning": "한 때",
+    "synonym": []
+  },
+  {
+    "word": "ongoing",
+    "meaning": "진행 중인",
+    "synonym": []
+  },
+  {
+    "word": "online",
+    "meaning": "온라인에서",
+    "synonym": []
+  },
+  {
+    "word": "only",
+    "meaning": "오직",
+    "synonym": []
+  },
+  {
+    "word": "opaque",
+    "meaning": "불투명한",
+    "synonym": [
+      "cloudy",
+      "unclear"
+    ]
+  },
+  {
+    "word": "operate",
+    "meaning": "작동하다",
+    "synonym": [
+      "run",
+      "function"
+    ]
+  },
+  {
+    "word": "opinion",
+    "meaning": "의견",
+    "synonym": [
+      "view",
+      "belief"
+    ]
+  },
+  {
+    "word": "opportunity",
+    "meaning": "기회",
+    "synonym": [
+      "chance",
+      "moment"
+    ]
+  },
+  {
+    "word": "optimal",
+    "meaning": "최적의",
+    "synonym": []
+  },
+  {
+    "word": "order",
+    "meaning": "명령, 순서",
+    "synonym": [
+      "command",
+      "sequence"
+    ]
+  },
+  {
+    "word": "ordinary",
+    "meaning": "평범한",
+    "synonym": [
+      "normal",
+      "usual"
+    ]
+  },
+  {
+    "word": "organic",
+    "meaning": "유기농의",
+    "synonym": [
+      "natural",
+      "biological"
+    ]
+  },
+  {
+    "word": "organisms",
+    "meaning": "유기체",
+    "synonym": []
+  },
+  {
+    "word": "organization",
+    "meaning": "조직",
+    "synonym": []
+  },
+  {
+    "word": "organizations",
+    "meaning": "조직, 단체",
+    "synonym": []
+  },
+  {
+    "word": "organize",
+    "meaning": "조직하다",
+    "synonym": [
+      "arrange",
+      "structure"
+    ]
+  },
+  {
+    "word": "organized",
+    "meaning": "조직화된",
+    "synonym": [
+      "arranged",
+      "structured"
+    ]
+  },
+  {
+    "word": "original",
+    "meaning": "원래의",
+    "synonym": [
+      "initial",
+      "authentic"
+    ]
+  },
+  {
+    "word": "originate",
+    "meaning": "유래하다",
+    "synonym": [
+      "begin",
+      "start"
+    ]
+  },
+  {
+    "word": "other",
+    "meaning": "다른",
+    "synonym": []
+  },
+  {
+    "word": "others",
+    "meaning": "다른 사람",
+    "synonym": []
+  },
+  {
+    "word": "otherwise",
+    "meaning": "그렇지 않으면",
+    "synonym": [
+      "or else",
+      "differently"
+    ]
+  },
+  {
+    "word": "outbreak",
+    "meaning": "발발",
+    "synonym": [
+      "eruption",
+      "burst"
+    ]
+  },
+  {
+    "word": "outcome",
+    "meaning": "결과",
+    "synonym": [
+      "result",
+      "consequence"
+    ]
+  },
+  {
+    "word": "outdoor",
+    "meaning": "야외의",
+    "synonym": []
+  },
+  {
+    "word": "outfit",
+    "meaning": "옷",
+    "synonym": []
+  },
+  {
+    "word": "outlet",
+    "meaning": "할인점, 배출구",
+    "synonym": [
+      "store",
+      "vent"
+    ]
+  },
+  {
+    "word": "outstanding",
+    "meaning": "뛰어난",
+    "synonym": [
+      "excellent",
+      "remarkable"
+    ]
+  },
+  {
+    "word": "over",
+    "meaning": "~에 걸쳐",
+    "synonym": []
+  },
+  {
+    "word": "overcome",
+    "meaning": "극복하다",
+    "synonym": []
+  },
+  {
+    "word": "overconfident",
+    "meaning": "지나치게 자신하는",
+    "synonym": [
+      "cocky",
+      "arrogant"
+    ]
+  },
+  {
+    "word": "overlook",
+    "meaning": "간과하다",
+    "synonym": [
+      "ignore",
+      "miss"
+    ]
+  },
+  {
+    "word": "overrun",
+    "meaning": "초과하다",
+    "synonym": [
+      "exceed",
+      "invade"
+    ]
+  },
+  {
+    "word": "oversee",
+    "meaning": "감독하다",
+    "synonym": [
+      "supervise",
+      "manage"
+    ]
+  },
+  {
+    "word": "overview",
+    "meaning": "개요",
+    "synonym": [
+      "summary",
+      "outline"
+    ]
+  },
+  {
+    "word": "own",
+    "meaning": "소유하다",
+    "synonym": [
+      "possess",
+      "hold"
+    ]
+  },
+  {
+    "word": "oxygen",
+    "meaning": "산소",
+    "synonym": [
+      "air",
+      "gas"
+    ]
+  },
+  {
+    "word": "paid vacation",
+    "meaning": "추가적인 유급 휴가",
+    "synonym": []
+  },
+  {
+    "word": "parent",
+    "meaning": "부모 (한사람)",
+    "synonym": []
+  },
+  {
+    "word": "partial",
+    "meaning": "부분적인",
+    "synonym": [
+      "incomplete",
+      "biased"
+    ]
+  },
+  {
+    "word": "participant",
+    "meaning": "참가자",
+    "synonym": [
+      "member",
+      "attendee"
+    ]
+  },
+  {
+    "word": "participate",
+    "meaning": "참여하다",
+    "synonym": [
+      "take part",
+      "join"
+    ]
+  },
+  {
+    "word": "particularly",
+    "meaning": "특히",
+    "synonym": [
+      "especially",
+      "notably"
+    ]
+  },
+  {
+    "word": "pass",
+    "meaning": "통과하다",
+    "synonym": []
+  },
+  {
+    "word": "passenger",
+    "meaning": "승객",
+    "synonym": [
+      "traveler",
+      "commuter"
+    ]
+  },
+  {
+    "word": "passion",
+    "meaning": "열정",
+    "synonym": []
+  },
+  {
+    "word": "passionate",
+    "meaning": "열정적인",
+    "synonym": [
+      "enthusiastic",
+      "eager"
+    ]
+  },
+  {
+    "word": "passport",
+    "meaning": "여권",
+    "synonym": []
+  },
+  {
+    "word": "patent",
+    "meaning": "특허",
+    "synonym": [
+      "copyright",
+      "license"
+    ]
+  },
+  {
+    "word": "path",
+    "meaning": "경로",
+    "synonym": []
+  },
+  {
+    "word": "pay",
+    "meaning": "지불하다",
+    "synonym": []
+  },
+  {
+    "word": "pay back",
+    "meaning": "상환하다",
+    "synonym": []
+  },
+  {
+    "word": "pedestrian",
+    "meaning": "보행자",
+    "synonym": [
+      "walker",
+      "stroller"
+    ]
+  },
+  {
+    "word": "perfect",
+    "meaning": "완벽한",
+    "synonym": []
+  },
+  {
+    "word": "perform",
+    "meaning": "수행하다",
+    "synonym": [
+      "execute",
+      "do"
+    ]
+  },
+  {
+    "word": "performance",
+    "meaning": "성능, 공연",
+    "synonym": [
+      "execution",
+      "show"
+    ]
+  },
+  {
+    "word": "perk",
+    "meaning": "특전",
+    "synonym": [
+      "benefit",
+      "bonus"
+    ]
+  },
+  {
+    "word": "permit",
+    "meaning": "허가하다",
+    "synonym": [
+      "allow",
+      "grant"
+    ]
+  },
+  {
+    "word": "persist",
+    "meaning": "지속되다",
+    "synonym": []
+  },
+  {
+    "word": "personal",
+    "meaning": "사적인",
+    "synonym": []
+  },
+  {
+    "word": "personality",
+    "meaning": "성격",
+    "synonym": [
+      "character",
+      "nature"
+    ]
+  },
+  {
+    "word": "personalize",
+    "meaning": "개인화하다",
+    "synonym": [
+      "customize",
+      "individualize"
+    ]
+  },
+  {
+    "word": "personalized",
+    "meaning": "개인 맞춤화된",
+    "synonym": []
+  },
+  {
+    "word": "personnel",
+    "meaning": "직원",
+    "synonym": [
+      "staff",
+      "employees"
+    ]
+  },
+  {
+    "word": "perspective",
+    "meaning": "관점",
+    "synonym": [
+      "viewpoint",
+      "angle"
+    ]
+  },
+  {
+    "word": "pet",
+    "meaning": "애완 동물",
+    "synonym": []
+  },
+  {
+    "word": "phenomenon",
+    "meaning": "현상",
+    "synonym": [
+      "occurrence",
+      "event"
+    ]
+  },
+  {
+    "word": "philosophy",
+    "meaning": "철학",
+    "synonym": [
+      "belief",
+      "ideology"
+    ]
+  },
+  {
+    "word": "photocopy",
+    "meaning": "복사하다",
+    "synonym": [
+      "copy",
+      "duplicate"
+    ]
+  },
+  {
+    "word": "physical",
+    "meaning": "신체적인",
+    "synonym": [
+      "bodily",
+      "corporeal"
+    ]
+  },
+  {
+    "word": "physically",
+    "meaning": "신체적으로",
+    "synonym": []
+  },
+  {
+    "word": "pick",
+    "meaning": "따다",
+    "synonym": []
+  },
+  {
+    "word": "pile",
+    "meaning": "더미",
+    "synonym": [
+      "heap",
+      "stack"
+    ]
+  },
+  {
+    "word": "plan",
+    "meaning": "계획",
+    "synonym": []
+  },
+  {
+    "word": "planet",
+    "meaning": "지구, 행성",
+    "synonym": []
+  },
+  {
+    "word": "play",
+    "meaning": "놀이",
+    "synonym": []
+  },
+  {
+    "word": "plenty",
+    "meaning": "풍부함",
+    "synonym": [
+      "abundance",
+      "lot"
+    ]
+  },
+  {
+    "word": "point",
+    "meaning": "요점",
+    "synonym": []
+  },
+  {
+    "word": "polar",
+    "meaning": "북극의",
+    "synonym": []
+  },
+  {
+    "word": "policy",
+    "meaning": "정책",
+    "synonym": [
+      "rule",
+      "strategy"
+    ]
+  },
+  {
+    "word": "politician",
+    "meaning": "정치인",
+    "synonym": [
+      "lawmaker",
+      "leader"
+    ]
+  },
+  {
+    "word": "pollen",
+    "meaning": "꽃가루",
+    "synonym": [
+      "dust",
+      "spore"
+    ]
+  },
+  {
+    "word": "pollinator",
+    "meaning": "수분자",
+    "synonym": []
+  },
+  {
+    "word": "pollutant",
+    "meaning": "오염물질",
+    "synonym": []
+  },
+  {
+    "word": "pollution",
+    "meaning": "오염",
+    "synonym": []
+  },
+  {
+    "word": "poor",
+    "meaning": "가난한",
+    "synonym": []
+  },
+  {
+    "word": "popular",
+    "meaning": "유명한",
+    "synonym": []
+  },
+  {
+    "word": "popularity",
+    "meaning": "인기",
+    "synonym": [
+      "favor",
+      "acceptance"
+    ]
+  },
+  {
+    "word": "population",
+    "meaning": "인구",
+    "synonym": [
+      "inhabitants",
+      "people"
+    ]
+  },
+  {
+    "word": "populous",
+    "meaning": "인구가 많은",
+    "synonym": [
+      "crowded",
+      "packed"
+    ]
+  },
+  {
+    "word": "portion",
+    "meaning": "부분",
+    "synonym": [
+      "part",
+      "share"
+    ]
+  },
+  {
+    "word": "positive",
+    "meaning": "긍정적인",
+    "synonym": []
+  },
+  {
+    "word": "possess",
+    "meaning": "소유하다",
+    "synonym": [
+      "own",
+      "have"
+    ]
+  },
+  {
+    "word": "possession",
+    "meaning": "소유물",
+    "synonym": [
+      "belonging",
+      "property"
+    ]
+  },
+  {
+    "word": "potential",
+    "meaning": "잠재적인",
+    "synonym": [
+      "possible",
+      "likely"
+    ]
+  },
+  {
+    "word": "pour",
+    "meaning": "붓다",
+    "synonym": [
+      "spill",
+      "flow"
+    ]
+  },
+  {
+    "word": "poverty",
+    "meaning": "빈곤",
+    "synonym": []
+  },
+  {
+    "word": "powerful",
+    "meaning": "강력한",
+    "synonym": []
+  },
+  {
+    "word": "practical",
+    "meaning": "실용적인",
+    "synonym": [
+      "useful",
+      "pragmatic"
+    ]
+  },
+  {
+    "word": "practice",
+    "meaning": "연습, 관행",
+    "synonym": [
+      "exercise",
+      "habit"
+    ]
+  },
+  {
+    "word": "preacher",
+    "meaning": "설교자",
+    "synonym": [
+      "minister",
+      "pastor"
+    ]
+  },
+  {
+    "word": "precise",
+    "meaning": "정확한",
+    "synonym": [
+      "exact",
+      "accurate"
+    ]
+  },
+  {
+    "word": "predator",
+    "meaning": "포식자",
+    "synonym": [
+      "hunter",
+      "carnivore"
+    ]
+  },
+  {
+    "word": "prefer",
+    "meaning": "선호하다",
+    "synonym": [
+      "favor",
+      "choose"
+    ]
+  },
+  {
+    "word": "preference",
+    "meaning": "선호",
+    "synonym": [
+      "choice",
+      "favor"
+    ]
+  },
+  {
+    "word": "prepare",
+    "meaning": "준비하다",
+    "synonym": [
+      "arrange",
+      "ready"
+    ]
+  },
+  {
+    "word": "prepare for",
+    "meaning": "~을 준비하다",
+    "synonym": []
+  },
+  {
+    "word": "prepared for",
+    "meaning": "~을 준비했다",
+    "synonym": []
+  },
+  {
+    "word": "present",
+    "meaning": "현재의, 선물",
+    "synonym": [
+      "current",
+      "gift"
+    ]
+  },
+  {
+    "word": "presentation",
+    "meaning": "발표",
+    "synonym": []
+  },
+  {
+    "word": "presented",
+    "meaning": "보여진",
+    "synonym": []
+  },
+  {
+    "word": "preserve",
+    "meaning": "보존하다",
+    "synonym": [
+      "protect",
+      "maintain"
+    ]
+  },
+  {
+    "word": "pressure",
+    "meaning": "압력",
+    "synonym": [
+      "force",
+      "stress"
+    ]
+  },
+  {
+    "word": "prevalent",
+    "meaning": "널리 퍼진",
+    "synonym": [
+      "common",
+      "widespread"
+    ]
+  },
+  {
+    "word": "prevent",
+    "meaning": "예방하다",
+    "synonym": [
+      "stop",
+      "hinder"
+    ]
+  },
+  {
+    "word": "previous",
+    "meaning": "이전의",
+    "synonym": [
+      "prior",
+      "former"
+    ]
+  },
+  {
+    "word": "pride",
+    "meaning": "자부심",
+    "synonym": []
+  },
+  {
+    "word": "principle",
+    "meaning": "원칙",
+    "synonym": [
+      "rule",
+      "belief"
+    ]
+  },
+  {
+    "word": "priority",
+    "meaning": "우선순위",
+    "synonym": [
+      "preference",
+      "importance"
+    ]
+  },
+  {
+    "word": "private",
+    "meaning": "개인적인",
+    "synonym": [
+      "personal",
+      "secret"
+    ]
+  },
+  {
+    "word": "probably",
+    "meaning": "아마도",
+    "synonym": [
+      "likely",
+      "perhaps"
+    ]
+  },
+  {
+    "word": "problem",
+    "meaning": "문제",
+    "synonym": []
+  },
+  {
+    "word": "process",
+    "meaning": "과정",
+    "synonym": [
+      "procedure",
+      "method"
+    ]
+  },
+  {
+    "word": "processed",
+    "meaning": "가공된",
+    "synonym": []
+  },
+  {
+    "word": "product",
+    "meaning": "제품",
+    "synonym": []
+  },
+  {
+    "word": "productive",
+    "meaning": "생산적인",
+    "synonym": [
+      "fruitful",
+      "efficient"
+    ]
+  },
+  {
+    "word": "productivity",
+    "meaning": "생산성",
+    "synonym": []
+  },
+  {
+    "word": "profession",
+    "meaning": "직업",
+    "synonym": []
+  },
+  {
+    "word": "profit",
+    "meaning": "이익",
+    "synonym": [
+      "gain",
+      "revenue"
+    ]
+  },
+  {
+    "word": "progressive",
+    "meaning": "진보적인",
+    "synonym": [
+      "forward-looking",
+      "advanced"
+    ]
+  },
+  {
+    "word": "prominent",
+    "meaning": "저명한",
+    "synonym": [
+      "famous",
+      "notable"
+    ]
+  },
+  {
+    "word": "promise",
+    "meaning": "약속하다",
+    "synonym": []
+  },
+  {
+    "word": "promising",
+    "meaning": "유망한",
+    "synonym": [
+      "hopeful",
+      "encouraging"
+    ]
+  },
+  {
+    "word": "promote",
+    "meaning": "촉진하다, 승진시키다",
+    "synonym": [
+      "encourage",
+      "advance"
+    ]
+  },
+  {
+    "word": "promotion",
+    "meaning": "승진, 홍보",
+    "synonym": [
+      "advancement",
+      "marketing"
+    ]
+  },
+  {
+    "word": "prompt",
+    "meaning": "즉각적인",
+    "synonym": [
+      "quick",
+      "immediate"
+    ]
+  },
+  {
+    "word": "proper",
+    "meaning": "적절한",
+    "synonym": [
+      "appropriate",
+      "correct"
+    ]
+  },
+  {
+    "word": "property",
+    "meaning": "재산",
+    "synonym": [
+      "estate",
+      "belongings"
+    ]
+  },
+  {
+    "word": "propose",
+    "meaning": "제안하다",
+    "synonym": [
+      "suggest",
+      "offer"
+    ]
+  },
+  {
+    "word": "prospective",
+    "meaning": "장래의",
+    "synonym": [
+      "potential",
+      "expected"
+    ]
+  },
+  {
+    "word": "protect",
+    "meaning": "보호하다",
+    "synonym": [
+      "guard",
+      "defend"
+    ]
+  },
+  {
+    "word": "protection",
+    "meaning": "보호",
+    "synonym": []
+  },
+  {
+    "word": "prove",
+    "meaning": "증명하다",
+    "synonym": [
+      "verify",
+      "show"
+    ]
+  },
+  {
+    "word": "provide",
+    "meaning": "제공하다",
+    "synonym": [
+      "supply",
+      "give"
+    ]
+  },
+  {
+    "word": "public",
+    "meaning": "공공의",
+    "synonym": []
+  },
+  {
+    "word": "publish",
+    "meaning": "출판하다",
+    "synonym": [
+      "print",
+      "issue"
+    ]
+  },
+  {
+    "word": "punishment",
+    "meaning": "처벌",
+    "synonym": [
+      "penalty",
+      "discipline"
+    ]
+  },
+  {
+    "word": "purchase",
+    "meaning": "구매하다",
+    "synonym": [
+      "buy",
+      "acquire"
+    ]
+  },
+  {
+    "word": "push",
+    "meaning": "압박하다",
+    "synonym": []
+  },
+  {
+    "word": "push back",
+    "meaning": "미루다",
+    "synonym": []
+  },
+  {
+    "word": "put aside",
+    "meaning": "떼어놓다",
+    "synonym": []
+  },
+  {
+    "word": "puzzle",
+    "meaning": "퍼즐, 어리둥절하게 하다",
+    "synonym": [
+      "riddle",
+      "confuse"
+    ]
+  },
+  {
+    "word": "qualify",
+    "meaning": "자격을 얻다",
+    "synonym": [
+      "certify",
+      "entitle"
+    ]
+  },
+  {
+    "word": "quality",
+    "meaning": "질, 품질",
+    "synonym": [
+      "standard",
+      "condition"
+    ]
+  },
+  {
+    "word": "quarrel",
+    "meaning": "다투다",
+    "synonym": [
+      "argue",
+      "fight"
+    ]
+  },
+  {
+    "word": "quarter",
+    "meaning": "4분의 1",
+    "synonym": [
+      "fourth",
+      "part"
+    ]
+  },
+  {
+    "word": "query",
+    "meaning": "질문",
+    "synonym": [
+      "question",
+      "inquiry"
+    ]
+  },
+  {
+    "word": "quick",
+    "meaning": "빠른",
+    "synonym": []
+  },
+  {
+    "word": "quickly",
+    "meaning": "빠르게",
+    "synonym": []
+  },
+  {
+    "word": "race",
+    "meaning": "경주",
+    "synonym": []
+  },
+  {
+    "word": "radiation",
+    "meaning": "방사선",
+    "synonym": [
+      "emission",
+      "rays"
+    ]
+  },
+  {
+    "word": "railing",
+    "meaning": "난간",
+    "synonym": [
+      "fence",
+      "barrier"
+    ]
+  },
+  {
+    "word": "raise",
+    "meaning": "올리다",
+    "synonym": [
+      "lift",
+      "increase"
+    ]
+  },
+  {
+    "word": "rampant",
+    "meaning": "만연한",
+    "synonym": [
+      "widespread",
+      "uncontrolled"
+    ]
+  },
+  {
+    "word": "rapid",
+    "meaning": "빠른",
+    "synonym": [
+      "fast",
+      "quick"
+    ]
+  },
+  {
+    "word": "rare",
+    "meaning": "드문",
+    "synonym": [
+      "scarce",
+      "uncommon"
+    ]
+  },
+  {
+    "word": "rating",
+    "meaning": "등급",
+    "synonym": [
+      "score",
+      "ranking"
+    ]
+  },
+  {
+    "word": "rave",
+    "meaning": "극찬하다",
+    "synonym": [
+      "praise",
+      "enthuse"
+    ]
+  },
+  {
+    "word": "reach",
+    "meaning": "도달하다",
+    "synonym": [
+      "arrive",
+      "attain"
+    ]
+  },
+  {
+    "word": "reaction",
+    "meaning": "반응",
+    "synonym": []
+  },
+  {
+    "word": "reality",
+    "meaning": "현실",
+    "synonym": []
+  },
+  {
+    "word": "realize",
+    "meaning": "깨닫다",
+    "synonym": [
+      "understand",
+      "recognize"
+    ]
+  },
+  {
+    "word": "reason",
+    "meaning": "이유",
+    "synonym": []
+  },
+  {
+    "word": "reasonable",
+    "meaning": "합리적인",
+    "synonym": [
+      "fair",
+      "logical"
+    ]
+  },
+  {
+    "word": "rebate",
+    "meaning": "환불",
+    "synonym": [
+      "refund",
+      "discount"
+    ]
+  },
+  {
+    "word": "receive",
+    "meaning": "받다",
+    "synonym": []
+  },
+  {
+    "word": "recently",
+    "meaning": "최근에",
+    "synonym": [
+      "lately",
+      "newly"
+    ]
+  },
+  {
+    "word": "recipe",
+    "meaning": "조리법",
+    "synonym": []
+  },
+  {
+    "word": "recognize",
+    "meaning": "인식하다, 인정하다",
+    "synonym": []
+  },
+  {
+    "word": "recommend",
+    "meaning": "추천하다",
+    "synonym": [
+      "suggest",
+      "advise"
+    ]
+  },
+  {
+    "word": "record",
+    "meaning": "기록",
+    "synonym": []
+  },
+  {
+    "word": "recruit",
+    "meaning": "모집하다",
+    "synonym": [
+      "hire",
+      "enlist"
+    ]
+  },
+  {
+    "word": "recruitment",
+    "meaning": "모집",
+    "synonym": [
+      "hiring",
+      "enlistment"
+    ]
+  },
+  {
+    "word": "reduce",
+    "meaning": "줄이다",
+    "synonym": [
+      "decrease",
+      "lessen"
+    ]
+  },
+  {
+    "word": "reference",
+    "meaning": "참조",
+    "synonym": [
+      "mention",
+      "citation"
+    ]
+  },
+  {
+    "word": "refine",
+    "meaning": "정제하다",
+    "synonym": [
+      "purify",
+      "improve"
+    ]
+  },
+  {
+    "word": "reflect",
+    "meaning": "반사하다, 반영하다",
+    "synonym": [
+      "mirror",
+      "show"
+    ]
+  },
+  {
+    "word": "refrigerate",
+    "meaning": "냉장하다",
+    "synonym": [
+      "cool",
+      "chill"
+    ]
+  },
+  {
+    "word": "refugee",
+    "meaning": "난민",
+    "synonym": [
+      "exile",
+      "escapee"
+    ]
+  },
+  {
+    "word": "refund",
+    "meaning": "환불",
+    "synonym": [
+      "repayment",
+      "return"
+    ]
+  },
+  {
+    "word": "refuse",
+    "meaning": "거절하다",
+    "synonym": [
+      "reject",
+      "decline"
+    ]
+  },
+  {
+    "word": "regain",
+    "meaning": "되찾다",
+    "synonym": [
+      "recover",
+      "retrieve"
+    ]
+  },
+  {
+    "word": "regard",
+    "meaning": "여기다, 간주하다",
+    "synonym": [
+      "consider",
+      "view"
+    ]
+  },
+  {
+    "word": "regarding",
+    "meaning": "~에 관하여",
+    "synonym": [
+      "concerning",
+      "about"
+    ]
+  },
+  {
+    "word": "register",
+    "meaning": "등록하다",
+    "synonym": [
+      "enroll",
+      "record"
+    ]
+  },
+  {
+    "word": "regular",
+    "meaning": "규칙적인",
+    "synonym": [
+      "normal",
+      "usual"
+    ]
+  },
+  {
+    "word": "regulate",
+    "meaning": "규제하다",
+    "synonym": [
+      "control",
+      "govern"
+    ]
+  },
+  {
+    "word": "regulation",
+    "meaning": "규정",
+    "synonym": []
+  },
+  {
+    "word": "rehearsal",
+    "meaning": "리허설",
+    "synonym": [
+      "practice",
+      "run-through"
+    ]
+  },
+  {
+    "word": "related",
+    "meaning": "관련된",
+    "synonym": [
+      "connected",
+      "associated"
+    ]
+  },
+  {
+    "word": "relationship",
+    "meaning": "관계",
+    "synonym": []
+  },
+  {
+    "word": "relax",
+    "meaning": "휴식하다",
+    "synonym": [
+      "rest",
+      "unwind"
+    ]
+  },
+  {
+    "word": "release",
+    "meaning": "풀어주다, 출시하다",
+    "synonym": [
+      "free",
+      "publish"
+    ]
+  },
+  {
+    "word": "released",
+    "meaning": "출시된",
+    "synonym": []
+  },
+  {
+    "word": "relevant",
+    "meaning": "관련된",
+    "synonym": [
+      "applicable",
+      "pertinent"
+    ]
+  },
+  {
+    "word": "reliable",
+    "meaning": "믿을 수 있는",
+    "synonym": [
+      "dependable",
+      "trustworthy"
+    ]
+  },
+  {
+    "word": "relieve",
+    "meaning": "완화하다",
+    "synonym": [
+      "ease",
+      "alleviate"
+    ]
+  },
+  {
+    "word": "religion",
+    "meaning": "종교",
+    "synonym": [
+      "faith",
+      "belief"
+    ]
+  },
+  {
+    "word": "relocate",
+    "meaning": "이전하다",
+    "synonym": [
+      "move",
+      "transfer"
+    ]
+  },
+  {
+    "word": "reluctance",
+    "meaning": "꺼림",
+    "synonym": [
+      "hesitation",
+      "unwillingness"
+    ]
+  },
+  {
+    "word": "rely",
+    "meaning": "의존하다",
+    "synonym": [
+      "depend",
+      "trust"
+    ]
+  },
+  {
+    "word": "remember",
+    "meaning": "기억하다",
+    "synonym": []
+  },
+  {
+    "word": "remove",
+    "meaning": "제거하다",
+    "synonym": [
+      "eliminate",
+      "take away"
+    ]
+  },
+  {
+    "word": "rent",
+    "meaning": "집세",
+    "synonym": []
+  },
+  {
+    "word": "replace",
+    "meaning": "대체하다",
+    "synonym": []
+  },
+  {
+    "word": "replaced",
+    "meaning": "대체되는",
+    "synonym": []
+  },
+  {
+    "word": "report",
+    "meaning": "보고서",
+    "synonym": [
+      "account",
+      "statement"
+    ]
+  },
+  {
+    "word": "represent",
+    "meaning": "대표하다",
+    "synonym": [
+      "stand for",
+      "symbolize"
+    ]
+  },
+  {
+    "word": "reputation",
+    "meaning": "명성",
+    "synonym": [
+      "status",
+      "standing"
+    ]
+  },
+  {
+    "word": "request",
+    "meaning": "요청하다",
+    "synonym": []
+  },
+  {
+    "word": "require",
+    "meaning": "요구하다",
+    "synonym": []
+  },
+  {
+    "word": "requirement",
+    "meaning": "요구조건",
+    "synonym": []
+  },
+  {
+    "word": "research",
+    "meaning": "조사하다",
+    "synonym": []
+  },
+  {
+    "word": "reserve",
+    "meaning": "예약하다",
+    "synonym": [
+      "book",
+      "save"
+    ]
+  },
+  {
+    "word": "resistance",
+    "meaning": "저항",
+    "synonym": [
+      "opposition",
+      "defiance"
+    ]
+  },
+  {
+    "word": "resolution",
+    "meaning": "결의안, 해결",
+    "synonym": [
+      "decision",
+      "solution"
+    ]
+  },
+  {
+    "word": "respect",
+    "meaning": "존중하다",
+    "synonym": []
+  },
+  {
+    "word": "respond",
+    "meaning": "반응하다",
+    "synonym": [
+      "reply",
+      "answer"
+    ]
+  },
+  {
+    "word": "responsibility",
+    "meaning": "책임",
+    "synonym": [
+      "duty",
+      "obligation"
+    ]
+  },
+  {
+    "word": "responsible",
+    "meaning": "책임이 있는, 원인이 되는",
+    "synonym": []
+  },
+  {
+    "word": "rest",
+    "meaning": "휴식",
+    "synonym": []
+  },
+  {
+    "word": "restore",
+    "meaning": "되찾다",
+    "synonym": []
+  },
+  {
+    "word": "result",
+    "meaning": "결과",
+    "synonym": [
+      "outcome",
+      "effect"
+    ]
+  },
+  {
+    "word": "resume",
+    "meaning": "이력서, 재개하다",
+    "synonym": [
+      "CV",
+      "continue"
+    ]
+  },
+  {
+    "word": "retail",
+    "meaning": "소매",
+    "synonym": [
+      "sales",
+      "selling"
+    ]
+  },
+  {
+    "word": "retirement",
+    "meaning": "은퇴",
+    "synonym": []
+  },
+  {
+    "word": "retreat",
+    "meaning": "후퇴하다",
+    "synonym": [
+      "withdraw",
+      "pull back"
+    ]
+  },
+  {
+    "word": "return",
+    "meaning": "돌아가다",
+    "synonym": []
+  },
+  {
+    "word": "reveal",
+    "meaning": "드러내다",
+    "synonym": [
+      "disclose",
+      "uncover"
+    ]
+  },
+  {
+    "word": "revenue",
+    "meaning": "수익",
+    "synonym": []
+  },
+  {
+    "word": "review",
+    "meaning": "검토하다",
+    "synonym": [
+      "evaluate",
+      "assess"
+    ]
+  },
+  {
+    "word": "reward",
+    "meaning": "보상",
+    "synonym": [
+      "prize",
+      "bonus"
+    ]
+  },
+  {
+    "word": "right",
+    "meaning": "올바른",
+    "synonym": []
+  },
+  {
+    "word": "right after",
+    "meaning": "~ 직후",
+    "synonym": []
+  },
+  {
+    "word": "rights",
+    "meaning": "권리",
+    "synonym": []
+  },
+  {
+    "word": "risk",
+    "meaning": "위험",
+    "synonym": []
+  },
+  {
+    "word": "routine",
+    "meaning": "일상",
+    "synonym": [
+      "habit",
+      "schedule"
+    ]
+  },
+  {
+    "word": "rule",
+    "meaning": "규칙",
+    "synonym": []
+  },
+  {
+    "word": "run over",
+    "meaning": "~를 치다",
+    "synonym": []
+  },
+  {
+    "word": "sacrifice",
+    "meaning": "희생하다",
+    "synonym": [
+      "give up",
+      "forfeit"
+    ]
+  },
+  {
+    "word": "safeguard",
+    "meaning": "지키다",
+    "synonym": []
+  },
+  {
+    "word": "safety",
+    "meaning": "안전",
+    "synonym": [
+      "protection",
+      "security"
+    ]
+  },
+  {
+    "word": "salary",
+    "meaning": "월급",
+    "synonym": []
+  },
+  {
+    "word": "sale",
+    "meaning": "판매",
+    "synonym": []
+  },
+  {
+    "word": "same",
+    "meaning": "같은",
+    "synonym": []
+  },
+  {
+    "word": "satisfied",
+    "meaning": "만족한",
+    "synonym": []
+  },
+  {
+    "word": "satisfy",
+    "meaning": "만족시키다",
+    "synonym": [
+      "please",
+      "fulfill"
+    ]
+  },
+  {
+    "word": "save",
+    "meaning": "구하다, 저축하다",
+    "synonym": [
+      "rescue",
+      "keep"
+    ]
+  },
+  {
+    "word": "say",
+    "meaning": "말하다",
+    "synonym": []
+  },
+  {
+    "word": "scalp",
+    "meaning": "두피",
+    "synonym": [
+      "skin",
+      "head"
+    ]
+  },
+  {
+    "word": "scary",
+    "meaning": "무서운",
+    "synonym": [
+      "frightening",
+      "creepy"
+    ]
+  },
+  {
+    "word": "scent",
+    "meaning": "향기",
+    "synonym": [
+      "smell",
+      "fragrance"
+    ]
+  },
+  {
+    "word": "schedule",
+    "meaning": "일정",
+    "synonym": []
+  },
+  {
+    "word": "scheduled",
+    "meaning": "예정된",
+    "synonym": []
+  },
+  {
+    "word": "scratch",
+    "meaning": "긁다",
+    "synonym": []
+  },
+  {
+    "word": "search",
+    "meaning": "검색하다",
+    "synonym": [
+      "look for",
+      "seek"
+    ]
+  },
+  {
+    "word": "secret",
+    "meaning": "비결, 비밀",
+    "synonym": []
+  },
+  {
+    "word": "security",
+    "meaning": "보안",
+    "synonym": [
+      "safety",
+      "protection"
+    ]
+  },
+  {
+    "word": "see",
+    "meaning": "보다",
+    "synonym": []
+  },
+  {
+    "word": "seek",
+    "meaning": "찾다",
+    "synonym": [
+      "search",
+      "pursue"
+    ]
+  },
+  {
+    "word": "select",
+    "meaning": "선택하다",
+    "synonym": []
+  },
+  {
+    "word": "semester",
+    "meaning": "학기",
+    "synonym": [
+      "term",
+      "period"
+    ]
+  },
+  {
+    "word": "send",
+    "meaning": "보내다",
+    "synonym": []
+  },
+  {
+    "word": "separate",
+    "meaning": "분리하다",
+    "synonym": [
+      "divide",
+      "disconnect"
+    ]
+  },
+  {
+    "word": "serious",
+    "meaning": "심각한",
+    "synonym": []
+  },
+  {
+    "word": "server",
+    "meaning": "종업원",
+    "synonym": []
+  },
+  {
+    "word": "session",
+    "meaning": "회의, 기간",
+    "synonym": [
+      "meeting",
+      "period"
+    ]
+  },
+  {
+    "word": "set",
+    "meaning": "(",
+    "synonym": []
+  },
+  {
+    "word": "settle",
+    "meaning": "정착하다, 해결하다",
+    "synonym": [
+      "resolve",
+      "establish"
+    ]
+  },
+  {
+    "word": "several",
+    "meaning": "몇 번의",
+    "synonym": []
+  },
+  {
+    "word": "shade",
+    "meaning": "그늘",
+    "synonym": [
+      "shadow",
+      "cover"
+    ]
+  },
+  {
+    "word": "shake",
+    "meaning": "흔들다",
+    "synonym": [
+      "tremble",
+      "vibrate"
+    ]
+  },
+  {
+    "word": "share",
+    "meaning": "공유하다",
+    "synonym": [
+      "divide",
+      "distribute"
+    ]
+  },
+  {
+    "word": "sharp",
+    "meaning": "급격한",
+    "synonym": []
+  },
+  {
+    "word": "shelter",
+    "meaning": "피난처",
+    "synonym": [
+      "refuge",
+      "protection"
+    ]
+  },
+  {
+    "word": "ship",
+    "meaning": "배, 배송하다",
+    "synonym": [
+      "vessel",
+      "send"
+    ]
+  },
+  {
+    "word": "shop",
+    "meaning": "쇼핑하다",
+    "synonym": []
+  },
+  {
+    "word": "show",
+    "meaning": "보여주다",
+    "synonym": []
+  },
+  {
+    "word": "shrub",
+    "meaning": "관목",
+    "synonym": [
+      "bush",
+      "plant"
+    ]
+  },
+  {
+    "word": "sibling",
+    "meaning": "형제자매",
+    "synonym": []
+  },
+  {
+    "word": "sick",
+    "meaning": "아픈",
+    "synonym": []
+  },
+  {
+    "word": "significantly",
+    "meaning": "상당히",
+    "synonym": []
+  },
+  {
+    "word": "silence",
+    "meaning": "침묵",
+    "synonym": [
+      "quiet",
+      "stillness"
+    ]
+  },
+  {
+    "word": "similarly",
+    "meaning": "유사하게",
+    "synonym": []
+  },
+  {
+    "word": "simply",
+    "meaning": "단순히",
+    "synonym": [
+      "merely",
+      "just"
+    ]
+  },
+  {
+    "word": "since",
+    "meaning": "~ 때문에",
+    "synonym": []
+  },
+  {
+    "word": "single",
+    "meaning": "하나의",
+    "synonym": []
+  },
+  {
+    "word": "situation",
+    "meaning": "상황",
+    "synonym": [
+      "circumstance",
+      "condition"
+    ]
+  },
+  {
+    "word": "skill",
+    "meaning": "기술",
+    "synonym": []
+  },
+  {
+    "word": "sleek",
+    "meaning": "매끄러운",
+    "synonym": [
+      "smooth",
+      "glossy"
+    ]
+  },
+  {
+    "word": "sleep",
+    "meaning": "자다",
+    "synonym": []
+  },
+  {
+    "word": "slightly",
+    "meaning": "약간",
+    "synonym": [
+      "a little",
+      "somewhat"
+    ]
+  },
+  {
+    "word": "slim",
+    "meaning": "날씬한",
+    "synonym": []
+  },
+  {
+    "word": "slot",
+    "meaning": "구멍, 자리",
+    "synonym": [
+      "opening",
+      "space"
+    ]
+  },
+  {
+    "word": "smoother",
+    "meaning": "더 부드러운",
+    "synonym": []
+  },
+  {
+    "word": "snuff",
+    "meaning": "코를 킁킁거리다",
+    "synonym": [
+      "sniff",
+      "smell"
+    ]
+  },
+  {
+    "word": "so",
+    "meaning": "너무",
+    "synonym": []
+  },
+  {
+    "word": "so that",
+    "meaning": "~하도록",
+    "synonym": []
+  },
+  {
+    "word": "soaring",
+    "meaning": "급증하는",
+    "synonym": []
+  },
+  {
+    "word": "social",
+    "meaning": "사회적",
+    "synonym": []
+  },
+  {
+    "word": "soil",
+    "meaning": "흙",
+    "synonym": [
+      "dirt",
+      "earth"
+    ]
+  },
+  {
+    "word": "solution",
+    "meaning": "해결책",
+    "synonym": [
+      "answer",
+      "resolution"
+    ]
+  },
+  {
+    "word": "solve",
+    "meaning": "해결하다",
+    "synonym": []
+  },
+  {
+    "word": "some",
+    "meaning": "몇몇의",
+    "synonym": []
+  },
+  {
+    "word": "something",
+    "meaning": "무언가",
+    "synonym": []
+  },
+  {
+    "word": "sometimes",
+    "meaning": "때때로",
+    "synonym": []
+  },
+  {
+    "word": "sound",
+    "meaning": "소리",
+    "synonym": []
+  },
+  {
+    "word": "space",
+    "meaning": "공간",
+    "synonym": []
+  },
+  {
+    "word": "special",
+    "meaning": "특별한",
+    "synonym": []
+  },
+  {
+    "word": "species",
+    "meaning": "종",
+    "synonym": []
+  },
+  {
+    "word": "specific",
+    "meaning": "특정한",
+    "synonym": []
+  },
+  {
+    "word": "spend",
+    "meaning": "소비하다",
+    "synonym": [
+      "pay",
+      "expend"
+    ]
+  },
+  {
+    "word": "spent",
+    "meaning": "썼다",
+    "synonym": []
+  },
+  {
+    "word": "spice",
+    "meaning": "향신료",
+    "synonym": []
+  },
+  {
+    "word": "spread",
+    "meaning": "퍼지다",
+    "synonym": [
+      "extend",
+      "scatter"
+    ]
+  },
+  {
+    "word": "stability",
+    "meaning": "안정성",
+    "synonym": []
+  },
+  {
+    "word": "stable",
+    "meaning": "안정적인",
+    "synonym": []
+  },
+  {
+    "word": "steady",
+    "meaning": "꾸준한",
+    "synonym": [
+      "constant",
+      "stable"
+    ]
+  },
+  {
+    "word": "steal",
+    "meaning": "훔치다",
+    "synonym": []
+  },
+  {
+    "word": "stick",
+    "meaning": "막대기, 붙이다",
+    "synonym": [
+      "branch",
+      "adhere"
+    ]
+  },
+  {
+    "word": "stock",
+    "meaning": "주식",
+    "synonym": []
+  },
+  {
+    "word": "stop",
+    "meaning": "멈추다",
+    "synonym": []
+  },
+  {
+    "word": "store",
+    "meaning": "상점, 저장하다",
+    "synonym": [
+      "shop",
+      "keep"
+    ]
+  },
+  {
+    "word": "strand",
+    "meaning": "가닥",
+    "synonym": []
+  },
+  {
+    "word": "strange",
+    "meaning": "이상한",
+    "synonym": []
+  },
+  {
+    "word": "strengthen",
+    "meaning": "강화시키다",
+    "synonym": []
+  },
+  {
+    "word": "strict",
+    "meaning": "엄격한",
+    "synonym": []
+  },
+  {
+    "word": "structure",
+    "meaning": "구조",
+    "synonym": [
+      "framework",
+      "building"
+    ]
+  },
+  {
+    "word": "struggle",
+    "meaning": "투쟁하다",
+    "synonym": [
+      "fight",
+      "strive"
+    ]
+  },
+  {
+    "word": "study",
+    "meaning": "연구",
+    "synonym": []
+  },
+  {
+    "word": "submit",
+    "meaning": "제출하다",
+    "synonym": [
+      "turn in",
+      "present"
+    ]
+  },
+  {
+    "word": "substance",
+    "meaning": "물질",
+    "synonym": []
+  },
+  {
+    "word": "succeed",
+    "meaning": "성공하다",
+    "synonym": [
+      "achieve",
+      "prosper"
+    ]
+  },
+  {
+    "word": "successful",
+    "meaning": "성공적인",
+    "synonym": []
+  },
+  {
+    "word": "such as",
+    "meaning": "~와 같은",
+    "synonym": []
+  },
+  {
+    "word": "suddenly",
+    "meaning": "갑자기",
+    "synonym": [
+      "abruptly",
+      "unexpectedly"
+    ]
+  },
+  {
+    "word": "suffer",
+    "meaning": "겪다",
+    "synonym": []
+  },
+  {
+    "word": "suggest",
+    "meaning": "제안하다",
+    "synonym": []
+  },
+  {
+    "word": "suggestion",
+    "meaning": "제안",
+    "synonym": []
+  },
+  {
+    "word": "suitable",
+    "meaning": "적합한",
+    "synonym": []
+  },
+  {
+    "word": "supervisor",
+    "meaning": "감독관",
+    "synonym": [
+      "manager",
+      "overseer"
+    ]
+  },
+  {
+    "word": "supplement",
+    "meaning": "보충제",
+    "synonym": []
+  },
+  {
+    "word": "support",
+    "meaning": "뒷받침하다",
+    "synonym": []
+  },
+  {
+    "word": "sure",
+    "meaning": "확신하는",
+    "synonym": []
+  },
+  {
+    "word": "survival",
+    "meaning": "생존",
+    "synonym": []
+  },
+  {
+    "word": "survive",
+    "meaning": "살아남다",
+    "synonym": []
+  },
+  {
+    "word": "suspect",
+    "meaning": "용의다",
+    "synonym": []
+  },
+  {
+    "word": "sustainable",
+    "meaning": "지속적인",
+    "synonym": []
+  },
+  {
+    "word": "swallow",
+    "meaning": "삼키다",
+    "synonym": []
+  },
+  {
+    "word": "take",
+    "meaning": "수강하다",
+    "synonym": []
+  },
+  {
+    "word": "take care of",
+    "meaning": "돌보다",
+    "synonym": []
+  },
+  {
+    "word": "take in",
+    "meaning": "섭취하다",
+    "synonym": []
+  },
+  {
+    "word": "taken",
+    "meaning": "취해진",
+    "synonym": []
+  },
+  {
+    "word": "talk",
+    "meaning": "말하다",
+    "synonym": []
+  },
+  {
+    "word": "task",
+    "meaning": "일, 업무",
+    "synonym": []
+  },
+  {
+    "word": "teach",
+    "meaning": "가르치다",
+    "synonym": []
+  },
+  {
+    "word": "teaching",
+    "meaning": "수업",
+    "synonym": []
+  },
+  {
+    "word": "technologies",
+    "meaning": "기술",
+    "synonym": []
+  },
+  {
+    "word": "tempt",
+    "meaning": "유혹하다",
+    "synonym": [
+      "entice",
+      "attract"
+    ]
+  },
+  {
+    "word": "thank",
+    "meaning": "감사해하다",
+    "synonym": []
+  },
+  {
+    "word": "that",
+    "meaning": "~것",
+    "synonym": []
+  },
+  {
+    "word": "therapy",
+    "meaning": "치료",
+    "synonym": []
+  },
+  {
+    "word": "therefore",
+    "meaning": "그러므로",
+    "synonym": []
+  },
+  {
+    "word": "thing",
+    "meaning": "물건",
+    "synonym": []
+  },
+  {
+    "word": "thoroughly",
+    "meaning": "철저하게",
+    "synonym": []
+  },
+  {
+    "word": "those",
+    "meaning": "사람들",
+    "synonym": []
+  },
+  {
+    "word": "though",
+    "meaning": "비록 ~일지라도",
+    "synonym": []
+  },
+  {
+    "word": "thought",
+    "meaning": "생각, 사고",
+    "synonym": []
+  },
+  {
+    "word": "threat",
+    "meaning": "위협",
+    "synonym": [
+      "danger",
+      "risk"
+    ]
+  },
+  {
+    "word": "through",
+    "meaning": "~을 통하여",
+    "synonym": []
+  },
+  {
+    "word": "to",
+    "meaning": "~에",
+    "synonym": []
+  },
+  {
+    "word": "tomb",
+    "meaning": "무덤",
+    "synonym": []
+  },
+  {
+    "word": "too",
+    "meaning": "너무",
+    "synonym": []
+  },
+  {
+    "word": "tool",
+    "meaning": "도구",
+    "synonym": []
+  },
+  {
+    "word": "topped",
+    "meaning": "덮힌",
+    "synonym": []
+  },
+  {
+    "word": "tough",
+    "meaning": "힘든",
+    "synonym": []
+  },
+  {
+    "word": "town",
+    "meaning": "도시",
+    "synonym": []
+  },
+  {
+    "word": "toxic",
+    "meaning": "독성의",
+    "synonym": []
+  },
+  {
+    "word": "trade",
+    "meaning": "거래",
+    "synonym": []
+  },
+  {
+    "word": "traditional",
+    "meaning": "전통적인",
+    "synonym": [
+      "customary",
+      "classic"
+    ]
+  },
+  {
+    "word": "trafficking",
+    "meaning": "불법거래, 밀매",
+    "synonym": []
+  },
+  {
+    "word": "trait",
+    "meaning": "특징",
+    "synonym": [
+      "characteristic",
+      "feature"
+    ]
+  },
+  {
+    "word": "transform",
+    "meaning": "변형시키다",
+    "synonym": [
+      "change",
+      "alter"
+    ]
+  },
+  {
+    "word": "transition",
+    "meaning": "전환",
+    "synonym": [
+      "change",
+      "shift"
+    ]
+  },
+  {
+    "word": "traumatic",
+    "meaning": "충격적인",
+    "synonym": []
+  },
+  {
+    "word": "travel",
+    "meaning": "여행하다",
+    "synonym": []
+  },
+  {
+    "word": "trip",
+    "meaning": "여행",
+    "synonym": [
+      "journey",
+      "tour"
+    ]
+  },
+  {
+    "word": "try",
+    "meaning": "시도하다",
+    "synonym": []
+  },
+  {
+    "word": "try to",
+    "meaning": "애쓰다",
+    "synonym": []
+  },
+  {
+    "word": "tuition",
+    "meaning": "수업료",
+    "synonym": [
+      "fee",
+      "cost"
+    ]
+  },
+  {
+    "word": "uncomfortable",
+    "meaning": "불편한",
+    "synonym": []
+  },
+  {
+    "word": "undecided",
+    "meaning": "결정되지 않은",
+    "synonym": [
+      "uncertain",
+      "unsure"
+    ]
+  },
+  {
+    "word": "under",
+    "meaning": "~중에, ~아래",
+    "synonym": []
+  },
+  {
+    "word": "understand",
+    "meaning": "이해하다",
+    "synonym": []
+  },
+  {
+    "word": "understanding",
+    "meaning": "이해",
+    "synonym": []
+  },
+  {
+    "word": "undertake",
+    "meaning": "착수하다",
+    "synonym": []
+  },
+  {
+    "word": "unfortunately",
+    "meaning": "불행하게도",
+    "synonym": []
+  },
+  {
+    "word": "unhealthy",
+    "meaning": "건강하지 못한",
+    "synonym": []
+  },
+  {
+    "word": "uniform",
+    "meaning": "유니폼",
+    "synonym": []
+  },
+  {
+    "word": "unknown",
+    "meaning": "알려지지 않은",
+    "synonym": []
+  },
+  {
+    "word": "unless",
+    "meaning": "만약 ~하지 않는다면",
+    "synonym": []
+  },
+  {
+    "word": "unlike",
+    "meaning": "~와 달리",
+    "synonym": []
+  },
+  {
+    "word": "unstable",
+    "meaning": "불안정한",
+    "synonym": [
+      "shaky",
+      "insecure"
+    ]
+  },
+  {
+    "word": "until",
+    "meaning": "~까지",
+    "synonym": []
+  },
+  {
+    "word": "urge",
+    "meaning": "권하다",
+    "synonym": []
+  },
+  {
+    "word": "use",
+    "meaning": "사용하다",
+    "synonym": []
+  },
+  {
+    "word": "useless",
+    "meaning": "쓸모없는",
+    "synonym": []
+  },
+  {
+    "word": "user",
+    "meaning": "사용자",
+    "synonym": []
+  },
+  {
+    "word": "usual",
+    "meaning": "평소의",
+    "synonym": [
+      "normal",
+      "customary"
+    ]
+  },
+  {
+    "word": "usually",
+    "meaning": "대개",
+    "synonym": []
+  },
+  {
+    "word": "vacation",
+    "meaning": "휴가",
+    "synonym": []
+  },
+  {
+    "word": "valid",
+    "meaning": "유효한",
+    "synonym": [
+      "legitimate",
+      "authentic"
+    ]
+  },
+  {
+    "word": "valuable",
+    "meaning": "소중한, 유용한",
+    "synonym": []
+  },
+  {
+    "word": "various",
+    "meaning": "다양한",
+    "synonym": []
+  },
+  {
+    "word": "venture",
+    "meaning": "가다",
+    "synonym": []
+  },
+  {
+    "word": "venue",
+    "meaning": "장소",
+    "synonym": [
+      "location",
+      "place"
+    ]
+  },
+  {
+    "word": "vinegar",
+    "meaning": "식초",
+    "synonym": []
+  },
+  {
+    "word": "visual",
+    "meaning": "시각적인",
+    "synonym": []
+  },
+  {
+    "word": "volunteer",
+    "meaning": "자원봉사자",
+    "synonym": []
+  },
+  {
+    "word": "vomit",
+    "meaning": "구토하다",
+    "synonym": []
+  },
+  {
+    "word": "vulnerable",
+    "meaning": "취약한",
+    "synonym": []
+  },
+  {
+    "word": "want",
+    "meaning": "원하다",
+    "synonym": []
+  },
+  {
+    "word": "warehouse",
+    "meaning": "창고",
+    "synonym": [
+      "storehouse",
+      "depot"
+    ]
+  },
+  {
+    "word": "warn",
+    "meaning": "경고하다",
+    "synonym": []
+  },
+  {
+    "word": "waste",
+    "meaning": "낭비",
+    "synonym": []
+  },
+  {
+    "word": "way",
+    "meaning": "방식",
+    "synonym": []
+  },
+  {
+    "word": "wealthy",
+    "meaning": "부유한",
+    "synonym": []
+  },
+  {
+    "word": "wearing",
+    "meaning": "입는",
+    "synonym": []
+  },
+  {
+    "word": "weather forecast",
+    "meaning": "?? ??",
+    "synonym": []
+  },
+  {
+    "word": "weight",
+    "meaning": "몸무게",
+    "synonym": []
+  },
+  {
+    "word": "well",
+    "meaning": "잘",
+    "synonym": []
+  },
+  {
+    "word": "when",
+    "meaning": "~할 때",
+    "synonym": []
+  },
+  {
+    "word": "whenever",
+    "meaning": "~할 때마다",
+    "synonym": []
+  },
+  {
+    "word": "whether",
+    "meaning": "~인지 아닌지",
+    "synonym": []
+  },
+  {
+    "word": "while",
+    "meaning": "~동안",
+    "synonym": []
+  },
+  {
+    "word": "wildlife",
+    "meaning": "야생동물",
+    "synonym": []
+  },
+  {
+    "word": "win",
+    "meaning": "이기다",
+    "synonym": []
+  },
+  {
+    "word": "with",
+    "meaning": "~을 가진",
+    "synonym": []
+  },
+  {
+    "word": "with regard to",
+    "meaning": "~와 관련해서",
+    "synonym": []
+  },
+  {
+    "word": "without",
+    "meaning": "~하지 않고",
+    "synonym": []
+  },
+  {
+    "word": "witness",
+    "meaning": "목격자",
+    "synonym": []
+  },
+  {
+    "word": "word",
+    "meaning": "낱말, 말",
+    "synonym": []
+  },
+  {
+    "word": "wordy",
+    "meaning": "장황한",
+    "synonym": [
+      "verbose",
+      "talkative"
+    ]
+  },
+  {
+    "word": "work",
+    "meaning": "노력하다",
+    "synonym": []
+  },
+  {
+    "word": "work through",
+    "meaning": "해치우다, 해결하다",
+    "synonym": []
+  },
+  {
+    "word": "worker",
+    "meaning": "근로자",
+    "synonym": []
+  },
+  {
+    "word": "workout",
+    "meaning": "운동",
+    "synonym": []
+  },
+  {
+    "word": "workplace",
+    "meaning": "일터",
+    "synonym": []
+  },
+  {
+    "word": "worse",
+    "meaning": "더 악화된",
+    "synonym": []
+  },
+  {
+    "word": "worth",
+    "meaning": "가치",
+    "synonym": [
+      "value",
+      "merit"
+    ]
+  },
+  {
+    "word": "written",
+    "meaning": "쓰여진",
+    "synonym": []
+  },
+  {
+    "word": "wrong",
+    "meaning": "잘못된",
+    "synonym": []
+  }
 ]

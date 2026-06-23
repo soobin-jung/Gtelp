@@ -1,0 +1,197 @@
+[
+  {
+    "seq": 1,
+    "word": "want",
+    "meaning": "원하다",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "warehouse",
+    "meaning": "창고",
+    "synonym": [
+      "storehouse",
+      "depot"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "warn",
+    "meaning": "경고하다",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "waste",
+    "meaning": "낭비",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "way",
+    "meaning": "방식",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "wealthy",
+    "meaning": "부유한",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "wearing",
+    "meaning": "입는",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "weather forecast",
+    "meaning": "?? ??",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "weight",
+    "meaning": "몸무게",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "well",
+    "meaning": "잘",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "when",
+    "meaning": "~할 때",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "whenever",
+    "meaning": "~할 때마다",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "whether",
+    "meaning": "~인지 아닌지",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "while",
+    "meaning": "~동안",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "wildlife",
+    "meaning": "야생동물",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "win",
+    "meaning": "이기다",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "with",
+    "meaning": "~을 가진",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "with regard to",
+    "meaning": "~와 관련해서",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "without",
+    "meaning": "~하지 않고",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "witness",
+    "meaning": "목격자",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "word",
+    "meaning": "낱말, 말",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "wordy",
+    "meaning": "장황한",
+    "synonym": [
+      "verbose",
+      "talkative"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "work",
+    "meaning": "노력하다",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "work through",
+    "meaning": "해치우다, 해결하다",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "worker",
+    "meaning": "근로자",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "workout",
+    "meaning": "운동",
+    "synonym": []
+  },
+  {
+    "seq": 27,
+    "word": "workplace",
+    "meaning": "일터",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "worse",
+    "meaning": "더 악화된",
+    "synonym": []
+  },
+  {
+    "seq": 29,
+    "word": "worth",
+    "meaning": "가치",
+    "synonym": [
+      "value",
+      "merit"
+    ]
+  },
+  {
+    "seq": 30,
+    "word": "written",
+    "meaning": "쓰여진",
+    "synonym": []
+  },
+  {
+    "seq": 31,
+    "word": "wrong",
+    "meaning": "잘못된",
+    "synonym": []
+  }
+]

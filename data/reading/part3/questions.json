@@ -1,0 +1,807 @@
+[
+  {
+    "passage_id": 1,
+    "part": 3,
+    "passage_text": "The blue whale (Balaenoptera musculus) holds the distinction of being the largest animal ever known to have existed on Earth. Adults can reach lengths of up to 30 meters and weigh as much as 200 metric tons, making them larger than even the most massive dinosaurs that once roamed the planet. Found in every ocean on Earth, blue whales prefer the open waters of the deep ocean and undertake some of the longest migrations of any mammal. Despite their enormous size, these giants are remarkably streamlined, capable of reaching speeds of up to 50 kilometers per hour when alarmed.\n\nBlue whales are filter feeders, consuming enormous quantities of tiny crustaceans called krill. During feeding season in polar waters, a single adult blue whale may consume up to four metric tons of krill per day. This remarkable feat is accomplished through a specialized filtering system: instead of teeth, blue whales possess hundreds of baleen plates — dense, comb-like structures made of keratin — that hang from the upper jaw. The whale opens its enormous mouth, engulfs vast volumes of krill-rich water, and then forces the water out through the baleen, trapping the krill inside.\n\nBlue whales are renowned for producing some of the loudest and lowest-frequency sounds in the animal kingdom. Their calls can travel thousands of kilometers through the ocean, allowing individuals to communicate across vast distances. Scientists believe these vocalizations serve several purposes, including navigation, locating potential mates, and coordinating movements during migration. Blue whale songs operate at frequencies often below the threshold of human hearing, requiring specialized underwater hydrophones to detect and record them.\n\nDespite being protected by international law since 1966, blue whale populations remain critically endangered. Decades of commercial whaling reduced global numbers from an estimated 250,000 to as few as 10,000 to 25,000 individuals. Today, the primary threats include ship strikes, entanglement in fishing gear, ocean noise pollution, and the effects of climate change on krill availability. Conservation efforts, including designated marine protected areas and adjustments to shipping lanes in critical habitats, have allowed some populations to recover slowly, but the species' slow reproductive rate means full recovery will take many decades.",
+    "questions": [
+      {
+        "q_id": 1,
+        "type": "detail",
+        "quiz": "What does paragraph 1 identify as a notable characteristic of blue whales?",
+        "quiz_ko": "1단락에서 파란고래의 주목할 만한 특징으로 설명된 것은?",
+        "answer1": "They are the fastest swimmers among all ocean mammals.",
+        "answer1_ko": "모든 해양 포유류 중 가장 빠른 수영 선수이다.",
+        "answer2": "They are the largest animals ever known to have existed on Earth.",
+        "answer2_ko": "지구에 살았던 것으로 알려진 가장 큰 동물이다.",
+        "answer3": "They are found exclusively in tropical ocean waters near the equator.",
+        "answer3_ko": "적도 부근의 열대 해양 수역에서만 발견된다.",
+        "answer4": "They are the only marine mammals capable of surviving in all five oceans.",
+        "answer4_ko": "5개 대양 모두에서 생존할 수 있는 유일한 해양 포유류이다.",
+        "answer": 2,
+        "commentary": "1단락에 'The blue whale holds the distinction of being the largest animal ever known to have existed on Earth'라고 직접 나옵니다. hold the distinction of(~라는 특이성을 갖다)는 자주 쓰이는 격식체 표현입니다.",
+        "keywords": [
+          { "word": "distinction", "meaning": "특이성, 구별되는 점" },
+          { "word": "streamlined", "meaning": "유선형의" },
+          { "word": "metric ton", "meaning": "미터톤" },
+          { "word": "mammal", "meaning": "포유류" }
+        ]
+      },
+      {
+        "q_id": 2,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what is the primary food source of blue whales?",
+        "quiz_ko": "2단락에 따르면, 파란고래의 주요 먹이 원천은?",
+        "answer1": "Large fish such as tuna and mackerel found in tropical waters.",
+        "answer1_ko": "열대 해역에서 발견되는 참치와 고등어 같은 큰 물고기.",
+        "answer2": "Squid and octopus found in deep-sea environments.",
+        "answer2_ko": "심해 환경에서 발견되는 오징어와 문어.",
+        "answer3": "Plankton and microscopic algae near the ocean surface.",
+        "answer3_ko": "해양 표면 근처의 플랑크톤과 미세 조류.",
+        "answer4": "Tiny crustaceans called krill.",
+        "answer4_ko": "크릴이라고 불리는 작은 갑각류.",
+        "answer": 4,
+        "commentary": "2단락에 'Blue whales are filter feeders, consuming enormous quantities of tiny crustaceans called krill'이라고 직접 나옵니다. crustacean(갑각류)은 지텔프 자연과학 지문에서 자주 등장하는 어휘입니다.",
+        "keywords": [
+          { "word": "crustacean", "meaning": "갑각류" },
+          { "word": "filter feeder", "meaning": "여과 섭식자" },
+          { "word": "krill", "meaning": "크릴" },
+          { "word": "polar", "meaning": "극지방의" }
+        ]
+      },
+      {
+        "q_id": 3,
+        "type": "detail",
+        "quiz": "What structure allows blue whales to filter food from seawater according to paragraph 2?",
+        "quiz_ko": "2단락에 따르면, 파란고래가 해수에서 먹이를 걸러내는 구조는?",
+        "answer1": "Hundreds of keratin-based baleen plates hanging from the upper jaw.",
+        "answer1_ko": "위턱에 매달린 케라틴 기반의 수백 개의 수염판.",
+        "answer2": "A specially shaped tongue that traps krill against the roof of the mouth.",
+        "answer2_ko": "크릴을 입천장에 가두는 특별한 형태의 혀.",
+        "answer3": "Gill-like organs that separate food particles as seawater passes through.",
+        "answer3_ko": "해수가 통과할 때 먹이 입자를 분리하는 아가미 같은 기관.",
+        "answer4": "Muscular pouches in the throat that squeeze water out after swallowing.",
+        "answer4_ko": "삼킨 후 물을 짜내는 목의 근육 주머니.",
+        "answer": 1,
+        "commentary": "2단락에 'blue whales possess hundreds of baleen plates — dense, comb-like structures made of keratin — that hang from the upper jaw'라고 나옵니다. comb-like(빗 모양의)와 keratin(케라틴)은 자연과학 지문의 핵심 어휘입니다.",
+        "keywords": [
+          { "word": "baleen", "meaning": "수염판" },
+          { "word": "keratin", "meaning": "케라틴" },
+          { "word": "jaw", "meaning": "턱" },
+          { "word": "engulf", "meaning": "삼키다, 에워싸다" }
+        ]
+      },
+      {
+        "q_id": 4,
+        "type": "detail",
+        "quiz": "According to paragraph 3, what is notable about blue whale vocalizations?",
+        "quiz_ko": "3단락에 따르면, 파란고래의 발성에서 주목할 만한 점은?",
+        "answer1": "They can only be heard by other blue whales due to their unique pitch.",
+        "answer1_ko": "고유한 음조 때문에 다른 파란고래만 들을 수 있다.",
+        "answer2": "They are used exclusively to warn other whales of approaching predators.",
+        "answer2_ko": "다가오는 포식자를 다른 고래에게 경고하는 데만 사용된다.",
+        "answer3": "They can travel thousands of kilometers and often fall below the range of human hearing.",
+        "answer3_ko": "수천 킬로미터를 이동할 수 있으며 종종 인간 청각 범위 아래에 있다.",
+        "answer4": "They are the highest-frequency sounds produced by any living animal.",
+        "answer4_ko": "살아있는 동물이 만들어내는 가장 높은 주파수의 소리이다.",
+        "answer": 3,
+        "commentary": "3단락에 'Their calls can travel thousands of kilometers through the ocean'이라고 나오며, 'Blue whale songs operate at frequencies often below the threshold of human hearing'이라고 나옵니다. threshold(역치, 한계점)는 과학 지문에서 중요한 어휘입니다.",
+        "keywords": [
+          { "word": "vocalization", "meaning": "발성, 울음소리" },
+          { "word": "frequency", "meaning": "주파수" },
+          { "word": "threshold", "meaning": "역치, 한계점" },
+          { "word": "hydrophone", "meaning": "수중청음기" }
+        ]
+      },
+      {
+        "q_id": 5,
+        "type": "detail",
+        "quiz": "What does paragraph 4 identify as a result of decades of commercial whaling?",
+        "quiz_ko": "4단락에서 수십 년간의 상업 포경의 결과로 제시된 것은?",
+        "answer1": "Blue whales completely disappeared from the Southern Ocean.",
+        "answer1_ko": "파란고래가 남극해에서 완전히 사라졌다.",
+        "answer2": "Global blue whale numbers fell from about 250,000 to as few as 10,000 to 25,000.",
+        "answer2_ko": "전 세계 파란고래 수가 약 250,000마리에서 10,000~25,000마리로 감소했다.",
+        "answer3": "Blue whales were reclassified as vulnerable rather than critically endangered.",
+        "answer3_ko": "파란고래는 심각한 멸종 위기가 아닌 취약종으로 재분류되었다.",
+        "answer4": "Commercial whaling operations were completely eliminated from all international waters.",
+        "answer4_ko": "모든 국제 수역에서 상업 포경 작업이 완전히 제거되었다.",
+        "answer": 2,
+        "commentary": "4단락에 'Decades of commercial whaling reduced global numbers from an estimated 250,000 to as few as 10,000 to 25,000 individuals'라고 나옵니다. as few as(불과 ~만큼 적게)는 수의 심각한 감소를 강조하는 표현입니다.",
+        "keywords": [
+          { "word": "endangered", "meaning": "멸종 위기에 처한" },
+          { "word": "commercial whaling", "meaning": "상업 포경" },
+          { "word": "entanglement", "meaning": "얽힘" },
+          { "word": "reproductive", "meaning": "생식의" }
+        ]
+      },
+      {
+        "q_id": 6,
+        "type": "vocabulary",
+        "quiz": "The word \"baleen\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'baleen'과 가장 가까운 의미의 표현은?",
+        "answer1": "a sharp tooth used for biting prey underwater",
+        "answer1_ko": "수중에서 먹이를 물기 위해 사용되는 날카로운 이빨",
+        "answer2": "a thick layer of fat that insulates the whale's body",
+        "answer2_ko": "고래의 몸을 단열시키는 두꺼운 지방층",
+        "answer3": "a sensitive organ used to detect sound vibrations in water",
+        "answer3_ko": "물 속의 음파 진동을 감지하는 데 사용되는 감각 기관",
+        "answer4": "a comb-like filtering structure made of keratin in the whale's mouth",
+        "answer4_ko": "고래 입 안의 케라틴으로 만들어진 빗 모양의 여과 구조",
+        "answer": 4,
+        "commentary": "baleen(수염판)은 이빨 대신 고래의 위턱에 달린 케라틴 여과 구조입니다. 2단락에 'dense, comb-like structures made of keratin'이라고 설명되어 있습니다. baleen whales(수염고래류)는 이러한 구조를 가진 고래의 총칭입니다.",
+        "keywords": [
+          { "word": "baleen", "meaning": "수염판" },
+          { "word": "keratin", "meaning": "케라틴" },
+          { "word": "filter", "meaning": "여과하다, 여과" },
+          { "word": "comb-like", "meaning": "빗 모양의" }
+        ]
+      },
+      {
+        "q_id": 7,
+        "type": "vocabulary",
+        "quiz": "The word \"threshold\" in paragraph 3 is closest in meaning to:",
+        "quiz_ko": "3단락의 'threshold'와 가장 가까운 의미의 표현은?",
+        "answer1": "limit or boundary point",
+        "answer1_ko": "한계점, 경계점",
+        "answer2": "maximum level of intensity",
+        "answer2_ko": "최대 강도 수준",
+        "answer3": "standard measurement unit",
+        "answer3_ko": "표준 측정 단위",
+        "answer4": "average frequency range",
+        "answer4_ko": "평균 주파수 범위",
+        "answer": 1,
+        "commentary": "threshold는 '역치, 한계점'이라는 뜻으로 limit or boundary point가 가장 유사합니다. 'frequencies often below the threshold of human hearing'에서 인간이 들을 수 있는 '최저 한계점' 아래의 주파수라는 의미입니다. threshold는 의학, 과학, 심리학에서 폭넓게 사용됩니다.",
+        "keywords": [
+          { "word": "threshold", "meaning": "역치, 한계점" },
+          { "word": "frequency", "meaning": "주파수" },
+          { "word": "detect", "meaning": "감지하다" },
+          { "word": "range", "meaning": "범위" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 2,
+    "part": 3,
+    "passage_text": "Coral reefs are often referred to as the 'rainforests of the sea,' a comparison that reflects both their extraordinary biodiversity and their critical ecological role. Although they cover less than one percent of the ocean floor, coral reefs are estimated to support approximately 25 percent of all marine species, including thousands of fish, invertebrates, and plant species. These ecosystems are found primarily in shallow, warm, and clear tropical waters, where sunlight can penetrate to the seafloor — a condition essential for their survival.\n\nDespite appearances, coral reefs are not plants or rocks but are instead built by tiny marine animals called coral polyps. Each polyp secretes a hard external skeleton made of calcium carbonate, and over thousands of years, these skeletons accumulate to form the massive reef structures visible today. The survival of coral polyps depends on a symbiotic relationship with microscopic algae known as zooxanthellae, which live within the polyp's tissues. Through photosynthesis, the zooxanthellae produce sugars that supply up to 90 percent of the coral's energy needs, while the polyp provides the algae with shelter and nutrients.\n\nCoral reefs face an array of escalating threats driven primarily by human activities and climate change. The most visible is coral bleaching, a phenomenon that occurs when ocean temperatures rise above normal levels, causing the stressed coral polyps to expel their zooxanthellae. Without these algae, the coral loses both its vibrant color and its primary energy source, appearing white or 'bleached.' If the elevated temperatures persist for too long, the coral dies. Ocean acidification, caused by the absorption of excess atmospheric carbon dioxide, is another significant threat, as it weakens the calcium carbonate skeletons that corals depend on.\n\nEfforts to protect and restore coral reefs have intensified in recent decades. Marine protected areas restrict fishing, diving, and other activities that physically damage reef structures. Coral gardening programs propagate coral fragments in underwater nurseries before transplanting them onto degraded reef sections. Scientists are also researching heat-resistant coral strains and exploring the possibility of assisted evolution to help reefs adapt to warming oceans. Despite these efforts, experts warn that without significant reductions in global carbon emissions, the world's coral reefs could suffer irreversible damage within this century.",
+    "questions": [
+      {
+        "q_id": 8,
+        "type": "detail",
+        "quiz": "What comparison does paragraph 1 use to describe coral reefs, and why?",
+        "quiz_ko": "1단락에서 산호초를 설명하기 위해 사용된 비교와 그 이유는?",
+        "answer1": "They are compared to deserts because they cover vast but mostly barren ocean areas.",
+        "answer1_ko": "광대하지만 대부분 불모인 해양 지역을 덮기 때문에 사막에 비유된다.",
+        "answer2": "They are compared to cities because they are highly organized human-like structures.",
+        "answer2_ko": "고도로 조직된 인간 유사 구조이기 때문에 도시에 비유된다.",
+        "answer3": "They are compared to rainforests because of their extraordinary biodiversity and ecological importance.",
+        "answer3_ko": "비범한 생물 다양성과 생태학적 중요성 때문에 열대 우림에 비유된다.",
+        "answer4": "They are compared to mountains because of their large size and complex geological formations.",
+        "answer4_ko": "큰 크기와 복잡한 지질 형성 때문에 산에 비유된다.",
+        "answer": 3,
+        "commentary": "1단락에 'Coral reefs are often referred to as the rainforests of the sea, a comparison that reflects both their extraordinary biodiversity and their critical ecological role'이라고 나옵니다. refer to A as B(A를 B라고 부르다)는 지텔프 독해에서 자주 쓰이는 표현입니다.",
+        "keywords": [
+          { "word": "biodiversity", "meaning": "생물 다양성" },
+          { "word": "invertebrate", "meaning": "무척추동물" },
+          { "word": "penetrate", "meaning": "침투하다, 관통하다" },
+          { "word": "ecological", "meaning": "생태학적" }
+        ]
+      },
+      {
+        "q_id": 9,
+        "type": "detail",
+        "quiz": "According to paragraph 2, how do coral polyps build reef structures?",
+        "quiz_ko": "2단락에 따르면, 산호 폴립은 어떻게 암초 구조물을 만드는가?",
+        "answer1": "By secreting calcium carbonate skeletons that accumulate over thousands of years.",
+        "answer1_ko": "수천 년에 걸쳐 축적되는 탄산칼슘 골격을 분비하여.",
+        "answer2": "By using minerals extracted from seawater to cement sand particles together.",
+        "answer2_ko": "해수에서 추출한 광물을 사용하여 모래 입자를 결합하여.",
+        "answer3": "By producing a thick layer of organic material that hardens when exposed to sunlight.",
+        "answer3_ko": "햇빛에 노출되면 굳어지는 두꺼운 유기물층을 생성하여.",
+        "answer4": "By forming large colonies that physically compress the seabed into hard formations.",
+        "answer4_ko": "해저를 단단한 형성물로 물리적으로 압축하는 큰 군집을 형성하여.",
+        "answer": 1,
+        "commentary": "2단락에 'Each polyp secretes a hard external skeleton made of calcium carbonate, and over thousands of years, these skeletons accumulate to form the massive reef structures'라고 나옵니다. secrete(분비하다)와 accumulate(축적되다)는 과학 지문에서 자주 쓰이는 어휘입니다.",
+        "keywords": [
+          { "word": "polyp", "meaning": "폴립(산호 개체)" },
+          { "word": "secrete", "meaning": "분비하다" },
+          { "word": "calcium carbonate", "meaning": "탄산칼슘" },
+          { "word": "accumulate", "meaning": "축적되다" }
+        ]
+      },
+      {
+        "q_id": 10,
+        "type": "detail",
+        "quiz": "What does paragraph 2 describe as the benefit coral polyps receive from zooxanthellae?",
+        "quiz_ko": "2단락에서 산호 폴립이 주산텔라로부터 받는 이점으로 설명된 것은?",
+        "answer1": "Protection from ocean currents that would otherwise dislodge the coral from the seafloor.",
+        "answer1_ko": "그렇지 않으면 산호를 해저에서 분리시킬 해류로부터의 보호.",
+        "answer2": "A hard outer coating that makes the coral resistant to predators and physical damage.",
+        "answer2_ko": "산호를 포식자와 물리적 손상에 견디게 하는 단단한 외층.",
+        "answer3": "Chemicals that attract small fish, which in turn provide nutrients through their waste.",
+        "answer3_ko": "작은 물고기를 유인하는 화학물질, 이 물고기들은 배설물을 통해 영양분을 제공한다.",
+        "answer4": "Sugars produced through photosynthesis that supply up to 90 percent of the coral's energy.",
+        "answer4_ko": "광합성을 통해 생성된 당분으로 산호 에너지의 최대 90%를 공급한다.",
+        "answer": 4,
+        "commentary": "2단락에 'Through photosynthesis, the zooxanthellae produce sugars that supply up to 90 percent of the coral's energy needs'라고 나옵니다. up to(최대 ~까지)는 비율이나 수치를 나타낼 때 자주 쓰이는 표현입니다.",
+        "keywords": [
+          { "word": "symbiotic", "meaning": "공생의" },
+          { "word": "zooxanthellae", "meaning": "주산텔라(공생 조류)" },
+          { "word": "photosynthesis", "meaning": "광합성" },
+          { "word": "tissue", "meaning": "조직" }
+        ]
+      },
+      {
+        "q_id": 11,
+        "type": "detail",
+        "quiz": "According to paragraph 3, what triggers the coral bleaching process?",
+        "quiz_ko": "3단락에 따르면, 산호 표백 현상을 유발하는 것은?",
+        "answer1": "A sudden decrease in ocean salinity caused by freshwater runoff from heavy rainfall.",
+        "answer1_ko": "폭우로 인한 담수 유출로 해양 염도가 갑자기 감소하는 것.",
+        "answer2": "Ocean temperatures rising above normal levels, causing corals to expel their zooxanthellae.",
+        "answer2_ko": "해양 온도가 정상 수준 이상으로 상승하여 산호가 주산텔라를 방출하게 만드는 것.",
+        "answer3": "Increased acidity in seawater that dissolves the calcium carbonate skeletons of the corals.",
+        "answer3_ko": "해수 산성도 증가가 산호의 탄산칼슘 골격을 용해시키는 것.",
+        "answer4": "A reduction in sunlight reaching the reef due to increased cloud cover over tropical oceans.",
+        "answer4_ko": "열대 해양 위 구름 증가로 암초에 도달하는 햇빛이 감소하는 것.",
+        "answer": 2,
+        "commentary": "3단락에 'coral bleaching, a phenomenon that occurs when ocean temperatures rise above normal levels, causing the stressed coral polyps to expel their zooxanthellae'라고 나옵니다. expel(방출하다, 내보내다)은 eject / release와 동의어입니다.",
+        "keywords": [
+          { "word": "bleaching", "meaning": "표백, 탈색" },
+          { "word": "expel", "meaning": "방출하다, 내보내다" },
+          { "word": "phenomenon", "meaning": "현상" },
+          { "word": "acidification", "meaning": "산성화" }
+        ]
+      },
+      {
+        "q_id": 12,
+        "type": "detail",
+        "quiz": "What conservation method described in paragraph 4 involves growing coral in underwater nurseries?",
+        "quiz_ko": "4단락에서 설명된 수중 양식장에서 산호를 키우는 보전 방법은?",
+        "answer1": "Marine protected area designation.",
+        "answer1_ko": "해양 보호 구역 지정.",
+        "answer2": "Assisted evolution research.",
+        "answer2_ko": "보조 진화 연구.",
+        "answer3": "Coral gardening programs.",
+        "answer3_ko": "산호 가드닝 프로그램.",
+        "answer4": "Carbon emission reduction treaties.",
+        "answer4_ko": "탄소 배출 감소 조약.",
+        "answer": 3,
+        "commentary": "4단락에 'Coral gardening programs propagate coral fragments in underwater nurseries before transplanting them onto degraded reef sections'이라고 나옵니다. propagate(번식시키다, 전파하다)와 transplant(이식하다)는 생물학 지문의 핵심 어휘입니다.",
+        "keywords": [
+          { "word": "propagate", "meaning": "번식시키다, 전파하다" },
+          { "word": "transplant", "meaning": "이식하다" },
+          { "word": "degraded", "meaning": "황폐해진" },
+          { "word": "irreversible", "meaning": "돌이킬 수 없는" }
+        ]
+      },
+      {
+        "q_id": 13,
+        "type": "vocabulary",
+        "quiz": "The word \"symbiotic\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'symbiotic'과 가장 가까운 의미의 표현은?",
+        "answer1": "competitive",
+        "answer1_ko": "경쟁적인",
+        "answer2": "mutually beneficial",
+        "answer2_ko": "상호 이익이 되는",
+        "answer3": "temporary or seasonal",
+        "answer3_ko": "일시적이거나 계절적인",
+        "answer4": "parasitic or harmful to one party",
+        "answer4_ko": "기생적이거나 한쪽에 해로운",
+        "answer": 2,
+        "commentary": "symbiotic는 '공생의'라는 뜻으로 mutually beneficial(상호 이익이 되는)이 가장 유사합니다. 'symbiotic relationship'에서 산호 폴립과 주산텔라가 서로 이익을 주고받는다는 문맥이 핵심입니다. symbiosis(공생)라는 명사 형태도 함께 기억하세요.",
+        "keywords": [
+          { "word": "symbiotic", "meaning": "공생의" },
+          { "word": "symbiosis", "meaning": "공생" },
+          { "word": "mutualism", "meaning": "상리 공생" },
+          { "word": "parasitic", "meaning": "기생의" }
+        ]
+      },
+      {
+        "q_id": 14,
+        "type": "vocabulary",
+        "quiz": "The word \"acidification\" in paragraph 3 is closest in meaning to:",
+        "quiz_ko": "3단락의 'acidification'과 가장 가까운 의미의 표현은?",
+        "answer1": "the process of becoming warmer",
+        "answer1_ko": "따뜻해지는 과정",
+        "answer2": "the process of losing oxygen content",
+        "answer2_ko": "산소 함량을 잃는 과정",
+        "answer3": "the process of becoming saltier or more concentrated",
+        "answer3_ko": "더 짜지거나 더 농축되는 과정",
+        "answer4": "the process of increasing in acidity or decreasing in pH",
+        "answer4_ko": "산성도가 증가하거나 pH가 감소하는 과정",
+        "answer": 4,
+        "commentary": "acidification은 '산성화'라는 뜻으로 the process of increasing in acidity or decreasing in pH가 가장 유사합니다. ocean acidification(해양 산성화)는 CO2 흡수로 해수 pH가 낮아지는 현상입니다. acid(산), acidic(산성의)라는 관련 어휘도 함께 기억하세요.",
+        "keywords": [
+          { "word": "acidification", "meaning": "산성화" },
+          { "word": "acidic", "meaning": "산성의" },
+          { "word": "pH", "meaning": "수소이온 농도 지수" },
+          { "word": "carbon dioxide", "meaning": "이산화탄소" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 3,
+    "part": 3,
+    "passage_text": "The Amazon Rainforest is the largest tropical rainforest on Earth, spanning approximately 5.5 million square kilometers across nine South American countries, with the majority located in Brazil. Often described as the 'lungs of the Earth,' the Amazon absorbs vast quantities of carbon dioxide and releases oxygen, playing a crucial role in regulating the global climate. The forest is also home to an extraordinary diversity of life, with scientists estimating that it contains around 10 percent of all species currently living on Earth.\n\nThe Amazon's biodiversity is unparalleled in scale and complexity. The forest harbors an estimated three million species of plants and animals, many of which are endemic — found nowhere else on the planet. New species continue to be discovered at a remarkable rate; researchers have identified thousands of previously unknown plant, insect, fish, and mammal species in recent decades. The layered structure of the Amazon, from the densely shadowed forest floor to the sunlit canopy and emergent trees above, creates a range of distinct habitats that support this extraordinary richness of life.\n\nThe Amazon also functions as a vast water-cycling engine. Through a process called transpiration, trees absorb groundwater through their roots and release it as vapor through their leaves. This moisture rises into the atmosphere, condenses, and returns as rainfall — not only within the Amazon itself but also across much of South America. Scientists refer to these invisible aerial rivers of moisture as 'flying rivers,' and research suggests they transport more water than the Amazon River itself. The loss of trees through deforestation therefore disrupts not just local ecosystems but regional rainfall patterns far beyond the forest's borders.\n\nDespite its ecological importance, the Amazon faces severe and accelerating deforestation. Cattle ranching, soy cultivation, illegal logging, and the expansion of road networks have collectively destroyed an estimated 17 percent of the Amazon's original cover over the past half-century. Large-scale fires, often deliberately set to clear land for agriculture, have become more frequent and more destructive. Scientists warn that if deforestation continues at its current pace, the Amazon could reach a tipping point at which it begins to dry out and transform into a savanna-like landscape, a process known as 'dieback,' with catastrophic consequences for both regional and global climate systems.",
+    "questions": [
+      {
+        "q_id": 15,
+        "type": "detail",
+        "quiz": "What role does paragraph 1 describe the Amazon Rainforest as playing in the global climate?",
+        "quiz_ko": "1단락에서 아마존 열대우림이 지구 기후에서 수행하는 역할로 설명된 것은?",
+        "answer1": "It absorbs carbon dioxide and releases oxygen, helping regulate the global climate.",
+        "answer1_ko": "이산화탄소를 흡수하고 산소를 방출하여 지구 기후 조절을 돕는다.",
+        "answer2": "It generates powerful wind systems that distribute heat across the tropics.",
+        "answer2_ko": "열대 지방에 열을 분배하는 강력한 바람 시스템을 생성한다.",
+        "answer3": "It filters ocean currents that regulate global temperature patterns.",
+        "answer3_ko": "지구 온도 패턴을 조절하는 해류를 여과한다.",
+        "answer4": "It produces most of the world's freshwater by collecting and purifying rainfall.",
+        "answer4_ko": "강수량을 수집하고 정화하여 세계 대부분의 담수를 생산한다.",
+        "answer": 1,
+        "commentary": "1단락에 'the Amazon absorbs vast quantities of carbon dioxide and releases oxygen, playing a crucial role in regulating the global climate'라고 나옵니다. play a crucial role in(~에서 중요한 역할을 하다)은 지텔프에서 자주 출제되는 표현입니다.",
+        "keywords": [
+          { "word": "carbon dioxide", "meaning": "이산화탄소" },
+          { "word": "regulate", "meaning": "조절하다" },
+          { "word": "crucial", "meaning": "중요한, 결정적인" },
+          { "word": "span", "meaning": "걸치다, 아우르다" }
+        ]
+      },
+      {
+        "q_id": 16,
+        "type": "detail",
+        "quiz": "What does paragraph 2 mean when it describes many Amazon species as \"endemic\"?",
+        "quiz_ko": "2단락에서 많은 아마존 종을 '풍토성(endemic)'으로 설명할 때 의미하는 것은?",
+        "answer1": "They are found only during certain seasons of the year.",
+        "answer1_ko": "일 년 중 특정 계절에만 발견된다.",
+        "answer2": "They have developed immunity to tropical diseases common in the region.",
+        "answer2_ko": "그 지역에서 흔한 열대 질병에 대한 면역력을 발달시켰다.",
+        "answer3": "They have adapted to survive in both aquatic and terrestrial environments.",
+        "answer3_ko": "수생 및 육상 환경 모두에서 생존하도록 적응했다.",
+        "answer4": "They are found nowhere else on the planet.",
+        "answer4_ko": "지구 어디에서도 발견되지 않는다.",
+        "answer": 4,
+        "commentary": "2단락에 'many of which are endemic — found nowhere else on the planet'이라고 직접 정의가 나옵니다. 대시(—) 뒤에 어휘 설명이 오는 구조는 지텔프 독해에서 자주 나타납니다. endemic(풍토성의, 특정 지역 고유의)은 반드시 기억해야 합니다.",
+        "keywords": [
+          { "word": "endemic", "meaning": "특정 지역 고유의, 풍토성의" },
+          { "word": "harbor", "meaning": "품다, 서식지가 되다" },
+          { "word": "canopy", "meaning": "수관층, 덮개" },
+          { "word": "emergent", "meaning": "돌출한, 수면 위로 나온" }
+        ]
+      },
+      {
+        "q_id": 17,
+        "type": "detail",
+        "quiz": "What does the term \"flying rivers\" refer to in paragraph 3?",
+        "quiz_ko": "3단락에서 '하늘의 강'이 가리키는 것은?",
+        "answer1": "Underground water channels that feed the Amazon River's tributaries.",
+        "answer1_ko": "아마존 강의 지류에 공급하는 지하 수로.",
+        "answer2": "Invisible aerial streams of moisture transported by transpiration and condensation.",
+        "answer2_ko": "증산과 응결로 운반되는 보이지 않는 공중 수분 흐름.",
+        "answer3": "Seasonal flood currents that carry nutrients across the forest floor.",
+        "answer3_ko": "숲 바닥에 영양분을 운반하는 계절성 홍수 흐름.",
+        "answer4": "Storm systems that form over the Amazon and bring rainfall to coastal regions.",
+        "answer4_ko": "아마존 위에 형성되어 해안 지역에 강수량을 가져오는 폭풍 시스템.",
+        "answer": 2,
+        "commentary": "3단락에 'Scientists refer to these invisible aerial rivers of moisture as flying rivers'라고 나옵니다. refer to A as B(A를 B라고 부르다) 구문을 이용해 개념의 정의를 설명하는 방식은 지텔프에서 자주 나옵니다.",
+        "keywords": [
+          { "word": "transpiration", "meaning": "증산(식물이 수분을 방출하는 과정)" },
+          { "word": "condense", "meaning": "응결하다" },
+          { "word": "aerial", "meaning": "공중의, 대기의" },
+          { "word": "disrupts", "meaning": "교란하다, 방해하다" }
+        ]
+      },
+      {
+        "q_id": 18,
+        "type": "detail",
+        "quiz": "What does paragraph 4 identify as a major driver of Amazon deforestation?",
+        "quiz_ko": "4단락에서 아마존 삼림 벌채의 주요 원인으로 제시된 것은?",
+        "answer1": "Rapid population growth within the Amazon basin forcing expansion of urban areas.",
+        "answer1_ko": "아마존 분지 내 급격한 인구 증가로 인한 도시 지역 확장.",
+        "answer2": "Natural wildfires caused by prolonged drought during El Niño years.",
+        "answer2_ko": "엘니뇨 기간의 장기적인 가뭄으로 인한 자연 산불.",
+        "answer3": "Cattle ranching, soy cultivation, illegal logging, and road network expansion.",
+        "answer3_ko": "목축업, 대두 재배, 불법 벌목, 도로망 확장.",
+        "answer4": "Industrial mining operations extracting minerals from beneath the forest floor.",
+        "answer4_ko": "숲 바닥 아래에서 광물을 추출하는 산업 광업.",
+        "answer": 3,
+        "commentary": "4단락에 'Cattle ranching, soy cultivation, illegal logging, and the expansion of road networks have collectively destroyed an estimated 17 percent of the Amazon's original cover'라고 나옵니다. collectively(집합적으로, 총합하여)는 여러 원인의 복합적 효과를 나타낼 때 쓰이는 부사입니다.",
+        "keywords": [
+          { "word": "deforestation", "meaning": "삼림 벌채" },
+          { "word": "cultivate", "meaning": "재배하다, 경작하다" },
+          { "word": "tipping point", "meaning": "임계점" },
+          { "word": "catastrophic", "meaning": "재앙적인" }
+        ]
+      },
+      {
+        "q_id": 19,
+        "type": "detail",
+        "quiz": "According to paragraph 3, what happens when trees release water vapor through transpiration?",
+        "quiz_ko": "3단락에 따르면, 나무가 증산을 통해 수증기를 방출할 때 어떤 일이 일어나는가?",
+        "answer1": "The vapor cools the forest floor and prevents soil erosion during heavy rains.",
+        "answer1_ko": "수증기가 숲 바닥을 냉각시키고 폭우 시 토양 침식을 방지한다.",
+        "answer2": "The moisture rises, condenses, and returns as rainfall across South America.",
+        "answer2_ko": "수분이 상승하여 응결되고 남미 전역에 강우로 돌아온다.",
+        "answer3": "The vapor creates cloud cover that reduces the amount of solar energy reaching the canopy.",
+        "answer3_ko": "수증기가 수관층에 도달하는 태양 에너지 양을 줄이는 구름 덮개를 만든다.",
+        "answer4": "The moisture is carried by trade winds to supply rainfall to North American regions.",
+        "answer4_ko": "수분이 무역풍에 의해 운반되어 북미 지역에 강우를 공급한다.",
+        "answer": 2,
+        "commentary": "3단락에 'This moisture rises into the atmosphere, condenses, and returns as rainfall — not only within the Amazon itself but also across much of South America'라고 나옵니다. condense(응결하다)는 기상 관련 어휘로 자주 출제됩니다.",
+        "keywords": [
+          { "word": "transpiration", "meaning": "증산" },
+          { "word": "moisture", "meaning": "수분, 습기" },
+          { "word": "condense", "meaning": "응결하다" },
+          { "word": "groundwater", "meaning": "지하수" }
+        ]
+      },
+      {
+        "q_id": 20,
+        "type": "vocabulary",
+        "quiz": "The word \"endemic\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'endemic'과 가장 가까운 의미의 표현은?",
+        "answer1": "native to and restricted to a particular area",
+        "answer1_ko": "특정 지역에 고유하며 해당 지역에 국한된",
+        "answer2": "able to survive in multiple different climate zones",
+        "answer2_ko": "여러 다른 기후대에서 생존할 수 있는",
+        "answer3": "threatened with extinction due to habitat loss",
+        "answer3_ko": "서식지 손실로 인해 멸종 위기에 처한",
+        "answer4": "recently introduced to a region from a foreign environment",
+        "answer4_ko": "외부 환경에서 지역에 최근 도입된",
+        "answer": 1,
+        "commentary": "endemic은 '특정 지역 고유의, 풍토성의'라는 뜻으로 native to and restricted to a particular area가 가장 유사합니다. 2단락에 'endemic — found nowhere else on the planet'이라고 직접 정의가 나옵니다. 반의어는 cosmopolitan(세계 각지에 분포하는)입니다.",
+        "keywords": [
+          { "word": "endemic", "meaning": "특정 지역 고유의" },
+          { "word": "native", "meaning": "토착의" },
+          { "word": "cosmopolitan", "meaning": "전 세계에 분포하는" },
+          { "word": "species", "meaning": "종(種)" }
+        ]
+      },
+      {
+        "q_id": 21,
+        "type": "vocabulary",
+        "quiz": "The word \"transpiration\" in paragraph 3 is closest in meaning to:",
+        "quiz_ko": "3단락의 'transpiration'과 가장 가까운 의미의 표현은?",
+        "answer1": "the absorption of sunlight by plant leaves to produce food",
+        "answer1_ko": "식물 잎이 음식을 생산하기 위해 햇빛을 흡수하는 것",
+        "answer2": "the decomposition of organic matter on the forest floor",
+        "answer2_ko": "숲 바닥에서 유기물이 분해되는 것",
+        "answer3": "the process by which plants release water vapor through their leaves",
+        "answer3_ko": "식물이 잎을 통해 수증기를 방출하는 과정",
+        "answer4": "the circulation of water through underground root systems",
+        "answer4_ko": "지하 뿌리 시스템을 통한 물의 순환",
+        "answer": 3,
+        "commentary": "transpiration은 '증산'으로, 식물이 잎의 기공을 통해 수증기를 방출하는 과정입니다. the process by which plants release water vapor through their leaves가 가장 유사합니다. transpire(발산하다, 증산하다)라는 동사 형태도 기억하세요.",
+        "keywords": [
+          { "word": "transpiration", "meaning": "증산" },
+          { "word": "vapor", "meaning": "수증기, 증기" },
+          { "word": "photosynthesis", "meaning": "광합성" },
+          { "word": "evaporation", "meaning": "증발" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 4,
+    "part": 3,
+    "passage_text": "Volcanoes are among the most powerful geological forces on Earth, capable of reshaping landscapes and influencing climates on a global scale. They form at locations where molten rock, called magma, from deep within the Earth's mantle rises toward the surface. Most volcanoes occur along the boundaries of tectonic plates — the massive segments of Earth's crust that are in constant, slow motion — or above hotspots, which are unusually hot regions of the mantle beneath the crust. The Pacific Ring of Fire, a horseshoe-shaped zone encircling the Pacific Ocean, is home to approximately 75 percent of the world's volcanoes.\n\nVolcanic eruptions vary enormously in their character and intensity, largely depending on the chemical composition of the magma involved. Magma rich in silica tends to be highly viscous, trapping volcanic gases and building up tremendous pressure before erupting explosively. This type of eruption, known as Plinian, can eject ash clouds tens of kilometers into the stratosphere and pyroclastic flows — fast-moving avalanches of hot gas and rock — across vast areas. In contrast, magma low in silica flows more freely, producing effusive eruptions characterized by relatively gentle lava flows, such as those seen in Hawaii.\n\nThe immediate hazards of volcanic eruptions extend far beyond lava flows alone. Ash falls can collapse rooftops, contaminate water supplies, and disrupt aviation over enormous distances. Pyroclastic flows, traveling at speeds of up to 700 kilometers per hour and at temperatures exceeding 1,000 degrees Celsius, are virtually unsurvivable. Lahars — volcanic mudflows triggered when volcanic material mixes with water from rainfall or melting snow — can travel rapidly down river valleys, burying entire communities. Volcanic gases, including sulfur dioxide and carbon dioxide, pose additional respiratory and environmental hazards.\n\nDespite their destructive power, volcanoes also contribute positively to the Earth's systems. Volcanic soils, rich in minerals released from erupted material, are among the most fertile on the planet, supporting agriculture in regions like Java, Sicily, and Central America. Submarine volcanoes have built entire island chains, including Hawaii and Iceland. Over geological timescales, volcanic outgassing has contributed to the formation of Earth's atmosphere and oceans. Scientists monitor volcanoes with seismographs, GPS sensors, and satellite imagery to detect early warning signs and provide communities with the time needed to evacuate safely.",
+    "questions": [
+      {
+        "q_id": 22,
+        "type": "detail",
+        "quiz": "According to paragraph 1, where do most volcanoes occur?",
+        "quiz_ko": "1단락에 따르면, 대부분의 화산이 발생하는 곳은?",
+        "answer1": "At the centers of tectonic plates, where the crust is thinnest.",
+        "answer1_ko": "지각이 가장 얇은 지각판의 중심부에서.",
+        "answer2": "Randomly distributed across the ocean floor without any geographic pattern.",
+        "answer2_ko": "지리적 패턴 없이 해저 전체에 무작위로 분포한다.",
+        "answer3": "Exclusively in polar regions where the Earth's crust is under significant pressure.",
+        "answer3_ko": "지각이 상당한 압력을 받는 극지 지역에서만.",
+        "answer4": "Along the boundaries of tectonic plates or above hotspots in the mantle.",
+        "answer4_ko": "지각판의 경계 또는 맨틀의 열점 위에서.",
+        "answer": 4,
+        "commentary": "1단락에 'Most volcanoes occur along the boundaries of tectonic plates...or above hotspots, which are unusually hot regions of the mantle beneath the crust'라고 나옵니다. tectonic plate(지각판)와 hotspot(열점)은 지질학 지문의 핵심 어휘입니다.",
+        "keywords": [
+          { "word": "tectonic plate", "meaning": "지각판" },
+          { "word": "magma", "meaning": "마그마" },
+          { "word": "mantle", "meaning": "맨틀" },
+          { "word": "hotspot", "meaning": "열점" }
+        ]
+      },
+      {
+        "q_id": 23,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what determines whether a volcanic eruption is explosive or effusive?",
+        "quiz_ko": "2단락에 따르면, 화산 폭발이 폭발적인지 분출적인지를 결정하는 것은?",
+        "answer1": "The depth of the magma chamber beneath the volcano's surface.",
+        "answer1_ko": "화산 표면 아래 마그마 챔버의 깊이.",
+        "answer2": "The chemical composition of the magma, particularly its silica content.",
+        "answer2_ko": "마그마의 화학적 구성, 특히 실리카 함량.",
+        "answer3": "The age of the volcano and the number of previous eruptions it has experienced.",
+        "answer3_ko": "화산의 연령과 이전에 경험한 폭발 횟수.",
+        "answer4": "The amount of water present in the surrounding geological formations.",
+        "answer4_ko": "주변 지질 형성물에 존재하는 물의 양.",
+        "answer": 2,
+        "commentary": "2단락에 'Volcanic eruptions vary enormously in their character and intensity, largely depending on the chemical composition of the magma involved'라고 나옵니다. composition(구성, 구성 성분)과 involved(관련된)는 지텔프에서 자주 나오는 어휘입니다.",
+        "keywords": [
+          { "word": "silica", "meaning": "실리카, 이산화규소" },
+          { "word": "viscous", "meaning": "점성이 있는" },
+          { "word": "composition", "meaning": "구성, 성분" },
+          { "word": "stratosphere", "meaning": "성층권" }
+        ]
+      },
+      {
+        "q_id": 24,
+        "type": "detail",
+        "quiz": "According to paragraph 3, what makes pyroclastic flows particularly dangerous?",
+        "quiz_ko": "3단락에 따르면, 화쇄류가 특히 위험한 이유는?",
+        "answer1": "They carry toxic gases that remain in affected areas for several years after an eruption.",
+        "answer1_ko": "분화 후 수년 동안 피해 지역에 남아있는 독성 가스를 운반한다.",
+        "answer2": "They travel silently and without warning, making evacuation impossible.",
+        "answer2_ko": "소리 없이 경고 없이 이동하여 대피를 불가능하게 만든다.",
+        "answer3": "Their extreme speed and temperature make them virtually unsurvivable.",
+        "answer3_ko": "극도의 속도와 온도로 인해 사실상 생존이 불가능하다.",
+        "answer4": "They generate massive tsunamis when they reach the coast and enter the ocean.",
+        "answer4_ko": "해안에 도달하여 바다로 들어갈 때 거대한 쓰나미를 발생시킨다.",
+        "answer": 3,
+        "commentary": "3단락에 'Pyroclastic flows, traveling at speeds of up to 700 kilometers per hour and at temperatures exceeding 1,000 degrees Celsius, are virtually unsurvivable'이라고 나옵니다. virtually(사실상, 거의)는 강조 부사로 지텔프에서 자주 출제됩니다.",
+        "keywords": [
+          { "word": "pyroclastic", "meaning": "화쇄의, 화산 분출물의" },
+          { "word": "lahar", "meaning": "화산 이류" },
+          { "word": "virtually", "meaning": "사실상, 거의" },
+          { "word": "hazard", "meaning": "위험, 위험 요소" }
+        ]
+      },
+      {
+        "q_id": 25,
+        "type": "detail",
+        "quiz": "What positive contribution of volcanoes to agriculture is described in paragraph 4?",
+        "quiz_ko": "4단락에서 화산이 농업에 기여하는 긍정적 측면으로 설명된 것은?",
+        "answer1": "Volcanic soils, rich in minerals, are among the most fertile on Earth.",
+        "answer1_ko": "광물이 풍부한 화산 토양은 지구에서 가장 비옥한 토양 중 하나이다.",
+        "answer2": "Lava flows create new flat plains ideal for large-scale rice and grain farming.",
+        "answer2_ko": "용암 흐름이 대규모 쌀 및 곡물 농사에 이상적인 새로운 평야를 만든다.",
+        "answer3": "Volcanic gases act as natural fertilizers that enrich surrounding soil over time.",
+        "answer3_ko": "화산 가스가 시간이 지남에 따라 주변 토양을 풍부하게 하는 천연 비료 역할을 한다.",
+        "answer4": "Underground lava tubes provide a constant source of warmth for root crops.",
+        "answer4_ko": "지하 용암 튜브가 뿌리 작물을 위한 지속적인 온기 원천을 제공한다.",
+        "answer": 1,
+        "commentary": "4단락에 'Volcanic soils, rich in minerals released from erupted material, are among the most fertile on the planet, supporting agriculture in regions like Java, Sicily, and Central America'라고 나옵니다. fertile(비옥한)은 barren(불모의)의 반의어입니다.",
+        "keywords": [
+          { "word": "fertile", "meaning": "비옥한" },
+          { "word": "outgassing", "meaning": "가스 방출" },
+          { "word": "seismograph", "meaning": "지진계" },
+          { "word": "evacuate", "meaning": "대피하다" }
+        ]
+      },
+      {
+        "q_id": 26,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what characterizes an effusive volcanic eruption?",
+        "quiz_ko": "2단락에 따르면, 분출형 화산 폭발의 특징은?",
+        "answer1": "It ejects massive ash clouds into the stratosphere over wide areas.",
+        "answer1_ko": "넓은 지역에 걸쳐 거대한 화산재 구름을 성층권으로 분출한다.",
+        "answer2": "It produces relatively gentle lava flows from magma low in silica.",
+        "answer2_ko": "실리카가 낮은 마그마에서 비교적 온순한 용암 흐름을 만든다.",
+        "answer3": "It generates pyroclastic flows that travel at extreme speed across flat terrain.",
+        "answer3_ko": "평탄한 지형에서 극도의 속도로 이동하는 화쇄류를 생성한다.",
+        "answer4": "It triggers global climate changes by releasing large quantities of sulfur dioxide.",
+        "answer4_ko": "대량의 이산화황을 방출하여 지구 기후 변화를 촉발한다.",
+        "answer": 2,
+        "commentary": "2단락에 'magma low in silica flows more freely, producing effusive eruptions characterized by relatively gentle lava flows, such as those seen in Hawaii'라고 나옵니다. characterized by(~을 특징으로 하는)는 지텔프에서 설명·정의 관련 문장에서 자주 쓰입니다.",
+        "keywords": [
+          { "word": "effusive", "meaning": "분출형의, 흘러넘치는" },
+          { "word": "lava", "meaning": "용암" },
+          { "word": "Plinian", "meaning": "플리니식(폭발적 화산 폭발 유형)" },
+          { "word": "eject", "meaning": "분출하다, 방출하다" }
+        ]
+      },
+      {
+        "q_id": 27,
+        "type": "vocabulary",
+        "quiz": "The word \"pyroclastic\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'pyroclastic'과 가장 가까운 의미의 표현은?",
+        "answer1": "relating to underwater volcanic activity",
+        "answer1_ko": "수중 화산 활동과 관련된",
+        "answer2": "consisting of slowly hardening lava flows",
+        "answer2_ko": "서서히 굳어지는 용암 흐름으로 구성된",
+        "answer3": "composed of fragmented rock and gas violently expelled by an eruption",
+        "answer3_ko": "폭발로 격렬하게 분출된 파편화된 암석과 가스로 구성된",
+        "answer4": "relating to the chemical properties of magma deep underground",
+        "answer4_ko": "지하 깊은 곳의 마그마의 화학적 특성과 관련된",
+        "answer": 3,
+        "commentary": "pyroclastic는 'pyro(불)'와 'clastic(파편의)'이 결합된 단어로 '화쇄의, 폭발로 분출된 암석 파편과 가스의'를 의미합니다. composed of fragmented rock and gas violently expelled이 가장 유사합니다. pyroclastic flow(화쇄류)는 화산 재해 중 가장 위험한 유형 중 하나입니다.",
+        "keywords": [
+          { "word": "pyroclastic", "meaning": "화쇄의, 파편화된 화산 분출물의" },
+          { "word": "fragment", "meaning": "파편, 조각" },
+          { "word": "erupt", "meaning": "분출하다" },
+          { "word": "avalanche", "meaning": "사태, 눈사태" }
+        ]
+      },
+      {
+        "q_id": 28,
+        "type": "vocabulary",
+        "quiz": "The word \"viscous\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'viscous'와 가장 가까운 의미의 표현은?",
+        "answer1": "highly pressurized or compressed",
+        "answer1_ko": "고도로 압력을 받거나 압축된",
+        "answer2": "extremely hot or superheated",
+        "answer2_ko": "매우 뜨겁거나 과열된",
+        "answer3": "thick and resistant to flow",
+        "answer3_ko": "두껍고 유동에 저항하는",
+        "answer4": "chemically reactive with surrounding minerals",
+        "answer4_ko": "주변 광물과 화학적으로 반응하는",
+        "answer": 3,
+        "commentary": "viscous는 '점성이 있는, 끈적한'이라는 뜻으로 thick and resistant to flow가 가장 유사합니다. 'Magma rich in silica tends to be highly viscous'에서 흐르지 않고 내압을 높이는 성질을 가진 마그마를 설명합니다. viscosity(점성)이라는 명사 형태도 함께 기억하세요.",
+        "keywords": [
+          { "word": "viscous", "meaning": "점성이 있는, 끈적한" },
+          { "word": "viscosity", "meaning": "점성" },
+          { "word": "silica", "meaning": "실리카" },
+          { "word": "resistant", "meaning": "저항하는" }
+        ]
+      }
+    ]
+  },
+  {
+    "passage_id": 5,
+    "part": 3,
+    "passage_text": "Each autumn, hundreds of millions of monarch butterflies (Danaus plexippus) undertake one of nature's most astonishing journeys, migrating up to 4,500 kilometers from their summer breeding grounds in Canada and the northern United States to their overwintering sites in the oyamel fir forests of central Mexico. What makes this migration particularly remarkable is that it spans multiple generations: no single butterfly completes the full round trip. The individuals that arrive in Mexico in the autumn are the great-great-grandchildren of those that departed the previous spring, yet they navigate with extraordinary precision to the same mountain forests their ancestors used.\n\nScientists have investigated extensively how monarchs achieve this remarkable feat of navigation without ever having made the journey before. Research suggests that monarchs use a 'time-compensated sun compass' — an internal mechanism that integrates information from the position of the sun with their circadian clock, allowing them to maintain a consistent southwesterly heading as the seasons change. There is also evidence that monarchs can detect the Earth's magnetic field, providing an additional navigational cue. These navigational abilities appear to be largely innate, encoded in the butterfly's genetics and passed down from generation to generation.\n\nAt their Mexican overwintering sites, monarchs congregate in numbers that defy imagination. Millions of butterflies cling to the branches and trunks of oyamel fir trees, forming dense, shimmering clusters that can cover entire mountainsides. The cool temperatures at the high-altitude sites slow the butterflies' metabolism, allowing them to conserve the energy reserves accumulated during their southern journey. In spring, the surviving butterflies mate and begin the return migration northward, with successive generations leapfrogging their way back to Canada in time for summer milkweed blooms.\n\nMonarch populations have declined dramatically in recent decades, prompting widespread concern. The primary threats include the loss of milkweed — the only plant on which monarchs lay their eggs and their caterpillars can feed — due to pesticide use and agricultural land conversion, as well as the destruction of overwintering habitat in Mexico from illegal logging. Climate change adds further pressure by altering the timing of milkweed growth and disrupting the cues that trigger migration. Conservation programs on both sides of the border, including milkweed restoration projects and stricter protections for Mexican forest reserves, are working to reverse the decline.",
+    "questions": [
+      {
+        "q_id": 29,
+        "type": "detail",
+        "quiz": "What does paragraph 1 identify as particularly remarkable about the monarch butterfly migration?",
+        "quiz_ko": "1단락에서 제왕나비 이동에서 특히 주목할 만한 점으로 제시된 것은?",
+        "answer1": "Monarchs travel at night using starlight to guide their navigation.",
+        "answer1_ko": "제왕나비는 밤에 별빛을 이용해 이동 경로를 안내한다.",
+        "answer2": "No single butterfly completes the full journey, yet descendants navigate to the same sites.",
+        "answer2_ko": "어떤 나비도 전체 여정을 완료하지 않지만 후손들은 같은 장소로 이동한다.",
+        "answer3": "The migration covers more distance than any other insect migration on record.",
+        "answer3_ko": "이 이동은 기록상 다른 어떤 곤충 이동보다 더 많은 거리를 커버한다.",
+        "answer4": "Monarchs travel in perfectly synchronized groups guided by a single leader butterfly.",
+        "answer4_ko": "제왕나비는 단일 리더 나비의 안내로 완벽하게 동기화된 그룹으로 이동한다.",
+        "answer": 2,
+        "commentary": "1단락에 'no single butterfly completes the full round trip. The individuals that arrive in Mexico...are the great-great-grandchildren of those that departed the previous spring, yet they navigate with extraordinary precision to the same mountain forests'라고 나옵니다. yet(그럼에도 불구하고)은 역접을 나타내는 중요한 접속사입니다.",
+        "keywords": [
+          { "word": "migration", "meaning": "이동, 이주" },
+          { "word": "overwintering", "meaning": "월동, 겨울나기" },
+          { "word": "navigate", "meaning": "항법을 사용하다, 길을 찾다" },
+          { "word": "precision", "meaning": "정밀도, 정확성" }
+        ]
+      },
+      {
+        "q_id": 30,
+        "type": "detail",
+        "quiz": "According to paragraph 2, how do monarch butterflies maintain their correct migratory direction?",
+        "quiz_ko": "2단락에 따르면, 제왕나비는 어떻게 올바른 이동 방향을 유지하는가?",
+        "answer1": "By following chemical scent trails left by previous generations of monarchs.",
+        "answer1_ko": "이전 세대의 제왕나비가 남긴 화학적 향기 흔적을 따라.",
+        "answer2": "By detecting changes in air pressure caused by weather fronts moving southward.",
+        "answer2_ko": "남쪽으로 이동하는 기상 전선으로 인한 기압 변화를 감지하여.",
+        "answer3": "By using a time-compensated sun compass that integrates sun position with their internal clock.",
+        "answer3_ko": "태양 위치를 내부 시계와 통합하는 시간 보상 태양 나침반을 사용하여.",
+        "answer4": "By following mountain ranges and river systems that naturally point southward.",
+        "answer4_ko": "자연스럽게 남쪽을 가리키는 산맥과 강 시스템을 따라.",
+        "answer": 3,
+        "commentary": "2단락에 'monarchs use a time-compensated sun compass — an internal mechanism that integrates information from the position of the sun with their circadian clock, allowing them to maintain a consistent southwesterly heading'이라고 나옵니다. integrate(통합하다)와 consistent(일관된)은 지텔프에서 자주 쓰이는 어휘입니다.",
+        "keywords": [
+          { "word": "circadian clock", "meaning": "생체 시계" },
+          { "word": "integrate", "meaning": "통합하다" },
+          { "word": "innate", "meaning": "타고난, 선천적인" },
+          { "word": "magnetic field", "meaning": "자기장" }
+        ]
+      },
+      {
+        "q_id": 31,
+        "type": "detail",
+        "quiz": "What do monarchs do at their overwintering sites in Mexico according to paragraph 3?",
+        "quiz_ko": "3단락에 따르면, 제왕나비가 멕시코 월동지에서 하는 것은?",
+        "answer1": "They form dense clusters on oyamel fir trees to conserve energy in cool temperatures.",
+        "answer1_ko": "시원한 온도에서 에너지를 절약하기 위해 오야멜 전나무에 촘촘한 무리를 형성한다.",
+        "answer2": "They lay their eggs on milkweed plants growing at high altitude.",
+        "answer2_ko": "고지대에서 자라는 밀크위드 식물에 알을 낳는다.",
+        "answer3": "They enter a state of complete dormancy and do not move until spring.",
+        "answer3_ko": "완전한 휴면 상태에 들어가 봄까지 움직이지 않는다.",
+        "answer4": "They feed intensively on nectar to rebuild energy reserves for the return journey.",
+        "answer4_ko": "귀환 여정을 위한 에너지 비축량을 재건하기 위해 꿀을 집중적으로 섭취한다.",
+        "answer": 1,
+        "commentary": "3단락에 'Millions of butterflies cling to the branches and trunks of oyamel fir trees, forming dense, shimmering clusters...The cool temperatures at the high-altitude sites slow the butterflies' metabolism, allowing them to conserve the energy reserves'라고 나옵니다. conserve(보존하다, 절약하다)는 preserve와 동의어입니다.",
+        "keywords": [
+          { "word": "congregate", "meaning": "모이다, 집결하다" },
+          { "word": "metabolism", "meaning": "신진대사" },
+          { "word": "conserve", "meaning": "보존하다, 절약하다" },
+          { "word": "cluster", "meaning": "무리, 집단" }
+        ]
+      },
+      {
+        "q_id": 32,
+        "type": "detail",
+        "quiz": "What does paragraph 4 identify as the primary threat to monarch butterfly populations?",
+        "quiz_ko": "4단락에서 제왕나비 개체수에 대한 주요 위협으로 제시된 것은?",
+        "answer1": "The spread of parasitic mites that infect monarch caterpillars during their development.",
+        "answer1_ko": "발달 중 제왕나비 애벌레를 감염시키는 기생 진드기의 확산.",
+        "answer2": "Increased predation by birds attracted to the overwintering sites in Mexico.",
+        "answer2_ko": "멕시코 월동지에 유인된 새들에 의한 포식 증가.",
+        "answer3": "Extreme weather events that destroy butterfly clusters during winter storms.",
+        "answer3_ko": "겨울 폭풍 동안 나비 무리를 파괴하는 극단적인 기상 현상.",
+        "answer4": "The loss of milkweed from pesticide use and the destruction of Mexican overwintering habitat.",
+        "answer4_ko": "농약 사용으로 인한 밀크위드 손실과 멕시코 월동 서식지 파괴.",
+        "answer": 4,
+        "commentary": "4단락에 'The primary threats include the loss of milkweed...due to pesticide use and agricultural land conversion, as well as the destruction of overwintering habitat in Mexico from illegal logging'이라고 나옵니다. as well as(~뿐만 아니라)는 병렬 구조를 이어주는 표현입니다.",
+        "keywords": [
+          { "word": "milkweed", "meaning": "밀크위드(박주가리)" },
+          { "word": "pesticide", "meaning": "농약" },
+          { "word": "illegal logging", "meaning": "불법 벌목" },
+          { "word": "trigger", "meaning": "촉발하다, 유발하다" }
+        ]
+      },
+      {
+        "q_id": 33,
+        "type": "detail",
+        "quiz": "According to paragraph 2, what does the evidence suggest about the navigational abilities of monarchs?",
+        "quiz_ko": "2단락에 따르면, 제왕나비의 항법 능력에 대해 증거가 시사하는 것은?",
+        "answer1": "They are taught by experienced adult butterflies during the first migration.",
+        "answer1_ko": "첫 번째 이동 중 경험 있는 성체 나비에게 배운다.",
+        "answer2": "They are acquired gradually through exposure to environmental cues over multiple weeks.",
+        "answer2_ko": "수주에 걸쳐 환경적 단서에 노출되면서 점진적으로 습득된다.",
+        "answer3": "They are largely innate, encoded in the butterfly's genetics and inherited across generations.",
+        "answer3_ko": "대체로 선천적이며, 나비의 유전자에 인코딩되어 세대를 거쳐 전해진다.",
+        "answer4": "They rely entirely on learned behavior passed down through social imitation.",
+        "answer4_ko": "사회적 모방을 통해 전해지는 학습된 행동에 전적으로 의존한다.",
+        "answer": 3,
+        "commentary": "2단락에 'These navigational abilities appear to be largely innate, encoded in the butterfly's genetics and passed down from generation to generation'이라고 나옵니다. innate(타고난, 선천적인)는 learned(학습된)의 반의어로 지텔프에 자주 출제됩니다.",
+        "keywords": [
+          { "word": "innate", "meaning": "타고난, 선천적인" },
+          { "word": "encode", "meaning": "인코딩하다, 부호화하다" },
+          { "word": "genetics", "meaning": "유전학, 유전적 특성" },
+          { "word": "cue", "meaning": "단서, 신호" }
+        ]
+      },
+      {
+        "q_id": 34,
+        "type": "vocabulary",
+        "quiz": "The word \"congregate\" in paragraph 3 is closest in meaning to:",
+        "quiz_ko": "3단락의 'congregate'와 가장 가까운 의미의 표현은?",
+        "answer1": "migrate or move in a fixed direction",
+        "answer1_ko": "고정된 방향으로 이동하거나 이주하다",
+        "answer2": "hibernate or enter a state of dormancy",
+        "answer2_ko": "동면하거나 휴면 상태에 들어가다",
+        "answer3": "reproduce or lay eggs in large quantities",
+        "answer3_ko": "대량으로 번식하거나 알을 낳다",
+        "answer4": "gather or assemble in large numbers",
+        "answer4_ko": "많은 수로 모이거나 집결하다",
+        "answer": 4,
+        "commentary": "congregate는 '모이다, 집결하다'라는 뜻으로 gather or assemble in large numbers가 가장 유사합니다. 'monarchs congregate in numbers that defy imagination'에서 상상을 초월하는 수가 한곳에 모인다는 문맥이 핵심입니다. congregation(집회, 모임)이라는 명사 형태도 함께 기억하세요.",
+        "keywords": [
+          { "word": "congregate", "meaning": "모이다, 집결하다" },
+          { "word": "congregation", "meaning": "집회, 모임" },
+          { "word": "assemble", "meaning": "모이다, 집결하다" },
+          { "word": "cluster", "meaning": "무리를 이루다, 무리" }
+        ]
+      },
+      {
+        "q_id": 35,
+        "type": "vocabulary",
+        "quiz": "The word \"innate\" in paragraph 2 is closest in meaning to:",
+        "quiz_ko": "2단락의 'innate'와 가장 가까운 의미의 표현은?",
+        "answer1": "learned through repeated experience or training",
+        "answer1_ko": "반복적인 경험이나 훈련을 통해 학습된",
+        "answer2": "inborn and not dependent on learning",
+        "answer2_ko": "타고났으며 학습에 의존하지 않는",
+        "answer3": "inherited from a single parent through direct teaching",
+        "answer3_ko": "직접적인 가르침을 통해 단일 부모로부터 물려받은",
+        "answer4": "gradually developed in response to changing environmental conditions",
+        "answer4_ko": "변화하는 환경 조건에 반응하여 점진적으로 발달한",
+        "answer": 2,
+        "commentary": "innate는 '타고난, 선천적인'이라는 뜻으로 inborn and not dependent on learning이 가장 유사합니다. 'navigational abilities appear to be largely innate, encoded in the butterfly's genetics'에서 학습이 아닌 유전자로 전달된다는 문맥이 핵심입니다. innate는 instinctive(본능적인)와 유사합니다.",
+        "keywords": [
+          { "word": "innate", "meaning": "타고난, 선천적인" },
+          { "word": "instinctive", "meaning": "본능적인" },
+          { "word": "inherited", "meaning": "물려받은, 유전된" },
+          { "word": "inborn", "meaning": "타고난" }
+        ]
+      }
+    ]
+  }
+]

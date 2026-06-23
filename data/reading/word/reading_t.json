@@ -1,0 +1,272 @@
+[
+  {
+    "seq": 1,
+    "word": "take",
+    "meaning": "수강하다",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "take care of",
+    "meaning": "돌보다",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "take in",
+    "meaning": "섭취하다",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "taken",
+    "meaning": "취해진",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "talk",
+    "meaning": "말하다",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "task",
+    "meaning": "일, 업무",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "teach",
+    "meaning": "가르치다",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "teaching",
+    "meaning": "수업",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "technologies",
+    "meaning": "기술",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "tempt",
+    "meaning": "유혹하다",
+    "synonym": [
+      "entice",
+      "attract"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "thank",
+    "meaning": "감사해하다",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "that",
+    "meaning": "~것",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "therapy",
+    "meaning": "치료",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "therefore",
+    "meaning": "그러므로",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "thing",
+    "meaning": "물건",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "thoroughly",
+    "meaning": "철저하게",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "those",
+    "meaning": "사람들",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "though",
+    "meaning": "비록 ~일지라도",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "thought",
+    "meaning": "생각, 사고",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "threat",
+    "meaning": "위협",
+    "synonym": [
+      "danger",
+      "risk"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "through",
+    "meaning": "~을 통하여",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "to",
+    "meaning": "~에",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "tomb",
+    "meaning": "무덤",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "too",
+    "meaning": "너무",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "tool",
+    "meaning": "도구",
+    "synonym": []
+  },
+  {
+    "seq": 26,
+    "word": "topped",
+    "meaning": "덮힌",
+    "synonym": []
+  },
+  {
+    "seq": 27,
+    "word": "tough",
+    "meaning": "힘든",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "town",
+    "meaning": "도시",
+    "synonym": []
+  },
+  {
+    "seq": 29,
+    "word": "toxic",
+    "meaning": "독성의",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "trade",
+    "meaning": "거래",
+    "synonym": []
+  },
+  {
+    "seq": 31,
+    "word": "traditional",
+    "meaning": "전통적인",
+    "synonym": [
+      "customary",
+      "classic"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "trafficking",
+    "meaning": "불법거래, 밀매",
+    "synonym": []
+  },
+  {
+    "seq": 33,
+    "word": "trait",
+    "meaning": "특징",
+    "synonym": [
+      "characteristic",
+      "feature"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "transform",
+    "meaning": "변형시키다",
+    "synonym": [
+      "change",
+      "alter"
+    ]
+  },
+  {
+    "seq": 35,
+    "word": "transition",
+    "meaning": "전환",
+    "synonym": [
+      "change",
+      "shift"
+    ]
+  },
+  {
+    "seq": 36,
+    "word": "traumatic",
+    "meaning": "충격적인",
+    "synonym": []
+  },
+  {
+    "seq": 37,
+    "word": "travel",
+    "meaning": "여행하다",
+    "synonym": []
+  },
+  {
+    "seq": 38,
+    "word": "trip",
+    "meaning": "여행",
+    "synonym": [
+      "journey",
+      "tour"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "try",
+    "meaning": "시도하다",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "try to",
+    "meaning": "애쓰다",
+    "synonym": []
+  },
+  {
+    "seq": 41,
+    "word": "tuition",
+    "meaning": "수업료",
+    "synonym": [
+      "fee",
+      "cost"
+    ]
+  }
+]

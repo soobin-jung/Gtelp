@@ -1,0 +1,74 @@
+[
+  {
+    "seq": 1,
+    "word": "vacation",
+    "meaning": "휴가",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "valid",
+    "meaning": "유효한",
+    "synonym": [
+      "legitimate",
+      "authentic"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "valuable",
+    "meaning": "소중한, 유용한",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "various",
+    "meaning": "다양한",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "venture",
+    "meaning": "가다",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "venue",
+    "meaning": "장소",
+    "synonym": [
+      "location",
+      "place"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "vinegar",
+    "meaning": "식초",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "visual",
+    "meaning": "시각적인",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "volunteer",
+    "meaning": "자원봉사자",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "vomit",
+    "meaning": "구토하다",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "vulnerable",
+    "meaning": "취약한",
+    "synonym": []
+  }
+]

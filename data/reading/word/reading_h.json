@@ -1,0 +1,215 @@
+[
+  {
+    "seq": 1,
+    "word": "had lost",
+    "meaning": "졌다",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "halve",
+    "meaning": "반으로 줄이다",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "happiness",
+    "meaning": "행복",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "hard",
+    "meaning": "열심히",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "harmful",
+    "meaning": "해로운",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "has grown",
+    "meaning": "성장해오고 있다",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "has won",
+    "meaning": "타오고 있다",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "have",
+    "meaning": "가지다",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "have brought",
+    "meaning": "가져오고 있다",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "hazardous",
+    "meaning": "유해한",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "head",
+    "meaning": "향하다, 우두머리",
+    "synonym": [
+      "lead",
+      "chief"
+    ]
+  },
+  {
+    "seq": 12,
+    "word": "headache",
+    "meaning": "두통",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "health",
+    "meaning": "건강",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "healthy",
+    "meaning": "건강한",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "hear",
+    "meaning": "듣다",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "heartbeat",
+    "meaning": "심장 박동",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "hemisphere",
+    "meaning": "반구",
+    "synonym": [
+      "half",
+      "section"
+    ]
+  },
+  {
+    "seq": 18,
+    "word": "hide",
+    "meaning": "숨기다",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "higher",
+    "meaning": "더 높은",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "hike",
+    "meaning": "하이킹하다, 인상하다",
+    "synonym": [
+      "walk",
+      "increase"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "hire",
+    "meaning": "고용하다",
+    "synonym": [
+      "employ",
+      "recruit"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "hit",
+    "meaning": "치다",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "hobby",
+    "meaning": "취미",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "hold",
+    "meaning": "열다, 개최하다",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "hollow",
+    "meaning": "속이 빈",
+    "synonym": [
+      "empty",
+      "vacant"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "honor",
+    "meaning": "명예",
+    "synonym": [
+      "respect",
+      "glory"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "horizon",
+    "meaning": "시야",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "horizontal",
+    "meaning": "수평의",
+    "synonym": [
+      "level",
+      "flat"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "hour",
+    "meaning": "시간",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "however",
+    "meaning": "그러나",
+    "synonym": []
+  },
+  {
+    "seq": 31,
+    "word": "hurt",
+    "meaning": "다치게 하다",
+    "synonym": []
+  },
+  {
+    "seq": 32,
+    "word": "husband",
+    "meaning": "남편",
+    "synonym": []
+  }
+]

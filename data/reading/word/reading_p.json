@@ -1,0 +1,905 @@
+[
+  {
+    "seq": 1,
+    "word": "paid vacation",
+    "meaning": "추가적인 유급 휴가",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "parent",
+    "meaning": "부모 (한사람)",
+    "synonym": []
+  },
+  {
+    "seq": 3,
+    "word": "partial",
+    "meaning": "부분적인",
+    "synonym": [
+      "incomplete",
+      "biased"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "participant",
+    "meaning": "참가자",
+    "synonym": [
+      "member",
+      "attendee"
+    ]
+  },
+  {
+    "seq": 5,
+    "word": "participate",
+    "meaning": "참여하다",
+    "synonym": [
+      "take part",
+      "join"
+    ]
+  },
+  {
+    "seq": 6,
+    "word": "particularly",
+    "meaning": "특히",
+    "synonym": [
+      "especially",
+      "notably"
+    ]
+  },
+  {
+    "seq": 7,
+    "word": "pass",
+    "meaning": "통과하다",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "passenger",
+    "meaning": "승객",
+    "synonym": [
+      "traveler",
+      "commuter"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "passion",
+    "meaning": "열정",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "passionate",
+    "meaning": "열정적인",
+    "synonym": [
+      "enthusiastic",
+      "eager"
+    ]
+  },
+  {
+    "seq": 11,
+    "word": "passport",
+    "meaning": "여권",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "patent",
+    "meaning": "특허",
+    "synonym": [
+      "copyright",
+      "license"
+    ]
+  },
+  {
+    "seq": 13,
+    "word": "path",
+    "meaning": "경로",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "pay",
+    "meaning": "지불하다",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "pay back",
+    "meaning": "상환하다",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "pedestrian",
+    "meaning": "보행자",
+    "synonym": [
+      "walker",
+      "stroller"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "perfect",
+    "meaning": "완벽한",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "perform",
+    "meaning": "수행하다",
+    "synonym": [
+      "execute",
+      "do"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "performance",
+    "meaning": "성능, 공연",
+    "synonym": [
+      "execution",
+      "show"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "perk",
+    "meaning": "특전",
+    "synonym": [
+      "benefit",
+      "bonus"
+    ]
+  },
+  {
+    "seq": 21,
+    "word": "permit",
+    "meaning": "허가하다",
+    "synonym": [
+      "allow",
+      "grant"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "persist",
+    "meaning": "지속되다",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "personal",
+    "meaning": "사적인",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "personality",
+    "meaning": "성격",
+    "synonym": [
+      "character",
+      "nature"
+    ]
+  },
+  {
+    "seq": 25,
+    "word": "personalize",
+    "meaning": "개인화하다",
+    "synonym": [
+      "customize",
+      "individualize"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "personalized",
+    "meaning": "개인 맞춤화된",
+    "synonym": []
+  },
+  {
+    "seq": 27,
+    "word": "personnel",
+    "meaning": "직원",
+    "synonym": [
+      "staff",
+      "employees"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "perspective",
+    "meaning": "관점",
+    "synonym": [
+      "viewpoint",
+      "angle"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "pet",
+    "meaning": "애완 동물",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "phenomenon",
+    "meaning": "현상",
+    "synonym": [
+      "occurrence",
+      "event"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "philosophy",
+    "meaning": "철학",
+    "synonym": [
+      "belief",
+      "ideology"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "photocopy",
+    "meaning": "복사하다",
+    "synonym": [
+      "copy",
+      "duplicate"
+    ]
+  },
+  {
+    "seq": 33,
+    "word": "physical",
+    "meaning": "신체적인",
+    "synonym": [
+      "bodily",
+      "corporeal"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "physically",
+    "meaning": "신체적으로",
+    "synonym": []
+  },
+  {
+    "seq": 35,
+    "word": "pick",
+    "meaning": "따다",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "pile",
+    "meaning": "더미",
+    "synonym": [
+      "heap",
+      "stack"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "plan",
+    "meaning": "계획",
+    "synonym": []
+  },
+  {
+    "seq": 38,
+    "word": "planet",
+    "meaning": "지구, 행성",
+    "synonym": []
+  },
+  {
+    "seq": 39,
+    "word": "play",
+    "meaning": "놀이",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "plenty",
+    "meaning": "풍부함",
+    "synonym": [
+      "abundance",
+      "lot"
+    ]
+  },
+  {
+    "seq": 41,
+    "word": "point",
+    "meaning": "요점",
+    "synonym": []
+  },
+  {
+    "seq": 42,
+    "word": "polar",
+    "meaning": "북극의",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "policy",
+    "meaning": "정책",
+    "synonym": [
+      "rule",
+      "strategy"
+    ]
+  },
+  {
+    "seq": 44,
+    "word": "politician",
+    "meaning": "정치인",
+    "synonym": [
+      "lawmaker",
+      "leader"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "pollen",
+    "meaning": "꽃가루",
+    "synonym": [
+      "dust",
+      "spore"
+    ]
+  },
+  {
+    "seq": 46,
+    "word": "pollinator",
+    "meaning": "수분자",
+    "synonym": []
+  },
+  {
+    "seq": 47,
+    "word": "pollutant",
+    "meaning": "오염물질",
+    "synonym": []
+  },
+  {
+    "seq": 48,
+    "word": "pollution",
+    "meaning": "오염",
+    "synonym": []
+  },
+  {
+    "seq": 49,
+    "word": "poor",
+    "meaning": "가난한",
+    "synonym": []
+  },
+  {
+    "seq": 50,
+    "word": "popular",
+    "meaning": "유명한",
+    "synonym": []
+  },
+  {
+    "seq": 51,
+    "word": "popularity",
+    "meaning": "인기",
+    "synonym": [
+      "favor",
+      "acceptance"
+    ]
+  },
+  {
+    "seq": 52,
+    "word": "population",
+    "meaning": "인구",
+    "synonym": [
+      "inhabitants",
+      "people"
+    ]
+  },
+  {
+    "seq": 53,
+    "word": "populous",
+    "meaning": "인구가 많은",
+    "synonym": [
+      "crowded",
+      "packed"
+    ]
+  },
+  {
+    "seq": 54,
+    "word": "portion",
+    "meaning": "부분",
+    "synonym": [
+      "part",
+      "share"
+    ]
+  },
+  {
+    "seq": 55,
+    "word": "positive",
+    "meaning": "긍정적인",
+    "synonym": []
+  },
+  {
+    "seq": 56,
+    "word": "possess",
+    "meaning": "소유하다",
+    "synonym": [
+      "own",
+      "have"
+    ]
+  },
+  {
+    "seq": 57,
+    "word": "possession",
+    "meaning": "소유물",
+    "synonym": [
+      "belonging",
+      "property"
+    ]
+  },
+  {
+    "seq": 58,
+    "word": "potential",
+    "meaning": "잠재적인",
+    "synonym": [
+      "possible",
+      "likely"
+    ]
+  },
+  {
+    "seq": 59,
+    "word": "pour",
+    "meaning": "붓다",
+    "synonym": [
+      "spill",
+      "flow"
+    ]
+  },
+  {
+    "seq": 60,
+    "word": "poverty",
+    "meaning": "빈곤",
+    "synonym": []
+  },
+  {
+    "seq": 61,
+    "word": "powerful",
+    "meaning": "강력한",
+    "synonym": []
+  },
+  {
+    "seq": 62,
+    "word": "practical",
+    "meaning": "실용적인",
+    "synonym": [
+      "useful",
+      "pragmatic"
+    ]
+  },
+  {
+    "seq": 63,
+    "word": "practice",
+    "meaning": "연습, 관행",
+    "synonym": [
+      "exercise",
+      "habit"
+    ]
+  },
+  {
+    "seq": 64,
+    "word": "preacher",
+    "meaning": "설교자",
+    "synonym": [
+      "minister",
+      "pastor"
+    ]
+  },
+  {
+    "seq": 65,
+    "word": "precise",
+    "meaning": "정확한",
+    "synonym": [
+      "exact",
+      "accurate"
+    ]
+  },
+  {
+    "seq": 66,
+    "word": "predator",
+    "meaning": "포식자",
+    "synonym": [
+      "hunter",
+      "carnivore"
+    ]
+  },
+  {
+    "seq": 67,
+    "word": "prefer",
+    "meaning": "선호하다",
+    "synonym": [
+      "favor",
+      "choose"
+    ]
+  },
+  {
+    "seq": 68,
+    "word": "preference",
+    "meaning": "선호",
+    "synonym": [
+      "choice",
+      "favor"
+    ]
+  },
+  {
+    "seq": 69,
+    "word": "prepare",
+    "meaning": "준비하다",
+    "synonym": [
+      "arrange",
+      "ready"
+    ]
+  },
+  {
+    "seq": 70,
+    "word": "prepare for",
+    "meaning": "~을 준비하다",
+    "synonym": []
+  },
+  {
+    "seq": 71,
+    "word": "prepared for",
+    "meaning": "~을 준비했다",
+    "synonym": []
+  },
+  {
+    "seq": 72,
+    "word": "present",
+    "meaning": "현재의, 선물",
+    "synonym": [
+      "current",
+      "gift"
+    ]
+  },
+  {
+    "seq": 73,
+    "word": "presentation",
+    "meaning": "발표",
+    "synonym": []
+  },
+  {
+    "seq": 74,
+    "word": "presented",
+    "meaning": "보여진",
+    "synonym": []
+  },
+  {
+    "seq": 75,
+    "word": "preserve",
+    "meaning": "보존하다",
+    "synonym": [
+      "protect",
+      "maintain"
+    ]
+  },
+  {
+    "seq": 76,
+    "word": "pressure",
+    "meaning": "압력",
+    "synonym": [
+      "force",
+      "stress"
+    ]
+  },
+  {
+    "seq": 77,
+    "word": "prevalent",
+    "meaning": "널리 퍼진",
+    "synonym": [
+      "common",
+      "widespread"
+    ]
+  },
+  {
+    "seq": 78,
+    "word": "prevent",
+    "meaning": "예방하다",
+    "synonym": [
+      "stop",
+      "hinder"
+    ]
+  },
+  {
+    "seq": 79,
+    "word": "previous",
+    "meaning": "이전의",
+    "synonym": [
+      "prior",
+      "former"
+    ]
+  },
+  {
+    "seq": 80,
+    "word": "pride",
+    "meaning": "자부심",
+    "synonym": []
+  },
+  {
+    "seq": 81,
+    "word": "principle",
+    "meaning": "원칙",
+    "synonym": [
+      "rule",
+      "belief"
+    ]
+  },
+  {
+    "seq": 82,
+    "word": "priority",
+    "meaning": "우선순위",
+    "synonym": [
+      "preference",
+      "importance"
+    ]
+  },
+  {
+    "seq": 83,
+    "word": "private",
+    "meaning": "개인적인",
+    "synonym": [
+      "personal",
+      "secret"
+    ]
+  },
+  {
+    "seq": 84,
+    "word": "probably",
+    "meaning": "아마도",
+    "synonym": [
+      "likely",
+      "perhaps"
+    ]
+  },
+  {
+    "seq": 85,
+    "word": "problem",
+    "meaning": "문제",
+    "synonym": []
+  },
+  {
+    "seq": 86,
+    "word": "process",
+    "meaning": "과정",
+    "synonym": [
+      "procedure",
+      "method"
+    ]
+  },
+  {
+    "seq": 87,
+    "word": "processed",
+    "meaning": "가공된",
+    "synonym": []
+  },
+  {
+    "seq": 88,
+    "word": "product",
+    "meaning": "제품",
+    "synonym": []
+  },
+  {
+    "seq": 89,
+    "word": "productive",
+    "meaning": "생산적인",
+    "synonym": [
+      "fruitful",
+      "efficient"
+    ]
+  },
+  {
+    "seq": 90,
+    "word": "productivity",
+    "meaning": "생산성",
+    "synonym": []
+  },
+  {
+    "seq": 91,
+    "word": "profession",
+    "meaning": "직업",
+    "synonym": []
+  },
+  {
+    "seq": 92,
+    "word": "profit",
+    "meaning": "이익",
+    "synonym": [
+      "gain",
+      "revenue"
+    ]
+  },
+  {
+    "seq": 93,
+    "word": "progressive",
+    "meaning": "진보적인",
+    "synonym": [
+      "forward-looking",
+      "advanced"
+    ]
+  },
+  {
+    "seq": 94,
+    "word": "prominent",
+    "meaning": "저명한",
+    "synonym": [
+      "famous",
+      "notable"
+    ]
+  },
+  {
+    "seq": 95,
+    "word": "promise",
+    "meaning": "약속하다",
+    "synonym": []
+  },
+  {
+    "seq": 96,
+    "word": "promising",
+    "meaning": "유망한",
+    "synonym": [
+      "hopeful",
+      "encouraging"
+    ]
+  },
+  {
+    "seq": 97,
+    "word": "promote",
+    "meaning": "촉진하다, 승진시키다",
+    "synonym": [
+      "encourage",
+      "advance"
+    ]
+  },
+  {
+    "seq": 98,
+    "word": "promotion",
+    "meaning": "승진, 홍보",
+    "synonym": [
+      "advancement",
+      "marketing"
+    ]
+  },
+  {
+    "seq": 99,
+    "word": "prompt",
+    "meaning": "즉각적인",
+    "synonym": [
+      "quick",
+      "immediate"
+    ]
+  },
+  {
+    "seq": 100,
+    "word": "proper",
+    "meaning": "적절한",
+    "synonym": [
+      "appropriate",
+      "correct"
+    ]
+  },
+  {
+    "seq": 101,
+    "word": "property",
+    "meaning": "재산",
+    "synonym": [
+      "estate",
+      "belongings"
+    ]
+  },
+  {
+    "seq": 102,
+    "word": "propose",
+    "meaning": "제안하다",
+    "synonym": [
+      "suggest",
+      "offer"
+    ]
+  },
+  {
+    "seq": 103,
+    "word": "prospective",
+    "meaning": "장래의",
+    "synonym": [
+      "potential",
+      "expected"
+    ]
+  },
+  {
+    "seq": 104,
+    "word": "protect",
+    "meaning": "보호하다",
+    "synonym": [
+      "guard",
+      "defend"
+    ]
+  },
+  {
+    "seq": 105,
+    "word": "protection",
+    "meaning": "보호",
+    "synonym": []
+  },
+  {
+    "seq": 106,
+    "word": "prove",
+    "meaning": "증명하다",
+    "synonym": [
+      "verify",
+      "show"
+    ]
+  },
+  {
+    "seq": 107,
+    "word": "provide",
+    "meaning": "제공하다",
+    "synonym": [
+      "supply",
+      "give"
+    ]
+  },
+  {
+    "seq": 108,
+    "word": "public",
+    "meaning": "공공의",
+    "synonym": []
+  },
+  {
+    "seq": 109,
+    "word": "publish",
+    "meaning": "출판하다",
+    "synonym": [
+      "print",
+      "issue"
+    ]
+  },
+  {
+    "seq": 110,
+    "word": "punishment",
+    "meaning": "처벌",
+    "synonym": [
+      "penalty",
+      "discipline"
+    ]
+  },
+  {
+    "seq": 111,
+    "word": "purchase",
+    "meaning": "구매하다",
+    "synonym": [
+      "buy",
+      "acquire"
+    ]
+  },
+  {
+    "seq": 112,
+    "word": "push",
+    "meaning": "압박하다",
+    "synonym": []
+  },
+  {
+    "seq": 113,
+    "word": "push back",
+    "meaning": "미루다",
+    "synonym": []
+  },
+  {
+    "seq": 114,
+    "word": "put aside",
+    "meaning": "떼어놓다",
+    "synonym": []
+  },
+  {
+    "seq": 115,
+    "word": "puzzle",
+    "meaning": "퍼즐, 어리둥절하게 하다",
+    "synonym": [
+      "riddle",
+      "confuse"
+    ]
+  }
+]

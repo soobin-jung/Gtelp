@@ -1,0 +1,281 @@
+[
+  {
+    "seq": 1,
+    "word": "label",
+    "meaning": "라벨",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "labor",
+    "meaning": "노동",
+    "synonym": [
+      "work",
+      "effort"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "lack",
+    "meaning": "부족",
+    "synonym": [
+      "shortage",
+      "deficiency"
+    ]
+  },
+  {
+    "seq": 4,
+    "word": "land",
+    "meaning": "얻다",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "landing",
+    "meaning": "착륙",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "language",
+    "meaning": "언어",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "largest",
+    "meaning": "가장 큰",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "last",
+    "meaning": "마지막의, 지속되다",
+    "synonym": [
+      "final",
+      "continue"
+    ]
+  },
+  {
+    "seq": 9,
+    "word": "last year",
+    "meaning": "작년",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "lawn",
+    "meaning": "잔디",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "lazy",
+    "meaning": "게으른",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "lead to",
+    "meaning": "~로 이어지다",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "leads to",
+    "meaning": "~로 이어지다",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "lean",
+    "meaning": "기대다",
+    "synonym": [
+      "bend",
+      "rest"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "learn",
+    "meaning": "알다, 배우다",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "lecture",
+    "meaning": "강의",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "left",
+    "meaning": "왼쪽의",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "length",
+    "meaning": "길이",
+    "synonym": [
+      "distance",
+      "extent"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "level",
+    "meaning": "수준",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "life",
+    "meaning": "삶",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "lifelong",
+    "meaning": "평생의",
+    "synonym": []
+  },
+  {
+    "seq": 22,
+    "word": "light",
+    "meaning": "불을 붙이다",
+    "synonym": []
+  },
+  {
+    "seq": 23,
+    "word": "lighting",
+    "meaning": "조명",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "like",
+    "meaning": "~같은",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "likewise",
+    "meaning": "마찬가지로",
+    "synonym": [
+      "similarly",
+      "also"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "limited",
+    "meaning": "제한된",
+    "synonym": [
+      "restricted",
+      "bounded"
+    ]
+  },
+  {
+    "seq": 27,
+    "word": "line",
+    "meaning": "경계",
+    "synonym": []
+  },
+  {
+    "seq": 28,
+    "word": "linguist",
+    "meaning": "언어학자",
+    "synonym": [
+      "language expert",
+      "translator"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "listen",
+    "meaning": "귀를 기울이다",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "literature",
+    "meaning": "문학",
+    "synonym": [
+      "writings",
+      "books"
+    ]
+  },
+  {
+    "seq": 31,
+    "word": "live",
+    "meaning": "삶",
+    "synonym": []
+  },
+  {
+    "seq": 32,
+    "word": "lives",
+    "meaning": "삶",
+    "synonym": []
+  },
+  {
+    "seq": 33,
+    "word": "living",
+    "meaning": "생활",
+    "synonym": []
+  },
+  {
+    "seq": 34,
+    "word": "loan",
+    "meaning": "대출",
+    "synonym": []
+  },
+  {
+    "seq": 35,
+    "word": "local",
+    "meaning": "지역의",
+    "synonym": []
+  },
+  {
+    "seq": 36,
+    "word": "locate",
+    "meaning": "찾다",
+    "synonym": []
+  },
+  {
+    "seq": 37,
+    "word": "location",
+    "meaning": "위치",
+    "synonym": []
+  },
+  {
+    "seq": 38,
+    "word": "logically",
+    "meaning": "논리적으로",
+    "synonym": []
+  },
+  {
+    "seq": 39,
+    "word": "long",
+    "meaning": "긴",
+    "synonym": []
+  },
+  {
+    "seq": 40,
+    "word": "lose",
+    "meaning": "빼다",
+    "synonym": []
+  },
+  {
+    "seq": 41,
+    "word": "loss",
+    "meaning": "감량",
+    "synonym": []
+  },
+  {
+    "seq": 42,
+    "word": "lost",
+    "meaning": "잃어버렸다",
+    "synonym": []
+  }
+]

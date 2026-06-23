@@ -1,0 +1,641 @@
+[
+  {
+    "seq": 1,
+    "word": "each",
+    "meaning": "각각의",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "eagerness",
+    "meaning": "열망",
+    "synonym": [
+      "enthusiasm",
+      "desire"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "early",
+    "meaning": "이른, 초기의",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "earn",
+    "meaning": "얻다, 따다",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "earthquake",
+    "meaning": "지진",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "eating",
+    "meaning": "먹기",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "ecosystem",
+    "meaning": "생태계",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "edible",
+    "meaning": "식용의",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "editorial",
+    "meaning": "사설",
+    "synonym": [
+      "article",
+      "commentary"
+    ]
+  },
+  {
+    "seq": 10,
+    "word": "education",
+    "meaning": "교육",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "effect",
+    "meaning": "영향",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "effective",
+    "meaning": "효과적인",
+    "synonym": [
+      "efficient",
+      "productive"
+    ]
+  },
+  {
+    "seq": 13,
+    "word": "efficiently",
+    "meaning": "효율적으로",
+    "synonym": []
+  },
+  {
+    "seq": 14,
+    "word": "effort",
+    "meaning": "노력",
+    "synonym": [
+      "attempt",
+      "endeavor"
+    ]
+  },
+  {
+    "seq": 15,
+    "word": "electricity",
+    "meaning": "전기",
+    "synonym": [
+      "power",
+      "energy"
+    ]
+  },
+  {
+    "seq": 16,
+    "word": "elevate",
+    "meaning": "올리다",
+    "synonym": [
+      "raise",
+      "lift"
+    ]
+  },
+  {
+    "seq": 17,
+    "word": "emergence",
+    "meaning": "출현",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "emergency",
+    "meaning": "응급 상황",
+    "synonym": [
+      "crisis",
+      "urgency"
+    ]
+  },
+  {
+    "seq": 19,
+    "word": "emissions",
+    "meaning": "배출, 배출물",
+    "synonym": []
+  },
+  {
+    "seq": 20,
+    "word": "emotional",
+    "meaning": "감정적인",
+    "synonym": []
+  },
+  {
+    "seq": 21,
+    "word": "emphasis",
+    "meaning": "강조",
+    "synonym": [
+      "stress",
+      "importance"
+    ]
+  },
+  {
+    "seq": 22,
+    "word": "employ",
+    "meaning": "고용하다",
+    "synonym": [
+      "hire",
+      "recruit"
+    ]
+  },
+  {
+    "seq": 23,
+    "word": "employee",
+    "meaning": "직원",
+    "synonym": []
+  },
+  {
+    "seq": 24,
+    "word": "employer",
+    "meaning": "사장",
+    "synonym": []
+  },
+  {
+    "seq": 25,
+    "word": "enclose",
+    "meaning": "동봉하다, 에워싸다",
+    "synonym": [
+      "include",
+      "surround"
+    ]
+  },
+  {
+    "seq": 26,
+    "word": "encourage",
+    "meaning": "장려하다",
+    "synonym": []
+  },
+  {
+    "seq": 27,
+    "word": "endure",
+    "meaning": "견디다",
+    "synonym": [
+      "bear",
+      "tolerate"
+    ]
+  },
+  {
+    "seq": 28,
+    "word": "engaged",
+    "meaning": "약혼한, 바쁜",
+    "synonym": [
+      "occupied",
+      "committed"
+    ]
+  },
+  {
+    "seq": 29,
+    "word": "english",
+    "meaning": "영국의",
+    "synonym": []
+  },
+  {
+    "seq": 30,
+    "word": "enjoy",
+    "meaning": "즐기다, 누리다",
+    "synonym": []
+  },
+  {
+    "seq": 31,
+    "word": "enlarge",
+    "meaning": "확대하다",
+    "synonym": [
+      "expand",
+      "increase"
+    ]
+  },
+  {
+    "seq": 32,
+    "word": "enough",
+    "meaning": "충분한",
+    "synonym": []
+  },
+  {
+    "seq": 33,
+    "word": "enrage",
+    "meaning": "격분하게 하다",
+    "synonym": [
+      "anger",
+      "infuriate"
+    ]
+  },
+  {
+    "seq": 34,
+    "word": "enter",
+    "meaning": "들어가다",
+    "synonym": []
+  },
+  {
+    "seq": 35,
+    "word": "entertain",
+    "meaning": "즐겁게 하다",
+    "synonym": [
+      "amuse",
+      "delight"
+    ]
+  },
+  {
+    "seq": 36,
+    "word": "enthusiast",
+    "meaning": "열광적인 팬",
+    "synonym": [
+      "fan",
+      "supporter"
+    ]
+  },
+  {
+    "seq": 37,
+    "word": "entire",
+    "meaning": "전체의",
+    "synonym": []
+  },
+  {
+    "seq": 38,
+    "word": "entrepreneur",
+    "meaning": "기업가",
+    "synonym": [
+      "businessman",
+      "founder"
+    ]
+  },
+  {
+    "seq": 39,
+    "word": "entry",
+    "meaning": "입장, 출품작",
+    "synonym": [
+      "admission",
+      "submission"
+    ]
+  },
+  {
+    "seq": 40,
+    "word": "environment",
+    "meaning": "환경",
+    "synonym": [
+      "surroundings",
+      "nature"
+    ]
+  },
+  {
+    "seq": 41,
+    "word": "equal",
+    "meaning": "동등한",
+    "synonym": []
+  },
+  {
+    "seq": 42,
+    "word": "error",
+    "meaning": "오류",
+    "synonym": []
+  },
+  {
+    "seq": 43,
+    "word": "escape",
+    "meaning": "탈출하다",
+    "synonym": [
+      "flee",
+      "get away"
+    ]
+  },
+  {
+    "seq": 44,
+    "word": "especially",
+    "meaning": "특히",
+    "synonym": [
+      "particularly",
+      "notably"
+    ]
+  },
+  {
+    "seq": 45,
+    "word": "essential",
+    "meaning": "필수적인",
+    "synonym": []
+  },
+  {
+    "seq": 46,
+    "word": "establish",
+    "meaning": "설립하다",
+    "synonym": []
+  },
+  {
+    "seq": 47,
+    "word": "evacuate",
+    "meaning": "대피시키다",
+    "synonym": [
+      "clear",
+      "empty"
+    ]
+  },
+  {
+    "seq": 48,
+    "word": "evaporate",
+    "meaning": "증발하다",
+    "synonym": [
+      "vaporize",
+      "dry up"
+    ]
+  },
+  {
+    "seq": 49,
+    "word": "even",
+    "meaning": "심지어",
+    "synonym": []
+  },
+  {
+    "seq": 50,
+    "word": "even though",
+    "meaning": "비록 ~일지라도",
+    "synonym": []
+  },
+  {
+    "seq": 51,
+    "word": "event",
+    "meaning": "사건",
+    "synonym": []
+  },
+  {
+    "seq": 52,
+    "word": "eventually",
+    "meaning": "결국",
+    "synonym": [
+      "finally",
+      "ultimately"
+    ]
+  },
+  {
+    "seq": 53,
+    "word": "every",
+    "meaning": "모든",
+    "synonym": []
+  },
+  {
+    "seq": 54,
+    "word": "every month",
+    "meaning": "매달",
+    "synonym": []
+  },
+  {
+    "seq": 55,
+    "word": "every year",
+    "meaning": "매년",
+    "synonym": []
+  },
+  {
+    "seq": 56,
+    "word": "everyone",
+    "meaning": "모든 사람",
+    "synonym": []
+  },
+  {
+    "seq": 57,
+    "word": "evidence",
+    "meaning": "증거",
+    "synonym": [
+      "proof",
+      "indication"
+    ]
+  },
+  {
+    "seq": 58,
+    "word": "examine",
+    "meaning": "조사하다",
+    "synonym": []
+  },
+  {
+    "seq": 59,
+    "word": "excellent",
+    "meaning": "훌륭한",
+    "synonym": []
+  },
+  {
+    "seq": 60,
+    "word": "excessive",
+    "meaning": "과도한",
+    "synonym": []
+  },
+  {
+    "seq": 61,
+    "word": "exciting",
+    "meaning": "신나는",
+    "synonym": []
+  },
+  {
+    "seq": 62,
+    "word": "exclusive",
+    "meaning": "독점적인",
+    "synonym": [
+      "sole",
+      "private"
+    ]
+  },
+  {
+    "seq": 63,
+    "word": "excuse",
+    "meaning": "변명, 용서하다",
+    "synonym": [
+      "apology",
+      "forgive"
+    ]
+  },
+  {
+    "seq": 64,
+    "word": "executive",
+    "meaning": "임원, 경영진",
+    "synonym": [
+      "manager",
+      "director"
+    ]
+  },
+  {
+    "seq": 65,
+    "word": "exhaust",
+    "meaning": "지치다",
+    "synonym": []
+  },
+  {
+    "seq": 66,
+    "word": "exhibit",
+    "meaning": "전시하다",
+    "synonym": [
+      "display",
+      "show"
+    ]
+  },
+  {
+    "seq": 67,
+    "word": "exist",
+    "meaning": "존재하다",
+    "synonym": []
+  },
+  {
+    "seq": 68,
+    "word": "existence",
+    "meaning": "존재",
+    "synonym": [
+      "being",
+      "presence"
+    ]
+  },
+  {
+    "seq": 69,
+    "word": "expansion",
+    "meaning": "확장",
+    "synonym": [
+      "growth",
+      "enlargement"
+    ]
+  },
+  {
+    "seq": 70,
+    "word": "expect",
+    "meaning": "기대하다",
+    "synonym": [
+      "anticipate",
+      "await"
+    ]
+  },
+  {
+    "seq": 71,
+    "word": "expense",
+    "meaning": "지출",
+    "synonym": []
+  },
+  {
+    "seq": 72,
+    "word": "expensive",
+    "meaning": "비싼",
+    "synonym": []
+  },
+  {
+    "seq": 73,
+    "word": "experience",
+    "meaning": "경험하다",
+    "synonym": []
+  },
+  {
+    "seq": 74,
+    "word": "experiment",
+    "meaning": "실험",
+    "synonym": [
+      "test",
+      "trial"
+    ]
+  },
+  {
+    "seq": 75,
+    "word": "expert",
+    "meaning": "전문가",
+    "synonym": []
+  },
+  {
+    "seq": 76,
+    "word": "expertise",
+    "meaning": "전문 지식",
+    "synonym": [
+      "skill",
+      "knowledge"
+    ]
+  },
+  {
+    "seq": 77,
+    "word": "explorer",
+    "meaning": "탐험가",
+    "synonym": [
+      "adventurer",
+      "traveler"
+    ]
+  },
+  {
+    "seq": 78,
+    "word": "express",
+    "meaning": "표현하다",
+    "synonym": []
+  },
+  {
+    "seq": 79,
+    "word": "extend",
+    "meaning": "연장하다",
+    "synonym": [
+      "prolong",
+      "stretch"
+    ]
+  },
+  {
+    "seq": 80,
+    "word": "extended",
+    "meaning": "늘어난",
+    "synonym": []
+  },
+  {
+    "seq": 81,
+    "word": "extensive",
+    "meaning": "광범위한",
+    "synonym": [
+      "broad",
+      "widespread"
+    ]
+  },
+  {
+    "seq": 82,
+    "word": "extent",
+    "meaning": "정도, 규모",
+    "synonym": [
+      "degree",
+      "scope"
+    ]
+  },
+  {
+    "seq": 83,
+    "word": "extinct",
+    "meaning": "멸종된",
+    "synonym": [
+      "vanished",
+      "dead"
+    ]
+  },
+  {
+    "seq": 84,
+    "word": "extinction",
+    "meaning": "멸종",
+    "synonym": []
+  },
+  {
+    "seq": 85,
+    "word": "extra",
+    "meaning": "추가의",
+    "synonym": []
+  },
+  {
+    "seq": 86,
+    "word": "extreme",
+    "meaning": "극심한",
+    "synonym": []
+  },
+  {
+    "seq": 87,
+    "word": "extremely",
+    "meaning": "극도로",
+    "synonym": []
+  }
+]

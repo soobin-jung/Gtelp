@@ -1,0 +1,765 @@
+[
+  {
+    "seq": 1,
+    "word": "a day",
+    "meaning": "하루에",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"a day\" appears on a holographic sign above a futuristic street. Show a bright sun traveling across the sky from morning to night with breakfast, lunch, and moon icons lined up beneath the letters. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 2,
+    "word": "a few years ago",
+    "meaning": "몇 년 전에",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"a few years ago\" appears as a glowing emblem made of sparkling light and curling vines. Show a nostalgic timeline with calendar pages flipping backward, an old photograph, and a younger version of a character waving from the past. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 3,
+    "word": "a lot of",
+    "meaning": "많은",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"a lot of\" appears in big wobbly colorful letters. Show an overflowing pile of colorful objects such as books, apples, and coins spilling everywhere to make abundance instantly obvious. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 4,
+    "word": "abdomen",
+    "meaning": "복부",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"abdomen\" is shown through a striking visual metaphor. Show a cute character pointing dramatically to the stomach area with a glowing outline highlighting the abdomen. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 5,
+    "word": "ability",
+    "meaning": "능력",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"ability\" dominates the title area in huge action lettering. Show a cheerful character unlocking multiple talents at once, like lifting a weight, painting, and solving a puzzle. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 6,
+    "word": "about",
+    "meaning": "~에 대해",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"about\" glows in stylized neon letters. Show a central topic bubble with smaller icons orbiting around it to clearly suggest 'about this topic'. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 7,
+    "word": "abundant",
+    "meaning": "풍부한",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"abundant\" is engraved prominently on the central plaque. Show fields, baskets, and trees overflowing with fruit and flowers so the viewer instantly feels richness and plenty. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 8,
+    "word": "academic",
+    "meaning": "학문의",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"academic\" is shown through a realistic symbolic scene. Show a studious scene with books, graduation cap, notes, charts, and a serious campus atmosphere. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 9,
+    "word": "accept",
+    "meaning": "받아들이다",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"accept\" is softly integrated into the composition. Show two characters smiling as one receives a gift or invitation with open hands and warm agreement. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 10,
+    "word": "access",
+    "meaning": "접근",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"access\" appears in wildstyle lettering at the center. Show a glowing door, keycard, keypad, or portal opening to a special place after permission is granted. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 11,
+    "word": "accident",
+    "meaning": "사고",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"accident\" appears on a holographic sign above a futuristic street. Show a comic but clear mishap such as spilled paint, a slipped banana peel, or a bumped bicycle with shocked expressions. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 12,
+    "word": "accomplish",
+    "meaning": "성취하다",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"accomplish\" appears as a glowing emblem made of sparkling light and curling vines. Show a determined character planting a flag at the top of a checklist mountain after finishing tasks. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 13,
+    "word": "account",
+    "meaning": "계좌, 설명",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"account\" appears in big wobbly colorful letters. Show both meanings cleverly: a bank account card and a speech bubble giving an explanation side by side. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 14,
+    "word": "accounting",
+    "meaning": "회계",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"accounting\" is shown through a striking visual metaphor. Show calculators, ledgers, receipts, graphs, and a tidy desk with someone balancing numbers. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 15,
+    "word": "accurately",
+    "meaning": "정확하게",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"accurately\" dominates the title area in huge action lettering. Show a target hit exactly in the center, a ruler aligned perfectly, and a laser-straight check mark. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 16,
+    "word": "achieve",
+    "meaning": "성취하다",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"achieve\" glows in stylized neon letters. Show a character reaching a shining trophy or star after effort, stairs, and progress markers. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 17,
+    "word": "achievement",
+    "meaning": "성취",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"achievement\" is engraved prominently on the central plaque. Show medals, certificates, confetti, and a proud display shelf celebrating a completed goal. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 18,
+    "word": "acquire",
+    "meaning": "얻다",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"acquire\" is shown through a realistic symbolic scene. Show a character successfully obtaining a glowing object, key skill book, or treasure chest they worked for. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 19,
+    "word": "across",
+    "meaning": "~에 걸쳐",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"across\" is softly integrated into the composition. Show a bridge or road stretching from one side to the other with motion clearly crossing over. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 20,
+    "word": "actual",
+    "meaning": "실제의",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"actual\" appears in wildstyle lettering at the center. Show illusion versus reality, with a fake stage set pulled aside to reveal the true object behind it. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 21,
+    "word": "add",
+    "meaning": "덧붙이다",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"add\" appears on a holographic sign above a futuristic street. Show a simple memorable scene that makes the meaning of \"add\" instantly obvious. Use direct visual storytelling for 덧붙이다, expressive characters, and one strong central metaphor. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 22,
+    "word": "address",
+    "meaning": "주소, 연설하다",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"address\" appears as a glowing emblem made of sparkling light and curling vines. Show a clear memorable scene that instantly explains the meaning of \"address\". Use visual clues for 주소, 연설하다 and include small symbolic hints related to location, speech. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 23,
+    "word": "admire",
+    "meaning": "존경하다",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"admire\" appears in big wobbly colorful letters. Show a clear memorable scene that instantly explains the meaning of \"admire\". Use visual clues for 존경하다 and include small symbolic hints related to respect, appreciate. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 24,
+    "word": "adopt",
+    "meaning": "입양하다",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"adopt\" is shown through a striking visual metaphor. Show a simple memorable scene that makes the meaning of \"adopt\" instantly obvious. Use direct visual storytelling for 입양하다, expressive characters, and one strong central metaphor. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 25,
+    "word": "adoption",
+    "meaning": "입양",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"adoption\" dominates the title area in huge action lettering. Show a simple memorable scene that makes the meaning of \"adoption\" instantly obvious. Use direct visual storytelling for 입양, expressive characters, and one strong central metaphor. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 26,
+    "word": "adoptive",
+    "meaning": "입양의",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"adoptive\" glows in stylized neon letters. Show a clear memorable scene that instantly explains the meaning of \"adoptive\". Use visual clues for 입양의 and include small symbolic hints related to foster, adopted. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 27,
+    "word": "advanced",
+    "meaning": "고급의, 진보한",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"advanced\" is engraved prominently on the central plaque. Show a clear memorable scene that instantly explains the meaning of \"advanced\". Use visual clues for 고급의, 진보한 and include small symbolic hints related to progressive, higher. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 28,
+    "word": "advantage",
+    "meaning": "이점",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"advantage\" is shown through a realistic symbolic scene. Show a simple memorable scene that makes the meaning of \"advantage\" instantly obvious. Use direct visual storytelling for 이점, expressive characters, and one strong central metaphor. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 29,
+    "word": "adverse",
+    "meaning": "해로운",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"adverse\" is softly integrated into the composition. Show a simple memorable scene that makes the meaning of \"adverse\" instantly obvious. Use direct visual storytelling for 해로운, expressive characters, and one strong central metaphor. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 30,
+    "word": "advertising",
+    "meaning": "광고",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"advertising\" appears in wildstyle lettering at the center. Show a clear memorable scene that instantly explains the meaning of \"advertising\". Use visual clues for 광고 and include small symbolic hints related to marketing, promotion. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 31,
+    "word": "advise",
+    "meaning": "권고하다",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"advise\" appears on a holographic sign above a futuristic street. Show a simple memorable scene that makes the meaning of \"advise\" instantly obvious. Use direct visual storytelling for 권고하다, expressive characters, and one strong central metaphor. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 32,
+    "word": "aesthetically",
+    "meaning": "미적으로",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"aesthetically\" appears as a glowing emblem made of sparkling light and curling vines. Show a clear memorable scene that instantly explains the meaning of \"aesthetically\". Use visual clues for 미적으로 and include small symbolic hints related to artistically, beautifully. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 33,
+    "word": "affair",
+    "meaning": "일, 사건",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"affair\" appears in big wobbly colorful letters. Show a clear memorable scene that instantly explains the meaning of \"affair\". Use visual clues for 일, 사건 and include small symbolic hints related to matter, event. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 34,
+    "word": "affect",
+    "meaning": "영향을 끼치다",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"affect\" is shown through a striking visual metaphor. Show a simple memorable scene that makes the meaning of \"affect\" instantly obvious. Use direct visual storytelling for 영향을 끼치다, expressive characters, and one strong central metaphor. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 35,
+    "word": "affected",
+    "meaning": "영향을 받은",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"affected\" dominates the title area in huge action lettering. Show a simple memorable scene that makes the meaning of \"affected\" instantly obvious. Use direct visual storytelling for 영향을 받은, expressive characters, and one strong central metaphor. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 36,
+    "word": "afford",
+    "meaning": "여유가 있다",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"afford\" glows in stylized neon letters. Show a simple memorable scene that makes the meaning of \"afford\" instantly obvious. Use direct visual storytelling for 여유가 있다, expressive characters, and one strong central metaphor. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 37,
+    "word": "affordable",
+    "meaning": "감당할 수 있는",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"affordable\" is engraved prominently on the central plaque. Show a clear memorable scene that instantly explains the meaning of \"affordable\". Use visual clues for 감당할 수 있는 and include small symbolic hints related to reasonable, inexpensive. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 38,
+    "word": "after",
+    "meaning": "~후에",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"after\" is shown through a realistic symbolic scene. Show a simple memorable scene that makes the meaning of \"after\" instantly obvious. Use direct visual storytelling for ~후에, expressive characters, and one strong central metaphor. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 39,
+    "word": "agree",
+    "meaning": "동의하다",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"agree\" is softly integrated into the composition. Show a clear memorable scene that instantly explains the meaning of \"agree\". Use visual clues for 동의하다 and include small symbolic hints related to consent, concur. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 40,
+    "word": "agriculture",
+    "meaning": "농업",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"agriculture\" appears in wildstyle lettering at the center. Show a clear memorable scene that instantly explains the meaning of \"agriculture\". Use visual clues for 농업 and include small symbolic hints related to farming, cultivation. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 41,
+    "word": "aim to",
+    "meaning": "~를 목표로 하다",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"aim to\" appears on a holographic sign above a futuristic street. Show a simple memorable scene that makes the meaning of \"aim to\" instantly obvious. Use direct visual storytelling for ~를 목표로 하다, expressive characters, and one strong central metaphor. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 42,
+    "word": "air",
+    "meaning": "공기",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"air\" appears as a glowing emblem made of sparkling light and curling vines. Show a clear memorable scene that instantly explains the meaning of \"air\". Use visual clues for 공기 and include small symbolic hints related to atmosphere, breeze. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 43,
+    "word": "aircraft",
+    "meaning": "항공기",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"aircraft\" appears in big wobbly colorful letters. Show a simple memorable scene that makes the meaning of \"aircraft\" instantly obvious. Use direct visual storytelling for 항공기, expressive characters, and one strong central metaphor. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 44,
+    "word": "airtight",
+    "meaning": "밀폐된",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"airtight\" is shown through a striking visual metaphor. Show a clear memorable scene that instantly explains the meaning of \"airtight\". Use visual clues for 밀폐된 and include small symbolic hints related to sealed, impermeable. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 45,
+    "word": "alive",
+    "meaning": "살아있는",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"alive\" dominates the title area in huge action lettering. Show a simple memorable scene that makes the meaning of \"alive\" instantly obvious. Use direct visual storytelling for 살아있는, expressive characters, and one strong central metaphor. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 46,
+    "word": "all the time",
+    "meaning": "항상",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"all the time\" glows in stylized neon letters. Show a simple memorable scene that makes the meaning of \"all the time\" instantly obvious. Use direct visual storytelling for 항상, expressive characters, and one strong central metaphor. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 47,
+    "word": "allot",
+    "meaning": "할당하다",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"allot\" is engraved prominently on the central plaque. Show a clear memorable scene that instantly explains the meaning of \"allot\". Use visual clues for 할당하다 and include small symbolic hints related to allocate, assign. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 48,
+    "word": "allow",
+    "meaning": "허락하다",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"allow\" is shown through a realistic symbolic scene. Show a clear memorable scene that instantly explains the meaning of \"allow\". Use visual clues for 허락하다 and include small symbolic hints related to permit, grant. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 49,
+    "word": "also",
+    "meaning": "또한",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"also\" is softly integrated into the composition. Show a simple memorable scene that makes the meaning of \"also\" instantly obvious. Use direct visual storytelling for 또한, expressive characters, and one strong central metaphor. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 50,
+    "word": "alter",
+    "meaning": "변경하다",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"alter\" appears in wildstyle lettering at the center. Show a clear memorable scene that instantly explains the meaning of \"alter\". Use visual clues for 변경하다 and include small symbolic hints related to change, modify. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 51,
+    "word": "alternative",
+    "meaning": "대체제",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"alternative\" appears on a holographic sign above a futuristic street. Show a simple memorable scene that makes the meaning of \"alternative\" instantly obvious. Use direct visual storytelling for 대체제, expressive characters, and one strong central metaphor. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 52,
+    "word": "although",
+    "meaning": "비록 ~일지라도",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"although\" appears as a glowing emblem made of sparkling light and curling vines. Show a simple memorable scene that makes the meaning of \"although\" instantly obvious. Use direct visual storytelling for 비록 ~일지라도, expressive characters, and one strong central metaphor. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 53,
+    "word": "always",
+    "meaning": "항상",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"always\" appears in big wobbly colorful letters. Show a simple memorable scene that makes the meaning of \"always\" instantly obvious. Use direct visual storytelling for 항상, expressive characters, and one strong central metaphor. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 54,
+    "word": "amazing",
+    "meaning": "놀라운",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"amazing\" is shown through a striking visual metaphor. Show a simple memorable scene that makes the meaning of \"amazing\" instantly obvious. Use direct visual storytelling for 놀라운, expressive characters, and one strong central metaphor. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 55,
+    "word": "amenity",
+    "meaning": "편의 시설",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"amenity\" dominates the title area in huge action lettering. Show a clear memorable scene that instantly explains the meaning of \"amenity\". Use visual clues for 편의 시설 and include small symbolic hints related to facility, convenience. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 56,
+    "word": "among",
+    "meaning": "~사이에서",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"among\" glows in stylized neon letters. Show a simple memorable scene that makes the meaning of \"among\" instantly obvious. Use direct visual storytelling for ~사이에서, expressive characters, and one strong central metaphor. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 57,
+    "word": "amount",
+    "meaning": "총액, 양",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"amount\" is engraved prominently on the central plaque. Show a simple memorable scene that makes the meaning of \"amount\" instantly obvious. Use direct visual storytelling for 총액, 양, expressive characters, and one strong central metaphor. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 58,
+    "word": "analyze",
+    "meaning": "분석하다",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"analyze\" is shown through a realistic symbolic scene. Show a simple memorable scene that makes the meaning of \"analyze\" instantly obvious. Use direct visual storytelling for 분석하다, expressive characters, and one strong central metaphor. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 59,
+    "word": "ancestor",
+    "meaning": "조상",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"ancestor\" is softly integrated into the composition. Show a clear memorable scene that instantly explains the meaning of \"ancestor\". Use visual clues for 조상 and include small symbolic hints related to forefather, predecessor. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 60,
+    "word": "ancient",
+    "meaning": "고대의",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"ancient\" appears in wildstyle lettering at the center. Show a simple memorable scene that makes the meaning of \"ancient\" instantly obvious. Use direct visual storytelling for 고대의, expressive characters, and one strong central metaphor. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 61,
+    "word": "anesthesia",
+    "meaning": "마취",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"anesthesia\" appears on a holographic sign above a futuristic street. Show a clear memorable scene that instantly explains the meaning of \"anesthesia\". Use visual clues for 마취 and include small symbolic hints related to numbness, painkiller. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 62,
+    "word": "announce",
+    "meaning": "발표하다",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"announce\" appears as a glowing emblem made of sparkling light and curling vines. Show a simple memorable scene that makes the meaning of \"announce\" instantly obvious. Use direct visual storytelling for 발표하다, expressive characters, and one strong central metaphor. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 63,
+    "word": "annual",
+    "meaning": "연간의",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"annual\" appears in big wobbly colorful letters. Show a clear memorable scene that instantly explains the meaning of \"annual\". Use visual clues for 연간의 and include small symbolic hints related to yearly, anniversary. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 64,
+    "word": "another",
+    "meaning": "또 다른",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"another\" is shown through a striking visual metaphor. Show a simple memorable scene that makes the meaning of \"another\" instantly obvious. Use direct visual storytelling for 또 다른, expressive characters, and one strong central metaphor. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 65,
+    "word": "anxiety",
+    "meaning": "불안",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"anxiety\" dominates the title area in huge action lettering. Show a simple memorable scene that makes the meaning of \"anxiety\" instantly obvious. Use direct visual storytelling for 불안, expressive characters, and one strong central metaphor. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 66,
+    "word": "anything",
+    "meaning": "어떤 것",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"anything\" glows in stylized neon letters. Show a simple memorable scene that makes the meaning of \"anything\" instantly obvious. Use direct visual storytelling for 어떤 것, expressive characters, and one strong central metaphor. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 67,
+    "word": "apparent",
+    "meaning": "명백한",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"apparent\" is engraved prominently on the central plaque. Show a clear memorable scene that instantly explains the meaning of \"apparent\". Use visual clues for 명백한 and include small symbolic hints related to obvious, clear. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 68,
+    "word": "applicant",
+    "meaning": "지원자",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"applicant\" is shown through a realistic symbolic scene. Show a clear memorable scene that instantly explains the meaning of \"applicant\". Use visual clues for 지원자 and include small symbolic hints related to candidate, aspirant. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 69,
+    "word": "appreciation",
+    "meaning": "감사",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"appreciation\" is softly integrated into the composition. Show a simple memorable scene that makes the meaning of \"appreciation\" instantly obvious. Use direct visual storytelling for 감사, expressive characters, and one strong central metaphor. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 70,
+    "word": "apprentice",
+    "meaning": "견습생",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"apprentice\" appears in wildstyle lettering at the center. Show a clear memorable scene that instantly explains the meaning of \"apprentice\". Use visual clues for 견습생 and include small symbolic hints related to trainee, novice. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 71,
+    "word": "approach",
+    "meaning": "접근법",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"approach\" appears on a holographic sign above a futuristic street. Show a simple memorable scene that makes the meaning of \"approach\" instantly obvious. Use direct visual storytelling for 접근법, expressive characters, and one strong central metaphor. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 72,
+    "word": "approximately",
+    "meaning": "대략",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"approximately\" appears as a glowing emblem made of sparkling light and curling vines. Show a simple memorable scene that makes the meaning of \"approximately\" instantly obvious. Use direct visual storytelling for 대략, expressive characters, and one strong central metaphor. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 73,
+    "word": "archaeologists",
+    "meaning": "고고학자",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"archaeologists\" appears in big wobbly colorful letters. Show a simple memorable scene that makes the meaning of \"archaeologists\" instantly obvious. Use direct visual storytelling for 고고학자, expressive characters, and one strong central metaphor. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 74,
+    "word": "archeological",
+    "meaning": "고고학적인",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"archeological\" is shown through a striking visual metaphor. Show a clear memorable scene that instantly explains the meaning of \"archeological\". Use visual clues for 고고학적인 and include small symbolic hints related to historical, ancient. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 75,
+    "word": "archeologists",
+    "meaning": "고고학자",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"archeologists\" dominates the title area in huge action lettering. Show a simple memorable scene that makes the meaning of \"archeologists\" instantly obvious. Use direct visual storytelling for 고고학자, expressive characters, and one strong central metaphor. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 76,
+    "word": "area",
+    "meaning": "지역",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"area\" glows in stylized neon letters. Show a simple memorable scene that makes the meaning of \"area\" instantly obvious. Use direct visual storytelling for 지역, expressive characters, and one strong central metaphor. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 77,
+    "word": "arise",
+    "meaning": "발생하다",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"arise\" is engraved prominently on the central plaque. Show a simple memorable scene that makes the meaning of \"arise\" instantly obvious. Use direct visual storytelling for 발생하다, expressive characters, and one strong central metaphor. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 78,
+    "word": "around",
+    "meaning": "~주변을",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"around\" is shown through a realistic symbolic scene. Show a simple memorable scene that makes the meaning of \"around\" instantly obvious. Use direct visual storytelling for ~주변을, expressive characters, and one strong central metaphor. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 79,
+    "word": "arrange",
+    "meaning": "배열하다, 주선하다",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"arrange\" is softly integrated into the composition. Show a clear memorable scene that instantly explains the meaning of \"arrange\". Use visual clues for 배열하다, 주선하다 and include small symbolic hints related to organize, plan. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 80,
+    "word": "arrogant",
+    "meaning": "거만한",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"arrogant\" appears in wildstyle lettering at the center. Show a clear memorable scene that instantly explains the meaning of \"arrogant\". Use visual clues for 거만한 and include small symbolic hints related to haughty, proud. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 81,
+    "word": "artificial",
+    "meaning": "인공의",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"artificial\" appears on a holographic sign above a futuristic street. Show a clear memorable scene that instantly explains the meaning of \"artificial\". Use visual clues for 인공의 and include small symbolic hints related to synthetic, man-made. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 82,
+    "word": "as",
+    "meaning": "~함에 따라",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"as\" appears as a glowing emblem made of sparkling light and curling vines. Show a simple memorable scene that makes the meaning of \"as\" instantly obvious. Use direct visual storytelling for ~함에 따라, expressive characters, and one strong central metaphor. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 83,
+    "word": "as a result",
+    "meaning": "그 결과",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"as a result\" appears in big wobbly colorful letters. Show a simple memorable scene that makes the meaning of \"as a result\" instantly obvious. Use direct visual storytelling for 그 결과, expressive characters, and one strong central metaphor. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 84,
+    "word": "ask",
+    "meaning": "요청하다",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"ask\" is shown through a striking visual metaphor. Show a simple memorable scene that makes the meaning of \"ask\" instantly obvious. Use direct visual storytelling for 요청하다, expressive characters, and one strong central metaphor. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 85,
+    "word": "assemble",
+    "meaning": "조립하다, 모이다",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"assemble\" dominates the title area in huge action lettering. Show a clear memorable scene that instantly explains the meaning of \"assemble\". Use visual clues for 조립하다, 모이다 and include small symbolic hints related to gather, put together. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 86,
+    "word": "assess",
+    "meaning": "평가하다",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"assess\" glows in stylized neon letters. Show a clear memorable scene that instantly explains the meaning of \"assess\". Use visual clues for 평가하다 and include small symbolic hints related to evaluate, judge. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 87,
+    "word": "assign",
+    "meaning": "할당하다",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"assign\" is engraved prominently on the central plaque. Show a simple memorable scene that makes the meaning of \"assign\" instantly obvious. Use direct visual storytelling for 할당하다, expressive characters, and one strong central metaphor. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 88,
+    "word": "assistance",
+    "meaning": "도움",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"assistance\" is shown through a realistic symbolic scene. Show a simple memorable scene that makes the meaning of \"assistance\" instantly obvious. Use direct visual storytelling for 도움, expressive characters, and one strong central metaphor. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 89,
+    "word": "assistant",
+    "meaning": "조수",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"assistant\" is softly integrated into the composition. Show a clear memorable scene that instantly explains the meaning of \"assistant\". Use visual clues for 조수 and include small symbolic hints related to helper, aide. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 90,
+    "word": "associate",
+    "meaning": "연관시키다",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"associate\" appears in wildstyle lettering at the center. Show a clear memorable scene that instantly explains the meaning of \"associate\". Use visual clues for 연관시키다 and include small symbolic hints related to connect, link. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 91,
+    "word": "assume",
+    "meaning": "가정하다, 떠맡다",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"assume\" appears on a holographic sign above a futuristic street. Show a clear memorable scene that instantly explains the meaning of \"assume\". Use visual clues for 가정하다, 떠맡다 and include small symbolic hints related to presume, undertake. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 92,
+    "word": "astronomer",
+    "meaning": "천문학자",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"astronomer\" appears as a glowing emblem made of sparkling light and curling vines. Show a clear memorable scene that instantly explains the meaning of \"astronomer\". Use visual clues for 천문학자 and include small symbolic hints related to stargazer, scientist. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 93,
+    "word": "at",
+    "meaning": "~에",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"at\" appears in big wobbly colorful letters. Show a simple memorable scene that makes the meaning of \"at\" instantly obvious. Use direct visual storytelling for ~에, expressive characters, and one strong central metaphor. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 94,
+    "word": "at that time",
+    "meaning": "그 당시에",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"at that time\" is shown through a striking visual metaphor. Show a simple memorable scene that makes the meaning of \"at that time\" instantly obvious. Use direct visual storytelling for 그 당시에, expressive characters, and one strong central metaphor. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 95,
+    "word": "atmosphere",
+    "meaning": "대기",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"atmosphere\" dominates the title area in huge action lettering. Show a simple memorable scene that makes the meaning of \"atmosphere\" instantly obvious. Use direct visual storytelling for 대기, expressive characters, and one strong central metaphor. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 96,
+    "word": "attack",
+    "meaning": "공격하다",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"attack\" glows in stylized neon letters. Show a clear memorable scene that instantly explains the meaning of \"attack\". Use visual clues for 공격하다 and include small symbolic hints related to assault, strike. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 97,
+    "word": "attempt",
+    "meaning": "시도하다",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"attempt\" is engraved prominently on the central plaque. Show a clear memorable scene that instantly explains the meaning of \"attempt\". Use visual clues for 시도하다 and include small symbolic hints related to try, endeavor. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 98,
+    "word": "attend",
+    "meaning": "참석하다",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"attend\" is shown through a realistic symbolic scene. Show a simple memorable scene that makes the meaning of \"attend\" instantly obvious. Use direct visual storytelling for 참석하다, expressive characters, and one strong central metaphor. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 99,
+    "word": "attention",
+    "meaning": "주의",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"attention\" is softly integrated into the composition. Show a clear memorable scene that instantly explains the meaning of \"attention\". Use visual clues for 주의 and include small symbolic hints related to focus, concentration. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  },
+  {
+    "seq": 100,
+    "word": "attitude",
+    "meaning": "태도",
+    "style": "street graffiti mural",
+    "prompt": "A large energetic graffiti mural on a textured wall. The word \"attitude\" appears in wildstyle lettering at the center. Show a clear memorable scene that instantly explains the meaning of \"attitude\". Use visual clues for 태도 and include small symbolic hints related to mindset, posture. Spray-paint texture, layered tags, urban rhythm, bold visual punch."
+  },
+  {
+    "seq": 101,
+    "word": "attorney",
+    "meaning": "변호사",
+    "style": "cyberpunk pixel art",
+    "prompt": "A detailed cyberpunk pixel-art illustration. The word \"attorney\" appears on a holographic sign above a futuristic street. Show a simple memorable scene that makes the meaning of \"attorney\" instantly obvious. Use direct visual storytelling for 변호사, expressive characters, and one strong central metaphor. Dense pixel detail, neon contrast, retro-futuristic atmosphere."
+  },
+  {
+    "seq": 102,
+    "word": "attract",
+    "meaning": "끌다",
+    "style": "enchanted fairy-tale animation",
+    "prompt": "A magical fairy-tale animation still with warm golden light. The word \"attract\" appears as a glowing emblem made of sparkling light and curling vines. Show a clear memorable scene that instantly explains the meaning of \"attract\". Use visual clues for 끌다 and include small symbolic hints related to draw, appeal. Storybook forest atmosphere, soft magic trails, expressive animal companions, joyful wonder."
+  },
+  {
+    "seq": 103,
+    "word": "attraction",
+    "meaning": "매력, 명소",
+    "style": "child crayon drawing",
+    "prompt": "An incredibly charming child's crayon drawing on rough paper. The word \"attraction\" appears in big wobbly colorful letters. Show a clear memorable scene that instantly explains the meaning of \"attraction\". Use visual clues for 매력, 명소 and include small symbolic hints related to appeal, draw. Thick crayon texture, uneven lines, playful composition, raw innocence, very memorable."
+  },
+  {
+    "seq": 104,
+    "word": "audience",
+    "meaning": "청중",
+    "style": "surreal photography",
+    "prompt": "A surreal conceptual photograph with realistic textures but dreamlike impossible logic. The meaning of \"audience\" is shown through a striking visual metaphor. Show a clear memorable scene that instantly explains the meaning of \"audience\". Use visual clues for 청중 and include small symbolic hints related to spectators, listeners. Unusual scale, unexpected object placement, memorable symbolism."
+  },
+  {
+    "seq": 105,
+    "word": "audit",
+    "meaning": "회계 감사",
+    "style": "vintage comic cover",
+    "prompt": "A bold vintage comic-book cover with dramatic perspective and halftone dots. The word \"audit\" dominates the title area in huge action lettering. Show a clear memorable scene that instantly explains the meaning of \"audit\". Use visual clues for 회계 감사 and include small symbolic hints related to inspection, review. Punchy colors, exaggerated motion, nostalgic pop-art energy."
+  },
+  {
+    "seq": 106,
+    "word": "author",
+    "meaning": "작가",
+    "style": "neon night sign",
+    "prompt": "A vibrant neon sign scene on a rainy city street at night. The word \"author\" glows in stylized neon letters. Show a simple memorable scene that makes the meaning of \"author\" instantly obvious. Use direct visual storytelling for 작가, expressive characters, and one strong central metaphor. Wet reflections, steam, urban energy, cinematic lighting."
+  },
+  {
+    "seq": 107,
+    "word": "authority",
+    "meaning": "권위",
+    "style": "steampunk machine",
+    "prompt": "An intricate steampunk device with brass, gauges, pipes, and engraved plates. The word \"authority\" is engraved prominently on the central plaque. Show a clear memorable scene that instantly explains the meaning of \"authority\". Use visual clues for 권위 and include small symbolic hints related to power, control. Warm workshop light, tactile detail, imaginative mechanical storytelling."
+  },
+  {
+    "seq": 108,
+    "word": "avoid",
+    "meaning": "피하다",
+    "style": "classic oil painting",
+    "prompt": "A dramatic classical oil painting with rich textures and painterly light. The concept of \"avoid\" is shown through a realistic symbolic scene. Show a simple memorable scene that makes the meaning of \"avoid\" instantly obvious. Use direct visual storytelling for 피하다, expressive characters, and one strong central metaphor. Deep colors, timeless mood, visible brushwork, elegant composition."
+  },
+  {
+    "seq": 109,
+    "word": "award",
+    "meaning": "상, 수여하다",
+    "style": "watercolor illustration",
+    "prompt": "A delicate watercolor illustration on textured paper. The word \"award\" is softly integrated into the composition. Show a clear memorable scene that instantly explains the meaning of \"award\". Use visual clues for 상, 수여하다 and include small symbolic hints related to prize, grant. Gentle color bleed, airy layout, emotional clarity, poetic mood."
+  }
+]

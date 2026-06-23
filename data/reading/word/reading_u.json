@@ -1,0 +1,131 @@
+[
+  {
+    "seq": 1,
+    "word": "uncomfortable",
+    "meaning": "불편한",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "undecided",
+    "meaning": "결정되지 않은",
+    "synonym": [
+      "uncertain",
+      "unsure"
+    ]
+  },
+  {
+    "seq": 3,
+    "word": "under",
+    "meaning": "~중에, ~아래",
+    "synonym": []
+  },
+  {
+    "seq": 4,
+    "word": "understand",
+    "meaning": "이해하다",
+    "synonym": []
+  },
+  {
+    "seq": 5,
+    "word": "understanding",
+    "meaning": "이해",
+    "synonym": []
+  },
+  {
+    "seq": 6,
+    "word": "undertake",
+    "meaning": "착수하다",
+    "synonym": []
+  },
+  {
+    "seq": 7,
+    "word": "unfortunately",
+    "meaning": "불행하게도",
+    "synonym": []
+  },
+  {
+    "seq": 8,
+    "word": "unhealthy",
+    "meaning": "건강하지 못한",
+    "synonym": []
+  },
+  {
+    "seq": 9,
+    "word": "uniform",
+    "meaning": "유니폼",
+    "synonym": []
+  },
+  {
+    "seq": 10,
+    "word": "unknown",
+    "meaning": "알려지지 않은",
+    "synonym": []
+  },
+  {
+    "seq": 11,
+    "word": "unless",
+    "meaning": "만약 ~하지 않는다면",
+    "synonym": []
+  },
+  {
+    "seq": 12,
+    "word": "unlike",
+    "meaning": "~와 달리",
+    "synonym": []
+  },
+  {
+    "seq": 13,
+    "word": "unstable",
+    "meaning": "불안정한",
+    "synonym": [
+      "shaky",
+      "insecure"
+    ]
+  },
+  {
+    "seq": 14,
+    "word": "until",
+    "meaning": "~까지",
+    "synonym": []
+  },
+  {
+    "seq": 15,
+    "word": "urge",
+    "meaning": "권하다",
+    "synonym": []
+  },
+  {
+    "seq": 16,
+    "word": "use",
+    "meaning": "사용하다",
+    "synonym": []
+  },
+  {
+    "seq": 17,
+    "word": "useless",
+    "meaning": "쓸모없는",
+    "synonym": []
+  },
+  {
+    "seq": 18,
+    "word": "user",
+    "meaning": "사용자",
+    "synonym": []
+  },
+  {
+    "seq": 19,
+    "word": "usual",
+    "meaning": "평소의",
+    "synonym": [
+      "normal",
+      "customary"
+    ]
+  },
+  {
+    "seq": 20,
+    "word": "usually",
+    "meaning": "대개",
+    "synonym": []
+  }
+]

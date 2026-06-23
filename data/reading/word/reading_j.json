@@ -1,0 +1,17 @@
+[
+  {
+    "seq": 1,
+    "word": "jail",
+    "meaning": "감옥",
+    "synonym": []
+  },
+  {
+    "seq": 2,
+    "word": "juvenile",
+    "meaning": "청소년의",
+    "synonym": [
+      "young",
+      "adolescent"
+    ]
+  }
+]

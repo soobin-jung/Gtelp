@@ -1,0 +1,874 @@
+[
+  {
+    "seq": 1,
+    "word": "a day",
+    "meaning": "하루에",
+    "filename": "img_a_day.png",
+    "exists": true,
+    "size": 19759
+  },
+  {
+    "seq": 2,
+    "word": "a few years ago",
+    "meaning": "몇 년 전에",
+    "filename": "img_a_few_years_ago.png",
+    "exists": true,
+    "size": 25563
+  },
+  {
+    "seq": 3,
+    "word": "a lot of",
+    "meaning": "많은",
+    "filename": "img_a_lot_of.png",
+    "exists": true,
+    "size": 18738
+  },
+  {
+    "seq": 4,
+    "word": "abdomen",
+    "meaning": "복부",
+    "filename": "img_abdomen.png",
+    "exists": true,
+    "size": 22988
+  },
+  {
+    "seq": 5,
+    "word": "ability",
+    "meaning": "능력",
+    "filename": "img_ability.png",
+    "exists": true,
+    "size": 27357
+  },
+  {
+    "seq": 6,
+    "word": "about",
+    "meaning": "~에 대해",
+    "filename": "img_about.png",
+    "exists": true,
+    "size": 17506
+  },
+  {
+    "seq": 7,
+    "word": "abundant",
+    "meaning": "풍부한",
+    "filename": "img_abundant.png",
+    "exists": true,
+    "size": 23805
+  },
+  {
+    "seq": 8,
+    "word": "academic",
+    "meaning": "학문의",
+    "filename": "img_academic.png",
+    "exists": true,
+    "size": 27636
+  },
+  {
+    "seq": 9,
+    "word": "accept",
+    "meaning": "받아들이다",
+    "filename": "img_accept.png",
+    "exists": true,
+    "size": 25690
+  },
+  {
+    "seq": 10,
+    "word": "access",
+    "meaning": "접근",
+    "filename": "img_access.png",
+    "exists": true,
+    "size": 20960
+  },
+  {
+    "seq": 11,
+    "word": "accident",
+    "meaning": "사고",
+    "filename": "img_accident.png",
+    "exists": true,
+    "size": 25505
+  },
+  {
+    "seq": 12,
+    "word": "accomplish",
+    "meaning": "성취하다",
+    "filename": "img_accomplish.png",
+    "exists": true,
+    "size": 24074
+  },
+  {
+    "seq": 13,
+    "word": "account",
+    "meaning": "계좌, 설명",
+    "filename": "img_account.png",
+    "exists": true,
+    "size": 23827
+  },
+  {
+    "seq": 14,
+    "word": "accounting",
+    "meaning": "회계",
+    "filename": "img_accounting.png",
+    "exists": true,
+    "size": 25030
+  },
+  {
+    "seq": 15,
+    "word": "accurately",
+    "meaning": "정확하게",
+    "filename": "img_accurately.png",
+    "exists": true,
+    "size": 23823
+  },
+  {
+    "seq": 16,
+    "word": "achieve",
+    "meaning": "성취하다",
+    "filename": "img_achieve.png",
+    "exists": true,
+    "size": 20274
+  },
+  {
+    "seq": 17,
+    "word": "achievement",
+    "meaning": "성취",
+    "filename": "img_achievement.png",
+    "exists": true,
+    "size": 29615
+  },
+  {
+    "seq": 18,
+    "word": "acquire",
+    "meaning": "얻다",
+    "filename": "img_acquire.png",
+    "exists": true,
+    "size": 22411
+  },
+  {
+    "seq": 19,
+    "word": "across",
+    "meaning": "~에 걸쳐",
+    "filename": "img_across.png",
+    "exists": true,
+    "size": 26697
+  },
+  {
+    "seq": 20,
+    "word": "actual",
+    "meaning": "실제의",
+    "filename": "img_actual.png",
+    "exists": true,
+    "size": 18253
+  },
+  {
+    "seq": 21,
+    "word": "add",
+    "meaning": "덧붙이다",
+    "filename": "img_add.png",
+    "exists": true,
+    "size": 24963
+  },
+  {
+    "seq": 22,
+    "word": "address",
+    "meaning": "주소, 연설하다",
+    "filename": "img_address.png",
+    "exists": true,
+    "size": 22874
+  },
+  {
+    "seq": 23,
+    "word": "admire",
+    "meaning": "존경하다",
+    "filename": "img_admire.png",
+    "exists": true,
+    "size": 22745
+  },
+  {
+    "seq": 24,
+    "word": "adopt",
+    "meaning": "입양하다",
+    "filename": "img_adopt.png",
+    "exists": true,
+    "size": 25219
+  },
+  {
+    "seq": 25,
+    "word": "adoption",
+    "meaning": "입양",
+    "filename": "img_adoption.png",
+    "exists": true,
+    "size": 23901
+  },
+  {
+    "seq": 26,
+    "word": "adoptive",
+    "meaning": "입양의",
+    "filename": "img_adoptive.png",
+    "exists": true,
+    "size": 25881
+  },
+  {
+    "seq": 27,
+    "word": "advanced",
+    "meaning": "고급의, 진보한",
+    "filename": "img_advanced.png",
+    "exists": true,
+    "size": 22423
+  },
+  {
+    "seq": 28,
+    "word": "advantage",
+    "meaning": "이점",
+    "filename": "img_advantage.png",
+    "exists": true,
+    "size": 26753
+  },
+  {
+    "seq": 29,
+    "word": "adverse",
+    "meaning": "해로운",
+    "filename": "img_adverse.png",
+    "exists": true,
+    "size": 23247
+  },
+  {
+    "seq": 30,
+    "word": "advertising",
+    "meaning": "광고",
+    "filename": "img_advertising.png",
+    "exists": true,
+    "size": 28002
+  },
+  {
+    "seq": 31,
+    "word": "advise",
+    "meaning": "권고하다",
+    "filename": "img_advise.png",
+    "exists": true,
+    "size": 26170
+  },
+  {
+    "seq": 32,
+    "word": "aesthetically",
+    "meaning": "미적으로",
+    "filename": "img_aesthetically.png",
+    "exists": true,
+    "size": 25493
+  },
+  {
+    "seq": 33,
+    "word": "affair",
+    "meaning": "일, 사건",
+    "filename": "img_affair.png",
+    "exists": true,
+    "size": 24018
+  },
+  {
+    "seq": 34,
+    "word": "affect",
+    "meaning": "영향을 끼치다",
+    "filename": "img_affect.png",
+    "exists": true,
+    "size": 26245
+  },
+  {
+    "seq": 35,
+    "word": "affected",
+    "meaning": "영향을 받은",
+    "filename": "img_affected.png",
+    "exists": true,
+    "size": 22226
+  },
+  {
+    "seq": 36,
+    "word": "afford",
+    "meaning": "여유가 있다",
+    "filename": "img_afford.png",
+    "exists": true,
+    "size": 22295
+  },
+  {
+    "seq": 37,
+    "word": "affordable",
+    "meaning": "감당할 수 있는",
+    "filename": "img_affordable.png",
+    "exists": true,
+    "size": 23202
+  },
+  {
+    "seq": 38,
+    "word": "after",
+    "meaning": "~후에",
+    "filename": "img_after.png",
+    "exists": true,
+    "size": 25237
+  },
+  {
+    "seq": 39,
+    "word": "agree",
+    "meaning": "동의하다",
+    "filename": "img_agree.png",
+    "exists": true,
+    "size": 25282
+  },
+  {
+    "seq": 40,
+    "word": "agriculture",
+    "meaning": "농업",
+    "filename": "img_agriculture.png",
+    "exists": true,
+    "size": 23431
+  },
+  {
+    "seq": 41,
+    "word": "aim to",
+    "meaning": "~를 목표로 하다",
+    "filename": "img_aim_to.png",
+    "exists": true,
+    "size": 18512
+  },
+  {
+    "seq": 42,
+    "word": "air",
+    "meaning": "공기",
+    "filename": "img_air.png",
+    "exists": true,
+    "size": 21549
+  },
+  {
+    "seq": 43,
+    "word": "aircraft",
+    "meaning": "항공기",
+    "filename": "img_aircraft.png",
+    "exists": true,
+    "size": 21785
+  },
+  {
+    "seq": 44,
+    "word": "airtight",
+    "meaning": "밀폐된",
+    "filename": "img_airtight.png",
+    "exists": true,
+    "size": 23055
+  },
+  {
+    "seq": 45,
+    "word": "alive",
+    "meaning": "살아있는",
+    "filename": "img_alive.png",
+    "exists": true,
+    "size": 19243
+  },
+  {
+    "seq": 46,
+    "word": "all the time",
+    "meaning": "항상",
+    "filename": "img_all_the_time.png",
+    "exists": true,
+    "size": 25669
+  },
+  {
+    "seq": 47,
+    "word": "allot",
+    "meaning": "할당하다",
+    "filename": "img_allot.png",
+    "exists": true,
+    "size": 21128
+  },
+  {
+    "seq": 48,
+    "word": "allow",
+    "meaning": "허락하다",
+    "filename": "img_allow.png",
+    "exists": true,
+    "size": 20433
+  },
+  {
+    "seq": 49,
+    "word": "also",
+    "meaning": "또한",
+    "filename": "img_also.png",
+    "exists": true,
+    "size": 20839
+  },
+  {
+    "seq": 50,
+    "word": "alter",
+    "meaning": "변경하다",
+    "filename": "img_alter.png",
+    "exists": true,
+    "size": 23478
+  },
+  {
+    "seq": 51,
+    "word": "alternative",
+    "meaning": "대체제",
+    "filename": "img_alternative.png",
+    "exists": true,
+    "size": 20671
+  },
+  {
+    "seq": 52,
+    "word": "although",
+    "meaning": "비록 ~일지라도",
+    "filename": "img_although.png",
+    "exists": true,
+    "size": 24693
+  },
+  {
+    "seq": 53,
+    "word": "always",
+    "meaning": "항상",
+    "filename": "img_always.png",
+    "exists": true,
+    "size": 22686
+  },
+  {
+    "seq": 54,
+    "word": "amazing",
+    "meaning": "놀라운",
+    "filename": "img_amazing.png",
+    "exists": true,
+    "size": 21666
+  },
+  {
+    "seq": 55,
+    "word": "amenity",
+    "meaning": "편의 시설",
+    "filename": "img_amenity.png",
+    "exists": true,
+    "size": 21029
+  },
+  {
+    "seq": 56,
+    "word": "among",
+    "meaning": "~사이에서",
+    "filename": "img_among.png",
+    "exists": true,
+    "size": 27280
+  },
+  {
+    "seq": 57,
+    "word": "amount",
+    "meaning": "총액, 양",
+    "filename": "img_amount.png",
+    "exists": true,
+    "size": 21622
+  },
+  {
+    "seq": 58,
+    "word": "analyze",
+    "meaning": "분석하다",
+    "filename": "img_analyze.png",
+    "exists": true,
+    "size": 22980
+  },
+  {
+    "seq": 59,
+    "word": "ancestor",
+    "meaning": "조상",
+    "filename": "img_ancestor.png",
+    "exists": true,
+    "size": 22825
+  },
+  {
+    "seq": 60,
+    "word": "ancient",
+    "meaning": "고대의",
+    "filename": "img_ancient.png",
+    "exists": true,
+    "size": 24575
+  },
+  {
+    "seq": 61,
+    "word": "anesthesia",
+    "meaning": "마취",
+    "filename": "img_anesthesia.png",
+    "exists": true,
+    "size": 22304
+  },
+  {
+    "seq": 62,
+    "word": "announce",
+    "meaning": "발표하다",
+    "filename": "img_announce.png",
+    "exists": true,
+    "size": 20848
+  },
+  {
+    "seq": 63,
+    "word": "annual",
+    "meaning": "연간의",
+    "filename": "img_annual.png",
+    "exists": true,
+    "size": 17693
+  },
+  {
+    "seq": 64,
+    "word": "another",
+    "meaning": "또 다른",
+    "filename": "img_another.png",
+    "exists": true,
+    "size": 21467
+  },
+  {
+    "seq": 65,
+    "word": "anxiety",
+    "meaning": "불안",
+    "filename": "img_anxiety.png",
+    "exists": true,
+    "size": 23498
+  },
+  {
+    "seq": 66,
+    "word": "anything",
+    "meaning": "어떤 것",
+    "filename": "img_anything.png",
+    "exists": true,
+    "size": 25426
+  },
+  {
+    "seq": 67,
+    "word": "apparent",
+    "meaning": "명백한",
+    "filename": "img_apparent.png",
+    "exists": true,
+    "size": 23178
+  },
+  {
+    "seq": 68,
+    "word": "applicant",
+    "meaning": "지원자",
+    "filename": "img_applicant.png",
+    "exists": true,
+    "size": 22975
+  },
+  {
+    "seq": 69,
+    "word": "appreciation",
+    "meaning": "감사",
+    "filename": "img_appreciation.png",
+    "exists": true,
+    "size": 22517
+  },
+  {
+    "seq": 70,
+    "word": "apprentice",
+    "meaning": "견습생",
+    "filename": "img_apprentice.png",
+    "exists": true,
+    "size": 24318
+  },
+  {
+    "seq": 71,
+    "word": "approach",
+    "meaning": "접근법",
+    "filename": "img_approach.png",
+    "exists": true,
+    "size": 23082
+  },
+  {
+    "seq": 72,
+    "word": "approximately",
+    "meaning": "대략",
+    "filename": "img_approximately.png",
+    "exists": true,
+    "size": 25232
+  },
+  {
+    "seq": 73,
+    "word": "archaeologists",
+    "meaning": "고고학자",
+    "filename": "img_archaeologists.png",
+    "exists": true,
+    "size": 28632
+  },
+  {
+    "seq": 74,
+    "word": "archeological",
+    "meaning": "고고학적인",
+    "filename": "img_archeological.png",
+    "exists": true,
+    "size": 24043
+  },
+  {
+    "seq": 75,
+    "word": "archeologists",
+    "meaning": "고고학자",
+    "filename": "img_archeologists.png",
+    "exists": true,
+    "size": 25709
+  },
+  {
+    "seq": 76,
+    "word": "area",
+    "meaning": "지역",
+    "filename": "img_area.png",
+    "exists": true,
+    "size": 23849
+  },
+  {
+    "seq": 77,
+    "word": "arise",
+    "meaning": "발생하다",
+    "filename": "img_arise.png",
+    "exists": true,
+    "size": 20575
+  },
+  {
+    "seq": 78,
+    "word": "around",
+    "meaning": "~주변을",
+    "filename": "img_around.png",
+    "exists": true,
+    "size": 27674
+  },
+  {
+    "seq": 79,
+    "word": "arrange",
+    "meaning": "배열하다, 주선하다",
+    "filename": "img_arrange.png",
+    "exists": true,
+    "size": 24507
+  },
+  {
+    "seq": 80,
+    "word": "arrogant",
+    "meaning": "거만한",
+    "filename": "img_arrogant.png",
+    "exists": true,
+    "size": 23979
+  },
+  {
+    "seq": 81,
+    "word": "artificial",
+    "meaning": "인공의",
+    "filename": "img_artificial.png",
+    "exists": true,
+    "size": 23340
+  },
+  {
+    "seq": 82,
+    "word": "as",
+    "meaning": "~함에 따라",
+    "filename": "img_as.png",
+    "exists": true,
+    "size": 20747
+  },
+  {
+    "seq": 83,
+    "word": "as a result",
+    "meaning": "그 결과",
+    "filename": "img_as_a_result.png",
+    "exists": true,
+    "size": 23510
+  },
+  {
+    "seq": 84,
+    "word": "ask",
+    "meaning": "요청하다",
+    "filename": "img_ask.png",
+    "exists": true,
+    "size": 18695
+  },
+  {
+    "seq": 85,
+    "word": "assemble",
+    "meaning": "조립하다, 모이다",
+    "filename": "img_assemble.png",
+    "exists": true,
+    "size": 24128
+  },
+  {
+    "seq": 86,
+    "word": "assess",
+    "meaning": "평가하다",
+    "filename": "img_assess.png",
+    "exists": true,
+    "size": 23277
+  },
+  {
+    "seq": 87,
+    "word": "assign",
+    "meaning": "할당하다",
+    "filename": "img_assign.png",
+    "exists": true,
+    "size": 19534
+  },
+  {
+    "seq": 88,
+    "word": "assistance",
+    "meaning": "도움",
+    "filename": "img_assistance.png",
+    "exists": true,
+    "size": 26161
+  },
+  {
+    "seq": 89,
+    "word": "assistant",
+    "meaning": "조수",
+    "filename": "img_assistant.png",
+    "exists": true,
+    "size": 20186
+  },
+  {
+    "seq": 90,
+    "word": "associate",
+    "meaning": "연관시키다",
+    "filename": "img_associate.png",
+    "exists": true,
+    "size": 25237
+  },
+  {
+    "seq": 91,
+    "word": "assume",
+    "meaning": "가정하다, 떠맡다",
+    "filename": "img_assume.png",
+    "exists": true,
+    "size": 23942
+  },
+  {
+    "seq": 92,
+    "word": "astronomer",
+    "meaning": "천문학자",
+    "filename": "img_astronomer.png",
+    "exists": true,
+    "size": 22802
+  },
+  {
+    "seq": 93,
+    "word": "at",
+    "meaning": "~에",
+    "filename": "img_at.png",
+    "exists": true,
+    "size": 16553
+  },
+  {
+    "seq": 94,
+    "word": "at that time",
+    "meaning": "그 당시에",
+    "filename": "img_at_that_time.png",
+    "exists": true,
+    "size": 19918
+  },
+  {
+    "seq": 95,
+    "word": "atmosphere",
+    "meaning": "대기",
+    "filename": "img_atmosphere.png",
+    "exists": true,
+    "size": 28079
+  },
+  {
+    "seq": 96,
+    "word": "attack",
+    "meaning": "공격하다",
+    "filename": "img_attack.png",
+    "exists": true,
+    "size": 23428
+  },
+  {
+    "seq": 97,
+    "word": "attempt",
+    "meaning": "시도하다",
+    "filename": "img_attempt.png",
+    "exists": true,
+    "size": 21208
+  },
+  {
+    "seq": 98,
+    "word": "attend",
+    "meaning": "참석하다",
+    "filename": "img_attend.png",
+    "exists": true,
+    "size": 24014
+  },
+  {
+    "seq": 99,
+    "word": "attention",
+    "meaning": "주의",
+    "filename": "img_attention.png",
+    "exists": true,
+    "size": 21878
+  },
+  {
+    "seq": 100,
+    "word": "attitude",
+    "meaning": "태도",
+    "filename": "img_attitude.png",
+    "exists": true,
+    "size": 20926
+  },
+  {
+    "seq": 101,
+    "word": "attorney",
+    "meaning": "변호사",
+    "filename": "img_attorney.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 102,
+    "word": "attract",
+    "meaning": "끌다",
+    "filename": "img_attract.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 103,
+    "word": "attraction",
+    "meaning": "매력, 명소",
+    "filename": "img_attraction.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 104,
+    "word": "audience",
+    "meaning": "청중",
+    "filename": "img_audience.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 105,
+    "word": "audit",
+    "meaning": "회계 감사",
+    "filename": "img_audit.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 106,
+    "word": "author",
+    "meaning": "작가",
+    "filename": "img_author.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 107,
+    "word": "authority",
+    "meaning": "권위",
+    "filename": "img_authority.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 108,
+    "word": "avoid",
+    "meaning": "피하다",
+    "filename": "img_avoid.png",
+    "exists": false,
+    "size": 0
+  },
+  {
+    "seq": 109,
+    "word": "award",
+    "meaning": "상, 수여하다",
+    "filename": "img_award.png",
+    "exists": false,
+    "size": 0
+  }
+]
