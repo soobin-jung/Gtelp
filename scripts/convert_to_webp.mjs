@@ -1,5 +1,5 @@
 import sharp from "sharp";
-import { readdir, mkdir } from "fs/promises";
+import { readdir, mkdir, writeFile } from "fs/promises";
 import { join, basename } from "path";
 
 const SRC_DIR = "data/reading/word_img";
@@ -44,4 +44,14 @@ for (const file of files) {
   }
 }
 
+const manifest = (await readdir(OUT_DIR))
+  .filter((f) => /\.webp$/i.test(f))
+  .map((f) => f.replace(/^img_/, "").replace(/\.webp$/i, ""));
+
+await writeFile(
+  "src/data/wordImageKeys.json",
+  JSON.stringify(manifest, null, 2)
+);
+
 console.log(`\nDone: ${ok} converted, ${fail} failed → ${OUT_DIR}`);
+console.log(`Manifest: ${manifest.length} keys → src/data/wordImageKeys.json`);

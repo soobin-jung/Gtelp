@@ -13,8 +13,9 @@ import verbalWords from "../data/grammar/verbals/words.json";
 import readingPart1Questions from "../data/reading/part1/questions.json";
 import readingPart2Questions from "../data/reading/part2/questions.json";
 
+import wordImageKeys from "./data/wordImageKeys.json";
+
 const readingFiles = import.meta.glob("../data/reading/word/reading_*.json");
-const wordImgSources = import.meta.glob("../data/reading/word_img/*.png");
 
 function normalizeWordKey(word) {
   return String(word ?? "")
@@ -25,12 +26,7 @@ function normalizeWordKey(word) {
     .replace(/^_+|_+$/g, "");
 }
 
-const availableImageKeys = new Set(
-  Object.keys(wordImgSources).map((filePath) => {
-    const baseName = (filePath.split("/").pop() ?? "").replace(/\.png$/i, "");
-    return normalizeWordKey(baseName);
-  })
-);
+const availableImageKeys = new Set(wordImageKeys);
 
 const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const BATCH_SIZE = 20;
